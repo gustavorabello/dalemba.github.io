@@ -1,0 +1,219 @@
+Title: Layla
+Slug: eric-clapton-layla-ericclapton
+Url: tablaturas/misc/layla-ericclapton/
+Save_As: tablaturas/misc/layla-ericclapton/index.html
+page_type: tab
+artist: Eric Clapton
+artist_url: https://www.cifraclub.com.br/eric-clapton/
+section_label: Tablaturas
+summary: Tablatura de Layla por Eric Clapton.
+listing_index: 182
+next_tab_url: /tablaturas/misc/lindobalaoazul-guilhermearantes/
+next_tab_title: Lindo Balão Azul
+next_tab_artist: Guilherme Arantes
+
+<div class="tab-layout columns">
+  <div class="tab-column">
+    <pre class="tab-sheet">Tom: Dm
+
+[Intro]
+<span class="chord">Dm</span>   <span class="chord">Bb</span>   <span class="chord">C</span>   <span class="chord">Dm</span>  (guitar)
+<span class="chord">Dm</span>   <span class="chord">Bb</span>   <span class="chord">C</span>   <span class="chord">Dm</span>  (guitar)
+<span class="chord">Dm</span>   <span class="chord">Bb</span>   <span class="chord">C</span>   <span class="chord">Dm</span>  (+drums, piano, bass)
+<span class="chord">Dm</span>   <span class="chord">Bb</span>   <span class="chord">C</span>   <span class="chord">Dm</span>  (&amp;solo1)
+<span class="chord">Dm</span>   <span class="chord">Bb</span>   <span class="chord">C</span>   <span class="chord">Dm</span>
+<span class="chord">Dm</span>   <span class="chord">Bb</span>   <span class="chord">C</span>    a  c
+
+Riff1 (Intro)
+
+e|----------|------------------------|-------------------------|--1-------------------|------------------------|
+
+<span class="chord">B</span>|----------|---------------3--3-----|--5--5--5----------------|--3----------3--3-----|--5---------------------|
+<span class="chord">G</span>|-------2--|---------------3--3-----|--5--5--5--2----------2--|--2----------3--3-----|--5--------2------------|
+<span class="chord">D</span>|-------0--|----0-----3----3--3-----|--5--5--5--0----------0--|--------3----3--3-----|--5-----5--0----------0-|
+A|-0--3-----|-------3--1----1--1--3--|--3--3--3-------0--3-----|-----3--1----1--1--x--|--3--0--3-------0--3----|
+<span class="chord">E</span>|----------|------------------------|-------------------------|----------------------|------------------------|
+        <span class="chord">D5</span>            <span class="chord">Bb5</span>  <span class="chord">Bb</span>          <span class="chord">C</span>        <span class="chord">D5</span>               <span class="chord">Dm</span>    <span class="chord">Bb5</span>  <span class="chord">Bb</span>          <span class="chord">C</span>     <span class="chord">C5</span> <span class="chord">D5</span>
+
+Solo1 (Intro)
+
+----------------------------|----------------------------------|
+----------------------5--6--|--5h6h5---5-6--5---------5--6/-8--|
+-------------------7--------|--------7---------7~--------------|
+--5--5--5--7----7-----------|----------------------------------|
+--3--3--3--5----------------|----------------------------------|
+----------------------------|----------------------------------|
+
+  <span class="chord">C5</span>       <span class="chord">D5</span>                 <span class="chord">Dm</span>        <span class="chord">Bb</span>
+-----------------------8------------|--10-12-10h12h10-----10------------------------------|
+----6--8/-10----8--10-------10--13--|-----------------13------13--10------10--------------|
+------------------------------------|---------------------------------12------12--12h-10--|
+------------------------------------|-----------------------------------------------------|
+------------------------------------|-----------------------------------------------------|
+------------------------------------|-----------------------------------------------------|
+
+  <span class="chord">C5</span>          <span class="chord">D5</span>                        <span class="chord">Dm</span>                 <span class="chord">Bb</span>
+-------------------------------|--------------------------------|-----------------------|
+----------------------5--6--5--|--------------------------------|-----------------------|
+--9--10--9---------7-----------|--7-----7-----------------------|-----------------------|
+----------------7--------------|-----7-----7/-5----3-----3/5-3--|--------0--------------|
+-------------------------------|----------------------5---------|--5--3-------0----3----|
+-------------------------------|--------------------------------|-----------------------|
+
+  <span class="chord">C5</span>        <span class="chord">D5</span>                   <span class="chord">Dm</span>          <span class="chord">Bb</span>                       <span class="chord">C</span>       a    c
+
+[Verse1]
+<span class="chord">C#m7</span>                              <span class="chord">G#7</span>
+ What_ will you do__ when you get lonely__?
+<span class="chord">C#m7</span>          <span class="chord">C</span>*      <span class="chord">D</span>       <span class="chord">E</span>     <span class="chord">E7</span>
+ With no_one_ waiting by your side__
+<span class="chord">F#m</span>          <span class="chord">B</span>              <span class="chord">E</span>                  <span class="chord">A</span>
+ You&#x27;ve been running_   and hiding much too long__,
+<span class="chord">F#m</span>            <span class="chord">B</span>                 <span class="chord">E</span>           <span class="chord">A</span>  (hold)
+ You know it&#x27;s just your foolish pride__,    Lay___la_
+
+[Chorus] (Riff1)
+<span class="chord">Dm</span>       <span class="chord">Bb</span>          <span class="chord">C</span>                <span class="chord">Dm</span>
+                You_ got_ me_ on_ my_ knees__ Lay__la_
+<span class="chord">Dm</span>       <span class="chord">Bb</span>          <span class="chord">C</span>                   <span class="chord">Dm</span>
+                I&#x27;m_ beg_ging_ dar_lin&#x27;_ please__, Lay__la
+<span class="chord">Dm</span>       <span class="chord">Bb</span>          <span class="chord">C</span>                   <span class="chord">Dm</span>
+                     Dar_lin&#x27;_ won&#x27;t you ease_ my_ wor_ried_ mind__
+<span class="chord">Dm</span>   <span class="chord">Bb</span>   <span class="chord">C</span>   <span class="chord">A</span>   <span class="chord">C</span> 
+
+[Verse2]
+<span class="chord">C#m7</span>                       <span class="chord">G#7</span>
+ Tried_ to give_ you_ consola_tion,
+<span class="chord">C#m7</span>          <span class="chord">C</span>*          <span class="chord">D</span>        <span class="chord">E</span>     <span class="chord">E7</span>
+  Your__ old_ man__ won&#x27;t let_ you down__
+<span class="chord">F#m</span>       <span class="chord">B</span>         <span class="chord">E</span>                  <span class="chord">A</span>
+ Like_ a_ fool__, I fell_ in love with you__,
+<span class="chord">F#m</span>                <span class="chord">B</span>                    <span class="chord">E</span>            <span class="chord">A</span>  (hold)
+ You_ turned_ the_ whole_ world_ upside down__       Lay___la
+
+[Chorus] (Riff1)
+<span class="chord">Dm</span>       <span class="chord">Bb</span>          <span class="chord">C</span>                <span class="chord">Dm</span>
+                You_ got_ me_ on_ my_ knees__ Lay__la_
+<span class="chord">Dm</span>       <span class="chord">Bb</span>          <span class="chord">C</span>                   <span class="chord">Dm</span>
+                I&#x27;m_ beg_ging_ dar_lin&#x27;_ please__, Lay__la
+<span class="chord">Dm</span>       <span class="chord">Bb</span>          <span class="chord">C</span>                   <span class="chord">Dm</span>
+                     Dar_lin&#x27;_ won&#x27;t you ease_ my_ wor_ried_ mind__
+<span class="chord">Dm</span>   <span class="chord">Bb</span>   <span class="chord">C</span>   <span class="chord">A</span>   <span class="chord">C</span> 
+
+[Verse3]
+<span class="chord">C#m7</span>                               <span class="chord">G#7</span>
+ Let&#x27;s make the best_ of the sit_u_a_tion__
+<span class="chord">C#m7</span>      <span class="chord">C</span>*       <span class="chord">D</span>     <span class="chord">E</span>     <span class="chord">E7</span>
+ Before I fin&#x27;lly_ go_ insane__
+<span class="chord">F#m</span>             <span class="chord">B</span>              <span class="chord">E</span>             <span class="chord">A</span>
+ Please_ don&#x27;t_ say__    we&#x27;ll never_ find a way__
+<span class="chord">F#m</span>           <span class="chord">B</span>               <span class="chord">E</span>            <span class="chord">A</span>  (hold)
+ And tell_ me all my loves in vain__       Lay___la
+
+[Chorus2] (Riff1)
+<span class="chord">Dm</span>       <span class="chord">Bb</span>          <span class="chord">C</span>                <span class="chord">Dm</span>
+                     Got_ me_ on_ my_ knees__ Lay__la_</pre>
+  </div>
+  <div class="tab-column">
+    <pre class="tab-sheet"><span class="chord">Dm</span>       <span class="chord">Bb</span>          <span class="chord">C</span>                   <span class="chord">Dm</span>
+                     Beg_ging_ dar_lin&#x27;_ please__, Layla
+<span class="chord">Dm</span>       <span class="chord">Bb</span>          <span class="chord">C</span>                   <span class="chord">Dm</span>
+                     Dar_lin&#x27;_ won&#x27;t you ease_ my_ wor_ried_ mind__
+<span class="chord">Dm</span>       <span class="chord">Bb</span>          <span class="chord">C</span>                <span class="chord">Dm</span>
+                                              Lay__la_
+<span class="chord">Dm</span>       <span class="chord">Bb</span>          <span class="chord">C</span>                <span class="chord">Dm</span>
+                     Got_ me_ on_ my_ knees__ Lay__la_
+<span class="chord">Dm</span>       <span class="chord">Bb</span>          <span class="chord">C</span>                   <span class="chord">Dm</span>
+                     Beg_ging_ dar_lin&#x27;_ PLEASE__, LAY__LA
+<span class="chord">Dm</span>       <span class="chord">Bb</span>          <span class="chord">C</span>                   <span class="chord">Dm</span>
+                     Dar_lin&#x27;_ won&#x27;t you ease_ my_ wor_ried_ mind__
+<span class="chord">Dm</span>       <span class="chord">Bb</span>          <span class="chord">C</span>                   <span class="chord">Dm</span>
+
+[Solo]
+<span class="chord">Dm</span>   <span class="chord">Bb</span>   <span class="chord">C</span>   <span class="chord">Dm</span>   (7x)
+
+Solo2
+
+  <span class="chord">C</span>        <span class="chord">Dm</span>                     <span class="chord">C</span>  <span class="chord">Bb</span>                  <span class="chord">C</span>              <span class="chord">Dm</span>
+----------------5~-5~----|--5~-5~-5~----5~------------|------------------------------7/|
+--5--5--5--3----6~-6~----|--6~-6~-6~----6~------------|------------------------------9/|
+--5--5--5--2----------7--|-----------7-------7--5-----|--------------------------------|
+--5--5--5--0-------------|-------------------------7--|--6--5/-3--5--3-------3---------|
+--3--3--3----------------|----------------------------|-----------------5~------5--x---|
+-------------------------|----------------------------|--------------------------------|
+
+                         <span class="chord">C</span>  <span class="chord">Bb</span>                    <span class="chord">C</span>                 <span class="chord">Dm</span>
+--8---8---8------8---8------8---8------8---8---|-----8---8------8---8-------8--10----------|
+--10--10--10--9/-10--10--9/-10--10--9/-10--10--|--9/-10--10--9/-10--10--10-----------------|
+-----------------------------------------------|-----------------------------------12b-12--|
+-----------------------------------------------|-------------------------------------------|
+-----------------------------------------------|-------------------------------------------|
+-----------------------------------------------|-------------------------------------------|
+
+              <span class="chord">C</span>       <span class="chord">Bb</span>                                <span class="chord">C</span>               <span class="chord">Dm</span>
+--------------------------10-12-10h12h10-----10------|----------------------------------------|
+------------------10--13-----------------13------13--|--10------10--10--10----11----10--------|
+--10------10--12-------------------------------------|------12----------------------------12--|
+------12---------------------------------------------|----------------------------------------|
+-----------------------------------------------------|----------------------------------------|
+-----------------------------------------------------|----------------------------------------|
+
+         <span class="chord">C</span>    <span class="chord">Bb</span>                  <span class="chord">C</span>               <span class="chord">Dm</span>
+-------------------------------|---------------------------------------|
+-------------------------------|--5-6-5h6h5----------------------------|
+--10--9----7h-9--7~---5-----7--|------------7--5-----------------------|
+-------------------------7-----|------------------7--6--5--3--5--3-----|
+-------------------------------|------------------------------------5/-|
+-------------------------------|---------------------------------------|
+
+      <span class="chord">C</span>   <span class="chord">Bb</span>                   <span class="chord">C</span>               <span class="chord">Dm</span>
+------13~-10~-----------10--|--12--10/-12--10----------------------|
+--------------------13------|------------------13----10------10~---|
+----------------------------|----------------------------13--------|
+----------------------------|--------------------------------------|
+----------------------------|--------------------------------------|
+----------------------------|--------------------------------------|
+
+            <span class="chord">C</span>   <span class="chord">Bb</span>                 <span class="chord">C</span>             <span class="chord">Dm</span>
+----10------13~-10~-------------|----15h-13--15--15--13~-------------|
+--------10----------------13----|--------------------------------15--|
+--------------------------------|----------------------------14------|
+--------------------------------|------------------------------------|
+--------------------------------|------------------------------------|
+--------------------------------|------------------------------------|
+
+                <span class="chord">C</span>   <span class="chord">Bb</span>                    <span class="chord">C</span>               <span class="chord">Dm</span>
+--12--13/-15----13--15--x----12--13----|--10------------------------------------------|
+---------------------------------------|------13--10----------13------10--------------|
+---------------------------------------|--------------12--10------12~-----12--10------|
+---------------------------------------|------------------------------------------12--|
+---------------------------------------|----------------------------------------------|
+---------------------------------------|----------------------------------------------|
+
+           <span class="chord">C</span> <span class="chord">Bb</span>                          <span class="chord">C</span>          <span class="chord">Dm</span>
+--10----------------------------------|-------------------------|
+--10---------10------10~--------------|-------------------------|
+--10----9----9h--10--9~----9h-10------|----5--------------------|
+----------------------------------12--|-------7--6--5--3~-------|
+--------------------------------------|-------------------------|
+--------------------------------------|-------------------------|
+
+<span class="chord">Dm</span>       <span class="chord">Bb</span>          <span class="chord">C</span>                <span class="chord">Dm</span>
+                                              Lay__la_
+<span class="chord">Dm</span>       <span class="chord">Bb</span>          <span class="chord">C</span>                <span class="chord">Dm</span>
+                     Got_ me_ on_ my_ knees__ Lay__la_
+<span class="chord">Dm</span>       <span class="chord">Bb</span>          <span class="chord">C</span>                   <span class="chord">Dm</span>
+                     Beg_ging_ dar_lin&#x27;_ please__, Layla
+<span class="chord">Dm</span>       <span class="chord">Bb</span>          <span class="chord">C</span>                   <span class="chord">Dm</span>
+                     Dar_lin&#x27;_ won&#x27;t you ease_ my_ wor_ried_ mind__
+
+<span class="chord">Dm</span>       <span class="chord">Bb</span>          <span class="chord">C</span>                <span class="chord">Dm</span>
+                                              Lay__la_
+<span class="chord">Dm</span>       <span class="chord">Bb</span>          <span class="chord">C</span>                <span class="chord">Dm</span>
+                     Got_ me_ on_ my_ knees__ Lay__la_
+<span class="chord">Dm</span>       <span class="chord">Bb</span>          <span class="chord">C</span>                   <span class="chord">Dm</span>
+                     Beg_ging_ dar_lin&#x27;_ please__, Layla
+<span class="chord">Dm</span>       <span class="chord">Bb</span>          <span class="chord">C</span>                                              <span class="chord">Dm</span>   / / / /
+                     Dar__lin&#x27;__ won&#x27;t you ease__ my__ wor__ried____ mind_____</pre>
+  </div>
+</div>

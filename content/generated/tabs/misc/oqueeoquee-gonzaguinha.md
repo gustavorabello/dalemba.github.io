@@ -1,0 +1,91 @@
+Title: O Que é, o Que é
+Slug: gonzaguinha-oqueeoquee-gonzaguinha
+Url: tablaturas/misc/oqueeoquee-gonzaguinha/
+Save_As: tablaturas/misc/oqueeoquee-gonzaguinha/index.html
+page_type: tab
+artist: Gonzaguinha
+artist_url: https://www.cifraclub.com.br/gonzaguinha/
+section_label: Tablaturas
+summary: Tablatura de O Que é, o Que é por Gonzaguinha.
+listing_index: 191
+next_tab_url: /tablaturas/misc/paroleparole-dalida/
+next_tab_title: Parole, Parole
+next_tab_artist: Dalida & Alain Delon
+
+<div class="tab-layout columns">
+  <div class="tab-column">
+    <pre class="tab-sheet"> <span class="chord">Gm</span>             <span class="chord">A7</span>           <span class="chord">Dm</span>          <span class="chord">Dm/C</span>
+ Eu fico com a pureza das respostas das crianças
+ <span class="chord">Bb7</span>                     <span class="chord">A7</span>
+É a vida! É bonita e é bonita!
+
+(coro)
+ <span class="chord">D</span>     <span class="chord">F#7</span>    <span class="chord">Bm</span>      <span class="chord">Bm/A</span>          <span class="chord">G</span>    <span class="chord">A7</span>
+Viver   e não ter a vergonha de  ser feliz
+ <span class="chord">Em</span>                  <span class="chord">A7</span>
+Cantar, e cantar, e cantar
+                            <span class="chord">D</span>
+A beleza de ser um eterno aprendiz
+ <span class="chord">A7</span>                 <span class="chord">D</span>   <span class="chord">D7</span>
+ Ah, meu Deus! Eu sei                              
+                            <span class="chord">G</span>
+Que a vida devia ser bem melhor e será
+ <span class="chord">Gm</span>                         <span class="chord">D</span>         <span class="chord">B7</span>
+Mas isso  não impede que eu repita
+<span class="chord">Em</span>           <span class="chord">A7</span>        <span class="chord">D</span>       <span class="chord">A7</span>     (bis)
+É bonita, é bonita e é bonita!
+
+    <span class="chord">Dm</span>                  <span class="chord">D7</span>       <span class="chord">Gm</span>
+<span class="chord">E</span> a vida? <span class="chord">E</span> a vida o que é, diga lá , meu irmão?
+     <span class="chord">Em5</span>-/7             <span class="chord">A7</span>
+Ela é a batida de um coração?
+ <span class="chord">Em5</span>-/7     <span class="chord">A7</span>         <span class="chord">Dm</span>
+ Ela é uma doce ilusão?
+
+ <span class="chord">A7</span>     <span class="chord">Dm</span>     <span class="chord">Dm7+</span> <span class="chord">Dm7</span>            <span class="chord">Gm</span>           <span class="chord">Gm7+</span>  <span class="chord">Gm7</span>
+ Mas e a vida? Ela é maravilha ou é sofrimento?
+                   <span class="chord">Em5</span>-    <span class="chord">A</span>
+Ela é alegria ou lamento?
+ <span class="chord">Bb</span>          <span class="chord">A7</span>          <span class="chord">Dm</span>
+ O que é? O que é, meu irmão?
+         <span class="chord">C7</span>                 <span class="chord">C7/Bb</span>           <span class="chord">F</span>
+Há quem fale que a vida da gente é um nada no mundo</pre>
+  </div>
+  <div class="tab-column">
+    <pre class="tab-sheet">    <span class="chord">Em5</span>-/7            <span class="chord">A7</span>
+É uma gota,  é um tempo
+      <span class="chord">Eb</span>         <span class="chord">D7</span>
+Que nem dá um segundo
+         <span class="chord">Gm</span>                             <span class="chord">Dm</span>
+Há quem fale que é um divino mistério profundo
+
+     <span class="chord">Bb</span>            <span class="chord">Bb7</span>          <span class="chord">A7</span>
+É o sopro do criador numa  atitude repleta  de amor
+    <span class="chord">Em5</span>-/7             <span class="chord">A7</span>
+Você diz que é luta e prazer
+    <span class="chord">Dm</span>
+Ele diz que a vida é viver
+     <span class="chord">A7</span>
+Ela diz que melhor é morrer
+           <span class="chord">Am5</span>-/7                 <span class="chord">D7</span>
+Pois amada não é, e o verbo é sofrer
+      <span class="chord">Gm</span>
+Eu só sei que confio na moça
+      <span class="chord">Dm</span>
+E na moça eu ponho a força da fé
+      <span class="chord">Bb7</span>
+Somos nós qu e fazemos a vida
+      <span class="chord">A7</span>
+Como der, ou puder, ou quiser
+ <span class="chord">Gm</span>       <span class="chord">A7</span>  <span class="chord">Dm</span>        <span class="chord">C7</span>            <span class="chord">F</span>
+ Sempre desejada  por mais que esteja errada
+ <span class="chord">A</span>      <span class="chord">A7/C#</span>    <span class="chord">Dm</span>    <span class="chord">Bb</span>       <span class="chord">A7</span>
+ Ninguém quer a morte só saúde e sorte
+ <span class="chord">Em5</span>-/7  <span class="chord">A7</span>     <span class="chord">Dm</span>      <span class="chord">C7</span>            <span class="chord">F</span>  <span class="chord">D7/F#</span>
+E  a pergunta  roda,  e a cabeça  agita
+ <span class="chord">Gm</span>          <span class="chord">A7</span>              <span class="chord">Dm</span>      <span class="chord">Dm/C</span>
+ Fico com a pureza das respostas das crianças
+   <span class="chord">Bb7</span>                    <span class="chord">A7</span>
+É a vida! É bonita e é bonita!</pre>
+  </div>
+</div>

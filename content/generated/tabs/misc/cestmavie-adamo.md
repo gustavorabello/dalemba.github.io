@@ -1,0 +1,127 @@
+Title: C'est Ma Vie
+Slug: adamo-cestmavie-adamo
+Url: tablaturas/misc/cestmavie-adamo/
+Save_As: tablaturas/misc/cestmavie-adamo/index.html
+page_type: tab
+artist: Adamo
+artist_url: https://www.cifraclub.com.br/adamo/
+section_label: Tablaturas
+summary: Tablatura de C'est Ma Vie por Adamo.
+listing_index: 172
+next_tab_url: /tablaturas/misc/chanchan-buenavista/
+next_tab_title: Chan Chan
+next_tab_artist: Buena Vista
+
+<div class="tab-layout columns">
+  <div class="tab-column">
+    <pre class="tab-sheet">Intro : <span class="chord">A</span> <span class="chord">C#m</span> <span class="chord">Em</span> <span class="chord">F#</span> <span class="chord">Bm</span> <span class="chord">D</span> <span class="chord">E</span> 
+
+Couplet 1 
+<span class="chord">A</span>                <span class="chord">C#m</span> 
+Notre histoire a commencé  
+    <span class="chord">Em</span>               <span class="chord">F#</span> 
+Par quelques mots d&#x27;amour 
+                       <span class="chord">Bm</span> 
+C&#x27;est fou ce qu&#x27;on s&#x27;aimait 
+                    <span class="chord">Bm(maj7)</span> 
+Et c&#x27;est vrai, tu m&#x27;as donné  
+    <span class="chord">Bm7</span>                     <span class="chord">D</span> 
+Les plus beaux de mes jours 
+                <span class="chord">E</span> 
+Et je te les rendais 
+
+Couplet 2 
+<span class="chord">A</span>              <span class="chord">C#m</span> 
+Je t&#x27;ai confié sans pudeur 
+    <span class="chord">Em</span>             <span class="chord">F#</span> 
+Les secrets de mon coeur 
+                   <span class="chord">Bm</span> 
+De chansons en chansons 
+                <span class="chord">Bm(maj7)</span> 
+Et mes rêves et mes &quot;je t&#x27;aime&quot; 
+   <span class="chord">Bm7</span>                  <span class="chord">D</span> 
+Le meilleur de moi-même 
+                    <span class="chord">E</span> 
+Jusqu&#x27;au moindre frisson 
+
+Refrain 
+         <span class="chord">A</span> 
+C&#x27;est ma vie 
+         <span class="chord">C#m</span> 
+C&#x27;est ma vie 
+            <span class="chord">Em</span> 
+Je n&#x27;y peux rien 
+                       <span class="chord">F#</span> 
+C&#x27;est elle qui m&#x27;a choisit 
+         <span class="chord">Bm</span> 
+C&#x27;est ma vie 
+              <span class="chord">D</span> 
+C&#x27;est pas l&#x27;enfer 
+                     <span class="chord">E</span> 
+Mais c&#x27;est pas l&#x27;paradis 
+
+Couplet 3 
+<span class="chord">A</span>             <span class="chord">C#m</span> 
+Ma candeur et mes 20 ans  
+ <span class="chord">Em</span>              <span class="chord">F#</span> 
+Avaient su t&#x27;émouvoir 
+                  <span class="chord">Bm</span> 
+Je te couvrais de fleurs </pre>
+  </div>
+  <div class="tab-column">
+    <pre class="tab-sheet">                 <span class="chord">Bm(maj7)</span> 
+Mais quand à mon firmament 
+     <span class="chord">Bm7</span>                 <span class="chord">D</span> 
+J&#x27;ai vu des nuages noirs 
+                  <span class="chord">E</span> 
+J&#x27;ai senti la froideur 
+
+Couplet 4 
+<span class="chord">A</span>                <span class="chord">C#m</span> 
+Mes rires et mes larmes 
+   <span class="chord">Em</span>          <span class="chord">F#</span> 
+La pluie et le soleil 
+                  <span class="chord">Bm</span> 
+C&#x27;est toi qui les régit 
+             <span class="chord">Bm(maj7)</span> 
+Je suis sous ton charme 
+   <span class="chord">Bm7</span>                   <span class="chord">D</span> 
+Souvent tu m&#x27;émerveilles 
+                     <span class="chord">E</span> 
+Mais parfois tu m&#x27;oublies 
+
+Refrain 
+
+Interlude (accords du refrain) 
+
+Couplet 5 
+<span class="chord">A</span>               <span class="chord">C#m</span> 
+J&#x27;ai choisi tes chaînes 
+    <span class="chord">Em</span>           <span class="chord">F#</span> 
+Mes amours, mes amis 
+                   <span class="chord">Bm</span> 
+Savent que tu me tiens 
+                      <span class="chord">Bm(maj7)</span> 
+Mais devant toi, sur scène 
+   <span class="chord">Bm7</span>              <span class="chord">D</span> 
+Je trouve ma patrie 
+                       <span class="chord">E</span> 
+Dans tes bras, je suis bien 
+
+Couplet 6 
+<span class="chord">A</span>               <span class="chord">C#m</span> 
+Le droit d&#x27;être triste 
+      <span class="chord">Em</span>                   <span class="chord">F#</span> 
+Quand parfois j&#x27;ai l&#x27;coeur gros 
+                  <span class="chord">Bm</span> 
+Je te l&#x27;ai sacrifié 
+                     <span class="chord">Bm(maj7)</span> 
+Mais devant toi, j&#x27;existe 
+   <span class="chord">Bm7</span>               <span class="chord">D</span> 
+Je gagne le gros lot 
+                 <span class="chord">E</span> 
+Je me sens si ruiné 
+
+Refrain (2x)</pre>
+  </div>
+</div>

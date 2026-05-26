@@ -1,0 +1,61 @@
+Title: Carta ao Tom 74
+Slug: toquinho-vinicius-cartaaotom74
+Url: tablaturas/toquinhoevinicius/cartaaotom74/
+Save_As: tablaturas/toquinhoevinicius/cartaaotom74/index.html
+page_type: tab
+artist: Toquinho & Vinicius
+artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
+section_label: Tablaturas
+summary: Tablatura de Carta ao Tom 74 por Toquinho & Vinicius.
+listing_index: 278
+next_tab_url: /tablaturas/toquinhoevinicius/chegadesaudade/
+next_tab_title: Chega de Saudade
+next_tab_artist: Tom Jobim & Vinicius
+
+<div class="tab-layout columns">
+  <div class="tab-column">
+    <pre class="tab-sheet"> <span class="chord">C7M</span>      <span class="chord">G/B</span>         <span class="chord">Am7</span>
+Rua Nascimento Silva, cento e sete
+     <span class="chord">C7/G</span>      <span class="chord">D/F#</span>
+Você ensinando prá Elizete
+         <span class="chord">Fm6</span>           <span class="chord">Gm7</span>   <span class="chord">C7/9</span>
+As canções de canção do amor demais
+ <span class="chord">F#m7/5b</span>      <span class="chord">Fm6</span>           <span class="chord">Em7</span>
+Lembra que tempo feliz, ai que saudade
+      <span class="chord">A7</span>     <span class="chord">D7/9</span>
+Ipanema era só felicidade
+       <span class="chord">Dm7(9)</span>     <span class="chord">G7</span>  <span class="chord">G7/13</span>
+Era como se o amor doesse em paz
+ <span class="chord">C7M</span>      <span class="chord">G/B</span>       <span class="chord">Am7</span>
+Nossa famosa garota nem sabia
+         <span class="chord">C7/G</span>     <span class="chord">D/F#</span>
+A que ponto a cidade turvaria
+        <span class="chord">Fm6</span>          <span class="chord">Gm7</span>    <span class="chord">C7/9</span>
+Este Rio de amor que se perdeu
+ <span class="chord">F#m7(b5)</span>   <span class="chord">F7M</span>              <span class="chord">Em7</span>
+Mesmo a tristeza da gente era mais bela</pre>
+  </div>
+  <div class="tab-column">
+    <pre class="tab-sheet">          <span class="chord">A7(b9)</span>(13)
+E além disso se via da janela
+
+ <span class="chord">D7/9</span>    <span class="chord">G7(4)</span>(9)  <span class="chord">G7(9)</span>     <span class="chord">Gm6</span>  <span class="chord">C7/9</span>
+Um cantinho de céu      e o Redentor
+<span class="chord">F#m7(b5)</span>    <span class="chord">F7M</span>           <span class="chord">Em7</span>
+É, meu amigo, só resta uma certeza
+  <span class="chord">A7(b9)</span>(13)          <span class="chord">D7/A</span>
+É preciso acabar com essa tristeza
+      <span class="chord">Ab6</span>           <span class="chord">C6/9</span>
+É preciso inventar de novo o amor
+
+Rua Nascimento Silva, cento e sete
+Eu saio correndo do pivete
+Tentando alcançar o elevador
+Minha janela não passa de um quadrado
+A gente só vê Sérgio Dourado
+Onde antes se via o Redentor
+É meu amigo só resta uma certeza
+É preciso acabar com a natureza
+É melhor lotear o nosso amor</pre>
+  </div>
+</div>

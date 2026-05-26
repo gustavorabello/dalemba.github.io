@@ -1,0 +1,212 @@
+Title: Pout-Pourri Carnaval
+Slug: mamae-eu-quero-cabeleira-do-zeze-cachaca-me-da-um-dinheiro-ai-allah-la-o-pout-pourri-variosartistas
+Url: tablaturas/marchinhasdecarnaval/pout-pourri-variosartistas/
+Save_As: tablaturas/marchinhasdecarnaval/pout-pourri-variosartistas/index.html
+page_type: tab
+artist: Mamãe Eu Quero, Cabeleira do Zezé, Cachaça, Me Dá um Dinheiro aí, Allah-la-ô
+artist_url: https://www.cifraclub.com.br/mamae-eu-quero-cabeleira-do-zeze-cachaca-me-da-um-dinheiro-ai-allah-la-o/
+section_label: Tablaturas
+summary: Tablatura de Pout-Pourri Carnaval por Mamãe Eu Quero, Cabeleira do Zezé, Cachaça, Me Dá um Dinheiro aí, Allah-la-ô.
+listing_index: 142
+next_tab_url: /tablaturas/marchinhasdecarnaval/turmadofunil-turmadofunil/
+next_tab_title: Turma do Funil
+next_tab_artist: Tom Jobim
+
+<div class="tab-layout columns">
+  <div class="tab-column">
+    <pre class="tab-sheet">(Vários Artistas)
+
+                     <span class="chord">D</span>
+Mamã mamã mamãe eu quero. Mamãe eu quero
+                  <span class="chord">Em</span>
+Mamãe eu quero mamar!
+
+Dá a chupeta, ai, dá a chupeta
+         <span class="chord">A7</span>                   <span class="chord">D</span>   <span class="chord">A7</span>
+Dá a chupeta pro bebê não chorar!
+
+<span class="chord">A7</span>     <span class="chord">D</span>               <span class="chord">Em</span>
+Dorme filhinho do meu coração
+            <span class="chord">A7</span>                          <span class="chord">D</span>
+Pega a mamadeira e vem entra no meu cordão
+                <span class="chord">B7</span>             <span class="chord">Em</span>
+Eu tenho uma irmã que se chama Ana
+            <span class="chord">A7</span>                      <span class="chord">D</span>
+De piscar o olho já ficou sem a pestana
+
+<span class="chord">D</span>
+Olha a cabeleira do Zezé.
+              <span class="chord">A7</span>              <span class="chord">D</span>    <span class="chord">A7</span>
+Será que ele é?  Será que ele é?
+<span class="chord">D</span>
+Olha a cabeleira do Zezé.
+              <span class="chord">A7</span>              <span class="chord">D</span>    <span class="chord">D7</span>
+Será que ele é?  Será que ele é?
+
+   <span class="chord">G</span>                  <span class="chord">D</span>       <span class="chord">F#7</span>             <span class="chord">Bm</span>
+Será que ele é bossa nova? Será que ele é Maomé
+   <span class="chord">A7</span>               <span class="chord">D</span>    
+Parece que é transviado. 
+     <span class="chord">E7</span>                    <span class="chord">A7</span>
+Mas isso eu não sei se ele é
+ <span class="chord">D</span>              <span class="chord">G</span>
+Corta o cabelo dele
+ <span class="chord">A7</span>             <span class="chord">D</span>
+Corta o cabelo dele  (x2)
+
+     <span class="chord">D</span>
+Você pensa que cachaça é água 
+                    <span class="chord">Em</span>
+Cachaça não é água não
+                   <span class="chord">A7</span>
+Cachaça vem do alambique 
+                   <span class="chord">D</span>
+E água vem do ribeirão   (x2)
+
+<span class="chord">D</span>
+Pode me faltar tudo na vida
+<span class="chord">B7</span>               <span class="chord">Em</span>
+Arroz, feijão e pão
+                   <span class="chord">A7</span>
+Pode me faltar manteiga
+                           <span class="chord">D</span>
+E tudo mais não faz falta não
+                   <span class="chord">D</span>
+Pode me faltar o amor
+<span class="chord">D7</span>              <span class="chord">G</span>
+Disto até acho graça
+                     <span class="chord">D</span>
+Só não quero que me falte
+    <span class="chord">A7</span>         <span class="chord">D</span>
+A danada da cachaça
+
+  <span class="chord">D</span>        <span class="chord">A7</span>                    <span class="chord">D</span>  <span class="chord">A7</span>                           
+Hei, você aí, me dá um dinheiro aí  (x2)
+ <span class="chord">D</span>                         <span class="chord">A7</span>                                 
+Não vai dar, não vai dar não 
+                              <span class="chord">D</span>
+Você vai ver que grande confusão
+         <span class="chord">D7</span>                <span class="chord">G</span>                     
+Eu vou beber, beber até cair 
+                   <span class="chord">A7</span> 
+Me dá, me dá. me dá, oi
+   <span class="chord">A7</span>              <span class="chord">D</span>
+Me dá um dinheiro aí!
+
+         <span class="chord">A7</span>                 <span class="chord">D</span>
+Allah-la-ô,  ô ô ô,  ô ô ô ô
+          <span class="chord">A7</span>               <span class="chord">D</span>
+Mas que calor, ô ô ô,  ô ô ô   
+       <span class="chord">A7</span>                    <span class="chord">D</span>
+Atravessamos o deserto do Sahara
+              <span class="chord">A7</span>                      <span class="chord">D</span>
+O sol estava quente, queimou a nossa cara (x2)
+  <span class="chord">D7</span>        <span class="chord">G</span>                  
+Viemos do Egito   
+          <span class="chord">A7</span>                       <span class="chord">D</span>
+e muitas vezes nós tivemos que rezar
+                             <span class="chord">A7</span>
+Allah-Allah-Allah, meu bom Allah
+ <span class="chord">D</span>               <span class="chord">A7</span>       <span class="chord">D</span>                
+Mande água pra Ioiô    / Mande água pra Iaiá</pre>
+  </div>
+  <div class="tab-column">
+    <pre class="tab-sheet">  <span class="chord">A7</span>              <span class="chord">D</span>
+Allah, meu bom Allah
+                     <span class="chord">D</span>
+Mamã mamã mamãe eu quero. Mamãe eu quero
+                  <span class="chord">Em</span>
+Mamãe eu quero mamar!
+
+Dá a chupeta, ai, dá a chupeta
+         <span class="chord">A7</span>                   <span class="chord">D</span>   <span class="chord">A7</span>
+Dá a chupeta pro bebê não chorar!
+
+<span class="chord">A7</span>     <span class="chord">D</span>               <span class="chord">Em</span>
+Dorme filhinho do meu coração
+            <span class="chord">A7</span>                          <span class="chord">D</span>
+Pega a mamadeira e vem entra no meu cordão
+                <span class="chord">B7</span>             <span class="chord">Em</span>
+Eu tenho uma irmã que se chama Ana
+            <span class="chord">A7</span>                      <span class="chord">D</span>
+De piscar o olho já ficou sem a pestana
+
+<span class="chord">D</span>
+Olha a cabeleira do Zezé.
+              <span class="chord">A7</span>              <span class="chord">D</span>    <span class="chord">A7</span>
+Será que ele é?  Será que ele é?
+<span class="chord">D</span>
+Olha a cabeleira do Zezé.
+              <span class="chord">A7</span>              <span class="chord">D</span>    <span class="chord">D7</span>
+Será que ele é?  Será que ele é?
+
+   <span class="chord">G</span>                  <span class="chord">D</span>       <span class="chord">F#7</span>             <span class="chord">Bm</span>
+Será que ele é bossa nova? Será que ele é Maomé
+   <span class="chord">A7</span>               <span class="chord">D</span>    
+Parece que é transviado. 
+     <span class="chord">E7</span>                    <span class="chord">A7</span>
+Mas isso eu não sei se ele é
+ <span class="chord">D</span>              <span class="chord">G</span>
+Corta o cabelo dele
+ <span class="chord">A7</span>             <span class="chord">D</span>
+Corta o cabelo dele  (x2)
+
+     <span class="chord">D</span>
+Você pensa que cachaça é água 
+                    <span class="chord">Em</span>
+Cachaça não é água não
+                   <span class="chord">A7</span>
+Cachaça vem do alambique 
+                   <span class="chord">D</span>
+E água vem do ribeirão   (x2)
+
+<span class="chord">D</span>
+Pode me faltar tudo na vida
+<span class="chord">B7</span>               <span class="chord">Em</span>
+Arroz, feijão e pão
+                   <span class="chord">A7</span>
+Pode me faltar manteiga
+                           <span class="chord">D</span>
+E tudo mais não faz falta não
+                   <span class="chord">D</span>
+Pode me faltar o amor
+<span class="chord">D7</span>              <span class="chord">G</span>
+Disto até acho graça
+                     <span class="chord">D</span>
+Só não quero que me falte
+    <span class="chord">A7</span>         <span class="chord">D</span>
+A danada da cachaça
+
+  <span class="chord">D</span>        <span class="chord">A7</span>                    <span class="chord">D</span>  <span class="chord">A7</span>                           
+Hei, você aí, me dá um dinheiro aí  (x2)
+ <span class="chord">D</span>                         <span class="chord">A7</span>                                 
+Não vai dar, não vai dar não 
+                              <span class="chord">D</span>
+Você vai ver que grande confusão
+         <span class="chord">D7</span>                <span class="chord">G</span>                     
+Eu vou beber, beber até cair 
+                   <span class="chord">A7</span> 
+Me dá, me dá. me dá, oi
+   <span class="chord">A7</span>              <span class="chord">D</span>
+Me dá um dinheiro aí!
+
+         <span class="chord">A7</span>                 <span class="chord">D</span>
+Allah-la-ô,  ô ô ô,  ô ô ô ô
+          <span class="chord">A7</span>               <span class="chord">D</span>
+Mas que calor, ô ô ô,  ô ô ô   
+       <span class="chord">A7</span>                    <span class="chord">D</span>
+Atravessamos o deserto do Sahara
+              <span class="chord">A7</span>                      <span class="chord">D</span>
+O sol estava quente, queimou a nossa cara (x2)
+  <span class="chord">D7</span>        <span class="chord">G</span>                  
+Viemos do Egito   
+          <span class="chord">A7</span>                       <span class="chord">D</span>
+e muitas vezes nós tivemos que rezar
+                             <span class="chord">A7</span>
+Allah-Allah-Allah, meu bom Allah
+ <span class="chord">D</span>               <span class="chord">A7</span>       <span class="chord">D</span>                
+Mande água pra Ioiô    / Mande água pra Iaiá
+  <span class="chord">A7</span>              <span class="chord">D</span>
+Allah, meu bom Allah</pre>
+  </div>
+</div>

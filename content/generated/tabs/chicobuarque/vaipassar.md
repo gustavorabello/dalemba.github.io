@@ -1,0 +1,90 @@
+Title: Vai Passar
+Slug: chico-buarque-vaipassar
+Url: tablaturas/chicobuarque/vaipassar/
+Save_As: tablaturas/chicobuarque/vaipassar/index.html
+page_type: tab
+artist: Chico Buarque
+artist_url: https://www.cifraclub.com.br/chico-buarque/
+section_label: Tablaturas
+summary: Tablatura de Vai Passar por Chico Buarque.
+listing_index: 63
+next_tab_url: /tablaturas/chicobuarque/valsinha/
+next_tab_title: Valsinha
+next_tab_artist: Chico Buarque
+
+<div class="tab-layout columns">
+  <div class="tab-column">
+    <pre class="tab-sheet">Intr.: <span class="chord">G</span> / <span class="chord">G6</span> / <span class="chord">G7M</span> / <span class="chord">G6</span> / <span class="chord">G</span> / <span class="chord">G6</span> / <span class="chord">G7M</span> / <span class="chord">G6</span> /
+
+<span class="chord">A7(9)</span>  <span class="chord">D7(13)</span>   <span class="chord">G7M</span>     
+Vai    passar      
+<span class="chord">G7M</span>         <span class="chord">A#º</span>             <span class="chord">Bm7</span>  <span class="chord">Bbº</span>   <span class="chord">Am7</span>  <span class="chord">E7(b13)</span>
+Nessa avenida um samba po_____pular
+  <span class="chord">Am7</span>         <span class="chord">Am7(b6)</span>         <span class="chord">Am6</span>          <span class="chord">Am7</span>
+Ca___da parale_______lepípedo da velha cida___de
+     <span class="chord">Am(7M)</span>  <span class="chord">D7/4(9)</span> <span class="chord">D7(9)</span>             <span class="chord">Bm7</span> <span class="chord">E7(b9)</span> <span class="chord">Am7</span> <span class="chord">D7(9)</span>
+Essa noite   vai            Se arrepiar
+<span class="chord">A7(9)</span> <span class="chord">D7(13)</span> <span class="chord">G7(9)</span>                      <span class="chord">C7M</span>       <span class="chord">A7/C#</span>
+Ao   lembrar   Que aqui passaram sambas i___mortais
+                            <span class="chord">G6/D</span>       <span class="chord">E7(b9)</span>
+Que aqui sangraram pelos nos____sos pés
+                           <span class="chord">A7(9)</span>    <span class="chord">Cm6/Eb</span> <span class="chord">D7/4(b9)</span> <span class="chord">D7(b9)</span>
+Que aqui sambaram nossos an_____cestrais 
+
+    <span class="chord">Gm7</span>                              <span class="chord">F7</span>
+Num tempo Página infeliz da nossa história
+                     <span class="chord">A7/4(9)</span>     <span class="chord">A7(9)</span> <span class="chord">Am7(9)</span>         
+Passagem desbotada na        memória        
+  <span class="chord">A7(9)</span>         <span class="chord">D7/4(9)</span> <span class="chord">D7(9)</span>
+Das nossas novas gerações
+     <span class="chord">G7/4(9)</span>  <span class="chord">G7(9)</span> <span class="chord">Gm7</span>        
+Dormi_________a        
+<span class="chord">Gm7</span>        <span class="chord">G7(b9)</span>            <span class="chord">Cm(7M)</span>    <span class="chord">Cm</span> <span class="chord">Cm(7M)</span> <span class="chord">Cm7</span>
+A nossa pátria mãe tão dis______traída
+                        <span class="chord">A7/4(9)</span>    <span class="chord">A7(9)</span> 
+Sem perceber que era sub_______traída        
+   <span class="chord">Am7(9)</span>   <span class="chord">A7(9)</span>     <span class="chord">F7</span>
+Em tenebrosas transações
+       <span class="chord">Bb6/9</span>                           <span class="chord">Dm7(9)</span>
+Seus fi_____lhos Erravam cegos pelo continente
+                       <span class="chord">G7/4(9)</span>     <span class="chord">G7(9)</span> <span class="chord">Gm7</span>    
+Levavam pedras feito pe_______nitentes      </pre>
+  </div>
+  <div class="tab-column">
+    <pre class="tab-sheet"><span class="chord">Gm7</span>           <span class="chord">G7(b9)</span>     <span class="chord">Cm7/Eb</span> <span class="chord">G7/D</span>
+Erguendo estranhas catedrais
+     <span class="chord">Cm7</span>        <span class="chord">Ebm6</span>    
+E um dia, afinal     
+                        <span class="chord">Bb7M/F</span>       <span class="chord">G7/4(9)</span>
+Tinham direito a uma alegri______a fugaz
+       <span class="chord">G7(b9)</span>       <span class="chord">C7/4(9)</span> <span class="chord">C7(9)</span>  
+Uma ofegante epidemi_______a       
+<span class="chord">F7/4(13)</span>          <span class="chord">F7(13)</span>        <span class="chord">Bb6/9</span>
+        Que se chamava  carnaval
+       <span class="chord">A7(9)</span>      <span class="chord">D7(13)</span>     <span class="chord">G6</span>
+O carnaval,  o car______naval   (Vai passar)
+
+                         <span class="chord">Bm7(9)</span>                    
+Palmas pra ala dos barões      famintos 
+          <span class="chord">E7/4(9)</span>     <span class="chord">E7(9)</span>
+O bloco dos napoleões       retintos
+<span class="chord">Em7(9)</span>        <span class="chord">E7(b9)</span>          <span class="chord">Am/C</span> <span class="chord">E7/B</span> <span class="chord">E7</span>
+      E os pigmeus  do bulevar
+        <span class="chord">Am7</span>         <span class="chord">Cm6/Eb</span>            
+Meu Deus,  vem olhar       
+                        <span class="chord">G7M/D</span>        <span class="chord">E7/4(9)</span>
+Vem ver de perto uma cida_____de a cantar
+       <span class="chord">E7/4(b9)</span>          <span class="chord">A7/4(9)</span>   
+A evolução     da liberda_______de      
+<span class="chord">D7/4(9)</span>      <span class="chord">D7(9)</span>       <span class="chord">G7/4(9)</span> <span class="chord">G7(b13)</span>
+  Até o dia  clarear
+             <span class="chord">Cm7</span>       <span class="chord">C#º</span>              <span class="chord">Gm7/D</span>     <span class="chord">Eb7M</span>
+Ai, que vida boa, olerê    Ai, que vida boa, olará
+             <span class="chord">A7(b5/b9)</span>    <span class="chord">D7(b9)</span>  <span class="chord">G7(b9)</span>
+O estandarte do       sanatório geral   vai passar
+             <span class="chord">Cm7</span>       <span class="chord">C#º</span>              <span class="chord">G6/D</span>     <span class="chord">Em7</span>
+Ai, que vida boa, olerê    Ai, que vida boa, olará
+             <span class="chord">A7(9)</span>    <span class="chord">D7(13)</span>  <span class="chord">G6</span>            <span class="chord">D7(13)</span>
+O estandarte do   sanatório geral Vai passar</pre>
+  </div>
+</div>

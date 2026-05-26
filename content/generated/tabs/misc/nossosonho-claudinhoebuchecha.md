@@ -1,0 +1,143 @@
+Title: Nosso Sonho
+Slug: claudinho-e-buchecha-nossosonho-claudinhoebuchecha
+Url: tablaturas/misc/nossosonho-claudinhoebuchecha/
+Save_As: tablaturas/misc/nossosonho-claudinhoebuchecha/index.html
+page_type: tab
+artist: Claudinho e Buchecha
+artist_url: https://www.cifraclub.com.br/claudinho-e-buchecha/
+section_label: Tablaturas
+summary: Tablatura de Nosso Sonho por Claudinho e Buchecha.
+listing_index: 189
+next_tab_url: /tablaturas/misc/naoprecisa-paulafernandes/
+next_tab_title: Não Precisa
+next_tab_artist: Paula Fernandes
+
+<div class="tab-layout columns">
+  <div class="tab-column">
+    <pre class="tab-sheet">(Buchecha)(Acústico)
+
+<span class="chord">E</span> <span class="chord">E</span>                                <span class="chord">A5</span>            <span class="chord">B5</span>   
+  Naquele lugar, naquele local era lindo o seu olhar 
+      <span class="chord">E</span>
+Eu te avistei, foi fenomenal
+          <span class="chord">A5</span>          <span class="chord">B5</span> 
+Houve uma chance de falar
+
+<span class="chord">E</span>
+Gostei de você quero te alcançar
+<span class="chord">E</span>
+Tem um ímã que fez eu me hospedar
+<span class="chord">E</span>
+Nossas emoções, eram ilícitas
+       <span class="chord">A5</span>      <span class="chord">B5</span>       <span class="chord">E</span>                   <span class="chord">A5</span>   <span class="chord">B5</span>        <span class="chord">E</span>
+Que apesar das vibrações  proibia o amor em nossos corações
+
+<span class="chord">E</span>                                <span class="chord">A5</span>                       <span class="chord">B5</span>
+Ziguezaguiei no vira, virou você quis me dar as mãos, não alcançou
+       <span class="chord">E</span>                                <span class="chord">A5</span>         <span class="chord">B5</span>     <span class="chord">E</span>
+Bem que eu tentei, algo atrapalhou a distância não deixou
+
+<span class="chord">E</span>                                                 <span class="chord">A5</span>             <span class="chord">B5</span>
+Foi com muita fé, nessa ilustração,que eu não dei bola para a ilusão.
+<span class="chord">E</span>                                    <span class="chord">A5</span>             <span class="chord">B5</span>
+Homem e mulher, ira em inversão bate forte o coração
+       <span class="chord">E</span>                <span class="chord">B5</span>
+Tumultuado o palco quase caiu
+        <span class="chord">E</span>               <span class="chord">B5</span>
+Eu desditoso, e você se distraiu.
+            <span class="chord">E</span>                 <span class="chord">A5</span>  <span class="chord">B5</span>     <span class="chord">E</span> 
+Quando estendi as mãos, pra poder te segurar
+
+<span class="chord">E</span>                        <span class="chord">B5</span>
+Já arranhado e toda hora vinha uma,
+         <span class="chord">E</span>                  <span class="chord">B5</span>
+A impressão que o palco era de espuma.
+         <span class="chord">E</span>              <span class="chord">A5</span>      <span class="chord">B5</span>       <span class="chord">E</span>
+Você tentou chegar, não deu pra me tocar.
+
+      <span class="chord">E</span>                       <span class="chord">A</span>     <span class="chord">B</span>               <span class="chord">E</span>
+Nosso sonho não vai terminar, desse jeito que você faz
+        <span class="chord">A</span>      <span class="chord">B</span>    <span class="chord">G#m</span>  <span class="chord">C#m</span>
+Se o destino adjudicar
+     <span class="chord">A</span>        <span class="chord">B</span>        <span class="chord">E</span> 
+esse amor poderá ser capaz, gatinha.
+      <span class="chord">E</span>                       <span class="chord">A</span>     <span class="chord">B</span>               <span class="chord">E</span>
+Nosso sonho não vai terminar, desse jeito que você faz  
+    <span class="chord">A</span>          <span class="chord">B</span>        <span class="chord">G#m</span>  <span class="chord">C#m</span>
+E depois que o baile acabar, 
+      <span class="chord">A</span>        <span class="chord">B</span>          <span class="chord">E</span>
+Vamos nos encontrar logo mais.
+
+<span class="chord">E</span>
+Na Praça da Play-Boy, ou em Niterói.
+     <span class="chord">A5</span>                    <span class="chord">B5</span>
+Na fazenda Chumbada ou no Coez.
+<span class="chord">E</span>                        
+Quitungo, Guaporé nos locais do Jacaré.
+  <span class="chord">A5</span>                      <span class="chord">B5</span>
+Taquara, Furna e Faz-quem-quer.</pre>
+  </div>
+  <div class="tab-column">
+    <pre class="tab-sheet">        <span class="chord">E</span>                     
+Barata, Cidade de Deus, Borel e a Gambá.
+    <span class="chord">A5</span>                 <span class="chord">B5</span>
+Marechal, Urucânia, Irajá.
+     <span class="chord">E</span>                             
+Cosmorama, Guadalupe, Sangue-areia e Pombal
+  <span class="chord">A5</span>                   <span class="chord">B5</span>
+Vigário Geral, Rocinha e Vidigal
+<span class="chord">E</span>                        <span class="chord">B5</span>
+Coronel, mutuapira, Itaguaí e Sacy.
+<span class="chord">E</span>                        <span class="chord">B5</span>
+Andaraí, Iriri, Salgueiro, Catiri
+          <span class="chord">E</span>              <span class="chord">A5</span>        <span class="chord">B5</span>       <span class="chord">E</span>
+Engenho novo, Gramacho, Méier, Inhaúma, Arará.
+        <span class="chord">E</span>                          <span class="chord">B5</span>
+Vila Aliança, Mineira, Mangueira e a Vintém.
+         <span class="chord">E</span>                    <span class="chord">B5</span>
+Na Posse e Madureira, Nilópolis, Xerém.
+           <span class="chord">E</span>              <span class="chord">A5</span>     <span class="chord">B5</span>     <span class="chord">E</span>
+Ou em qualquer lugar, eu vou te admirar
+
+      <span class="chord">E</span>                       <span class="chord">A</span>     <span class="chord">B</span>               <span class="chord">E</span>
+Nosso sonho não vai terminar, desse jeito que você faz
+        <span class="chord">A</span>      <span class="chord">B</span>    <span class="chord">G#m</span>  <span class="chord">C#m</span>
+Se o destino adjudicar
+     <span class="chord">A</span>        <span class="chord">B</span>        <span class="chord">E</span> 
+esse amor poderá ser capaz, gatinha.
+      <span class="chord">E</span>                       <span class="chord">A</span>     <span class="chord">B</span>               <span class="chord">E</span>
+Nosso sonho não vai terminar, desse jeito que você faz  
+    <span class="chord">A</span>          <span class="chord">B</span>        <span class="chord">G#m</span>  <span class="chord">C#m</span>
+E depois que o baile acabar, 
+      <span class="chord">A</span>        <span class="chord">B</span>          <span class="chord">E</span>
+Vamos nos encontrar logo mais.
+
+          <span class="chord">E</span>                <span class="chord">B5</span>
+Os teus cabelos cobriam os lábios teus
+          <span class="chord">E</span>         <span class="chord">B5</span>    
+Não permitindo encontrar os meus.
+       <span class="chord">E</span>             <span class="chord">A5</span>       <span class="chord">B5</span>    <span class="chord">E</span>
+E você é baixinha, gatinha eu vou parar
+          <span class="chord">E</span>                      <span class="chord">B5</span>
+Mas tudo isso porque eu me sinto coroão.
+          <span class="chord">E</span>                   <span class="chord">B5</span>
+Tu tens apenas metade da minha ilusão.
+          <span class="chord">E</span>                  <span class="chord">A5</span>    <span class="chord">B5</span>    <span class="chord">E</span>
+Seus doze aninhos permitem somente um olhar
+
+      <span class="chord">E</span>                       <span class="chord">A</span>     <span class="chord">B</span>               <span class="chord">E</span>
+Nosso sonho não vai terminar, desse jeito que você faz
+        <span class="chord">A</span>      <span class="chord">B</span>    <span class="chord">G#m</span>  <span class="chord">C#m</span>
+Se o destino adjudicar
+     <span class="chord">A</span>        <span class="chord">B</span>        <span class="chord">E</span> 
+esse amor poderá ser capaz, 
+      <span class="chord">E</span>                       <span class="chord">A</span>     <span class="chord">B</span>               <span class="chord">E</span>
+Nosso sonho não vai terminar, desse jeito que você faz  
+    <span class="chord">A</span>          <span class="chord">B</span>        <span class="chord">G#m</span>  <span class="chord">C#m</span>
+E depois que o baile acabar, 
+      <span class="chord">A</span>        <span class="chord">B</span>          <span class="chord">E</span>
+Vamos nos encontrar logo mais.
+
+Nosso sonho não vai terminar</pre>
+  </div>
+</div>

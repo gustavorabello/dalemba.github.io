@@ -1,0 +1,62 @@
+Title: Teresinha
+Slug: chico-buarque-teresinha
+Url: tablaturas/chicobuarque/teresinha/
+Save_As: tablaturas/chicobuarque/teresinha/index.html
+page_type: tab
+artist: Chico Buarque
+artist_url: https://www.cifraclub.com.br/chico-buarque/
+section_label: Tablaturas
+summary: Tablatura de Teresinha por Chico Buarque.
+listing_index: 62
+next_tab_url: /tablaturas/chicobuarque/vaipassar/
+next_tab_title: Vai Passar
+next_tab_artist: Chico Buarque
+
+<div class="tab-layout columns">
+  <div class="tab-column">
+    <pre class="tab-sheet"><span class="chord">Bm</span>                  <span class="chord">B/A</span>                     <span class="chord">E7/Ab</span>
+   O primeiro me chegou Como quem vem do florista
+          <span class="chord">G6</span>         <span class="chord">F#7/4(9)</span>              <span class="chord">F#7(b9)</span>          <span class="chord">Bm</span>
+Trouxe um bicho de pelú_____cia Trouxe um bro___che de ametista
+      <span class="chord">G7M</span>        <span class="chord">E7/Ab</span>             <span class="chord">Bm/A</span>           <span class="chord">F#7/Bb</span>
+Me contou suas via____gens E as vantagens que ele ti____nha
+      <span class="chord">D</span>            <span class="chord">B7/Eb</span>          <span class="chord">C#7</span>         <span class="chord">F#7</span>
+Me mostrou o seu reló___gio Me chamava de rainha
+        <span class="chord">D/C</span>          <span class="chord">G/B</span>        <span class="chord">Gm/Bb</span>        <span class="chord">B/A</span>
+Me encontrou tão desarmada Que tocou  meu coração
+                  <span class="chord">E7/Ab</span>          <span class="chord">G6</span>       <span class="chord">F#7(b13)</span>  <span class="chord">Bm</span>
+Mas não me negava nada   E, assustada, eu disse    não
+
+<span class="chord">B/A</span> / / <span class="chord">E7/Ab</span> / / <span class="chord">G6</span> / <span class="chord">F#7(b13)</span> <span class="chord">Bm</span> /
+
+                <span class="chord">B/A</span>                    <span class="chord">E7/Ab</span>
+O segundo me chegou Como quem chega do bar
+          <span class="chord">G6</span>            <span class="chord">F#7/4(9)</span>        <span class="chord">F#7(b9)</span>         <span class="chord">Bm</span>
+Trouxe um litro de aguarden____te Tão amar___ga de tragar
+    <span class="chord">G7M</span>         <span class="chord">E7/Ab</span>       <span class="chord">Bm/A</span>        <span class="chord">F#7/Bb</span>
+Indagou o meu passado E cheirou minha comida</pre>
+  </div>
+  <div class="tab-column">
+    <pre class="tab-sheet">     <span class="chord">D</span>            <span class="chord">B7/Eb</span>         <span class="chord">C#7</span>         <span class="chord">F#7</span>
+Vasculhou minha gave___ta Me chamava de perdida
+        <span class="chord">D/C</span>          <span class="chord">G/B</span>          <span class="chord">Gm/Bb</span>        <span class="chord">B/A</span>
+Me encontrou tão desarmada Que arranhou meu coração
+                     <span class="chord">E7/Ab</span>          <span class="chord">G6</span>       <span class="chord">F#7(b13)</span>  <span class="chord">Bm</span>
+Mas não me entregava nada   E, assustada, eu disse    não
+
+<span class="chord">B/A</span> / / <span class="chord">E7/Ab</span> / / <span class="chord">G6</span> / <span class="chord">F#7(b13)</span> <span class="chord">Bm</span> /
+
+                 <span class="chord">B/A</span>                    <span class="chord">E7/Ab</span>
+O terceiro me chegou Como quem chega do nada
+    <span class="chord">G6</span>            <span class="chord">F#7/4(9)</span>          <span class="chord">F#7(b9)</span>         <span class="chord">Bm</span>
+Ele não me trouxe na_____da Também na____da perguntou
+        <span class="chord">G7M</span>         <span class="chord">E7/Ab</span>       <span class="chord">Bm/A</span>            <span class="chord">F#7/Bb</span>
+Mal sei como ele se chama Mas entendo o que ele quer
+      <span class="chord">D</span>            <span class="chord">B7/Eb</span>      <span class="chord">C#7</span>         <span class="chord">F#7</span>
+Se deitou na minha cama  E me chama de mulher
+       <span class="chord">D/C</span>       <span class="chord">G/B</span>           <span class="chord">Gm/Bb</span>            <span class="chord">B/A</span>
+Foi chegando sorrateiro E antes que  eu dissesse não
+                       <span class="chord">E7/Ab</span>         <span class="chord">G6</span>     <span class="chord">F#7(b13)</span>  <span class="chord">Bm</span>
+Se instalou feito um posseiro Dentro do meu cora_____cão</pre>
+  </div>
+</div>

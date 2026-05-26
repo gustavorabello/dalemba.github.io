@@ -1,0 +1,75 @@
+Title: Codinome Beija-Flor
+Slug: cazuza-codinomebeijaflor
+Url: tablaturas/cazuza/codinomebeijaflor/
+Save_As: tablaturas/cazuza/codinomebeijaflor/index.html
+page_type: tab
+artist: Cazuza
+artist_url: https://www.cifraclub.com.br/cazuza/
+section_label: Tablaturas
+summary: Tablatura de Codinome Beija-Flor por Cazuza.
+listing_index: 39
+next_tab_url: /tablaturas/cazuza/exagerado/
+next_tab_title: Exagerado
+next_tab_artist: Cazuza
+
+<div class="tab-layout columns">
+  <div class="tab-column">
+    <pre class="tab-sheet"><span class="chord">A</span>              <span class="chord">A7M(9)</span>
+  Pra que mentir
+               <span class="chord">A</span>   <span class="chord">A7M(9)</span>  <span class="chord">A</span>
+Fingir que perdoou
+    <span class="chord">D5(7M/9)</span>     <span class="chord">E/D</span>        <span class="chord">F#m7</span>
+Tentar ficar amigos sem rancor
+  <span class="chord">D5(7M/9)</span>   <span class="chord">E/D</span>
+A emoção acabou
+<span class="chord">D5(7M/9)</span>          <span class="chord">E/D</span>
+ Que coincidência é o amor
+<span class="chord">Bm7(11)</span>   <span class="chord">C#m7(11)</span>  <span class="chord">D5(7M/9)</span>  <span class="chord">D/E</span>    <span class="chord">F/G</span>  <span class="chord">G7(9)</span>
+ A nossa música    nunca     mais tocou
+
+      <span class="chord">A</span>     <span class="chord">A7M(9)</span>           <span class="chord">A</span>  <span class="chord">A7M(9)</span>  <span class="chord">A</span>
+Pra que usar  de tanta educação
+     <span class="chord">D5(7M/9)</span>    <span class="chord">E/D</span>         <span class="chord">F#m7</span>
+Pra destilar terceiras intenções
+    <span class="chord">D5(7M/9)</span>       <span class="chord">E/D</span>
+Desperdiçando meu mel
+<span class="chord">D5(7M/9)</span>         <span class="chord">E/D</span>
+  Devagarzinho flor em flor
+<span class="chord">Bm7(11)</span>     <span class="chord">C#m7(11)</span>    <span class="chord">D5(7M/9)</span>
+  Entre os meus     inimigos
+ <span class="chord">D/E</span>    <span class="chord">F/G</span>  <span class="chord">G7(9)</span>
+Beija-flor
+
+<span class="chord">C7M</span>                         <span class="chord">Bm7(5-)</span> <span class="chord">E4</span>  <span class="chord">E</span>
+  Eu protegi teu nome por amor</pre>
+  </div>
+  <div class="tab-column">
+    <pre class="tab-sheet"><span class="chord">F7M</span>          <span class="chord">G6</span>          <span class="chord">A4</span> <span class="chord">A</span>
+  Em um codinome beija-flor
+ <span class="chord">C7M</span>                       <span class="chord">Bm7(5-)</span>  <span class="chord">E4</span>  <span class="chord">E</span>
+Não responda nunca   meu amor,     nunca!
+      <span class="chord">F7M</span>           <span class="chord">G6</span>         <span class="chord">A4</span>  <span class="chord">A</span>
+Pra qualquer um na rua beija-flor
+
+<span class="chord">F7M</span>                <span class="chord">Em/F</span>
+  Que só eu que podia
+<span class="chord">F7M</span>                      <span class="chord">Em/F</span>
+  Dentro da tua orelha fria
+   <span class="chord">F7M</span>                <span class="chord">Em/G</span>    <span class="chord">A4</span>  <span class="chord">A</span>
+Dizer segredos de liquidificador
+   <span class="chord">F7M</span>            <span class="chord">Em/F</span>
+Você sonhava acordada
+<span class="chord">F7M</span>                     <span class="chord">Em/F</span>
+Um jeito de não sentir dor
+     <span class="chord">F7M</span>
+Prendia o choro
+     <span class="chord">Em/G</span>           <span class="chord">A4</span>  <span class="chord">A</span>
+E aguava o bom do amor
+     <span class="chord">F7M</span>
+Prendia o choro
+     <span class="chord">G7M</span>            
+E aguava o bom do amor
+
+[Final] <span class="chord">A7M(9)</span>  <span class="chord">F#m7(11)</span>  <span class="chord">D5(6/9)</span>  <span class="chord">A4/E</span></pre>
+  </div>
+</div>

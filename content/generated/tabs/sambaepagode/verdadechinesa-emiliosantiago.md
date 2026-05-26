@@ -1,0 +1,64 @@
+Title: Verdade Chinesa
+Slug: emilio-santiago-verdadechinesa-emiliosantiago
+Url: tablaturas/sambaepagode/verdadechinesa-emiliosantiago/
+Save_As: tablaturas/sambaepagode/verdadechinesa-emiliosantiago/index.html
+page_type: tab
+artist: Emilio Santiago
+artist_url: https://www.cifraclub.com.br/emilio-santiago/
+section_label: Tablaturas
+summary: Tablatura de Verdade Chinesa por Emilio Santiago.
+listing_index: 248
+next_tab_url: /tablaturas/sambasenredo/beija-flor-2007/
+next_tab_title: Beija-Flor (2007)
+next_tab_artist: Sambas Enredo
+
+<div class="tab-layout columns">
+  <div class="tab-column">
+    <pre class="tab-sheet"> <span class="chord">Bm7</span>                      <span class="chord">F#m7/11</span>   <span class="chord">B7</span>
+     Era só isso que eu queria da vida
+ <span class="chord">Em7</span>                     <span class="chord">C#m7(b5)</span>    <span class="chord">F#7/5</span>+
+     Uma cerveja, uma ilusão atrevida
+ <span class="chord">Bm7</span>                         <span class="chord">D7(13)</span>
+     Que me dissesse uma verdade chinesa
+ <span class="chord">C#m7(b5)</span>                        <span class="chord">F#7/5</span>+
+     Com uma intenção de um beijo doce na boca
+ <span class="chord">Bm7</span>                        <span class="chord">F#m7/11</span>  <span class="chord">B7</span>
+     A tarde cai, a noite levanta a magia
+ <span class="chord">Em7</span>                         <span class="chord">C#m7(b5)</span>    <span class="chord">F#7/5</span>+
+     Quem sabe a gente vai se ver outro dia
+ <span class="chord">Bm7</span>                          <span class="chord">D7(13)</span>
+     Quem sabe o sonho vai ficar na conversa
+<span class="chord">C#m7(b5)</span>                       <span class="chord">F#7/5</span>+        <span class="chord">F#m7/11</span>
+     Quem sabe até a vida pague essa promessa
+       <span class="chord">B7</span>           <span class="chord">Em7</span>
+Muita coisa a gente faz
+              <span class="chord">A7</span>                  <span class="chord">D7M</span>
+Seguindo o caminho que o mundo traçou
+              <span class="chord">G7M</span>                   <span class="chord">C#m7(b5)</span>
+Seguindo a cartilha que alguém ensinou</pre>
+  </div>
+  <div class="tab-column">
+    <pre class="tab-sheet">             <span class="chord">F#7/5</span>+           <span class="chord">F#m7/11</span>
+Seguindo a receita da vida normal
+          <span class="chord">B7</span>          <span class="chord">Em7</span>
+Mas o que é vida, afinal?
+              <span class="chord">A7</span>                   <span class="chord">D7M</span>
+Será que é fazer o que o mestre mandou
+          <span class="chord">D7(13)</span>               <span class="chord">G7M</span>
+É comer o pão que o diabo amassou
+            <span class="chord">C#7</span>                 <span class="chord">F#7</span>   <span class="chord">B7</span>
+Perdendo da vida o que tem de melhor
+ <span class="chord">Em7</span>          <span class="chord">A7</span>        <span class="chord">D6/9</span>
+Senta, se acomoda, à vontade
+       <span class="chord">G7M</span>           <span class="chord">C#m7(b5)</span>
+Tá em casa, toma um copo
+       <span class="chord">F#7/5</span>+            <span class="chord">F#m7/11</span>   <span class="chord">B4/7</span> <span class="chord">B7</span>
+Dá um tempo...que a tristeza vai passar
+ <span class="chord">E7/9</span>          <span class="chord">A7</span>            <span class="chord">D6/9</span>
+Deixa, pra amanhã, tem muito tempo
+       <span class="chord">G7M</span>           <span class="chord">C#m7(b5)</span>
+O que vale é o sentimento
+      <span class="chord">F#7/5</span>+          <span class="chord">Bm7</span>           <span class="chord">F#7</span>
+E o amor que a gente tem no coração</pre>
+  </div>
+</div>

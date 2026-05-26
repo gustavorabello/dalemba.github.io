@@ -1,0 +1,44 @@
+Title: Desencontro
+Slug: chico-buarque-desencontro
+Url: tablaturas/chicobuarque/desencontro/
+Save_As: tablaturas/chicobuarque/desencontro/index.html
+page_type: tab
+artist: Chico Buarque
+artist_url: https://www.cifraclub.com.br/chico-buarque/
+section_label: Tablaturas
+summary: Tablatura de Desencontro por Chico Buarque.
+listing_index: 50
+next_tab_url: /tablaturas/chicobuarque/essamocatadiferente/
+next_tab_title: Essa Moca Ta Diferente
+next_tab_artist: Chico Buarque
+
+<div class="tab-layout singlecol">
+  <pre class="tab-sheet"><span class="chord">A7M</span>        <span class="chord">F#7(b13)</span>           <span class="chord">Bm7(11)</span>   <span class="chord">E7(9)</span>
+A   sua lembran_____ça me dói tan_______to 
+   <span class="chord">Em7(9)</span>        <span class="chord">A7(9)</span>    <span class="chord">G#m7(b5)</span>          <span class="chord">C#7</span>
+Eu can____to pra ver  se espan______to esse mal
+<span class="chord">F#m7</span>             <span class="chord">B7(9)</span>  <span class="chord">E7/4(9)</span>           <span class="chord">A7(9)</span>
+    Mas só sei dizer           Um verso banal
+<span class="chord">D7M</span>          <span class="chord">Dm6</span>        <span class="chord">G#m7(b5)</span>           <span class="chord">C#7</span>
+Fala em você Canta você É        sempre igual
+
+  <span class="chord">F#m7</span>       <span class="chord">F#7(b13)</span>         <span class="chord">Bm7(11)</span>   <span class="chord">E7(9)</span>
+Sobrou desse nos______so desencon_______tro
+   <span class="chord">Em7(9)</span>         <span class="chord">A7(9)</span>    <span class="chord">G#m7(b5)</span>       <span class="chord">C#7</span>
+Um com_____to de amor  Sem pon_______to final
+<span class="chord">F#m7</span>            <span class="chord">B7(9)</span>  <span class="chord">E7/4(9)</span>                <span class="chord">A7(9)</span>
+    Retrato sem cor           Jogado aos meus pés
+  <span class="chord">D7M</span>             <span class="chord">Dm6</span>              <span class="chord">G#m7(b5)</span>      <span class="chord">C#7</span>
+E saudades fúteis Saudades frágeis Me______ros papéis
+
+    <span class="chord">F#m7</span>     <span class="chord">F#7(b13)</span>          <span class="chord">Bm7(11)</span>   <span class="chord">E7(9)</span>
+Não sei se você      ainda é a mes_______ma
+         <span class="chord">Em7(9)</span>     <span class="chord">A7(9)</span>       <span class="chord">C#7</span>         <span class="chord">C#7/G#</span>
+Ou se cortou   os cabe___los Rasgou o que é meu
+    <span class="chord">F#m7</span>          <span class="chord">C#7</span>      <span class="chord">Bm7(9)</span>          <span class="chord">E7(13)</span>
+Se ainda tem sauda___des e so_____fre como eu
+   <span class="chord">A7M</span>        <span class="chord">F#7(b13)</span>   <span class="chord">Bm7(9)</span>         <span class="chord">E7(b9)</span>           <span class="chord">A6</span>
+Ou tudo já passou     Já tem   um novo amor   Já me esqueceu
+
+<span class="chord">D7(9)</span> / / / <span class="chord">A6</span> / / / <span class="chord">D7(9)</span> / / / <span class="chord">C#7M(9)</span> / / / / / / /</pre>
+</div>
