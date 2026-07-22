@@ -4,10 +4,9 @@ Url: receitas/bolobrownie/
 Save_As: receitas/bolobrownie/index.html
 page_type: recipe
 section_label: Receitas
-subtitle: Receitas importadas do acervo Hyde com o conteúdo original preservado.
-summary: Misturar tudo e entragar para Deus!
-
-<p class="recipe-hero"><img src="/static/images/recipes/brownie.png" alt="Bolo Brownie"></p>
+subtitle: Para fazer a casa cheirar a afeto.
+summary: Misturar tudo e entregar para Deus!
+recipe_image: /static/images/recipes/brownie.png
 
 ## Ingredientes
 - 1 xícara de chocolate em pó
@@ -16,11 +15,11 @@ summary: Misturar tudo e entragar para Deus!
 - 1 1/2 de sopa de fermento Royal
 - 200g de margarina
 - 2 xícaras de leite
-- 2 xícaras de açucar
+- 2 xícaras de açúcar
 
 RECHEIO:
 
-- 2 xícaras de côco fresco ralado
+- 2 xícaras de coco fresco ralado
 - 1 lata de leito condensado 
 ## Modo de preparo
-Misturar tudo e entragar para Deus!
+Misturar tudo e entregar para Deus!

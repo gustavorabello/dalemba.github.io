@@ -1,14 +1,17 @@
 Title: Samba do Grande Amor
 Slug: chico-buarque-sambadograndeamor
-Url: tablaturas/chicobuarque/sambadograndeamor/
-Save_As: tablaturas/chicobuarque/sambadograndeamor/index.html
+Url: musicas/chicobuarque/sambadograndeamor/
+Save_As: musicas/chicobuarque/sambadograndeamor/index.html
 page_type: tab
 artist: Chico Buarque
 artist_url: https://www.cifraclub.com.br/chico-buarque/
-section_label: Tablaturas
-summary: Tablatura de Samba do Grande Amor por Chico Buarque.
-listing_index: 61
-next_tab_url: /tablaturas/chicobuarque/teresinha/
+harmonic_key: D
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Samba do Grande Amor, canção de Chico Buarque.
+listing_index: 62
+next_tab_url: /musicas/chicobuarque/teresinha/
 next_tab_title: Teresinha
 next_tab_artist: Chico Buarque
 

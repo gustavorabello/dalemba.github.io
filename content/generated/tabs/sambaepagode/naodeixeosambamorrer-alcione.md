@@ -1,14 +1,17 @@
 Title: Não Deixe o Samba Morrer
 Slug: alcione-naodeixeosambamorrer-alcione
-Url: tablaturas/sambaepagode/naodeixeosambamorrer-alcione/
-Save_As: tablaturas/sambaepagode/naodeixeosambamorrer-alcione/index.html
+Url: musicas/sambaepagode/naodeixeosambamorrer-alcione/
+Save_As: musicas/sambaepagode/naodeixeosambamorrer-alcione/index.html
 page_type: tab
 artist: Alcione
 artist_url: https://www.cifraclub.com.br/alcione/
-section_label: Tablaturas
-summary: Tablatura de Não Deixe o Samba Morrer por Alcione.
-listing_index: 236
-next_tab_url: /tablaturas/sambaepagode/oamanha-simone/
+harmonic_key: B
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Não Deixe o Samba Morrer, canção de Alcione.
+listing_index: 239
+next_tab_url: /musicas/sambaepagode/oamanha-simone/
 next_tab_title: O Amanhã
 next_tab_artist: Simone
 

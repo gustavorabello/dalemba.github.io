@@ -1,14 +1,17 @@
 Title: Sim
 Slug: cartola-sim
-Url: tablaturas/cartola/sim/
-Save_As: tablaturas/cartola/sim/index.html
+Url: musicas/cartola/sim/
+Save_As: musicas/cartola/sim/index.html
 page_type: tab
 artist: Cartola
 artist_url: https://www.cifraclub.com.br/cartola/
-section_label: Tablaturas
-summary: Tablatura de Sim por Cartola.
-listing_index: 36
-next_tab_url: /tablaturas/cazuza/bluesdapiedade/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Sim, canção de Cartola.
+listing_index: 37
+next_tab_url: /musicas/cazuza/bluesdapiedade/
 next_tab_title: Blues da Piedade
 next_tab_artist: Cazuza
 

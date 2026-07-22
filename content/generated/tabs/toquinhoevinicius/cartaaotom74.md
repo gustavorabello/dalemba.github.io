@@ -1,14 +1,17 @@
 Title: Carta ao Tom 74
 Slug: toquinho-vinicius-cartaaotom74
-Url: tablaturas/toquinhoevinicius/cartaaotom74/
-Save_As: tablaturas/toquinhoevinicius/cartaaotom74/index.html
+Url: musicas/toquinhoevinicius/cartaaotom74/
+Save_As: musicas/toquinhoevinicius/cartaaotom74/index.html
 page_type: tab
 artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
-section_label: Tablaturas
-summary: Tablatura de Carta ao Tom 74 por Toquinho & Vinicius.
-listing_index: 278
-next_tab_url: /tablaturas/toquinhoevinicius/chegadesaudade/
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Carta ao Tom 74, canção de Toquinho & Vinicius.
+listing_index: 282
+next_tab_url: /musicas/toquinhoevinicius/chegadesaudade/
 next_tab_title: Chega de Saudade
 next_tab_artist: Tom Jobim & Vinicius
 

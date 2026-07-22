@@ -1,14 +1,17 @@
 Title: Quando Você Passa (Turu Turu)
 Slug: sandy-junior-quandovocepassa
-Url: tablaturas/sandyejunior/quandovocepassa/
-Save_As: tablaturas/sandyejunior/quandovocepassa/index.html
+Url: musicas/sandyejunior/quandovocepassa/
+Save_As: musicas/sandyejunior/quandovocepassa/index.html
 page_type: tab
 artist: Sandy & Júnior
 artist_url: https://www.cifraclub.com.br/sandy-junior/
-section_label: Tablaturas
-summary: Tablatura de Quando Você Passa (Turu Turu) por Sandy & Júnior.
-listing_index: 260
-next_tab_url: /tablaturas/skank/resposta/
+harmonic_key: B
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Quando Você Passa (Turu Turu), canção de Sandy & Júnior.
+listing_index: 263
+next_tab_url: /musicas/skank/resposta/
 next_tab_title: Resposta
 next_tab_artist: Skank
 

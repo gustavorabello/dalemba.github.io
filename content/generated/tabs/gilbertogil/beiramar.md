@@ -1,14 +1,17 @@
 Title: Beira Mar
 Slug: gilberto-gil-beiramar
-Url: tablaturas/gilbertogil/beiramar/
-Save_As: tablaturas/gilbertogil/beiramar/index.html
+Url: musicas/gilbertogil/beiramar/
+Save_As: musicas/gilbertogil/beiramar/index.html
 page_type: tab
 artist: Gilberto Gil
 artist_url: https://www.cifraclub.com.br/gilberto-gil/
-section_label: Tablaturas
-summary: Tablatura de Beira Mar por Gilberto Gil.
-listing_index: 109
-next_tab_url: /tablaturas/gilbertogil/drao/
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Beira Mar, canção de Gilberto Gil.
+listing_index: 112
+next_tab_url: /musicas/gilbertogil/drao/
 next_tab_title: Drao
 next_tab_artist: Gilberto Gil
 

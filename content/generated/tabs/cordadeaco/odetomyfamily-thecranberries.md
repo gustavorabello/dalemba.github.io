@@ -1,14 +1,17 @@
 Title: Ode to My Family
 Slug: the-cranberries-odetomyfamily-thecranberries
-Url: tablaturas/cordadeaco/odetomyfamily-thecranberries/
-Save_As: tablaturas/cordadeaco/odetomyfamily-thecranberries/index.html
+Url: musicas/cordadeaco/odetomyfamily-thecranberries/
+Save_As: musicas/cordadeaco/odetomyfamily-thecranberries/index.html
 page_type: tab
 artist: The Cranberries
 artist_url: https://www.cifraclub.com.br/the-cranberries/
-section_label: Tablaturas
-summary: Tablatura de Ode to My Family por The Cranberries.
-listing_index: 74
-next_tab_url: /tablaturas/cordadeaco/plush-stonetemplepilot/
+harmonic_key: D
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Ode to My Family, canção de The Cranberries.
+listing_index: 75
+next_tab_url: /musicas/cordadeaco/plush-stonetemplepilot/
 next_tab_title: Plush
 next_tab_artist: Stone Temple Pilot
 

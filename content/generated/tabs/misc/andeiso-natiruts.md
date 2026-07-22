@@ -1,14 +1,17 @@
 Title: Andei Só
 Slug: natirutis-andeiso-natiruts
-Url: tablaturas/misc/andeiso-natiruts/
-Save_As: tablaturas/misc/andeiso-natiruts/index.html
+Url: musicas/misc/andeiso-natiruts/
+Save_As: musicas/misc/andeiso-natiruts/index.html
 page_type: tab
 artist: Natirutis
 artist_url: https://www.cifraclub.com.br/natirutis/
-section_label: Tablaturas
-summary: Tablatura de Andei Só por Natirutis.
-listing_index: 168
-next_tab_url: /tablaturas/misc/andomeiodesligado-ovelhanegra-ritalee-bichodepe/
+harmonic_key: B
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Andei Só, canção de Natirutis.
+listing_index: 171
+next_tab_url: /musicas/misc/andomeiodesligado-ovelhanegra-ritalee-bichodepe/
 next_tab_title: Ando Meio Desligado/Ovelha Negra
 next_tab_artist: Rita Lee - versão Bicho de Pé
 

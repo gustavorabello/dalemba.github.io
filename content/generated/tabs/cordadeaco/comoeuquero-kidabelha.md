@@ -1,14 +1,17 @@
 Title: Como Eu Quero
 Slug: kid-abelha-comoeuquero-kidabelha
-Url: tablaturas/cordadeaco/comoeuquero-kidabelha/
-Save_As: tablaturas/cordadeaco/comoeuquero-kidabelha/index.html
+Url: musicas/cordadeaco/comoeuquero-kidabelha/
+Save_As: musicas/cordadeaco/comoeuquero-kidabelha/index.html
 page_type: tab
 artist: Kid Abelha
 artist_url: https://www.cifraclub.com.br/kid-abelha/
-section_label: Tablaturas
-summary: Tablatura de Como Eu Quero por Kid Abelha.
-listing_index: 66
-next_tab_url: /tablaturas/cordadeaco/dontlookbackinanger-oasis/
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Como Eu Quero, canção de Kid Abelha.
+listing_index: 67
+next_tab_url: /musicas/cordadeaco/dontlookbackinanger-oasis/
 next_tab_title: Dont Look Back in Anger
 next_tab_artist: Oasis
 

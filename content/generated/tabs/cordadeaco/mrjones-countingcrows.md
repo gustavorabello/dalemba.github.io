@@ -1,14 +1,17 @@
 Title: Mr. Jones
 Slug: counting-crows-mrjones-countingcrows
-Url: tablaturas/cordadeaco/mrjones-countingcrows/
-Save_As: tablaturas/cordadeaco/mrjones-countingcrows/index.html
+Url: musicas/cordadeaco/mrjones-countingcrows/
+Save_As: musicas/cordadeaco/mrjones-countingcrows/index.html
 page_type: tab
 artist: Counting Crows
 artist_url: https://www.cifraclub.com.br/counting-crows/
-section_label: Tablaturas
-summary: Tablatura de Mr. Jones por Counting Crows.
-listing_index: 73
-next_tab_url: /tablaturas/cordadeaco/odetomyfamily-thecranberries/
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Mr. Jones, canção de Counting Crows.
+listing_index: 74
+next_tab_url: /musicas/cordadeaco/odetomyfamily-thecranberries/
 next_tab_title: Ode to My Family
 next_tab_artist: The Cranberries
 

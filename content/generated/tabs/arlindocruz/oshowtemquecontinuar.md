@@ -1,14 +1,17 @@
 Title: O Show Tem Que Continuar
 Slug: fundo-de-quintal-oshowtemquecontinuar
-Url: tablaturas/arlindocruz/oshowtemquecontinuar/
-Save_As: tablaturas/arlindocruz/oshowtemquecontinuar/index.html
+Url: musicas/arlindocruz/oshowtemquecontinuar/
+Save_As: musicas/arlindocruz/oshowtemquecontinuar/index.html
 page_type: tab
 artist: Fundo de Quintal
 artist_url: https://www.cifraclub.com.br/fundo-de-quintal/
-section_label: Tablaturas
-summary: Tablatura de O Show Tem Que Continuar por Fundo de Quintal.
-listing_index: 7
-next_tab_url: /tablaturas/arlindocruz/sambadearere/
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: O Show Tem Que Continuar, canção de Fundo de Quintal.
+listing_index: 8
+next_tab_url: /musicas/arlindocruz/sambadearere/
 next_tab_title: Samba de Arerê
 next_tab_artist: Arlindo Cruz
 

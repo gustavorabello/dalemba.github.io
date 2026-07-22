@@ -1,14 +1,17 @@
 Title: The Man Who Sold the World
 Slug: nirvana-themanwhosoldtheworld-nirvana
-Url: tablaturas/cordadeaco/themanwhosoldtheworld-nirvana/
-Save_As: tablaturas/cordadeaco/themanwhosoldtheworld-nirvana/index.html
+Url: musicas/cordadeaco/themanwhosoldtheworld-nirvana/
+Save_As: musicas/cordadeaco/themanwhosoldtheworld-nirvana/index.html
 page_type: tab
 artist: Nirvana
 artist_url: https://www.cifraclub.com.br/nirvana/
-section_label: Tablaturas
-summary: Tablatura de The Man Who Sold the World por Nirvana.
-listing_index: 76
-next_tab_url: /tablaturas/cordadeaco/tomorrow-silverchair/
+harmonic_key: F
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: The Man Who Sold the World, canção de Nirvana.
+listing_index: 77
+next_tab_url: /musicas/cordadeaco/tomorrow-silverchair/
 next_tab_title: Tomorrow
 next_tab_artist: Silverchair
 

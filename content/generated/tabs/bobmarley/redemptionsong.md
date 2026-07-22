@@ -1,14 +1,17 @@
 Title: Redemption Song
 Slug: bob-marley-redemptionsong
-Url: tablaturas/bobmarley/redemptionsong/
-Save_As: tablaturas/bobmarley/redemptionsong/index.html
+Url: musicas/bobmarley/redemptionsong/
+Save_As: musicas/bobmarley/redemptionsong/index.html
 page_type: tab
 artist: Bob Marley
 artist_url: https://www.cifraclub.com.br/bob-marley/
-section_label: Tablaturas
-summary: Tablatura de Redemption Song por Bob Marley.
-listing_index: 25
-next_tab_url: /tablaturas/bobmarley/threelittlebirds/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Redemption Song, canção de Bob Marley.
+listing_index: 26
+next_tab_url: /musicas/bobmarley/threelittlebirds/
 next_tab_title: Three Little Birds
 next_tab_artist: Bob Marley
 

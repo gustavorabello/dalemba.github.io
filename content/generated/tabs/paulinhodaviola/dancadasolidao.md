@@ -1,14 +1,17 @@
 Title: Danca da Solidao
 Slug: paulinho-da-viola-dancadasolidao
-Url: tablaturas/paulinhodaviola/dancadasolidao/
-Save_As: tablaturas/paulinhodaviola/dancadasolidao/index.html
+Url: musicas/paulinhodaviola/dancadasolidao/
+Save_As: musicas/paulinhodaviola/dancadasolidao/index.html
 page_type: tab
 artist: Paulinho da Viola
 artist_url: https://www.cifraclub.com.br/paulinho-da-viola/
-section_label: Tablaturas
-summary: Tablatura de Danca da Solidao por Paulinho da Viola.
-listing_index: 208
-next_tab_url: /tablaturas/paulinhodaviola/foiumrioquepassouemminhavida/
+harmonic_key: A
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Danca da Solidao, canção de Paulinho da Viola.
+listing_index: 211
+next_tab_url: /musicas/paulinhodaviola/foiumrioquepassouemminhavida/
 next_tab_title: Foi Um Rio Que Passou Em Minha Vida
 next_tab_artist: Paulinho da Viola
 

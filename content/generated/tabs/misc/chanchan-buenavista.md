@@ -1,14 +1,17 @@
 Title: Chan Chan
 Slug: buena-vista-chanchan-buenavista
-Url: tablaturas/misc/chanchan-buenavista/
-Save_As: tablaturas/misc/chanchan-buenavista/index.html
+Url: musicas/misc/chanchan-buenavista/
+Save_As: musicas/misc/chanchan-buenavista/index.html
 page_type: tab
 artist: Buena Vista
 artist_url: https://www.cifraclub.com.br/buena-vista/
-section_label: Tablaturas
-summary: Tablatura de Chan Chan por Buena Vista.
-listing_index: 173
-next_tab_url: /tablaturas/misc/desligaevem-exaltasamba/
+harmonic_key: D
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Chan Chan, canção de Buena Vista.
+listing_index: 176
+next_tab_url: /musicas/misc/desligaevem-exaltasamba/
 next_tab_title: Desliga e Vem
 next_tab_artist: Exaltasamba
 

@@ -1,14 +1,17 @@
 Title: Tiro ao Alvaro
 Slug: adoniran-barbosa-tiroaoalvaro
-Url: tablaturas/adoniranbarbosa/tiroaoalvaro/
-Save_As: tablaturas/adoniranbarbosa/tiroaoalvaro/index.html
+Url: musicas/adoniranbarbosa/tiroaoalvaro/
+Save_As: musicas/adoniranbarbosa/tiroaoalvaro/index.html
 page_type: tab
 artist: Adoniran Barbosa
 artist_url: https://www.cifraclub.com.br/adoniran-barbosa/
-section_label: Tablaturas
-summary: Tablatura de Tiro ao Alvaro por Adoniran Barbosa.
+harmonic_key: F
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Tiro ao Alvaro, canção de Adoniran Barbosa.
 listing_index: 1
-next_tab_url: /tablaturas/adoniranbarbosa/tremdasonzes/
+next_tab_url: /musicas/adoniranbarbosa/tremdasonzes/
 next_tab_title: Trem das Onze
 next_tab_artist: Adoniran Barbosa
 

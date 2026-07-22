@@ -1,14 +1,17 @@
 Title: Lamento no Morro
 Slug: tom-jobim-vinicius-lamentonomorro
-Url: tablaturas/toquinhoevinicius/lamentonomorro/
-Save_As: tablaturas/toquinhoevinicius/lamentonomorro/index.html
+Url: musicas/toquinhoevinicius/lamentonomorro/
+Save_As: musicas/toquinhoevinicius/lamentonomorro/index.html
 page_type: tab
 artist: Tom Jobim & Vinicius
 artist_url: https://www.cifraclub.com.br/tom-jobim-vinicius/
-section_label: Tablaturas
-summary: Tablatura de Lamento no Morro por Tom Jobim & Vinicius.
-listing_index: 282
-next_tab_url: /tablaturas/toquinhoevinicius/maisumadeus/
+harmonic_key: A
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Lamento no Morro, canção de Tom Jobim & Vinicius.
+listing_index: 286
+next_tab_url: /musicas/toquinhoevinicius/maisumadeus/
 next_tab_title: Mais um Adeus
 next_tab_artist: Toquinho & Vinicius
 

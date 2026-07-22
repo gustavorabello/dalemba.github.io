@@ -1,14 +1,17 @@
 Title: Nos Bailes da Vida
 Slug: milton-nascimento-nosbailesdavida
-Url: tablaturas/miltonnascimento/nosbailesdavida/
-Save_As: tablaturas/miltonnascimento/nosbailesdavida/index.html
+Url: musicas/miltonnascimento/nosbailesdavida/
+Save_As: musicas/miltonnascimento/nosbailesdavida/index.html
 page_type: tab
 artist: Milton Nascimento
 artist_url: https://www.cifraclub.com.br/milton-nascimento/
-section_label: Tablaturas
-summary: Tablatura de Nos Bailes da Vida por Milton Nascimento.
-listing_index: 165
-next_tab_url: /tablaturas/misc/aestrada-cidadenegra/
+harmonic_key: D
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Nos Bailes da Vida, canção de Milton Nascimento.
+listing_index: 168
+next_tab_url: /musicas/misc/aestrada-cidadenegra/
 next_tab_title: A Estrada
 next_tab_artist: Cidade Negra
 

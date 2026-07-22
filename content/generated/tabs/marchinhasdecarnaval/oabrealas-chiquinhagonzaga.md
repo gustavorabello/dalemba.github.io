@@ -1,14 +1,17 @@
 Title: O Abre-Alas
 Slug: chiquinha-gonzaga-oabrealas-chiquinhagonzaga
-Url: tablaturas/marchinhasdecarnaval/oabrealas-chiquinhagonzaga/
-Save_As: tablaturas/marchinhasdecarnaval/oabrealas-chiquinhagonzaga/index.html
+Url: musicas/marchinhasdecarnaval/oabrealas-chiquinhagonzaga/
+Save_As: musicas/marchinhasdecarnaval/oabrealas-chiquinhagonzaga/index.html
 page_type: tab
 artist: Chiquinha Gonzaga
 artist_url: https://www.cifraclub.com.br/chiquinha-gonzaga/
-section_label: Tablaturas
-summary: Tablatura de O Abre-Alas por Chiquinha Gonzaga.
-listing_index: 141
-next_tab_url: /tablaturas/marchinhasdecarnaval/pout-pourri-variosartistas/
+harmonic_key: A
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: O Abre-Alas, canção de Chiquinha Gonzaga.
+listing_index: 144
+next_tab_url: /musicas/marchinhasdecarnaval/pout-pourri-variosartistas/
 next_tab_title: Pout-Pourri Carnaval
 next_tab_artist: Mamãe Eu Quero, Cabeleira do Zezé, Cachaça, Me Dá um Dinheiro aí, Allah-la-ô
 

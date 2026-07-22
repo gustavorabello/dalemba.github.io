@@ -1,14 +1,17 @@
 Title: Ciranda de Roda
 Slug: martinho-da-vila-cirandaderoda
-Url: tablaturas/martinhodavila/cirandaderoda/
-Save_As: tablaturas/martinhodavila/cirandaderoda/index.html
+Url: musicas/martinhodavila/cirandaderoda/
+Save_As: musicas/martinhodavila/cirandaderoda/index.html
 page_type: tab
 artist: Martinho da Vila
 artist_url: https://www.cifraclub.com.br/martinho-da-vila/
-section_label: Tablaturas
-summary: Tablatura de Ciranda de Roda por Martinho da Vila.
-listing_index: 158
-next_tab_url: /tablaturas/martinhodavila/disritmia/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Ciranda de Roda, canção de Martinho da Vila.
+listing_index: 161
+next_tab_url: /musicas/martinhodavila/disritmia/
 next_tab_title: Disritmia
 next_tab_artist: Martinho da Vila
 

@@ -1,14 +1,17 @@
 Title: Poema
 Slug: cazuza-poema
-Url: tablaturas/cazuza/poema/
-Save_As: tablaturas/cazuza/poema/index.html
+Url: musicas/cazuza/poema/
+Save_As: musicas/cazuza/poema/index.html
 page_type: tab
 artist: Cazuza
 artist_url: https://www.cifraclub.com.br/cazuza/
-section_label: Tablaturas
-summary: Tablatura de Poema por Cazuza.
-listing_index: 44
-next_tab_url: /tablaturas/cazuza/quaseumsegundo/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Poema, canção de Cazuza.
+listing_index: 45
+next_tab_url: /musicas/cazuza/quaseumsegundo/
 next_tab_title: Quase um Segundo
 next_tab_artist: Cazuza
 

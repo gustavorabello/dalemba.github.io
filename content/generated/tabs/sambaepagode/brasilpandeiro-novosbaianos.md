@@ -1,14 +1,17 @@
 Title: Brasil Pandeiro
 Slug: novos-baianos-brasilpandeiro-novosbaianos
-Url: tablaturas/sambaepagode/brasilpandeiro-novosbaianos/
-Save_As: tablaturas/sambaepagode/brasilpandeiro-novosbaianos/index.html
+Url: musicas/sambaepagode/brasilpandeiro-novosbaianos/
+Save_As: musicas/sambaepagode/brasilpandeiro-novosbaianos/index.html
 page_type: tab
 artist: Novos Baianos
 artist_url: https://www.cifraclub.com.br/novos-baianos/
-section_label: Tablaturas
-summary: Tablatura de Brasil Pandeiro por Novos Baianos.
-listing_index: 224
-next_tab_url: /tablaturas/sambaepagode/carinhoso-pixinguinha/
+harmonic_key: B
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Brasil Pandeiro, canção de Novos Baianos.
+listing_index: 227
+next_tab_url: /musicas/sambaepagode/carinhoso-pixinguinha/
 next_tab_title: Carinhoso
 next_tab_artist: Pixinguinha
 

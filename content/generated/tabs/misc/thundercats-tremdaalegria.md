@@ -1,14 +1,17 @@
 Title: Thundercats
 Slug: trem-da-alegria-thundercats-tremdaalegria
-Url: tablaturas/misc/thundercats-tremdaalegria/
-Save_As: tablaturas/misc/thundercats-tremdaalegria/index.html
+Url: musicas/misc/thundercats-tremdaalegria/
+Save_As: musicas/misc/thundercats-tremdaalegria/index.html
 page_type: tab
 artist: Trem da Alegria
 artist_url: https://www.cifraclub.com.br/trem-da-alegria/
-section_label: Tablaturas
-summary: Tablatura de Thundercats por Trem da Alegria.
-listing_index: 199
-next_tab_url: /tablaturas/misc/toada-bocalivre/
+harmonic_key: E
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Thundercats, canção de Trem da Alegria.
+listing_index: 202
+next_tab_url: /musicas/misc/toada-bocalivre/
 next_tab_title: Toada
 next_tab_artist: Boca Livre
 

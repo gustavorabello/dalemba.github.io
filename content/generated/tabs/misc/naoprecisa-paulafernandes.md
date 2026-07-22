@@ -1,14 +1,17 @@
 Title: Não Precisa
 Slug: paula-fernandes-naoprecisa-paulafernandes
-Url: tablaturas/misc/naoprecisa-paulafernandes/
-Save_As: tablaturas/misc/naoprecisa-paulafernandes/index.html
+Url: musicas/misc/naoprecisa-paulafernandes/
+Save_As: musicas/misc/naoprecisa-paulafernandes/index.html
 page_type: tab
 artist: Paula Fernandes
 artist_url: https://www.cifraclub.com.br/paula-fernandes/
-section_label: Tablaturas
-summary: Tablatura de Não Precisa por Paula Fernandes.
-listing_index: 190
-next_tab_url: /tablaturas/misc/oqueeoquee-gonzaguinha/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Não Precisa, canção de Paula Fernandes.
+listing_index: 193
+next_tab_url: /musicas/misc/oqueeoquee-gonzaguinha/
 next_tab_title: O Que é, o Que é
 next_tab_artist: Gonzaguinha
 

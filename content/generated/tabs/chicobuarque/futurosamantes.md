@@ -1,14 +1,17 @@
 Title: Futuros Amantes
 Slug: chico-buarque-futurosamantes
-Url: tablaturas/chicobuarque/futurosamantes/
-Save_As: tablaturas/chicobuarque/futurosamantes/index.html
+Url: musicas/chicobuarque/futurosamantes/
+Save_As: musicas/chicobuarque/futurosamantes/index.html
 page_type: tab
 artist: Chico Buarque
 artist_url: https://www.cifraclub.com.br/chico-buarque/
-section_label: Tablaturas
-summary: Tablatura de Futuros Amantes por Chico Buarque.
-listing_index: 52
-next_tab_url: /tablaturas/chicobuarque/homenagemaomalandro/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Futuros Amantes, canção de Chico Buarque.
+listing_index: 53
+next_tab_url: /musicas/chicobuarque/homenagemaomalandro/
 next_tab_title: Homenagem ao Malandro
 next_tab_artist: Chico Buarque
 

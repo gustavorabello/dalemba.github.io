@@ -1,14 +1,17 @@
 Title: Pecado Capital
 Slug: paulinho-da-viola-pecadocapital
-Url: tablaturas/paulinhodaviola/pecadocapital/
-Save_As: tablaturas/paulinhodaviola/pecadocapital/index.html
+Url: musicas/paulinhodaviola/pecadocapital/
+Save_As: musicas/paulinhodaviola/pecadocapital/index.html
 page_type: tab
 artist: Paulinho da Viola
 artist_url: https://www.cifraclub.com.br/paulinho-da-viola/
-section_label: Tablaturas
-summary: Tablatura de Pecado Capital por Paulinho da Viola.
-listing_index: 210
-next_tab_url: /tablaturas/paulinhodaviola/perdoa/
+harmonic_key: B
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Pecado Capital, canção de Paulinho da Viola.
+listing_index: 213
+next_tab_url: /musicas/paulinhodaviola/perdoa/
 next_tab_title: Perdoa
 next_tab_artist: Paulinho da Viola
 

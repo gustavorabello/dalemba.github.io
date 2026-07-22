@@ -9,5 +9,5 @@ if str(BASE_DIR) not in sys.path:
 from pelicanconf import *  # noqa: F401,F403
 
 
-SITEURL = "https://dalemba.github.io"
+SITEURL = "https://dalembinha.github.io"
 RELATIVE_URLS = False

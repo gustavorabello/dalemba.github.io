@@ -1,14 +1,17 @@
 Title: O Surdo
 Slug: alcione-osurdo-alcione
-Url: tablaturas/sambaepagode/osurdo-alcione/
-Save_As: tablaturas/sambaepagode/osurdo-alcione/index.html
+Url: musicas/sambaepagode/osurdo-alcione/
+Save_As: musicas/sambaepagode/osurdo-alcione/index.html
 page_type: tab
 artist: Alcione
 artist_url: https://www.cifraclub.com.br/alcione/
-section_label: Tablaturas
-summary: Tablatura de O Surdo por Alcione.
-listing_index: 241
-next_tab_url: /tablaturas/sambaepagode/portelanaavenida-claranunes/
+harmonic_key: F
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: O Surdo, canção de Alcione.
+listing_index: 244
+next_tab_url: /musicas/sambaepagode/portelanaavenida-claranunes/
 next_tab_title: Portela na Avenida
 next_tab_artist: Clara Nunes
 

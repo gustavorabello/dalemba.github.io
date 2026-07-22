@@ -1,14 +1,17 @@
 Title: Eu e Voce Sempre
 Slug: jorge-aragao-euevocesempre
-Url: tablaturas/jorgearagao/euevocesempre/
-Save_As: tablaturas/jorgearagao/euevocesempre/index.html
+Url: musicas/jorgearagao/euevocesempre/
+Save_As: musicas/jorgearagao/euevocesempre/index.html
 page_type: tab
 artist: Jorge Aragao
 artist_url: https://www.cifraclub.com.br/jorge-aragao/
-section_label: Tablaturas
-summary: Tablatura de Eu e Voce Sempre por Jorge Aragao.
-listing_index: 117
-next_tab_url: /tablaturas/jorgearagao/feitiodepaixao/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Eu e Voce Sempre, canção de Jorge Aragao.
+listing_index: 120
+next_tab_url: /musicas/jorgearagao/feitiodepaixao/
 next_tab_title: Feitio de Paixão
 next_tab_artist: Jorge Aragao
 

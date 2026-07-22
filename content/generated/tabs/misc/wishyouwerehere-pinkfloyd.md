@@ -1,14 +1,17 @@
 Title: Wish You Here
 Slug: pink-floyd-wishyouwerehere-pinkfloyd
-Url: tablaturas/misc/wishyouwerehere-pinkfloyd/
-Save_As: tablaturas/misc/wishyouwerehere-pinkfloyd/index.html
+Url: musicas/misc/wishyouwerehere-pinkfloyd/
+Save_As: musicas/misc/wishyouwerehere-pinkfloyd/index.html
 page_type: tab
 artist: Pink Floyd
 artist_url: https://www.cifraclub.com.br/pink-floyd/
-section_label: Tablaturas
-summary: Tablatura de Wish You Here por Pink Floyd.
-listing_index: 203
-next_tab_url: /tablaturas/nandoreis/muitoestranho/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Wish You Here, canção de Pink Floyd.
+listing_index: 206
+next_tab_url: /musicas/nandoreis/muitoestranho/
 next_tab_title: Muito Estranho
 next_tab_artist: Dalto - versão Nando Reis
 

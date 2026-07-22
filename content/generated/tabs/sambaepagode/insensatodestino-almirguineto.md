@@ -1,14 +1,17 @@
 Title: Insensato Destino
 Slug: almir-guineto-insensatodestino-almirguineto
-Url: tablaturas/sambaepagode/insensatodestino-almirguineto/
-Save_As: tablaturas/sambaepagode/insensatodestino-almirguineto/index.html
+Url: musicas/sambaepagode/insensatodestino-almirguineto/
+Save_As: musicas/sambaepagode/insensatodestino-almirguineto/index.html
 page_type: tab
 artist: Almir Guineto
 artist_url: https://www.cifraclub.com.br/almir-guineto/
-section_label: Tablaturas
-summary: Tablatura de Insensato Destino por Almir Guineto.
-listing_index: 233
-next_tab_url: /tablaturas/sambaepagode/minadefe-osmorenos/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Insensato Destino, canção de Almir Guineto.
+listing_index: 236
+next_tab_url: /musicas/sambaepagode/minadefe-osmorenos/
 next_tab_title: Mina de Fé
 next_tab_artist: Os Morenos
 

@@ -1,14 +1,17 @@
 Title: Codinome Beija-Flor
 Slug: cazuza-codinomebeijaflor
-Url: tablaturas/cazuza/codinomebeijaflor/
-Save_As: tablaturas/cazuza/codinomebeijaflor/index.html
+Url: musicas/cazuza/codinomebeijaflor/
+Save_As: musicas/cazuza/codinomebeijaflor/index.html
 page_type: tab
 artist: Cazuza
 artist_url: https://www.cifraclub.com.br/cazuza/
-section_label: Tablaturas
-summary: Tablatura de Codinome Beija-Flor por Cazuza.
-listing_index: 39
-next_tab_url: /tablaturas/cazuza/exagerado/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Codinome Beija-Flor, canção de Cazuza.
+listing_index: 40
+next_tab_url: /musicas/cazuza/exagerado/
 next_tab_title: Exagerado
 next_tab_artist: Cazuza
 

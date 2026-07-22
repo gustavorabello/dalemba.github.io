@@ -1,14 +1,17 @@
 Title: Tá Perdoado
 Slug: maria-rita-taperdoado
-Url: tablaturas/mariarita/taperdoado/
-Save_As: tablaturas/mariarita/taperdoado/index.html
+Url: musicas/mariarita/taperdoado/
+Save_As: musicas/mariarita/taperdoado/index.html
 page_type: tab
 artist: Maria Rita
 artist_url: https://www.cifraclub.com.br/maria-rita/
-section_label: Tablaturas
-summary: Tablatura de Tá Perdoado por Maria Rita.
-listing_index: 151
-next_tab_url: /tablaturas/marisamonte/aindabem/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Tá Perdoado, canção de Maria Rita.
+listing_index: 154
+next_tab_url: /musicas/marisamonte/aindabem/
 next_tab_title: Ainda Bem
 next_tab_artist: Marisa Monte
 

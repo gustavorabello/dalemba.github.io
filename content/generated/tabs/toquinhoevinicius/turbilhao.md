@@ -1,14 +1,17 @@
 Title: Turbilhao
 Slug: toquinho-vinicius-turbilhao
-Url: tablaturas/toquinhoevinicius/turbilhao/
-Save_As: tablaturas/toquinhoevinicius/turbilhao/index.html
+Url: musicas/toquinhoevinicius/turbilhao/
+Save_As: musicas/toquinhoevinicius/turbilhao/index.html
 page_type: tab
 artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
-section_label: Tablaturas
-summary: Tablatura de Turbilhao por Toquinho & Vinicius.
-listing_index: 297
-next_tab_url: /tablaturas/toquinhoevinicius/voceabusou/
+harmonic_key: D
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Turbilhao, canção de Toquinho & Vinicius.
+listing_index: 301
+next_tab_url: /musicas/toquinhoevinicius/voceabusou/
 next_tab_title: Você Abusou
 next_tab_artist: Toquinho & Vinicius
 

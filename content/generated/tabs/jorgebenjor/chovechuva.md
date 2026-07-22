@@ -1,14 +1,17 @@
 Title: Chove Chuva
 Slug: jorge-benjor-chovechuva
-Url: tablaturas/jorgebenjor/chovechuva/
-Save_As: tablaturas/jorgebenjor/chovechuva/index.html
+Url: musicas/jorgebenjor/chovechuva/
+Save_As: musicas/jorgebenjor/chovechuva/index.html
 page_type: tab
 artist: Jorge Benjor
 artist_url: https://www.cifraclub.com.br/jorge-benjor/
-section_label: Tablaturas
-summary: Tablatura de Chove Chuva por Jorge Benjor.
-listing_index: 120
-next_tab_url: /tablaturas/jorgebenjor/filhomaravilha/
+harmonic_key: D
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Chove Chuva, canção de Jorge Benjor.
+listing_index: 123
+next_tab_url: /musicas/jorgebenjor/filhomaravilha/
 next_tab_title: Filho Maravilha
 next_tab_artist: Jorge Benjor
 

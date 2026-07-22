@@ -1,14 +1,17 @@
 Title: Michelle
 Slug: the-beatles-michelle-beatles
-Url: tablaturas/cordadeaco/michelle-beatles/
-Save_As: tablaturas/cordadeaco/michelle-beatles/index.html
+Url: musicas/cordadeaco/michelle-beatles/
+Save_As: musicas/cordadeaco/michelle-beatles/index.html
 page_type: tab
 artist: The Beatles
 artist_url: https://www.cifraclub.com.br/the-beatles/
-section_label: Tablaturas
-summary: Tablatura de Michelle por The Beatles.
-listing_index: 71
-next_tab_url: /tablaturas/cordadeaco/mistymountainscold-thehobbits/
+harmonic_key: F
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Michelle, canção de The Beatles.
+listing_index: 72
+next_tab_url: /musicas/cordadeaco/mistymountainscold-thehobbits/
 next_tab_title: Misty Mountains Cold
 next_tab_artist: The Hobbits
 

@@ -1,14 +1,17 @@
 Title: Feitio de Paixão
 Slug: jorge-aragao-feitiodepaixao
-Url: tablaturas/jorgearagao/feitiodepaixao/
-Save_As: tablaturas/jorgearagao/feitiodepaixao/index.html
+Url: musicas/jorgearagao/feitiodepaixao/
+Save_As: musicas/jorgearagao/feitiodepaixao/index.html
 page_type: tab
 artist: Jorge Aragao
 artist_url: https://www.cifraclub.com.br/jorge-aragao/
-section_label: Tablaturas
-summary: Tablatura de Feitio de Paixão por Jorge Aragao.
-listing_index: 118
-next_tab_url: /tablaturas/jorgearagao/papeldepao/
+harmonic_key: F
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Feitio de Paixão, canção de Jorge Aragao.
+listing_index: 121
+next_tab_url: /musicas/jorgearagao/papeldepao/
 next_tab_title: Papel de Pao
 next_tab_artist: Jorge Aragao
 

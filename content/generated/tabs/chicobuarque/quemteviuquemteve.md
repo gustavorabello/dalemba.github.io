@@ -1,14 +1,17 @@
 Title: Quem Te Viu, Quem Te Ve
 Slug: chico-buarque-quemteviuquemteve
-Url: tablaturas/chicobuarque/quemteviuquemteve/
-Save_As: tablaturas/chicobuarque/quemteviuquemteve/index.html
+Url: musicas/chicobuarque/quemteviuquemteve/
+Save_As: musicas/chicobuarque/quemteviuquemteve/index.html
 page_type: tab
 artist: Chico Buarque
 artist_url: https://www.cifraclub.com.br/chico-buarque/
-section_label: Tablaturas
-summary: Tablatura de Quem Te Viu, Quem Te Ve por Chico Buarque.
-listing_index: 58
-next_tab_url: /tablaturas/chicobuarque/rodaviva/
+harmonic_key: B
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Quem Te Viu, Quem Te Ve, canção de Chico Buarque.
+listing_index: 59
+next_tab_url: /musicas/chicobuarque/rodaviva/
 next_tab_title: Roda Viva
 next_tab_artist: Chico Buarque
 

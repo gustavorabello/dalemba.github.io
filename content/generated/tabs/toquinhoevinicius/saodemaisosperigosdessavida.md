@@ -1,14 +1,17 @@
 Title: São Demais os Perigos Desta Vida
 Slug: toquinho-vinicius-saodemaisosperigosdessavida
-Url: tablaturas/toquinhoevinicius/saodemaisosperigosdessavida/
-Save_As: tablaturas/toquinhoevinicius/saodemaisosperigosdessavida/index.html
+Url: musicas/toquinhoevinicius/saodemaisosperigosdessavida/
+Save_As: musicas/toquinhoevinicius/saodemaisosperigosdessavida/index.html
 page_type: tab
 artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
-section_label: Tablaturas
-summary: Tablatura de São Demais os Perigos Desta Vida por Toquinho & Vinicius.
-listing_index: 294
-next_tab_url: /tablaturas/toquinhoevinicius/terraprometida/
+harmonic_key: E
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: São Demais os Perigos Desta Vida, canção de Toquinho & Vinicius.
+listing_index: 298
+next_tab_url: /musicas/toquinhoevinicius/terraprometida/
 next_tab_title: Terra Prometida
 next_tab_artist: Toquinho & Vinicius
 

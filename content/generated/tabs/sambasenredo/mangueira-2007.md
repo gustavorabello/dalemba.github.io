@@ -1,21 +1,23 @@
 Title: Mangueira (2007)
 Slug: sambas-enredo-mangueira-2007
-Url: tablaturas/sambasenredo/mangueira-2007/
-Save_As: tablaturas/sambasenredo/mangueira-2007/index.html
+Url: musicas/sambasenredo/mangueira-2007/
+Save_As: musicas/sambasenredo/mangueira-2007/index.html
 page_type: tab
 artist: Sambas Enredo
 artist_url: https://www.cifraclub.com.br/sambas-enredo/
-section_label: Tablaturas
-summary: Tablatura de Mangueira (2007) por Sambas Enredo.
-listing_index: 252
-next_tab_url: /tablaturas/sambasenredo/mocidade-1996/
+harmonic_key: F
+harmonic_mode: major
+harmonic_key_source: declared
+section_label: Músicas
+summary: Mangueira (2007), canção de Sambas Enredo.
+listing_index: 255
+next_tab_url: /musicas/sambasenredo/mocidade-1996/
 next_tab_title: Mocidade (1996)
 next_tab_artist: Sambas Enredo
 
 <div class="tab-layout columns">
   <div class="tab-column">
     <pre class="tab-sheet">título: Vem no vira da Mangueira
-tom: F
 
 <span class="chord">F</span>          <span class="chord">C7</span>             <span class="chord">F</span>      <span class="chord">D7/F#</span>     <span class="chord">Gm</span> 
 Vem no vira da Mangueira vem sambar 
@@ -51,12 +53,12 @@ Caravelas ao mar partiram
                  <span class="chord">Gm7/b5</span>   <span class="chord">C7</span>       <span class="chord">Fm</span> 
 Por destino encontraram o Brasil... 
 <span class="chord">C7/5</span>+               <span class="chord">Fm</span>   <span class="chord">F7</span>   <span class="chord">Bbm</span> 
-Nos trazendo a maior riqueza </pre>
+Nos trazendo a maior riqueza 
+<span class="chord">Bbm/G#</span>    <span class="chord">Gm7/b5</span>          <span class="chord">C7</span>      <span class="chord">Fm</span>   <span class="chord">F7</span>  
+           A nossa Língua Portuguesa </pre>
   </div>
   <div class="tab-column">
-    <pre class="tab-sheet"><span class="chord">Bbm/G#</span>    <span class="chord">Gm7/b5</span>          <span class="chord">C7</span>      <span class="chord">Fm</span>   <span class="chord">F7</span>  
-           A nossa Língua Portuguesa 
-             <span class="chord">Bbm</span>        <span class="chord">Eb7</span>              <span class="chord">G#7+</span>        <span class="chord">C#7+</span> 
+    <pre class="tab-sheet">             <span class="chord">Bbm</span>        <span class="chord">Eb7</span>              <span class="chord">G#7+</span>        <span class="chord">C#7+</span> 
 Se misturou com tupi tupinambrasileirou 
                    <span class="chord">Gm7/b5</span>          <span class="chord">C7</span>     <span class="chord">Cm7/b5</span> 
 Mais tarde o canto do negro ecoou 

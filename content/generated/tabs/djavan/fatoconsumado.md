@@ -1,14 +1,17 @@
 Title: Fato Consumado
 Slug: djavan-fatoconsumado
-Url: tablaturas/djavan/fatoconsumado/
-Save_As: tablaturas/djavan/fatoconsumado/index.html
+Url: musicas/djavan/fatoconsumado/
+Save_As: musicas/djavan/fatoconsumado/index.html
 page_type: tab
 artist: Djavan
 artist_url: https://www.cifraclub.com.br/djavan/
-section_label: Tablaturas
-summary: Tablatura de Fato Consumado por Djavan.
-listing_index: 82
-next_tab_url: /tablaturas/djavan/flordelis/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Fato Consumado, canção de Djavan.
+listing_index: 83
+next_tab_url: /musicas/djavan/flordelis/
 next_tab_title: Flor de Lis
 next_tab_artist: Djavan
 

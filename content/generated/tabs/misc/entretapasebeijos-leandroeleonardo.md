@@ -1,14 +1,17 @@
 Title: Entre Tapas e Beijos
 Slug: leandro-e-leonardo-entretapasebeijos-leandroeleonardo
-Url: tablaturas/misc/entretapasebeijos-leandroeleonardo/
-Save_As: tablaturas/misc/entretapasebeijos-leandroeleonardo/index.html
+Url: musicas/misc/entretapasebeijos-leandroeleonardo/
+Save_As: musicas/misc/entretapasebeijos-leandroeleonardo/index.html
 page_type: tab
 artist: Leandro e Leonardo
 artist_url: https://www.cifraclub.com.br/leandro-e-leonardo/
-section_label: Tablaturas
-summary: Tablatura de Entre Tapas e Beijos por Leandro e Leonardo.
-listing_index: 175
-next_tab_url: /tablaturas/misc/euqueroebotarmeubloconarua-sergiosampaio/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Entre Tapas e Beijos, canção de Leandro e Leonardo.
+listing_index: 178
+next_tab_url: /musicas/misc/euqueroebotarmeubloconarua-sergiosampaio/
 next_tab_title: Eu Quero E Botar Meu Bloco Na Rua
 next_tab_artist: Sergio Sampaio
 

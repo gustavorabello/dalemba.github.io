@@ -1,14 +1,17 @@
 Title: A Estrada
 Slug: cidade-negra-aestrada-cidadenegra
-Url: tablaturas/misc/aestrada-cidadenegra/
-Save_As: tablaturas/misc/aestrada-cidadenegra/index.html
+Url: musicas/misc/aestrada-cidadenegra/
+Save_As: musicas/misc/aestrada-cidadenegra/index.html
 page_type: tab
 artist: Cidade Negra
 artist_url: https://www.cifraclub.com.br/cidade-negra/
-section_label: Tablaturas
-summary: Tablatura de A Estrada por Cidade Negra.
-listing_index: 166
-next_tab_url: /tablaturas/misc/afrancesa-marinalima/
+harmonic_key: D
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: A Estrada, canção de Cidade Negra.
+listing_index: 169
+next_tab_url: /musicas/misc/afrancesa-marinalima/
 next_tab_title: A francesa
 next_tab_artist: Antônio Cícero versão Marina Lima
 

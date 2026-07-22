@@ -1,14 +1,17 @@
 Title: Pela Luz dos Olhos Teus
 Slug: tom-jobim-pelaluzdosolhosteus
-Url: tablaturas/tomjobim/pelaluzdosolhosteus/
-Save_As: tablaturas/tomjobim/pelaluzdosolhosteus/index.html
+Url: musicas/tomjobim/pelaluzdosolhosteus/
+Save_As: musicas/tomjobim/pelaluzdosolhosteus/index.html
 page_type: tab
 artist: Tom Jobim
 artist_url: https://www.cifraclub.com.br/tom-jobim/
-section_label: Tablaturas
-summary: Tablatura de Pela Luz dos Olhos Teus por Tom Jobim.
-listing_index: 270
-next_tab_url: /tablaturas/tomjobim/retratoembrancoepreto/
+harmonic_key: F
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Pela Luz dos Olhos Teus, canção de Tom Jobim.
+listing_index: 274
+next_tab_url: /musicas/tomjobim/retratoembrancoepreto/
 next_tab_title: Retrato em Branco e Preto
 next_tab_artist: Tom Jobim
 

@@ -1,14 +1,17 @@
 Title: Mal Acostuamdo
 Slug: araketu-malacostumado-araketu
-Url: tablaturas/misc/malacostumado-araketu/
-Save_As: tablaturas/misc/malacostumado-araketu/index.html
+Url: musicas/misc/malacostumado-araketu/
+Save_As: musicas/misc/malacostumado-araketu/index.html
 page_type: tab
 artist: Araketu
 artist_url: https://www.cifraclub.com.br/araketu/
-section_label: Tablaturas
-summary: Tablatura de Mal Acostuamdo por Araketu.
-listing_index: 184
-next_tab_url: /tablaturas/misc/manhadecarnaval-luizbonfa/
+harmonic_key: C
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Mal Acostuamdo, canção de Araketu.
+listing_index: 187
+next_tab_url: /musicas/misc/manhadecarnaval-luizbonfa/
 next_tab_title: Manha de Carnaval
 next_tab_artist: Luiz Bonfa
 

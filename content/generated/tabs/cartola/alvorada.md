@@ -1,14 +1,17 @@
 Title: Alvorada
 Slug: cartola-alvorada
-Url: tablaturas/cartola/alvorada/
-Save_As: tablaturas/cartola/alvorada/index.html
+Url: musicas/cartola/alvorada/
+Save_As: musicas/cartola/alvorada/index.html
 page_type: tab
 artist: Cartola
 artist_url: https://www.cifraclub.com.br/cartola/
-section_label: Tablaturas
-summary: Tablatura de Alvorada por Cartola.
-listing_index: 32
-next_tab_url: /tablaturas/cartola/omundoeummoinho/
+harmonic_key: Eb
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Alvorada, canção de Cartola.
+listing_index: 33
+next_tab_url: /musicas/cartola/omundoeummoinho/
 next_tab_title: O Mundo E Um Moinho
 next_tab_artist: Cartola
 

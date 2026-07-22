@@ -1,14 +1,17 @@
 Title: Argumento
 Slug: paulinho-da-viola-argumento
-Url: tablaturas/paulinhodaviola/argumento/
-Save_As: tablaturas/paulinhodaviola/argumento/index.html
+Url: musicas/paulinhodaviola/argumento/
+Save_As: musicas/paulinhodaviola/argumento/index.html
 page_type: tab
 artist: Paulinho da Viola
 artist_url: https://www.cifraclub.com.br/paulinho-da-viola/
-section_label: Tablaturas
-summary: Tablatura de Argumento por Paulinho da Viola.
-listing_index: 206
-next_tab_url: /tablaturas/paulinhodaviola/coracaoleviano/
+harmonic_key: D
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Argumento, canção de Paulinho da Viola.
+listing_index: 209
+next_tab_url: /musicas/paulinhodaviola/coracaoleviano/
 next_tab_title: Coração Leviano
 next_tab_artist: Paulinho da Viola
 

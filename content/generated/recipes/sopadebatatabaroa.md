@@ -1,15 +1,12 @@
-Title: Sopa de batata baroa
+Title: Sopa de Batata-baroa
 Slug: sopadebatatabaroa
 Url: receitas/sopadebatatabaroa/
 Save_As: receitas/sopadebatatabaroa/index.html
 page_type: recipe
 section_label: Receitas
-subtitle: Receitas importadas do acervo Hyde com o conteúdo original preservado.
-summary: Refogar a cebola e o alho-poró no azeite, acrescentando em
-seguida sal, pimenta do reino e noz moscada. Depois da cebola murchar,
-acrescentar a batata baroa e refogar mais um pouco
-
-<p class="recipe-hero"><img src="/static/images/recipes/sopaDeBatataBaroa.png" alt="Sopa de batata baroa"></p>
+subtitle: Para fazer a casa cheirar a afeto.
+summary: Refogar a cebola e o alho-poró no azeite, acrescentando em seguida sal, pimenta do reino e noz moscada.
+recipe_image: /static/images/recipes/sopaDeBatataBaroa.png
 
 ## Ingredientes
 - 1kg de batata baroa descascada e cortada em pedaços médios; 

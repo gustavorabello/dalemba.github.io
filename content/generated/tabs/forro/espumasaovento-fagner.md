@@ -1,14 +1,17 @@
 Title: Espumas ao Vento
 Slug: fagner-espumasaovento-fagner
-Url: tablaturas/forro/espumasaovento-fagner/
-Save_As: tablaturas/forro/espumasaovento-fagner/index.html
+Url: musicas/forro/espumasaovento-fagner/
+Save_As: musicas/forro/espumasaovento-fagner/index.html
 page_type: tab
 artist: Fagner
 artist_url: https://www.cifraclub.com.br/fagner/
-section_label: Tablaturas
-summary: Tablatura de Espumas ao Vento por Fagner.
+harmonic_key: B
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Espumas ao Vento, canção de Fagner.
 listing_index: 96
-next_tab_url: /tablaturas/forro/feirademangaio-sivuca/
+next_tab_url: /musicas/forro/feirademangaio-sivuca/
 next_tab_title: Feira de Mangaio
 next_tab_artist: Sivuca
 

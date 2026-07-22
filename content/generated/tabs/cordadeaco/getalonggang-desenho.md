@@ -1,14 +1,17 @@
 Title: Get Along Gang
 Slug: desenho-getalonggang-desenho
-Url: tablaturas/cordadeaco/getalonggang-desenho/
-Save_As: tablaturas/cordadeaco/getalonggang-desenho/index.html
+Url: musicas/cordadeaco/getalonggang-desenho/
+Save_As: musicas/cordadeaco/getalonggang-desenho/index.html
 page_type: tab
 artist: Desenho
 artist_url: https://www.cifraclub.com.br/desenho/
-section_label: Tablaturas
-summary: Tablatura de Get Along Gang por Desenho.
-listing_index: 69
-next_tab_url: /tablaturas/cordadeaco/lifebythedrop-stevierayvaughan/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Get Along Gang, canção de Desenho.
+listing_index: 70
+next_tab_url: /musicas/cordadeaco/lifebythedrop-stevierayvaughan/
 next_tab_title: Life by the Drop
 next_tab_artist: Stevie Ray Vaughan
 

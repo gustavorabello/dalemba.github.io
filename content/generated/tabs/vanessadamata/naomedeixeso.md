@@ -1,14 +1,17 @@
 Title: Não Me Deixe Só
 Slug: vanessa-da-mata-naomedeixeso
-Url: tablaturas/vanessadamata/naomedeixeso/
-Save_As: tablaturas/vanessadamata/naomedeixeso/index.html
+Url: musicas/vanessadamata/naomedeixeso/
+Save_As: musicas/vanessadamata/naomedeixeso/index.html
 page_type: tab
 artist: Vanessa da Mata
 artist_url: https://www.cifraclub.com.br/vanessa-da-mata/
-section_label: Tablaturas
-summary: Tablatura de Não Me Deixe Só por Vanessa da Mata.
-listing_index: 305
-next_tab_url: /tablaturas/zeketi/avozdomorro/
+harmonic_key: B
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Não Me Deixe Só, canção de Vanessa da Mata.
+listing_index: 309
+next_tab_url: /musicas/zeketi/avozdomorro/
 next_tab_title: A Voz do Samba
 next_tab_artist: Zé Keti
 

@@ -1,14 +1,17 @@
 Title: O Tempo Não Para
 Slug: cazuza-otemponaopara
-Url: tablaturas/cazuza/otemponaopara/
-Save_As: tablaturas/cazuza/otemponaopara/index.html
+Url: musicas/cazuza/otemponaopara/
+Save_As: musicas/cazuza/otemponaopara/index.html
 page_type: tab
 artist: Cazuza
 artist_url: https://www.cifraclub.com.br/cazuza/
-section_label: Tablaturas
-summary: Tablatura de O Tempo Não Para por Cazuza.
-listing_index: 43
-next_tab_url: /tablaturas/cazuza/poema/
+harmonic_key: D
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: O Tempo Não Para, canção de Cazuza.
+listing_index: 44
+next_tab_url: /musicas/cazuza/poema/
 next_tab_title: Poema
 next_tab_artist: Cazuza
 

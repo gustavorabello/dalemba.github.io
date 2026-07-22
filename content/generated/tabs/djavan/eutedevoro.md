@@ -1,14 +1,17 @@
 Title: Eu Te Devoro
 Slug: djavan-eutedevoro
-Url: tablaturas/djavan/eutedevoro/
-Save_As: tablaturas/djavan/eutedevoro/index.html
+Url: musicas/djavan/eutedevoro/
+Save_As: musicas/djavan/eutedevoro/index.html
 page_type: tab
 artist: Djavan
 artist_url: https://www.cifraclub.com.br/djavan/
-section_label: Tablaturas
-summary: Tablatura de Eu Te Devoro por Djavan.
-listing_index: 81
-next_tab_url: /tablaturas/djavan/fatoconsumado/
+harmonic_key: D
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Eu Te Devoro, canção de Djavan.
+listing_index: 82
+next_tab_url: /musicas/djavan/fatoconsumado/
 next_tab_title: Fato Consumado
 next_tab_artist: Djavan
 

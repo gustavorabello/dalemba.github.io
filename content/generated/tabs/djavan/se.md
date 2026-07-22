@@ -1,14 +1,17 @@
 Title: Se
 Slug: djavan-se
-Url: tablaturas/djavan/se/
-Save_As: tablaturas/djavan/se/index.html
+Url: musicas/djavan/se/
+Save_As: musicas/djavan/se/index.html
 page_type: tab
 artist: Djavan
 artist_url: https://www.cifraclub.com.br/djavan/
-section_label: Tablaturas
-summary: Tablatura de Se por Djavan.
-listing_index: 86
-next_tab_url: /tablaturas/djavan/sina/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Se, canção de Djavan.
+listing_index: 87
+next_tab_url: /musicas/djavan/sina/
 next_tab_title: Sina
 next_tab_artist: Djavan
 

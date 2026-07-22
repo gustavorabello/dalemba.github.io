@@ -1,14 +1,17 @@
 Title: Deixa Eu Te Amar
 Slug: agepe-deixaeuteamar-agepe
-Url: tablaturas/sambaepagode/deixaeuteamar-agepe/
-Save_As: tablaturas/sambaepagode/deixaeuteamar-agepe/index.html
+Url: musicas/sambaepagode/deixaeuteamar-agepe/
+Save_As: musicas/sambaepagode/deixaeuteamar-agepe/index.html
 page_type: tab
 artist: Agepê
 artist_url: https://www.cifraclub.com.br/agepe/
-section_label: Tablaturas
-summary: Tablatura de Deixa Eu Te Amar por Agepê.
-listing_index: 228
-next_tab_url: /tablaturas/sambaepagode/domingodesol-dicro/
+harmonic_key: A
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Deixa Eu Te Amar, canção de Agepê.
+listing_index: 231
+next_tab_url: /musicas/sambaepagode/domingodesol-dicro/
 next_tab_title: Domingo de Sol
 next_tab_artist: Dicro
 

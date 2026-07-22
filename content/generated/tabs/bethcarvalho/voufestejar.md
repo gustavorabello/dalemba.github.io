@@ -1,14 +1,17 @@
 Title: Vou Festejar
 Slug: beth-carvalho-voufestejar
-Url: tablaturas/bethcarvalho/voufestejar/
-Save_As: tablaturas/bethcarvalho/voufestejar/index.html
+Url: musicas/bethcarvalho/voufestejar/
+Save_As: musicas/bethcarvalho/voufestejar/index.html
 page_type: tab
 artist: Beth Carvalho
 artist_url: https://www.cifraclub.com.br/beth-carvalho/
-section_label: Tablaturas
-summary: Tablatura de Vou Festejar por Beth Carvalho.
-listing_index: 24
-next_tab_url: /tablaturas/bobmarley/redemptionsong/
+harmonic_key: E
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Vou Festejar, canção de Beth Carvalho.
+listing_index: 25
+next_tab_url: /musicas/bobmarley/redemptionsong/
 next_tab_title: Redemption Song
 next_tab_artist: Bob Marley
 

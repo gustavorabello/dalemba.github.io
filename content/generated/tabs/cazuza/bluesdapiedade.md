@@ -1,14 +1,17 @@
 Title: Blues da Piedade
 Slug: cazuza-bluesdapiedade
-Url: tablaturas/cazuza/bluesdapiedade/
-Save_As: tablaturas/cazuza/bluesdapiedade/index.html
+Url: musicas/cazuza/bluesdapiedade/
+Save_As: musicas/cazuza/bluesdapiedade/index.html
 page_type: tab
 artist: Cazuza
 artist_url: https://www.cifraclub.com.br/cazuza/
-section_label: Tablaturas
-summary: Tablatura de Blues da Piedade por Cazuza.
-listing_index: 37
-next_tab_url: /tablaturas/cazuza/brasil/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Blues da Piedade, canção de Cazuza.
+listing_index: 38
+next_tab_url: /musicas/cazuza/brasil/
 next_tab_title: Brasil
 next_tab_artist: Cazuza
 

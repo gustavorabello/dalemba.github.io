@@ -1,14 +1,17 @@
 Title: Do Fundo do Nosso Quintal
 Slug: jorge-aragao-dofundodonossoquintal
-Url: tablaturas/jorgearagao/dofundodonossoquintal/
-Save_As: tablaturas/jorgearagao/dofundodonossoquintal/index.html
+Url: musicas/jorgearagao/dofundodonossoquintal/
+Save_As: musicas/jorgearagao/dofundodonossoquintal/index.html
 page_type: tab
 artist: Jorge Aragao
 artist_url: https://www.cifraclub.com.br/jorge-aragao/
-section_label: Tablaturas
-summary: Tablatura de Do Fundo do Nosso Quintal por Jorge Aragao.
-listing_index: 116
-next_tab_url: /tablaturas/jorgearagao/euevocesempre/
+harmonic_key: F
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Do Fundo do Nosso Quintal, canção de Jorge Aragao.
+listing_index: 119
+next_tab_url: /musicas/jorgearagao/euevocesempre/
 next_tab_title: Eu e Voce Sempre
 next_tab_artist: Jorge Aragao
 

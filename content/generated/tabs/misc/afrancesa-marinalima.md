@@ -1,22 +1,23 @@
 Title: A francesa
 Slug: antonio-cicero-versao-marina-lima-afrancesa-marinalima
-Url: tablaturas/misc/afrancesa-marinalima/
-Save_As: tablaturas/misc/afrancesa-marinalima/index.html
+Url: musicas/misc/afrancesa-marinalima/
+Save_As: musicas/misc/afrancesa-marinalima/index.html
 page_type: tab
 artist: Antônio Cícero versão Marina Lima
 artist_url: https://www.cifraclub.com.br/antonio-cicero-versao-marina-lima/
-section_label: Tablaturas
-summary: Tablatura de A francesa por Antônio Cícero versão Marina Lima.
-listing_index: 167
-next_tab_url: /tablaturas/misc/andeiso-natiruts/
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: declared
+section_label: Músicas
+summary: A francesa, canção de Antônio Cícero versão Marina Lima.
+listing_index: 170
+next_tab_url: /musicas/misc/andeiso-natiruts/
 next_tab_title: Andei Só
 next_tab_artist: Natirutis
 
 <div class="tab-layout columns">
   <div class="tab-column">
-    <pre class="tab-sheet">Tom: C
-
-<span class="chord">Am</span>           <span class="chord">Am7M</span>           <span class="chord">Am7</span>
+    <pre class="tab-sheet"><span class="chord">Am</span>           <span class="chord">Am7M</span>           <span class="chord">Am7</span>
 Meu amor se você for embora
                  <span class="chord">Am6</span>
 Sabe lá o que será de mim

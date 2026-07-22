@@ -1,14 +1,17 @@
 Title: Meus Bons Amigos
 Slug: barao-vermelho-meusbonsamigos
-Url: tablaturas/baraovermelho/meusbonsamigos/
-Save_As: tablaturas/baraovermelho/meusbonsamigos/index.html
+Url: musicas/baraovermelho/meusbonsamigos/
+Save_As: musicas/baraovermelho/meusbonsamigos/index.html
 page_type: tab
 artist: Bãrao Vermelho
 artist_url: https://www.cifraclub.com.br/barao-vermelho/
-section_label: Tablaturas
-summary: Tablatura de Meus Bons Amigos por Bãrao Vermelho.
-listing_index: 16
-next_tab_url: /tablaturas/baraovermelho/opoetaestavivo/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Meus Bons Amigos, canção de Bãrao Vermelho.
+listing_index: 17
+next_tab_url: /musicas/baraovermelho/opoetaestavivo/
 next_tab_title: O Poeta Está Vivo
 next_tab_artist: Barão Vermelho
 

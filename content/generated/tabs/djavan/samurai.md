@@ -1,14 +1,17 @@
 Title: Samurai
 Slug: djavan-samurai
-Url: tablaturas/djavan/samurai/
-Save_As: tablaturas/djavan/samurai/index.html
+Url: musicas/djavan/samurai/
+Save_As: musicas/djavan/samurai/index.html
 page_type: tab
 artist: Djavan
 artist_url: https://www.cifraclub.com.br/djavan/
-section_label: Tablaturas
-summary: Tablatura de Samurai por Djavan.
-listing_index: 85
-next_tab_url: /tablaturas/djavan/se/
+harmonic_key: E
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Samurai, canção de Djavan.
+listing_index: 86
+next_tab_url: /musicas/djavan/se/
 next_tab_title: Se
 next_tab_artist: Djavan
 

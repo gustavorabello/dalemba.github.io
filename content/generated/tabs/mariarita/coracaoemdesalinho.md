@@ -1,14 +1,17 @@
 Title: Coração em Desalinho
 Slug: maria-rita-coracaoemdesalinho
-Url: tablaturas/mariarita/coracaoemdesalinho/
-Save_As: tablaturas/mariarita/coracaoemdesalinho/index.html
+Url: musicas/mariarita/coracaoemdesalinho/
+Save_As: musicas/mariarita/coracaoemdesalinho/index.html
 page_type: tab
 artist: Maria Rita
 artist_url: https://www.cifraclub.com.br/maria-rita/
-section_label: Tablaturas
-summary: Tablatura de Coração em Desalinho por Maria Rita.
-listing_index: 147
-next_tab_url: /tablaturas/mariarita/cria/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Coração em Desalinho, canção de Maria Rita.
+listing_index: 150
+next_tab_url: /musicas/mariarita/cria/
 next_tab_title: Cria
 next_tab_artist: Maria Rita
 

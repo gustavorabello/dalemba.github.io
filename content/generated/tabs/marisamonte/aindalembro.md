@@ -1,14 +1,17 @@
 Title: Ainda Lembro
 Slug: marisa-monte-aindalembro
-Url: tablaturas/marisamonte/aindalembro/
-Save_As: tablaturas/marisamonte/aindalembro/index.html
+Url: musicas/marisamonte/aindalembro/
+Save_As: musicas/marisamonte/aindalembro/index.html
 page_type: tab
 artist: Marisa Monte
 artist_url: https://www.cifraclub.com.br/marisa-monte/
-section_label: Tablaturas
-summary: Tablatura de Ainda Lembro por Marisa Monte.
-listing_index: 153
-next_tab_url: /tablaturas/marisamonte/demaisninguem/
+harmonic_key: E
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Ainda Lembro, canção de Marisa Monte.
+listing_index: 156
+next_tab_url: /musicas/marisamonte/demaisninguem/
 next_tab_title: De Mais Ninguém
 next_tab_artist: Marisa Monte
 

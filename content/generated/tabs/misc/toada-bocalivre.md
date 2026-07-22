@@ -1,22 +1,23 @@
 Title: Toada
 Slug: boca-livre-toada-bocalivre
-Url: tablaturas/misc/toada-bocalivre/
-Save_As: tablaturas/misc/toada-bocalivre/index.html
+Url: musicas/misc/toada-bocalivre/
+Save_As: musicas/misc/toada-bocalivre/index.html
 page_type: tab
 artist: Boca Livre
 artist_url: https://www.cifraclub.com.br/boca-livre/
-section_label: Tablaturas
-summary: Tablatura de Toada por Boca Livre.
-listing_index: 200
-next_tab_url: /tablaturas/misc/tocandemfrente-almirsater/
+harmonic_key: E
+harmonic_mode: major
+harmonic_key_source: declared
+section_label: Músicas
+summary: Toada, canção de Boca Livre.
+listing_index: 203
+next_tab_url: /musicas/misc/tocandemfrente-almirsater/
 next_tab_title: Tocando em Frente
 next_tab_artist: Almir Sater
 
 <div class="tab-layout columns">
   <div class="tab-column">
-    <pre class="tab-sheet">TOM : E
-
-<span class="chord">E</span>                  <span class="chord">F#m7</span>              <span class="chord">D</span>
+    <pre class="tab-sheet"><span class="chord">E</span>                  <span class="chord">F#m7</span>              <span class="chord">D</span>
 Vem morena ouvir comigo esta cantiga 
              <span class="chord">E</span>             <span class="chord">C#m7</span>
 Sair por essa vida  aventureira
@@ -35,13 +36,13 @@ Tanta saudade eu já sentí, morena
          <span class="chord">F#7</span>            <span class="chord">B</span>
 Mas que coisa tão bonita
    <span class="chord">Eb7</span>           <span class="chord">G#m</span>     <span class="chord">F#m</span>   <span class="chord">E</span>
-Da vida, nunca vou me arrepender</pre>
+Da vida, nunca vou me arrepender
+
+              <span class="chord">Eb</span>        <span class="chord">G#m</span>      <span class="chord">F#</span>       <span class="chord">B</span>  <span class="chord">F#</span>   <span class="chord">E</span>   <span class="chord">Eb</span>   <span class="chord">G#m</span>  <span class="chord">A</span>  <span class="chord">E</span>
+Solo (vocal) {Hummm..., humm..., humm..., ô,ô,ô....}</pre>
   </div>
   <div class="tab-column">
-    <pre class="tab-sheet">              <span class="chord">Eb</span>        <span class="chord">G#m</span>      <span class="chord">F#</span>       <span class="chord">B</span>  <span class="chord">F#</span>   <span class="chord">E</span>   <span class="chord">Eb</span>   <span class="chord">G#m</span>  <span class="chord">A</span>  <span class="chord">E</span>
-Solo (vocal) {Hummm..., humm..., humm..., ô,ô,ô....}
-
-<span class="chord">E/G#</span>         <span class="chord">A#</span>          <span class="chord">D#</span>
+    <pre class="tab-sheet"><span class="chord">E/G#</span>         <span class="chord">A#</span>          <span class="chord">D#</span>
 Vem morena, Vem morena, Vem morena 
 <span class="chord">G#</span>           <span class="chord">C#</span>          <span class="chord">F#</span>
 Vem morena, Vem morena, Vem morena 

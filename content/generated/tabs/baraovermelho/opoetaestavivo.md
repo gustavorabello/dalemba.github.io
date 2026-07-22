@@ -1,14 +1,17 @@
 Title: O Poeta Está Vivo
 Slug: barao-vermelho-opoetaestavivo
-Url: tablaturas/baraovermelho/opoetaestavivo/
-Save_As: tablaturas/baraovermelho/opoetaestavivo/index.html
+Url: musicas/baraovermelho/opoetaestavivo/
+Save_As: musicas/baraovermelho/opoetaestavivo/index.html
 page_type: tab
 artist: Barão Vermelho
 artist_url: https://www.cifraclub.com.br/barao-vermelho/
-section_label: Tablaturas
-summary: Tablatura de O Poeta Está Vivo por Barão Vermelho.
-listing_index: 17
-next_tab_url: /tablaturas/baraovermelho/prodianascerfeliz/
+harmonic_key: G
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: O Poeta Está Vivo, canção de Barão Vermelho.
+listing_index: 18
+next_tab_url: /musicas/baraovermelho/prodianascerfeliz/
 next_tab_title: Pro Dia Nascer Feliz
 next_tab_artist: Bãrao Vermelho
 

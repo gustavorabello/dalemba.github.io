@@ -1,14 +1,17 @@
 Title: Preciso Me Encontrar
 Slug: cartola-precisomeencontrar
-Url: tablaturas/cartola/precisomeencontrar/
-Save_As: tablaturas/cartola/precisomeencontrar/index.html
+Url: musicas/cartola/precisomeencontrar/
+Save_As: musicas/cartola/precisomeencontrar/index.html
 page_type: tab
 artist: Cartola
 artist_url: https://www.cifraclub.com.br/cartola/
-section_label: Tablaturas
-summary: Tablatura de Preciso Me Encontrar por Cartola.
-listing_index: 35
-next_tab_url: /tablaturas/cartola/sim/
+harmonic_key: D
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Preciso Me Encontrar, canção de Cartola.
+listing_index: 36
+next_tab_url: /musicas/cartola/sim/
 next_tab_title: Sim
 next_tab_artist: Cartola
 

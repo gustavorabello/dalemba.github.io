@@ -4,12 +4,9 @@ Url: receitas/risotofunghi/
 Save_As: receitas/risotofunghi/index.html
 page_type: recipe
 section_label: Receitas
-subtitle: Receitas importadas do acervo Hyde com o conteúdo original preservado.
-summary: Coloque o funghi em uma tigela e cubra com água quente. Deixe
-hidratar por 30min. Escorra o funghi, coe a água e reserve os
-dois separadamente. Aqueça metade da manteiga e refogue 
-
-<p class="recipe-hero"><img src="/static/images/recipes/risotoFunghi.png" alt="Risoto ao Funghi"></p>
+subtitle: Para fazer a casa cheirar a afeto.
+summary: Coloque o funghi em uma tigela e cubra com água quente. Deixe hidratar por 30min. Escorra o funghi, coe a água e reserve os dois separadamente.
+recipe_image: /static/images/recipes/risotoFunghi.png
 
 ## Ingredientes
 - 2 xícaras (chá) de arroz arbório;

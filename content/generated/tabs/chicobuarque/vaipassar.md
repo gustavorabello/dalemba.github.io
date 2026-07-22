@@ -1,14 +1,17 @@
 Title: Vai Passar
 Slug: chico-buarque-vaipassar
-Url: tablaturas/chicobuarque/vaipassar/
-Save_As: tablaturas/chicobuarque/vaipassar/index.html
+Url: musicas/chicobuarque/vaipassar/
+Save_As: musicas/chicobuarque/vaipassar/index.html
 page_type: tab
 artist: Chico Buarque
 artist_url: https://www.cifraclub.com.br/chico-buarque/
-section_label: Tablaturas
-summary: Tablatura de Vai Passar por Chico Buarque.
-listing_index: 63
-next_tab_url: /tablaturas/chicobuarque/valsinha/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Vai Passar, canção de Chico Buarque.
+listing_index: 64
+next_tab_url: /musicas/chicobuarque/valsinha/
 next_tab_title: Valsinha
 next_tab_artist: Chico Buarque
 

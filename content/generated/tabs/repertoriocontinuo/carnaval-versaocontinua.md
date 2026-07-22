@@ -1,14 +1,17 @@
 Title: Foi Um Rio Que Passou Em Minha Vida
 Slug: paulinho-da-viola-carnaval-versaocontinua
-Url: tablaturas/repertoriocontinuo/carnaval-versaocontinua/
-Save_As: tablaturas/repertoriocontinuo/carnaval-versaocontinua/index.html
+Url: musicas/repertoriocontinuo/carnaval-versaocontinua/
+Save_As: musicas/repertoriocontinuo/carnaval-versaocontinua/index.html
 page_type: tab
 artist: Paulinho da Viola
 artist_url: https://www.cifraclub.com.br/paulinho-da-viola/
-section_label: Tablaturas
-summary: Tablatura de Foi Um Rio Que Passou Em Minha Vida por Paulinho da Viola.
-listing_index: 214
-next_tab_url: /tablaturas/repertoriocontinuo/carnaval/
+harmonic_key: D
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Foi Um Rio Que Passou Em Minha Vida, canção de Paulinho da Viola.
+listing_index: 217
+next_tab_url: /musicas/repertoriocontinuo/carnaval/
 next_tab_title: Foi Um Rio Que Passou Em Minha Vida
 next_tab_artist: Paulinho da Viola
 

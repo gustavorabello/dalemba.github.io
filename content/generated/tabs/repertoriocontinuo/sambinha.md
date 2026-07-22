@@ -1,14 +1,17 @@
 Title: Conselho
 Slug: almir-guineto-sambinha
-Url: tablaturas/repertoriocontinuo/sambinha/
-Save_As: tablaturas/repertoriocontinuo/sambinha/index.html
+Url: musicas/repertoriocontinuo/sambinha/
+Save_As: musicas/repertoriocontinuo/sambinha/index.html
 page_type: tab
 artist: Almir Guineto
 artist_url: https://www.cifraclub.com.br/almir-guineto/
-section_label: Tablaturas
-summary: Tablatura de Conselho por Almir Guineto.
-listing_index: 213
-next_tab_url: /tablaturas/repertoriocontinuo/carnaval-versaocontinua/
+harmonic_key: A
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Conselho, canção de Almir Guineto.
+listing_index: 216
+next_tab_url: /musicas/repertoriocontinuo/carnaval-versaocontinua/
 next_tab_title: Foi Um Rio Que Passou Em Minha Vida
 next_tab_artist: Paulinho da Viola
 

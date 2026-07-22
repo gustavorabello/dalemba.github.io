@@ -1,14 +1,17 @@
 Title: Insensatez
 Slug: tom-jobim-insensatez
-Url: tablaturas/tomjobim/insensatez/
-Save_As: tablaturas/tomjobim/insensatez/index.html
+Url: musicas/tomjobim/insensatez/
+Save_As: musicas/tomjobim/insensatez/index.html
 page_type: tab
 artist: Tom Jobim
 artist_url: https://www.cifraclub.com.br/tom-jobim/
-section_label: Tablaturas
-summary: Tablatura de Insensatez por Tom Jobim.
-listing_index: 268
-next_tab_url: /tablaturas/tomjobim/luiza/
+harmonic_key: B
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Insensatez, canção de Tom Jobim.
+listing_index: 272
+next_tab_url: /musicas/tomjobim/luiza/
 next_tab_title: Luiza
 next_tab_artist: Tom Jobim
 

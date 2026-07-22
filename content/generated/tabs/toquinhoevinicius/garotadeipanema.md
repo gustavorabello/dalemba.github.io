@@ -1,14 +1,17 @@
 Title: Garota De Ipanema
 Slug: toquinho-evinicius-garotadeipanema
-Url: tablaturas/toquinhoevinicius/garotadeipanema/
-Save_As: tablaturas/toquinhoevinicius/garotadeipanema/index.html
+Url: musicas/toquinhoevinicius/garotadeipanema/
+Save_As: musicas/toquinhoevinicius/garotadeipanema/index.html
 page_type: tab
 artist: Toquinho EVinicius
 artist_url: https://www.cifraclub.com.br/toquinho-evinicius/
-section_label: Tablaturas
-summary: Tablatura de Garota De Ipanema por Toquinho EVinicius.
-listing_index: 281
-next_tab_url: /tablaturas/toquinhoevinicius/lamentonomorro/
+harmonic_key: F
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Garota De Ipanema, canção de Toquinho EVinicius.
+listing_index: 285
+next_tab_url: /musicas/toquinhoevinicius/lamentonomorro/
 next_tab_title: Lamento no Morro
 next_tab_artist: Tom Jobim & Vinicius
 

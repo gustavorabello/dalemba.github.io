@@ -1,14 +1,17 @@
 Title: Retalhos de Cetim
 Slug: benito-di-paula-retalhosdecetim-benitodipaula
-Url: tablaturas/sambaepagode/retalhosdecetim-benitodipaula/
-Save_As: tablaturas/sambaepagode/retalhosdecetim-benitodipaula/index.html
+Url: musicas/sambaepagode/retalhosdecetim-benitodipaula/
+Save_As: musicas/sambaepagode/retalhosdecetim-benitodipaula/index.html
 page_type: tab
 artist: Benito Di Paula
 artist_url: https://www.cifraclub.com.br/benito-di-paula/
-section_label: Tablaturas
-summary: Tablatura de Retalhos de Cetim por Benito Di Paula.
-listing_index: 243
-next_tab_url: /tablaturas/sambaepagode/sambadeverao-marcosvalle/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Retalhos de Cetim, canção de Benito Di Paula.
+listing_index: 246
+next_tab_url: /musicas/sambaepagode/sambadeverao-marcosvalle/
 next_tab_title: Samba de Verão
 next_tab_artist: Marcos Valle
 

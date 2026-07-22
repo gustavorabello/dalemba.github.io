@@ -1,14 +1,17 @@
 Title: Diz Que Fui Por Aí
 Slug: ze-keti-dizquefuiporai
-Url: tablaturas/zeketi/dizquefuiporai/
-Save_As: tablaturas/zeketi/dizquefuiporai/index.html
+Url: musicas/zeketi/dizquefuiporai/
+Save_As: musicas/zeketi/dizquefuiporai/index.html
 page_type: tab
 artist: Zé Keti
 artist_url: https://www.cifraclub.com.br/ze-keti/
-section_label: Tablaturas
-summary: Tablatura de Diz Que Fui Por Aí por Zé Keti.
-listing_index: 307
-next_tab_url: /tablaturas/zeketi/mascaranegra/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Diz Que Fui Por Aí, canção de Zé Keti.
+listing_index: 311
+next_tab_url: /musicas/zeketi/mascaranegra/
 next_tab_title: Máscara Negra
 next_tab_artist: Zé Keti
 

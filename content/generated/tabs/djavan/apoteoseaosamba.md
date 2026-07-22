@@ -1,14 +1,17 @@
 Title: Apoteose ao Samba
 Slug: djavan-apoteoseaosamba
-Url: tablaturas/djavan/apoteoseaosamba/
-Save_As: tablaturas/djavan/apoteoseaosamba/index.html
+Url: musicas/djavan/apoteoseaosamba/
+Save_As: musicas/djavan/apoteoseaosamba/index.html
 page_type: tab
 artist: Djavan
 artist_url: https://www.cifraclub.com.br/djavan/
-section_label: Tablaturas
-summary: Tablatura de Apoteose ao Samba por Djavan.
-listing_index: 78
-next_tab_url: /tablaturas/djavan/azul/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Apoteose ao Samba, canção de Djavan.
+listing_index: 79
+next_tab_url: /musicas/djavan/azul/
 next_tab_title: Azul
 next_tab_artist: Djavan
 

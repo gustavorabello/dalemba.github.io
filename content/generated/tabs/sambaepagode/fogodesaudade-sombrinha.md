@@ -1,14 +1,17 @@
 Title: Fogo de Saudade
 Slug: sombrinha-fogodesaudade-sombrinha
-Url: tablaturas/sambaepagode/fogodesaudade-sombrinha/
-Save_As: tablaturas/sambaepagode/fogodesaudade-sombrinha/index.html
+Url: musicas/sambaepagode/fogodesaudade-sombrinha/
+Save_As: musicas/sambaepagode/fogodesaudade-sombrinha/index.html
 page_type: tab
 artist: Sombrinha
 artist_url: https://www.cifraclub.com.br/sombrinha/
-section_label: Tablaturas
-summary: Tablatura de Fogo de Saudade por Sombrinha.
-listing_index: 232
-next_tab_url: /tablaturas/sambaepagode/insensatodestino-almirguineto/
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Fogo de Saudade, canção de Sombrinha.
+listing_index: 235
+next_tab_url: /musicas/sambaepagode/insensatodestino-almirguineto/
 next_tab_title: Insensato Destino
 next_tab_artist: Almir Guineto
 

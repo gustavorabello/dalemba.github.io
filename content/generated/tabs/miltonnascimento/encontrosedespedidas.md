@@ -1,14 +1,17 @@
 Title: Encontro e Despedidas
 Slug: milton-nascimento-encontrosedespedidas
-Url: tablaturas/miltonnascimento/encontrosedespedidas/
-Save_As: tablaturas/miltonnascimento/encontrosedespedidas/index.html
+Url: musicas/miltonnascimento/encontrosedespedidas/
+Save_As: musicas/miltonnascimento/encontrosedespedidas/index.html
 page_type: tab
 artist: Milton Nascimento
 artist_url: https://www.cifraclub.com.br/milton-nascimento/
-section_label: Tablaturas
-summary: Tablatura de Encontro e Despedidas por Milton Nascimento.
-listing_index: 163
-next_tab_url: /tablaturas/miltonnascimento/mariamaria/
+harmonic_key: Bb
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Encontro e Despedidas, canção de Milton Nascimento.
+listing_index: 166
+next_tab_url: /musicas/miltonnascimento/mariamaria/
 next_tab_title: Maria, Maria
 next_tab_artist: Milton Nascimento
 

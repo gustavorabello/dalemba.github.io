@@ -1,14 +1,17 @@
 Title: Fogo e Paixao
 Slug: wando-fogoepaixao-wando
-Url: tablaturas/misc/fogoepaixao-wando/
-Save_As: tablaturas/misc/fogoepaixao-wando/index.html
+Url: musicas/misc/fogoepaixao-wando/
+Save_As: musicas/misc/fogoepaixao-wando/index.html
 page_type: tab
 artist: Wando
 artist_url: https://www.cifraclub.com.br/wando/
-section_label: Tablaturas
-summary: Tablatura de Fogo e Paixao por Wando.
-listing_index: 178
-next_tab_url: /tablaturas/misc/fullgas-marinalima/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Fogo e Paixao, canção de Wando.
+listing_index: 181
+next_tab_url: /musicas/misc/fullgas-marinalima/
 next_tab_title: Fullgás
 next_tab_artist: Marina Lima e Antônio Cícero
 

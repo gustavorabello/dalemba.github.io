@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import html
+import os
 import re
 import shutil
 import sys
@@ -21,9 +22,11 @@ SOURCE_DATA_DIR = ROOT / "source_data"
 LOCAL_RECIPES_DIR = SOURCE_DATA_DIR / "recipes"
 LOCAL_RECIPE_IMAGES_DIR = SOURCE_DATA_DIR / "recipe_images"
 
-PYTABS_DIR = ROOT.parent / "pyTabs"
-TABS_SCRIPT = PYTABS_DIR / "txt2html.py"
-TABS_SOURCE_DIR = PYTABS_DIR / "tabs_txt"
+DEFAULT_TABS_SOURCE_DIR = Path("/Users/gustavo/Documents/brazil/musica/tabs")
+TABS_SOURCE_DIR = Path(
+    os.environ.get("DALEMBA_TABS_DIR", str(DEFAULT_TABS_SOURCE_DIR))
+).expanduser()
+TABS_SCRIPT = ROOT / "scripts" / "generate_tabs.py"
 TABS_MANIFEST = GENERATED_DIR / "tabs_manifest.json"
 RECIPES_MANIFEST = GENERATED_DIR / "recipes_manifest.json"
 NUMBERED_DUPLICATE_PATTERN = re.compile(r"^(?P<name>.+) (?P<index>[2-9]\d*)$")
@@ -31,8 +34,10 @@ NUMBERED_DUPLICATE_PATTERN = re.compile(r"^(?P<name>.+) (?P<index>[2-9]\d*)$")
 ANSI_RESET = "\033[0m"
 ANSI_COLORS = {
     "blue": "\033[38;5;33m",
+    "cyan": "\033[38;5;37m",
     "green": "\033[38;5;71m",
     "amber": "\033[38;5;179m",
+    "magenta": "\033[38;5;170m",
     "muted": "\033[38;5;245m",
 }
 
@@ -86,6 +91,10 @@ def write_text(path: Path, content: str) -> None:
 
 
 def terminal_supports_ansi() -> bool:
+    if os.environ.get("NO_COLOR"):
+        return False
+    if os.environ.get("FORCE_COLOR"):
+        return True
     return sys.stdout.isatty()
 
 
@@ -121,28 +130,54 @@ def finalize_status_line(text: str, tone: str = "green") -> None:
     print(message, flush=True)
 
 
-def render_home_page(recipes: list[dict[str, str]], tabs: list[dict[str, str]]) -> None:
+def print_sync_step(title: str, detail: str = "", tone: str = "cyan") -> None:
+    suffix = f" - {detail}" if detail else ""
+    print(style_text(f"==> {title}{suffix}", tone=tone), flush=True)
+
+
+def print_sync_result(title: str, detail: str, tone: str = "green") -> None:
+    print(style_text(f"OK  {title}: {detail}", tone=tone), flush=True)
+
+
+def render_home_page(
+    recipes: list[dict[str, str]],
+    tabs: list[dict[str, str]],
+    financeiro: dict[str, int] | None = None,
+    academicdb: dict[str, int] | None = None,
+) -> None:
     group_count = len({tab["group_slug"] for tab in tabs})
     home_page = f"""
-Title: Misc Site
+Title: Dalembinha's Site
 Slug: index
 Url: /
 Save_As: index.html
 page_type: home
-subtitle: Um projeto Pelican minimalista para tocar e cozinhar sem ruído visual.
+subtitle: Um canto de canções, panelas e pequenas memórias felizes.
 
 <div class="section-grid">
   <section class="section-card">
-    <span class="count-pill">{len(tabs)} tablaturas</span>
-    <h2>Lista de tablaturas</h2>
-    <p>Acervo distribuído em {group_count} coleções, com páginas leves e transposição de tom direto no navegador.</p>
-    <a class="card-link" href="/tablaturas/">Abrir tablaturas</a>
+    <span class="count-pill">{len(tabs)} músicas</span>
+    <h2>Lista de músicas</h2>
+    <p>{group_count} trilhas para abrir a janela, afinar a tarde e deixar a casa cantar.</p>
+    <a class="card-link" href="/musicas/">Entrar nas músicas</a>
   </section>
   <section class="section-card">
     <span class="count-pill">{len(recipes)} receitas</span>
     <h2>Livro de receitas</h2>
-    <p>Receitas migradas do projeto Hyde com imagens, ingredientes e modo de preparo em leitura confortável.</p>
-    <a class="card-link" href="/receitas/">Abrir receitas</a>
+    <p>Receitas guardadas com carinho, dessas que perfumam a cozinha antes da primeira panela.</p>
+    <a class="card-link" href="/receitas/">Entrar nas receitas</a>
+  </section>
+  <section class="section-card">
+    <span class="count-pill">Área protegida</span>
+    <h2>Financeiro</h2>
+    <p>Compras e preços ficam criptografados e só abrem no navegador com a sua senha.</p>
+    <a class="card-link" href="/financeiro/">Entrar no financeiro</a>
+  </section>
+  <section class="section-card">
+    <span class="count-pill">AcademicDB</span>
+    <h2>Produção acadêmica</h2>
+    <p>Catálogo acadêmico criptografado com YAMLs, gráficos e navegação filtrável.</p>
+    <a class="card-link" href="/academicdb/">Entrar no AcademicDB</a>
   </section>
 </div>
 """

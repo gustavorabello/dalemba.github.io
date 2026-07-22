@@ -1,21 +1,22 @@
 Title: Anos Dourados
 Slug: tom-jobim-anosdourados
-Url: tablaturas/tomjobim/anosdourados/
-Save_As: tablaturas/tomjobim/anosdourados/index.html
+Url: musicas/tomjobim/anosdourados/
+Save_As: musicas/tomjobim/anosdourados/index.html
 page_type: tab
 artist: Tom Jobim
 artist_url: https://www.cifraclub.com.br/tom-jobim/
-section_label: Tablaturas
-summary: Tablatura de Anos Dourados por Tom Jobim.
-listing_index: 264
-next_tab_url: /tablaturas/tomjobim/desafinado/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: declared
+section_label: Músicas
+summary: Anos Dourados, canção de Tom Jobim.
+listing_index: 268
+next_tab_url: /musicas/tomjobim/desafinado/
 next_tab_title: Desafinado
 next_tab_artist: Tom Jobim
 
 <div class="tab-layout singlecol">
-  <pre class="tab-sheet">Tom: A
-  
-(intro)  <span class="chord">Bm7</span>  <span class="chord">E7/9b</span>  <span class="chord">A7M</span>  <span class="chord">F#m7</span>  <span class="chord">Bm7</span>
+  <pre class="tab-sheet">(intro)  <span class="chord">Bm7</span>  <span class="chord">E7/9b</span>  <span class="chord">A7M</span>  <span class="chord">F#m7</span>  <span class="chord">Bm7</span>
 
  <span class="chord">E7/9b</span>      <span class="chord">A7M</span>  <span class="chord">F#m7</span>    <span class="chord">Bm7</span> <span class="chord">E7/9b</span>   <span class="chord">A7M</span>  <span class="chord">F#m7</span>  <span class="chord">Bm7</span>
 Parece que dizes,     te amo       Maria

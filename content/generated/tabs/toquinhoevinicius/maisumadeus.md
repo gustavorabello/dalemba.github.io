@@ -1,14 +1,17 @@
 Title: Mais um Adeus
 Slug: toquinho-vinicius-maisumadeus
-Url: tablaturas/toquinhoevinicius/maisumadeus/
-Save_As: tablaturas/toquinhoevinicius/maisumadeus/index.html
+Url: musicas/toquinhoevinicius/maisumadeus/
+Save_As: musicas/toquinhoevinicius/maisumadeus/index.html
 page_type: tab
 artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
-section_label: Tablaturas
-summary: Tablatura de Mais um Adeus por Toquinho & Vinicius.
-listing_index: 283
-next_tab_url: /tablaturas/toquinhoevinicius/mariavaicomasoutras/
+harmonic_key: E
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Mais um Adeus, canção de Toquinho & Vinicius.
+listing_index: 287
+next_tab_url: /musicas/toquinhoevinicius/mariavaicomasoutras/
 next_tab_title: Maria Vai Com As Outras
 next_tab_artist: Toquinho & Vinicius
 

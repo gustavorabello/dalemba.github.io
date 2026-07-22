@@ -1,14 +1,17 @@
 Title: Samba Triste
 Slug: baden-powell-sambatriste
-Url: tablaturas/badenpowell/sambatriste/
-Save_As: tablaturas/badenpowell/sambatriste/index.html
+Url: musicas/badenpowell/sambatriste/
+Save_As: musicas/badenpowell/sambatriste/index.html
 page_type: tab
 artist: Baden Powell
 artist_url: https://www.cifraclub.com.br/baden-powell/
-section_label: Tablaturas
-summary: Tablatura de Samba Triste por Baden Powell.
-listing_index: 12
-next_tab_url: /tablaturas/badenpowell/sambaempreludio/
+harmonic_key: A
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Samba Triste, canção de Baden Powell.
+listing_index: 13
+next_tab_url: /musicas/badenpowell/sambaempreludio/
 next_tab_title: Samba em Preludio
 next_tab_artist: Baden Powell
 

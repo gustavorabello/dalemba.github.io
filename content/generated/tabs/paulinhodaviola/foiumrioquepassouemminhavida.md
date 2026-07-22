@@ -1,14 +1,17 @@
 Title: Foi Um Rio Que Passou Em Minha Vida
 Slug: paulinho-da-viola-foiumrioquepassouemminhavida
-Url: tablaturas/paulinhodaviola/foiumrioquepassouemminhavida/
-Save_As: tablaturas/paulinhodaviola/foiumrioquepassouemminhavida/index.html
+Url: musicas/paulinhodaviola/foiumrioquepassouemminhavida/
+Save_As: musicas/paulinhodaviola/foiumrioquepassouemminhavida/index.html
 page_type: tab
 artist: Paulinho da Viola
 artist_url: https://www.cifraclub.com.br/paulinho-da-viola/
-section_label: Tablaturas
-summary: Tablatura de Foi Um Rio Que Passou Em Minha Vida por Paulinho da Viola.
-listing_index: 209
-next_tab_url: /tablaturas/paulinhodaviola/pecadocapital/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Foi Um Rio Que Passou Em Minha Vida, canção de Paulinho da Viola.
+listing_index: 212
+next_tab_url: /musicas/paulinhodaviola/pecadocapital/
 next_tab_title: Pecado Capital
 next_tab_artist: Paulinho da Viola
 

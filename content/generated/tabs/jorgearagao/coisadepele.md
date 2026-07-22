@@ -1,14 +1,17 @@
 Title: Coisa de Pele
 Slug: jorge-aragao-coisadepele
-Url: tablaturas/jorgearagao/coisadepele/
-Save_As: tablaturas/jorgearagao/coisadepele/index.html
+Url: musicas/jorgearagao/coisadepele/
+Save_As: musicas/jorgearagao/coisadepele/index.html
 page_type: tab
 artist: Jorge Aragao
 artist_url: https://www.cifraclub.com.br/jorge-aragao/
-section_label: Tablaturas
-summary: Tablatura de Coisa de Pele por Jorge Aragao.
-listing_index: 115
-next_tab_url: /tablaturas/jorgearagao/dofundodonossoquintal/
+harmonic_key: F
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Coisa de Pele, canção de Jorge Aragao.
+listing_index: 118
+next_tab_url: /musicas/jorgearagao/dofundodonossoquintal/
 next_tab_title: Do Fundo do Nosso Quintal
 next_tab_artist: Jorge Aragao
 

@@ -1,14 +1,17 @@
 Title: Domingo de Sol
 Slug: dicro-domingodesol-dicro
-Url: tablaturas/sambaepagode/domingodesol-dicro/
-Save_As: tablaturas/sambaepagode/domingodesol-dicro/index.html
+Url: musicas/sambaepagode/domingodesol-dicro/
+Save_As: musicas/sambaepagode/domingodesol-dicro/index.html
 page_type: tab
 artist: Dicro
 artist_url: https://www.cifraclub.com.br/dicro/
-section_label: Tablaturas
-summary: Tablatura de Domingo de Sol por Dicro.
-listing_index: 229
-next_tab_url: /tablaturas/sambaepagode/eumenti-razao-brasileira/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Domingo de Sol, canção de Dicro.
+listing_index: 232
+next_tab_url: /musicas/sambaepagode/eumenti-razao-brasileira/
 next_tab_title: Eu Menti
 next_tab_artist: Razao Brasileira
 

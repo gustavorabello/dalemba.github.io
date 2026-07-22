@@ -1,3 +1,6 @@
 __pycache__/
 .DS_Store
 output/
+dalembinha.github.io/
+.financeiro-password
+content/static/financeiro/vault.json

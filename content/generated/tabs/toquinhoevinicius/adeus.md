@@ -1,14 +1,17 @@
 Title: Adeus
 Slug: toquinho-vinicius-adeus
-Url: tablaturas/toquinhoevinicius/adeus/
-Save_As: tablaturas/toquinhoevinicius/adeus/index.html
+Url: musicas/toquinhoevinicius/adeus/
+Save_As: musicas/toquinhoevinicius/adeus/index.html
 page_type: tab
 artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
-section_label: Tablaturas
-summary: Tablatura de Adeus por Toquinho & Vinicius.
-listing_index: 275
-next_tab_url: /tablaturas/toquinhoevinicius/ascoresdeabril/
+harmonic_key: B
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Adeus, canção de Toquinho & Vinicius.
+listing_index: 279
+next_tab_url: /musicas/toquinhoevinicius/ascoresdeabril/
 next_tab_title: As Cores de Abril
 next_tab_artist: Toquinho & Vinicius
 

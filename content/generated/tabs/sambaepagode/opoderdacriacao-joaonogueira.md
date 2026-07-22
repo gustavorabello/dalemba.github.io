@@ -1,14 +1,17 @@
 Title: O Poder da Criação
 Slug: joao-nogueira-opoderdacriacao-joaonogueira
-Url: tablaturas/sambaepagode/opoderdacriacao-joaonogueira/
-Save_As: tablaturas/sambaepagode/opoderdacriacao-joaonogueira/index.html
+Url: musicas/sambaepagode/opoderdacriacao-joaonogueira/
+Save_As: musicas/sambaepagode/opoderdacriacao-joaonogueira/index.html
 page_type: tab
 artist: João Nogueira
 artist_url: https://www.cifraclub.com.br/joao-nogueira/
-section_label: Tablaturas
-summary: Tablatura de O Poder da Criação por João Nogueira.
-listing_index: 240
-next_tab_url: /tablaturas/sambaepagode/osurdo-alcione/
+harmonic_key: A
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: O Poder da Criação, canção de João Nogueira.
+listing_index: 243
+next_tab_url: /musicas/sambaepagode/osurdo-alcione/
 next_tab_title: O Surdo
 next_tab_artist: Alcione
 

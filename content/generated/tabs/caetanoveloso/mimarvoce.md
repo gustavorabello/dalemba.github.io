@@ -1,14 +1,17 @@
 Title: Mimar Voce
 Slug: caetano-veloso-mimarvoce
-Url: tablaturas/caetanoveloso/mimarvoce/
-Save_As: tablaturas/caetanoveloso/mimarvoce/index.html
+Url: musicas/caetanoveloso/mimarvoce/
+Save_As: musicas/caetanoveloso/mimarvoce/index.html
 page_type: tab
 artist: Caetano Veloso
 artist_url: https://www.cifraclub.com.br/caetano-veloso/
-section_label: Tablaturas
-summary: Tablatura de Mimar Voce por Caetano Veloso.
-listing_index: 27
-next_tab_url: /tablaturas/caetanoveloso/sampa/
+harmonic_key: D
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Mimar Voce, canção de Caetano Veloso.
+listing_index: 28
+next_tab_url: /musicas/caetanoveloso/sampa/
 next_tab_title: Sampa
 next_tab_artist: Caetano Veloso
 

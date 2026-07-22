@@ -1,14 +1,17 @@
 Title: Olha O Que O Amor Me Faz
 Slug: sandy-junior-olhaoqueoamormefaz
-Url: tablaturas/sandyejunior/olhaoqueoamormefaz/
-Save_As: tablaturas/sandyejunior/olhaoqueoamormefaz/index.html
+Url: musicas/sandyejunior/olhaoqueoamormefaz/
+Save_As: musicas/sandyejunior/olhaoqueoamormefaz/index.html
 page_type: tab
 artist: Sandy & Júnior
 artist_url: https://www.cifraclub.com.br/sandy-junior/
-section_label: Tablaturas
-summary: Tablatura de Olha O Que O Amor Me Faz por Sandy & Júnior.
-listing_index: 259
-next_tab_url: /tablaturas/sandyejunior/quandovocepassa/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Olha O Que O Amor Me Faz, canção de Sandy & Júnior.
+listing_index: 262
+next_tab_url: /musicas/sandyejunior/quandovocepassa/
 next_tab_title: Quando Você Passa (Turu Turu)
 next_tab_artist: Sandy & Júnior
 

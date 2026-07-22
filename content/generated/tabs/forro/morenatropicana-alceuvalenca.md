@@ -1,16 +1,19 @@
 Title: Morena Tropicana
 Slug: alceu-valenca-morenatropicana-alceuvalenca
-Url: tablaturas/forro/morenatropicana-alceuvalenca/
-Save_As: tablaturas/forro/morenatropicana-alceuvalenca/index.html
+Url: musicas/forro/morenatropicana-alceuvalenca/
+Save_As: musicas/forro/morenatropicana-alceuvalenca/index.html
 page_type: tab
 artist: Alceu Valença
 artist_url: https://www.cifraclub.com.br/alceu-valenca/
-section_label: Tablaturas
-summary: Tablatura de Morena Tropicana por Alceu Valença.
+harmonic_key: B
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Morena Tropicana, canção de Alceu Valença.
 listing_index: 105
-next_tab_url: /tablaturas/geraldovandre/disparada/
-next_tab_title: Disparada
-next_tab_artist: Geraldo Vandre
+next_tab_url: /musicas/geraldoazevedo/aiquesaudadedoce/
+next_tab_title: Ai Que saudade Docê
+next_tab_artist: Geraldo Azevedo
 
 <div class="tab-layout columns">
   <div class="tab-column">

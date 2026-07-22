@@ -1,14 +1,17 @@
 Title: Timoneiro
 Slug: paulinho-da-viola-timoneiro
-Url: tablaturas/paulinhodaviola/timoneiro/
-Save_As: tablaturas/paulinhodaviola/timoneiro/index.html
+Url: musicas/paulinhodaviola/timoneiro/
+Save_As: musicas/paulinhodaviola/timoneiro/index.html
 page_type: tab
 artist: Paulinho da Viola
 artist_url: https://www.cifraclub.com.br/paulinho-da-viola/
-section_label: Tablaturas
-summary: Tablatura de Timoneiro por Paulinho da Viola.
-listing_index: 212
-next_tab_url: /tablaturas/repertoriocontinuo/sambinha/
+harmonic_key: A
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Timoneiro, canção de Paulinho da Viola.
+listing_index: 215
+next_tab_url: /musicas/repertoriocontinuo/sambinha/
 next_tab_title: Conselho
 next_tab_artist: Almir Guineto
 

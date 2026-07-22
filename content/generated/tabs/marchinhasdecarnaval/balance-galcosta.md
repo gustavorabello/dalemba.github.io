@@ -1,14 +1,17 @@
 Title: Balancê
 Slug: gal-costa-balance-galcosta
-Url: tablaturas/marchinhasdecarnaval/balance-galcosta/
-Save_As: tablaturas/marchinhasdecarnaval/balance-galcosta/index.html
+Url: musicas/marchinhasdecarnaval/balance-galcosta/
+Save_As: musicas/marchinhasdecarnaval/balance-galcosta/index.html
 page_type: tab
 artist: Gal Costa
 artist_url: https://www.cifraclub.com.br/gal-costa/
-section_label: Tablaturas
-summary: Tablatura de Balancê por Gal Costa.
-listing_index: 137
-next_tab_url: /tablaturas/marchinhasdecarnaval/cidademaravilhosa-artistadesconhecido/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Balancê, canção de Gal Costa.
+listing_index: 140
+next_tab_url: /musicas/marchinhasdecarnaval/cidademaravilhosa-artistadesconhecido/
 next_tab_title: Cidade Maravilhosa
 next_tab_artist: Artista Desconhecido
 

@@ -1,14 +1,17 @@
 Title: Folhas Secas
 Slug: beth-carvalho-folhassecas
-Url: tablaturas/bethcarvalho/folhassecas/
-Save_As: tablaturas/bethcarvalho/folhassecas/index.html
+Url: musicas/bethcarvalho/folhassecas/
+Save_As: musicas/bethcarvalho/folhassecas/index.html
 page_type: tab
 artist: Beth Carvalho
 artist_url: https://www.cifraclub.com.br/beth-carvalho/
-section_label: Tablaturas
-summary: Tablatura de Folhas Secas por Beth Carvalho.
-listing_index: 23
-next_tab_url: /tablaturas/bethcarvalho/voufestejar/
+harmonic_key: F
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Folhas Secas, canção de Beth Carvalho.
+listing_index: 24
+next_tab_url: /musicas/bethcarvalho/voufestejar/
 next_tab_title: Vou Festejar
 next_tab_artist: Beth Carvalho
 

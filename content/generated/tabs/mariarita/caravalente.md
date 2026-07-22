@@ -1,14 +1,17 @@
 Title: Cara Valente
 Slug: maria-rita-caravalente
-Url: tablaturas/mariarita/caravalente/
-Save_As: tablaturas/mariarita/caravalente/index.html
+Url: musicas/mariarita/caravalente/
+Save_As: musicas/mariarita/caravalente/index.html
 page_type: tab
 artist: Maria Rita
 artist_url: https://www.cifraclub.com.br/maria-rita/
-section_label: Tablaturas
-summary: Tablatura de Cara Valente por Maria Rita.
-listing_index: 146
-next_tab_url: /tablaturas/mariarita/coracaoemdesalinho/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Cara Valente, canção de Maria Rita.
+listing_index: 149
+next_tab_url: /musicas/mariarita/coracaoemdesalinho/
 next_tab_title: Coração em Desalinho
 next_tab_artist: Maria Rita
 

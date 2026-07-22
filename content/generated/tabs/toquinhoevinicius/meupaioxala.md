@@ -1,14 +1,17 @@
 Title: Meu Pai Oxala
 Slug: toquinho-vinicius-meupaioxala
-Url: tablaturas/toquinhoevinicius/meupaioxala/
-Save_As: tablaturas/toquinhoevinicius/meupaioxala/index.html
+Url: musicas/toquinhoevinicius/meupaioxala/
+Save_As: musicas/toquinhoevinicius/meupaioxala/index.html
 page_type: tab
 artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
-section_label: Tablaturas
-summary: Tablatura de Meu Pai Oxala por Toquinho & Vinicius.
-listing_index: 285
-next_tab_url: /tablaturas/toquinhoevinicius/ocaderno/
+harmonic_key: E
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Meu Pai Oxala, canção de Toquinho & Vinicius.
+listing_index: 289
+next_tab_url: /musicas/toquinhoevinicius/ocaderno/
 next_tab_title: O Caderno
 next_tab_artist: Toquinho & Vinicius
 

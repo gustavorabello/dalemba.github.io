@@ -1,14 +1,17 @@
 Title: Esqueca
 Slug: roberto-carlos-esqueca
-Url: tablaturas/robertoeerasmoscarlos/esqueca/
-Save_As: tablaturas/robertoeerasmoscarlos/esqueca/index.html
+Url: musicas/robertoeerasmoscarlos/esqueca/
+Save_As: musicas/robertoeerasmoscarlos/esqueca/index.html
 page_type: tab
 artist: Roberto Carlos
 artist_url: https://www.cifraclub.com.br/roberto-carlos/
-section_label: Tablaturas
-summary: Tablatura de Esqueca por Roberto Carlos.
-listing_index: 220
-next_tab_url: /tablaturas/robertoeerasmoscarlos/gatinhamanhosa/
+harmonic_key: D
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Esqueca, canção de Roberto Carlos.
+listing_index: 223
+next_tab_url: /musicas/robertoeerasmoscarlos/gatinhamanhosa/
 next_tab_title: Gatinha Manhosa
 next_tab_artist: Erasmo Carlos
 

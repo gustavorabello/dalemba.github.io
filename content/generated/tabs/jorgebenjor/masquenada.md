@@ -1,14 +1,17 @@
 Title: Mas Que Nada
 Slug: jorge-benjor-masquenada
-Url: tablaturas/jorgebenjor/masquenada/
-Save_As: tablaturas/jorgebenjor/masquenada/index.html
+Url: musicas/jorgebenjor/masquenada/
+Save_As: musicas/jorgebenjor/masquenada/index.html
 page_type: tab
 artist: Jorge Benjor
 artist_url: https://www.cifraclub.com.br/jorge-benjor/
-section_label: Tablaturas
-summary: Tablatura de Mas Que Nada por Jorge Benjor.
-listing_index: 123
-next_tab_url: /tablaturas/jorgebenjor/meninamulherdapelapreta/
+harmonic_key: G
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Mas Que Nada, canção de Jorge Benjor.
+listing_index: 126
+next_tab_url: /musicas/jorgebenjor/meninamulherdapelapreta/
 next_tab_title: Menina Mulher da Pele Preta
 next_tab_artist: Jorge Benjor
 

@@ -1,14 +1,17 @@
 Title: Sampa
 Slug: caetano-veloso-sampa
-Url: tablaturas/caetanoveloso/sampa/
-Save_As: tablaturas/caetanoveloso/sampa/index.html
+Url: musicas/caetanoveloso/sampa/
+Save_As: musicas/caetanoveloso/sampa/index.html
 page_type: tab
 artist: Caetano Veloso
 artist_url: https://www.cifraclub.com.br/caetano-veloso/
-section_label: Tablaturas
-summary: Tablatura de Sampa por Caetano Veloso.
-listing_index: 28
-next_tab_url: /tablaturas/caetanoveloso/voceelinda/
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Sampa, canção de Caetano Veloso.
+listing_index: 29
+next_tab_url: /musicas/caetanoveloso/voceelinda/
 next_tab_title: Voce E Linda
 next_tab_artist: Caetano Veloso
 

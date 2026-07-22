@@ -1,14 +1,17 @@
 Title: Regra Tres
 Slug: toquinho-vinicius-regratres
-Url: tablaturas/toquinhoevinicius/regratres/
-Save_As: tablaturas/toquinhoevinicius/regratres/index.html
+Url: musicas/toquinhoevinicius/regratres/
+Save_As: musicas/toquinhoevinicius/regratres/index.html
 page_type: tab
 artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
-section_label: Tablaturas
-summary: Tablatura de Regra Tres por Toquinho & Vinicius.
-listing_index: 290
-next_tab_url: /tablaturas/toquinhoevinicius/rosadesfolhada/
+harmonic_key: A
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Regra Tres, canção de Toquinho & Vinicius.
+listing_index: 294
+next_tab_url: /musicas/toquinhoevinicius/rosadesfolhada/
 next_tab_title: Rosa Desfolhada
 next_tab_artist: Toquinho & Vinicius
 

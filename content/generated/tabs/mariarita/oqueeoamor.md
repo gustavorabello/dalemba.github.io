@@ -1,14 +1,17 @@
 Title: O Que É O Amor
 Slug: maria-rita-oqueeoamor
-Url: tablaturas/mariarita/oqueeoamor/
-Save_As: tablaturas/mariarita/oqueeoamor/index.html
+Url: musicas/mariarita/oqueeoamor/
+Save_As: musicas/mariarita/oqueeoamor/index.html
 page_type: tab
 artist: Maria Rita
 artist_url: https://www.cifraclub.com.br/maria-rita/
-section_label: Tablaturas
-summary: Tablatura de O Que É O Amor por Maria Rita.
-listing_index: 150
-next_tab_url: /tablaturas/mariarita/taperdoado/
+harmonic_key: A
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: O Que É O Amor, canção de Maria Rita.
+listing_index: 153
+next_tab_url: /musicas/mariarita/taperdoado/
 next_tab_title: Tá Perdoado
 next_tab_artist: Maria Rita
 

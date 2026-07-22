@@ -1,0 +1,143 @@
+{% extends "base.html" %}
+
+{% block content %}
+<article class="
+  {% if page.page_type == 'home' %}page-home
+  {% elif page.page_type == 'listing' %}page-listing
+  {% elif page.page_type == 'tab' %}page-tab
+  {% elif page.page_type == 'recipe' %}page-recipe
+  {% else %}page-generic{% endif %}
+"{% if page.page_type == 'tab' %} data-harmonic-key="{{ page.harmonic_key|default('C') }}" data-harmonic-mode="{{ page.harmonic_mode|default('major') }}" data-harmonic-key-source="{{ page.harmonic_key_source|default('inferred') }}"{% endif %}>
+  {% if page.page_type == 'tab' %}
+  <section class="tab-shell">
+    <div class="tab-toolbar">
+      <a class="ghost-link" href="{{ SITEURL }}/musicas/">Voltar para músicas</a>
+      <div class="tab-toolbar-controls">
+        <div class="toolbar-group">
+          <button type="button" class="toolbar-button analysis-toggle" data-harmonic-toggle aria-expanded="false" aria-controls="harmonic-analysis">Análise harmônica</button>
+        </div>
+        <div class="toolbar-group">
+          <button type="button" class="toolbar-button" data-font-step="-1">A-</button>
+          <button type="button" class="toolbar-button" data-font-step="1">A+</button>
+        </div>
+        <div class="toolbar-group">
+          <button type="button" class="toolbar-button" data-tone-step="-1">Tom -</button>
+          <span class="tone-pill" data-current-key>Tom</span>
+          <button type="button" class="toolbar-button" data-tone-step="1">Tom +</button>
+        </div>
+      </div>
+    </div>
+
+    <header class="hero hero-tab">
+      <p class="eyebrow">Música {% if page.listing_index %}{{ page.listing_index }}{% endif %}</p>
+      <div class="hero-tab-head">
+        <h1>{{ page.title }}</h1>
+        {% if page.next_tab_url and page.next_tab_title and page.next_tab_artist %}
+        <a
+          class="ghost-link tab-suggest-link"
+          href="{{ SITEURL }}{{ page.next_tab_url }}"
+        >Sugestão: {{ page.next_tab_title }} — {{ page.next_tab_artist }}</a>
+        {% endif %}
+      </div>
+      <p class="hero-meta">
+        {% if page.artist_url %}
+        <a href="{{ page.artist_url }}" target="_blank" rel="noopener">{{ page.artist }}</a>
+        {% else %}
+        <span>{{ page.artist }}</span>
+        {% endif %}
+      </p>
+    </header>
+
+    <section class="tab-card prose">
+      {{ page.content }}
+    </section>
+
+    <section class="harmonic-analysis" id="harmonic-analysis" data-harmonic-panel hidden>
+      <div class="harmonic-analysis-head">
+        <div>
+          <p class="eyebrow">Mapa harmônico</p>
+          <h2>Análise da tonalidade</h2>
+          <p class="harmonic-note" data-harmonic-summary></p>
+        </div>
+        <div class="harmonic-controls" aria-label="Ajustar tonalidade da análise">
+          <label>Tom <select data-analysis-key></select></label>
+          <label>Modo
+            <select data-analysis-mode>
+              <option value="major">Maior</option>
+              <option value="minor">Menor</option>
+            </select>
+          </label>
+        </div>
+      </div>
+      <div class="harmonic-legend" aria-label="Legenda das cifras">
+        <span><i class="legend-swatch is-diatonic"></i> Acorde pertencente à escala</span>
+        <span><i class="legend-swatch is-outside"></i> Acorde fora da escala</span>
+      </div>
+      <div class="scale-notes" data-scale-notes></div>
+      <div class="harmonic-table-wrap">
+        <table class="harmonic-table">
+          <thead>
+            <tr><th>Grau</th><th>Nota</th><th>Acorde da escala</th><th>V7</th><th>SUBV7</th><th>II e V7</th><th>II e SUBV7</th><th>DIMINUTO</th></tr>
+          </thead>
+          <tbody data-harmonic-table></tbody>
+        </table>
+      </div>
+      <p class="harmonic-footnote">V7, SUBV7, II–V7, II–SUBV7 e diminuto são calculados como caminhos de resolução para cada nota da escala.</p>
+      <p class="harmonic-footnote">Os graus em algarismos romanos aparecem junto de cada cifra enquanto a análise estiver aberta.</p>
+    </section>
+
+  </section>
+  {% elif page.page_type == 'recipe' %}
+  <section class="page-shell recipe-shell">
+    <header class="hero recipe-heading">
+      <p class="eyebrow">Livro de receitas</p>
+      <h1>{{ page.title }}</h1>
+      {% if page.subtitle %}
+      <p class="hero-copy">{{ page.subtitle }}</p>
+      {% endif %}
+    </header>
+
+    <div class="recipe-layout{% if not page.recipe_image %} recipe-layout-single{% endif %}">
+      <section class="content-card prose recipe-copy">
+        {{ page.content }}
+      </section>
+
+      {% if page.recipe_image %}
+      <aside class="recipe-aside">
+        <figure class="recipe-photo">
+          <img src="{{ SITEURL }}{{ page.recipe_image }}" alt="{{ page.title | e }}">
+          <figcaption>{{ page.title }}</figcaption>
+        </figure>
+        <a class="ghost-link recipe-back-link" href="{{ SITEURL }}/receitas/">Voltar ao livro de receitas</a>
+      </aside>
+      {% endif %}
+    </div>
+  </section>
+  {% else %}
+  <section class="page-shell">
+    {% if page.page_type == 'listing' and page.slug == 'musicas' %}
+    <div class="listing-toolbar">
+      <div class="toolbar-group">
+        <button type="button" class="toolbar-button" data-list-column-count="1">1 col</button>
+        <button type="button" class="toolbar-button" data-list-column-count="2">2 col</button>
+        <button type="button" class="toolbar-button" data-list-column-count="3">3 col</button>
+      </div>
+    </div>
+    {% endif %}
+    <header class="hero">
+      {% if page.page_type == 'listing' %}
+      <p class="eyebrow">{{ page.section_label }}</p>
+      {% endif %}
+      <h1>{{ page.title }}</h1>
+      {% if page.subtitle %}
+      <p class="hero-copy">{{ page.subtitle }}</p>
+      {% endif %}
+    </header>
+
+    <section class="content-card prose">
+      {{ page.content }}
+    </section>
+  </section>
+  {% endif %}
+</article>
+{% endblock %}

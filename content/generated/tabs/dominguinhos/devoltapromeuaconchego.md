@@ -1,14 +1,17 @@
 Title: De Volta Pro Meu Aconchego
 Slug: dominguinhos-e-nando-cordel-devoltapromeuaconchego
-Url: tablaturas/dominguinhos/devoltapromeuaconchego/
-Save_As: tablaturas/dominguinhos/devoltapromeuaconchego/index.html
+Url: musicas/dominguinhos/devoltapromeuaconchego/
+Save_As: musicas/dominguinhos/devoltapromeuaconchego/index.html
 page_type: tab
 artist: Dominguinhos e Nando Cordel
 artist_url: https://www.cifraclub.com.br/dominguinhos-e-nando-cordel/
-section_label: Tablaturas
-summary: Tablatura de De Volta Pro Meu Aconchego por Dominguinhos e Nando Cordel.
-listing_index: 88
-next_tab_url: /tablaturas/dominguinhos/eusoqueroumxodo/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: De Volta Pro Meu Aconchego, canção de Dominguinhos e Nando Cordel.
+listing_index: 89
+next_tab_url: /musicas/dominguinhos/eusoqueroumxodo/
 next_tab_title: Eu Só Quero um Xodó
 next_tab_artist: Anastacia e Dominguinhos
 

@@ -1,14 +1,17 @@
 Title: Ando Meio Desligado/Ovelha Negra
 Slug: rita-lee-versao-bicho-de-pe-andomeiodesligado-ovelhanegra-ritalee-bichodepe
-Url: tablaturas/misc/andomeiodesligado-ovelhanegra-ritalee-bichodepe/
-Save_As: tablaturas/misc/andomeiodesligado-ovelhanegra-ritalee-bichodepe/index.html
+Url: musicas/misc/andomeiodesligado-ovelhanegra-ritalee-bichodepe/
+Save_As: musicas/misc/andomeiodesligado-ovelhanegra-ritalee-bichodepe/index.html
 page_type: tab
 artist: Rita Lee - versão Bicho de Pé
 artist_url: https://www.cifraclub.com.br/rita-lee---versao-bicho-de-pe/
-section_label: Tablaturas
-summary: Tablatura de Ando Meio Desligado/Ovelha Negra por Rita Lee - versão Bicho de Pé.
-listing_index: 169
-next_tab_url: /tablaturas/misc/araketuebomdemais-araketu/
+harmonic_key: D
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Ando Meio Desligado/Ovelha Negra, canção de Rita Lee - versão Bicho de Pé.
+listing_index: 172
+next_tab_url: /musicas/misc/araketuebomdemais-araketu/
 next_tab_title: Araketu É Bom Demais
 next_tab_artist: Araketu
 

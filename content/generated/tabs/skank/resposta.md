@@ -1,14 +1,17 @@
 Title: Resposta
 Slug: skank-resposta
-Url: tablaturas/skank/resposta/
-Save_As: tablaturas/skank/resposta/index.html
+Url: musicas/skank/resposta/
+Save_As: musicas/skank/resposta/index.html
 page_type: tab
 artist: Skank
 artist_url: https://www.cifraclub.com.br/skank/
-section_label: Tablaturas
-summary: Tablatura de Resposta por Skank.
-listing_index: 261
-next_tab_url: /tablaturas/skank/voudeixar/
+harmonic_key: D
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Resposta, canção de Skank.
+listing_index: 264
+next_tab_url: /musicas/skank/voudeixar/
 next_tab_title: Vou Deixar
 next_tab_artist: Skank
 

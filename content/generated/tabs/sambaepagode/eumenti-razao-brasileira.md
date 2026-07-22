@@ -1,14 +1,17 @@
 Title: Eu Menti
 Slug: razao-brasileira-eumenti-razao-brasileira
-Url: tablaturas/sambaepagode/eumenti-razao-brasileira/
-Save_As: tablaturas/sambaepagode/eumenti-razao-brasileira/index.html
+Url: musicas/sambaepagode/eumenti-razao-brasileira/
+Save_As: musicas/sambaepagode/eumenti-razao-brasileira/index.html
 page_type: tab
 artist: Razao Brasileira
 artist_url: https://www.cifraclub.com.br/razao-brasileira/
-section_label: Tablaturas
-summary: Tablatura de Eu Menti por Razao Brasileira.
-listing_index: 230
-next_tab_url: /tablaturas/sambaepagode/feiticodavila-noelrosa/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Eu Menti, canção de Razao Brasileira.
+listing_index: 233
+next_tab_url: /musicas/sambaepagode/feiticodavila-noelrosa/
 next_tab_title: Feitiço da Vila
 next_tab_artist: Noel Rosa
 

@@ -1,14 +1,17 @@
 Title: Mina de Fé
 Slug: os-morenos-minadefe-osmorenos
-Url: tablaturas/sambaepagode/minadefe-osmorenos/
-Save_As: tablaturas/sambaepagode/minadefe-osmorenos/index.html
+Url: musicas/sambaepagode/minadefe-osmorenos/
+Save_As: musicas/sambaepagode/minadefe-osmorenos/index.html
 page_type: tab
 artist: Os Morenos
 artist_url: https://www.cifraclub.com.br/os-morenos/
-section_label: Tablaturas
-summary: Tablatura de Mina de Fé por Os Morenos.
-listing_index: 234
-next_tab_url: /tablaturas/sambaepagode/naquelamesa-sergiobittencourt/
+harmonic_key: G
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Mina de Fé, canção de Os Morenos.
+listing_index: 237
+next_tab_url: /musicas/sambaepagode/naquelamesa-sergiobittencourt/
 next_tab_title: Naquela Mesa
 next_tab_artist: Sergio Bittencourt
 

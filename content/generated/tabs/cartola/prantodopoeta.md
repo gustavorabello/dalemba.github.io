@@ -1,14 +1,17 @@
 Title: Pranto do Poeta
 Slug: cartola-prantodopoeta
-Url: tablaturas/cartola/prantodopoeta/
-Save_As: tablaturas/cartola/prantodopoeta/index.html
+Url: musicas/cartola/prantodopoeta/
+Save_As: musicas/cartola/prantodopoeta/index.html
 page_type: tab
 artist: Cartola
 artist_url: https://www.cifraclub.com.br/cartola/
-section_label: Tablaturas
-summary: Tablatura de Pranto do Poeta por Cartola.
-listing_index: 34
-next_tab_url: /tablaturas/cartola/precisomeencontrar/
+harmonic_key: D
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Pranto do Poeta, canção de Cartola.
+listing_index: 35
+next_tab_url: /musicas/cartola/precisomeencontrar/
 next_tab_title: Preciso Me Encontrar
 next_tab_artist: Cartola
 

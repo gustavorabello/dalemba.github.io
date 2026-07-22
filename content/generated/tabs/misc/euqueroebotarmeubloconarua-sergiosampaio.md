@@ -1,14 +1,17 @@
 Title: Eu Quero E Botar Meu Bloco Na Rua
 Slug: sergio-sampaio-euqueroebotarmeubloconarua-sergiosampaio
-Url: tablaturas/misc/euqueroebotarmeubloconarua-sergiosampaio/
-Save_As: tablaturas/misc/euqueroebotarmeubloconarua-sergiosampaio/index.html
+Url: musicas/misc/euqueroebotarmeubloconarua-sergiosampaio/
+Save_As: musicas/misc/euqueroebotarmeubloconarua-sergiosampaio/index.html
 page_type: tab
 artist: Sergio Sampaio
 artist_url: https://www.cifraclub.com.br/sergio-sampaio/
-section_label: Tablaturas
-summary: Tablatura de Eu Quero E Botar Meu Bloco Na Rua por Sergio Sampaio.
-listing_index: 176
-next_tab_url: /tablaturas/misc/ficoassimsemvoce-buchecha/
+harmonic_key: E
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Eu Quero E Botar Meu Bloco Na Rua, canção de Sergio Sampaio.
+listing_index: 179
+next_tab_url: /musicas/misc/ficoassimsemvoce-buchecha/
 next_tab_title: Fico Assim Sem Voce
 next_tab_artist: Buchecha
 

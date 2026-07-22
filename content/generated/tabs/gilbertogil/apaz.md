@@ -1,14 +1,17 @@
 Title: A Paz
 Slug: gilberto-gil-apaz
-Url: tablaturas/gilbertogil/apaz/
-Save_As: tablaturas/gilbertogil/apaz/index.html
+Url: musicas/gilbertogil/apaz/
+Save_As: musicas/gilbertogil/apaz/index.html
 page_type: tab
 artist: Gilberto Gil
 artist_url: https://www.cifraclub.com.br/gilberto-gil/
-section_label: Tablaturas
-summary: Tablatura de A Paz por Gilberto Gil.
-listing_index: 108
-next_tab_url: /tablaturas/gilbertogil/beiramar/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: A Paz, canção de Gilberto Gil.
+listing_index: 111
+next_tab_url: /musicas/gilbertogil/beiramar/
 next_tab_title: Beira Mar
 next_tab_artist: Gilberto Gil
 

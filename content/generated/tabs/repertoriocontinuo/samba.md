@@ -1,14 +1,17 @@
 Title: O Show Tem Que Continuar
 Slug: fundo-de-quintal-samba
-Url: tablaturas/repertoriocontinuo/samba/
-Save_As: tablaturas/repertoriocontinuo/samba/index.html
+Url: musicas/repertoriocontinuo/samba/
+Save_As: musicas/repertoriocontinuo/samba/index.html
 page_type: tab
 artist: Fundo de Quintal
 artist_url: https://www.cifraclub.com.br/fundo-de-quintal/
-section_label: Tablaturas
-summary: Tablatura de O Show Tem Que Continuar por Fundo de Quintal.
-listing_index: 217
-next_tab_url: /tablaturas/robertoeerasmoscarlos/amorperfeito/
+harmonic_key: A
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: O Show Tem Que Continuar, canção de Fundo de Quintal.
+listing_index: 220
+next_tab_url: /musicas/robertoeerasmoscarlos/amorperfeito/
 next_tab_title: Amor Perfeito
 next_tab_artist: Roberto Carlos
 

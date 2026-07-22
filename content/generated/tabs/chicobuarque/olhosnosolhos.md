@@ -1,22 +1,23 @@
 Title: Olhos Nos Olhos
 Slug: chico-buarque-olhosnosolhos
-Url: tablaturas/chicobuarque/olhosnosolhos/
-Save_As: tablaturas/chicobuarque/olhosnosolhos/index.html
+Url: musicas/chicobuarque/olhosnosolhos/
+Save_As: musicas/chicobuarque/olhosnosolhos/index.html
 page_type: tab
 artist: Chico Buarque
 artist_url: https://www.cifraclub.com.br/chico-buarque/
-section_label: Tablaturas
-summary: Tablatura de Olhos Nos Olhos por Chico Buarque.
-listing_index: 57
-next_tab_url: /tablaturas/chicobuarque/quemteviuquemteve/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: declared
+section_label: Músicas
+summary: Olhos Nos Olhos, canção de Chico Buarque.
+listing_index: 58
+next_tab_url: /musicas/chicobuarque/quemteviuquemteve/
 next_tab_title: Quem Te Viu, Quem Te Ve
 next_tab_artist: Chico Buarque
 
 <div class="tab-layout columns">
   <div class="tab-column">
-    <pre class="tab-sheet">Tom: A
-
-[Intro] <span class="chord">F#m</span>  <span class="chord">C#7</span>  <span class="chord">F#</span>  <span class="chord">B7</span>  <span class="chord">E</span>
+    <pre class="tab-sheet">[Intro] <span class="chord">F#m</span>  <span class="chord">C#7</span>  <span class="chord">F#</span>  <span class="chord">B7</span>  <span class="chord">E</span>
         <span class="chord">E/D</span>  <span class="chord">G#m7(5-)</span>  <span class="chord">C#7(9-)</span>  <span class="chord">C#7</span>
 
 <span class="chord">A7M</span>       <span class="chord">Bm7</span>        <span class="chord">Cº</span>       <span class="chord">C#m7</span>

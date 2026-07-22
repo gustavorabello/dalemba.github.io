@@ -1,14 +1,17 @@
 Title: Maria, Maria
 Slug: milton-nascimento-mariamaria
-Url: tablaturas/miltonnascimento/mariamaria/
-Save_As: tablaturas/miltonnascimento/mariamaria/index.html
+Url: musicas/miltonnascimento/mariamaria/
+Save_As: musicas/miltonnascimento/mariamaria/index.html
 page_type: tab
 artist: Milton Nascimento
 artist_url: https://www.cifraclub.com.br/milton-nascimento/
-section_label: Tablaturas
-summary: Tablatura de Maria, Maria por Milton Nascimento.
-listing_index: 164
-next_tab_url: /tablaturas/miltonnascimento/nosbailesdavida/
+harmonic_key: Ab
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Maria, Maria, canção de Milton Nascimento.
+listing_index: 167
+next_tab_url: /musicas/miltonnascimento/nosbailesdavida/
 next_tab_title: Nos Bailes da Vida
 next_tab_artist: Milton Nascimento
 

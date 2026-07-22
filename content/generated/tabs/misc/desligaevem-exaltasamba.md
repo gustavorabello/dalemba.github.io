@@ -1,14 +1,17 @@
 Title: Desliga e Vem
 Slug: exaltasamba-desligaevem-exaltasamba
-Url: tablaturas/misc/desligaevem-exaltasamba/
-Save_As: tablaturas/misc/desligaevem-exaltasamba/index.html
+Url: musicas/misc/desligaevem-exaltasamba/
+Save_As: musicas/misc/desligaevem-exaltasamba/index.html
 page_type: tab
 artist: Exaltasamba
 artist_url: https://www.cifraclub.com.br/exaltasamba/
-section_label: Tablaturas
-summary: Tablatura de Desliga e Vem por Exaltasamba.
-listing_index: 174
-next_tab_url: /tablaturas/misc/entretapasebeijos-leandroeleonardo/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Desliga e Vem, canção de Exaltasamba.
+listing_index: 177
+next_tab_url: /musicas/misc/entretapasebeijos-leandroeleonardo/
 next_tab_title: Entre Tapas e Beijos
 next_tab_artist: Leandro e Leonardo
 

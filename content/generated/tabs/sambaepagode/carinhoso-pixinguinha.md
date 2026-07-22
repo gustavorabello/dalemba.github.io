@@ -1,14 +1,17 @@
 Title: Carinhoso
 Slug: pixinguinha-carinhoso-pixinguinha
-Url: tablaturas/sambaepagode/carinhoso-pixinguinha/
-Save_As: tablaturas/sambaepagode/carinhoso-pixinguinha/index.html
+Url: musicas/sambaepagode/carinhoso-pixinguinha/
+Save_As: musicas/sambaepagode/carinhoso-pixinguinha/index.html
 page_type: tab
 artist: Pixinguinha
 artist_url: https://www.cifraclub.com.br/pixinguinha/
-section_label: Tablaturas
-summary: Tablatura de Carinhoso por Pixinguinha.
-listing_index: 225
-next_tab_url: /tablaturas/sambaepagode/conselho-almirguineto/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Carinhoso, canção de Pixinguinha.
+listing_index: 228
+next_tab_url: /musicas/sambaepagode/conselho-almirguineto/
 next_tab_title: Conselho
 next_tab_artist: Almir Guineto
 

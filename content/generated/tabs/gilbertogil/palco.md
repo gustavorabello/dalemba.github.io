@@ -1,14 +1,17 @@
 Title: Palco
 Slug: gilberto-gil-palco
-Url: tablaturas/gilbertogil/palco/
-Save_As: tablaturas/gilbertogil/palco/index.html
+Url: musicas/gilbertogil/palco/
+Save_As: musicas/gilbertogil/palco/index.html
 page_type: tab
 artist: Gilberto Gil
 artist_url: https://www.cifraclub.com.br/gilberto-gil/
-section_label: Tablaturas
-summary: Tablatura de Palco por Gilberto Gil.
-listing_index: 112
-next_tab_url: /tablaturas/gilbertogil/vamosfugir/
+harmonic_key: E
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Palco, canção de Gilberto Gil.
+listing_index: 115
+next_tab_url: /musicas/gilbertogil/vamosfugir/
 next_tab_title: Vamos Fugir
 next_tab_artist: Gilberto Gil
 

@@ -1,14 +1,17 @@
 Title: Canto de Ossanha
 Slug: baden-powell-cantodeossanha
-Url: tablaturas/badenpowell/cantodeossanha/
-Save_As: tablaturas/badenpowell/cantodeossanha/index.html
+Url: musicas/badenpowell/cantodeossanha/
+Save_As: musicas/badenpowell/cantodeossanha/index.html
 page_type: tab
 artist: Baden Powell
 artist_url: https://www.cifraclub.com.br/baden-powell/
-section_label: Tablaturas
-summary: Tablatura de Canto de Ossanha por Baden Powell.
-listing_index: 10
-next_tab_url: /tablaturas/badenpowell/faleiedisse/
+harmonic_key: D
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Canto de Ossanha, canção de Baden Powell.
+listing_index: 11
+next_tab_url: /musicas/badenpowell/faleiedisse/
 next_tab_title: Falei e Disse
 next_tab_artist: Baden Powell
 

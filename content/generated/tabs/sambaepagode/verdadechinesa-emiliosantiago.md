@@ -1,14 +1,17 @@
 Title: Verdade Chinesa
 Slug: emilio-santiago-verdadechinesa-emiliosantiago
-Url: tablaturas/sambaepagode/verdadechinesa-emiliosantiago/
-Save_As: tablaturas/sambaepagode/verdadechinesa-emiliosantiago/index.html
+Url: musicas/sambaepagode/verdadechinesa-emiliosantiago/
+Save_As: musicas/sambaepagode/verdadechinesa-emiliosantiago/index.html
 page_type: tab
 artist: Emilio Santiago
 artist_url: https://www.cifraclub.com.br/emilio-santiago/
-section_label: Tablaturas
-summary: Tablatura de Verdade Chinesa por Emilio Santiago.
-listing_index: 248
-next_tab_url: /tablaturas/sambasenredo/beija-flor-2007/
+harmonic_key: B
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Verdade Chinesa, canção de Emilio Santiago.
+listing_index: 251
+next_tab_url: /musicas/sambasenredo/beija-flor-2007/
 next_tab_title: Beija-Flor (2007)
 next_tab_artist: Sambas Enredo
 

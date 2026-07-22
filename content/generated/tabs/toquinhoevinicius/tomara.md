@@ -1,14 +1,17 @@
 Title: Tomara
 Slug: toquinho-vinicius-tomara
-Url: tablaturas/toquinhoevinicius/tomara/
-Save_As: tablaturas/toquinhoevinicius/tomara/index.html
+Url: musicas/toquinhoevinicius/tomara/
+Save_As: musicas/toquinhoevinicius/tomara/index.html
 page_type: tab
 artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
-section_label: Tablaturas
-summary: Tablatura de Tomara por Toquinho & Vinicius.
-listing_index: 296
-next_tab_url: /tablaturas/toquinhoevinicius/turbilhao/
+harmonic_key: E
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Tomara, canção de Toquinho & Vinicius.
+listing_index: 300
+next_tab_url: /musicas/toquinhoevinicius/turbilhao/
 next_tab_title: Turbilhao
 next_tab_artist: Toquinho & Vinicius
 

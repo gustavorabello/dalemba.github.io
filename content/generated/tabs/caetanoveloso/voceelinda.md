@@ -1,14 +1,17 @@
 Title: Voce E Linda
 Slug: caetano-veloso-voceelinda
-Url: tablaturas/caetanoveloso/voceelinda/
-Save_As: tablaturas/caetanoveloso/voceelinda/index.html
+Url: musicas/caetanoveloso/voceelinda/
+Save_As: musicas/caetanoveloso/voceelinda/index.html
 page_type: tab
 artist: Caetano Veloso
 artist_url: https://www.cifraclub.com.br/caetano-veloso/
-section_label: Tablaturas
-summary: Tablatura de Voce E Linda por Caetano Veloso.
-listing_index: 29
-next_tab_url: /tablaturas/carloslyra/coisamaislinda/
+harmonic_key: F#
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Voce E Linda, canção de Caetano Veloso.
+listing_index: 30
+next_tab_url: /musicas/carloslyra/coisamaislinda/
 next_tab_title: Coisa Mais Linda
 next_tab_artist: Carlos Lyra & Vinicius
 

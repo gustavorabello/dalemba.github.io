@@ -1,14 +1,17 @@
 Title: Exagerado
 Slug: cazuza-exagerado
-Url: tablaturas/cazuza/exagerado/
-Save_As: tablaturas/cazuza/exagerado/index.html
+Url: musicas/cazuza/exagerado/
+Save_As: musicas/cazuza/exagerado/index.html
 page_type: tab
 artist: Cazuza
 artist_url: https://www.cifraclub.com.br/cazuza/
-section_label: Tablaturas
-summary: Tablatura de Exagerado por Cazuza.
-listing_index: 40
-next_tab_url: /tablaturas/cazuza/fazpartedomeushow/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Exagerado, canção de Cazuza.
+listing_index: 41
+next_tab_url: /musicas/cazuza/fazpartedomeushow/
 next_tab_title: Faz Parte do Meu Show
 next_tab_artist: Cazuza
 

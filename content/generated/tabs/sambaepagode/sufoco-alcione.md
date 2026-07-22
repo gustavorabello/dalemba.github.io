@@ -1,14 +1,17 @@
 Title: Sufoco
 Slug: alcione-sufoco-alcione
-Url: tablaturas/sambaepagode/sufoco-alcione/
-Save_As: tablaturas/sambaepagode/sufoco-alcione/index.html
+Url: musicas/sambaepagode/sufoco-alcione/
+Save_As: musicas/sambaepagode/sufoco-alcione/index.html
 page_type: tab
 artist: Alcione
 artist_url: https://www.cifraclub.com.br/alcione/
-section_label: Tablaturas
-summary: Tablatura de Sufoco por Alcione.
-listing_index: 246
-next_tab_url: /tablaturas/sambaepagode/tristeza-haroldolobo/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Sufoco, canção de Alcione.
+listing_index: 249
+next_tab_url: /musicas/sambaepagode/tristeza-haroldolobo/
 next_tab_title: Tristeza
 next_tab_artist: Haroldo Lobo
 

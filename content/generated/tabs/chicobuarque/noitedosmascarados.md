@@ -1,14 +1,17 @@
 Title: Noite dos Mascarados
 Slug: chico-buarque-noitedosmascarados
-Url: tablaturas/chicobuarque/noitedosmascarados/
-Save_As: tablaturas/chicobuarque/noitedosmascarados/index.html
+Url: musicas/chicobuarque/noitedosmascarados/
+Save_As: musicas/chicobuarque/noitedosmascarados/index.html
 page_type: tab
 artist: Chico Buarque
 artist_url: https://www.cifraclub.com.br/chico-buarque/
-section_label: Tablaturas
-summary: Tablatura de Noite dos Mascarados por Chico Buarque.
-listing_index: 55
-next_tab_url: /tablaturas/chicobuarque/oqueseraquesera/
+harmonic_key: G
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Noite dos Mascarados, canção de Chico Buarque.
+listing_index: 56
+next_tab_url: /musicas/chicobuarque/oqueseraquesera/
 next_tab_title: O Que Sera Que Sera
 next_tab_artist: Chico Buarque
 

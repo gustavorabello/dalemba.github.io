@@ -36,12 +36,12 @@ jobs:
         run: pip install -r requirements-gh-pages.txt
 
       - name: Build site for production
-        run: /bin/sh -lc 'pelican content -o output -s publishconf.py'
+        run: /bin/sh -lc 'pelican content -o dalembinha.github.io -s publishconf.py'
 
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: output
+          path: dalembinha.github.io
 
   deploy:
     environment:

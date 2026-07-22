@@ -1,14 +1,17 @@
 Title: Essa Moca Ta Diferente
 Slug: chico-buarque-essamocatadiferente
-Url: tablaturas/chicobuarque/essamocatadiferente/
-Save_As: tablaturas/chicobuarque/essamocatadiferente/index.html
+Url: musicas/chicobuarque/essamocatadiferente/
+Save_As: musicas/chicobuarque/essamocatadiferente/index.html
 page_type: tab
 artist: Chico Buarque
 artist_url: https://www.cifraclub.com.br/chico-buarque/
-section_label: Tablaturas
-summary: Tablatura de Essa Moca Ta Diferente por Chico Buarque.
-listing_index: 51
-next_tab_url: /tablaturas/chicobuarque/futurosamantes/
+harmonic_key: B
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Essa Moca Ta Diferente, canção de Chico Buarque.
+listing_index: 52
+next_tab_url: /musicas/chicobuarque/futurosamantes/
 next_tab_title: Futuros Amantes
 next_tab_artist: Chico Buarque
 

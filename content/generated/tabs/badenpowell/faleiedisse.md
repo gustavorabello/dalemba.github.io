@@ -1,14 +1,17 @@
 Title: Falei e Disse
 Slug: baden-powell-faleiedisse
-Url: tablaturas/badenpowell/faleiedisse/
-Save_As: tablaturas/badenpowell/faleiedisse/index.html
+Url: musicas/badenpowell/faleiedisse/
+Save_As: musicas/badenpowell/faleiedisse/index.html
 page_type: tab
 artist: Baden Powell
 artist_url: https://www.cifraclub.com.br/baden-powell/
-section_label: Tablaturas
-summary: Tablatura de Falei e Disse por Baden Powell.
-listing_index: 11
-next_tab_url: /tablaturas/badenpowell/sambatriste/
+harmonic_key: Bb
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Falei e Disse, canção de Baden Powell.
+listing_index: 12
+next_tab_url: /musicas/badenpowell/sambatriste/
 next_tab_title: Samba Triste
 next_tab_artist: Baden Powell
 

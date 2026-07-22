@@ -1,14 +1,17 @@
 Title: A Volta da Asa Branca
 Slug: luiz-gonzaga-avoltadaasabranca
-Url: tablaturas/luizgonzaga/avoltadaasabranca/
-Save_As: tablaturas/luizgonzaga/avoltadaasabranca/index.html
+Url: musicas/luizgonzaga/avoltadaasabranca/
+Save_As: musicas/luizgonzaga/avoltadaasabranca/index.html
 page_type: tab
 artist: Luiz Gonzaga
 artist_url: https://www.cifraclub.com.br/luiz-gonzaga/
-section_label: Tablaturas
-summary: Tablatura de A Volta da Asa Branca por Luiz Gonzaga.
-listing_index: 130
-next_tab_url: /tablaturas/luizgonzaga/assumpreto/
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: A Volta da Asa Branca, canção de Luiz Gonzaga.
+listing_index: 133
+next_tab_url: /musicas/luizgonzaga/assumpreto/
 next_tab_title: Assum Preto
 next_tab_artist: Luiz Gonzaga
 

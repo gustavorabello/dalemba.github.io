@@ -1,14 +1,17 @@
 Title: Esperando na Janela
 Slug: gilberto-gil-esperandonajanela
-Url: tablaturas/gilbertogil/esperandonajanela/
-Save_As: tablaturas/gilbertogil/esperandonajanela/index.html
+Url: musicas/gilbertogil/esperandonajanela/
+Save_As: musicas/gilbertogil/esperandonajanela/index.html
 page_type: tab
 artist: Gilberto Gil
 artist_url: https://www.cifraclub.com.br/gilberto-gil/
-section_label: Tablaturas
-summary: Tablatura de Esperando na Janela por Gilberto Gil.
-listing_index: 111
-next_tab_url: /tablaturas/gilbertogil/palco/
+harmonic_key: E
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Esperando na Janela, canção de Gilberto Gil.
+listing_index: 114
+next_tab_url: /musicas/gilbertogil/palco/
 next_tab_title: Palco
 next_tab_artist: Gilberto Gil
 

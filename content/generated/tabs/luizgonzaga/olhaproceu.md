@@ -1,14 +1,17 @@
 Title: Olha Pro Ceu
 Slug: luiz-gonzaga-olhaproceu
-Url: tablaturas/luizgonzaga/olhaproceu/
-Save_As: tablaturas/luizgonzaga/olhaproceu/index.html
+Url: musicas/luizgonzaga/olhaproceu/
+Save_As: musicas/luizgonzaga/olhaproceu/index.html
 page_type: tab
 artist: Luiz Gonzaga
 artist_url: https://www.cifraclub.com.br/luiz-gonzaga/
-section_label: Tablaturas
-summary: Tablatura de Olha Pro Ceu por Luiz Gonzaga.
-listing_index: 133
-next_tab_url: /tablaturas/luizgonzaga/roendounha/
+harmonic_key: D
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Olha Pro Ceu, canção de Luiz Gonzaga.
+listing_index: 136
+next_tab_url: /musicas/luizgonzaga/roendounha/
 next_tab_title: Roendo Unha
 next_tab_artist: Luiz Gonzaga
 

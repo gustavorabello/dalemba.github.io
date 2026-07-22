@@ -1,14 +1,17 @@
 Title: Morena Tropicana
 Slug: alceu-valenca-morenatropicana
-Url: tablaturas/alceuvalenca/morenatropicana/
-Save_As: tablaturas/alceuvalenca/morenatropicana/index.html
+Url: musicas/alceuvalenca/morenatropicana/
+Save_As: musicas/alceuvalenca/morenatropicana/index.html
 page_type: tab
 artist: Alceu Valença
 artist_url: https://www.cifraclub.com.br/alceu-valenca/
-section_label: Tablaturas
-summary: Tablatura de Morena Tropicana por Alceu Valença.
-listing_index: 4
-next_tab_url: /tablaturas/arlindocruz/aindaetempodeviverfeliz/
+harmonic_key: B
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Morena Tropicana, canção de Alceu Valença.
+listing_index: 5
+next_tab_url: /musicas/arlindocruz/aindaetempodeviverfeliz/
 next_tab_title: Ainda É Tempo de Viver Feliz
 next_tab_artist: Arlindo Cruz
 

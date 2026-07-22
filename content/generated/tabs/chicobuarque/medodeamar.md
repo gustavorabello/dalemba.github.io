@@ -1,14 +1,17 @@
 Title: Medo de Amar
 Slug: chico-buarque-medodeamar
-Url: tablaturas/chicobuarque/medodeamar/
-Save_As: tablaturas/chicobuarque/medodeamar/index.html
+Url: musicas/chicobuarque/medodeamar/
+Save_As: musicas/chicobuarque/medodeamar/index.html
 page_type: tab
 artist: Chico Buarque
 artist_url: https://www.cifraclub.com.br/chico-buarque/
-section_label: Tablaturas
-summary: Tablatura de Medo de Amar por Chico Buarque.
-listing_index: 54
-next_tab_url: /tablaturas/chicobuarque/noitedosmascarados/
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Medo de Amar, canção de Chico Buarque.
+listing_index: 55
+next_tab_url: /musicas/chicobuarque/noitedosmascarados/
 next_tab_title: Noite dos Mascarados
 next_tab_artist: Chico Buarque
 

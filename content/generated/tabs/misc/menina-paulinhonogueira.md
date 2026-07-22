@@ -1,14 +1,17 @@
 Title: Menina
 Slug: paulinho-nogueira-menina-paulinhonogueira
-Url: tablaturas/misc/menina-paulinhonogueira/
-Save_As: tablaturas/misc/menina-paulinhonogueira/index.html
+Url: musicas/misc/menina-paulinhonogueira/
+Save_As: musicas/misc/menina-paulinhonogueira/index.html
 page_type: tab
 artist: Paulinho Nogueira
 artist_url: https://www.cifraclub.com.br/paulinho-nogueira/
-section_label: Tablaturas
-summary: Tablatura de Menina por Paulinho Nogueira.
-listing_index: 187
-next_tab_url: /tablaturas/misc/minhafelicidade-robertacampos/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Menina, canção de Paulinho Nogueira.
+listing_index: 190
+next_tab_url: /musicas/misc/minhafelicidade-robertacampos/
 next_tab_title: Minha Felicidade
 next_tab_artist: Roberta Campos
 

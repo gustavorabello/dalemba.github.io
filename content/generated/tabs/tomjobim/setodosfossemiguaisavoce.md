@@ -1,14 +1,17 @@
 Title: Se Todos Fossem Iguais a Você
 Slug: tom-jobim-e-vinicius-de-moraes-setodosfossemiguaisavoce
-Url: tablaturas/tomjobim/setodosfossemiguaisavoce/
-Save_As: tablaturas/tomjobim/setodosfossemiguaisavoce/index.html
+Url: musicas/tomjobim/setodosfossemiguaisavoce/
+Save_As: musicas/tomjobim/setodosfossemiguaisavoce/index.html
 page_type: tab
 artist: Tom Jobim e Vinícius de Moraes
 artist_url: https://www.cifraclub.com.br/tom-jobim-e-vinicius-de-moraes/
-section_label: Tablaturas
-summary: Tablatura de Se Todos Fossem Iguais a Você por Tom Jobim e Vinícius de Moraes.
-listing_index: 273
-next_tab_url: /tablaturas/tomjobim/wave/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Se Todos Fossem Iguais a Você, canção de Tom Jobim e Vinícius de Moraes.
+listing_index: 277
+next_tab_url: /musicas/tomjobim/wave/
 next_tab_title: Wave
 next_tab_artist: Tom Jobim
 

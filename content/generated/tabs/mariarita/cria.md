@@ -1,14 +1,17 @@
 Title: Cria
 Slug: maria-rita-cria
-Url: tablaturas/mariarita/cria/
-Save_As: tablaturas/mariarita/cria/index.html
+Url: musicas/mariarita/cria/
+Save_As: musicas/mariarita/cria/index.html
 page_type: tab
 artist: Maria Rita
 artist_url: https://www.cifraclub.com.br/maria-rita/
-section_label: Tablaturas
-summary: Tablatura de Cria por Maria Rita.
-listing_index: 148
-next_tab_url: /tablaturas/mariarita/novoamor/
+harmonic_key: F#
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Cria, canção de Maria Rita.
+listing_index: 151
+next_tab_url: /musicas/mariarita/novoamor/
 next_tab_title: Novo Amor
 next_tab_artist: Maria Rita
 

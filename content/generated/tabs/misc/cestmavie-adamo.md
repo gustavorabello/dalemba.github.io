@@ -1,14 +1,17 @@
 Title: C'est Ma Vie
 Slug: adamo-cestmavie-adamo
-Url: tablaturas/misc/cestmavie-adamo/
-Save_As: tablaturas/misc/cestmavie-adamo/index.html
+Url: musicas/misc/cestmavie-adamo/
+Save_As: musicas/misc/cestmavie-adamo/index.html
 page_type: tab
 artist: Adamo
 artist_url: https://www.cifraclub.com.br/adamo/
-section_label: Tablaturas
-summary: Tablatura de C'est Ma Vie por Adamo.
-listing_index: 172
-next_tab_url: /tablaturas/misc/chanchan-buenavista/
+harmonic_key: B
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: C'est Ma Vie, canção de Adamo.
+listing_index: 175
+next_tab_url: /musicas/misc/chanchan-buenavista/
 next_tab_title: Chan Chan
 next_tab_artist: Buena Vista
 

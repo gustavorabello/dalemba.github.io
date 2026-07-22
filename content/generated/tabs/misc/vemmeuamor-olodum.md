@@ -1,14 +1,17 @@
 Title: Vem Meu Amor
 Slug: olodum-vemmeuamor-olodum
-Url: tablaturas/misc/vemmeuamor-olodum/
-Save_As: tablaturas/misc/vemmeuamor-olodum/index.html
+Url: musicas/misc/vemmeuamor-olodum/
+Save_As: musicas/misc/vemmeuamor-olodum/index.html
 page_type: tab
 artist: Olodum
 artist_url: https://www.cifraclub.com.br/olodum/
-section_label: Tablaturas
-summary: Tablatura de Vem Meu Amor por Olodum.
-listing_index: 202
-next_tab_url: /tablaturas/misc/wishyouwerehere-pinkfloyd/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Vem Meu Amor, canção de Olodum.
+listing_index: 205
+next_tab_url: /musicas/misc/wishyouwerehere-pinkfloyd/
 next_tab_title: Wish You Here
 next_tab_artist: Pink Floyd
 

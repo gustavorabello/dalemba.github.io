@@ -1,14 +1,17 @@
 Title: Araketu É Bom Demais
 Slug: araketu-araketuebomdemais-araketu
-Url: tablaturas/misc/araketuebomdemais-araketu/
-Save_As: tablaturas/misc/araketuebomdemais-araketu/index.html
+Url: musicas/misc/araketuebomdemais-araketu/
+Save_As: musicas/misc/araketuebomdemais-araketu/index.html
 page_type: tab
 artist: Araketu
 artist_url: https://www.cifraclub.com.br/araketu/
-section_label: Tablaturas
-summary: Tablatura de Araketu É Bom Demais por Araketu.
-listing_index: 170
-next_tab_url: /tablaturas/misc/baianidadenago-bandabeijo/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Araketu É Bom Demais, canção de Araketu.
+listing_index: 173
+next_tab_url: /musicas/misc/baianidadenago-bandabeijo/
 next_tab_title: Baianidade Nagô
 next_tab_artist: Banda Beijo
 

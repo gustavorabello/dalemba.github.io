@@ -1,14 +1,17 @@
 Title: Bizarre Love Triangle
 Slug: new-order-bizarrelovetriangle-neworder
-Url: tablaturas/cordadeaco/bizarrelovetriangle-neworder/
-Save_As: tablaturas/cordadeaco/bizarrelovetriangle-neworder/index.html
+Url: musicas/cordadeaco/bizarrelovetriangle-neworder/
+Save_As: musicas/cordadeaco/bizarrelovetriangle-neworder/index.html
 page_type: tab
 artist: New Order
 artist_url: https://www.cifraclub.com.br/new-order/
-section_label: Tablaturas
-summary: Tablatura de Bizarre Love Triangle por New Order.
-listing_index: 65
-next_tab_url: /tablaturas/cordadeaco/comoeuquero-kidabelha/
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Bizarre Love Triangle, canção de New Order.
+listing_index: 66
+next_tab_url: /musicas/cordadeaco/comoeuquero-kidabelha/
 next_tab_title: Como Eu Quero
 next_tab_artist: Kid Abelha
 

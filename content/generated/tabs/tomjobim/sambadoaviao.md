@@ -1,14 +1,17 @@
 Title: Samba do Avião
 Slug: tom-jobim-sambadoaviao
-Url: tablaturas/tomjobim/sambadoaviao/
-Save_As: tablaturas/tomjobim/sambadoaviao/index.html
+Url: musicas/tomjobim/sambadoaviao/
+Save_As: musicas/tomjobim/sambadoaviao/index.html
 page_type: tab
 artist: Tom Jobim
 artist_url: https://www.cifraclub.com.br/tom-jobim/
-section_label: Tablaturas
-summary: Tablatura de Samba do Avião por Tom Jobim.
-listing_index: 272
-next_tab_url: /tablaturas/tomjobim/setodosfossemiguaisavoce/
+harmonic_key: A
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Samba do Avião, canção de Tom Jobim.
+listing_index: 276
+next_tab_url: /musicas/tomjobim/setodosfossemiguaisavoce/
 next_tab_title: Se Todos Fossem Iguais a Você
 next_tab_artist: Tom Jobim e Vinícius de Moraes
 

@@ -1,14 +1,17 @@
 Title: Drao
 Slug: gilberto-gil-drao
-Url: tablaturas/gilbertogil/drao/
-Save_As: tablaturas/gilbertogil/drao/index.html
+Url: musicas/gilbertogil/drao/
+Save_As: musicas/gilbertogil/drao/index.html
 page_type: tab
 artist: Gilberto Gil
 artist_url: https://www.cifraclub.com.br/gilberto-gil/
-section_label: Tablaturas
-summary: Tablatura de Drao por Gilberto Gil.
-listing_index: 110
-next_tab_url: /tablaturas/gilbertogil/esperandonajanela/
+harmonic_key: F
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Drao, canção de Gilberto Gil.
+listing_index: 113
+next_tab_url: /musicas/gilbertogil/esperandonajanela/
 next_tab_title: Esperando na Janela
 next_tab_artist: Gilberto Gil
 

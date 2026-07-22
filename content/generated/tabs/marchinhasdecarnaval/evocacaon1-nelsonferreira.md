@@ -1,14 +1,17 @@
 Title: Evocação No. 1
 Slug: nelson-ferreira-evocacaon1-nelsonferreira
-Url: tablaturas/marchinhasdecarnaval/evocacaon1-nelsonferreira/
-Save_As: tablaturas/marchinhasdecarnaval/evocacaon1-nelsonferreira/index.html
+Url: musicas/marchinhasdecarnaval/evocacaon1-nelsonferreira/
+Save_As: musicas/marchinhasdecarnaval/evocacaon1-nelsonferreira/index.html
 page_type: tab
 artist: Nelson Ferreira
 artist_url: https://www.cifraclub.com.br/nelson-ferreira/
-section_label: Tablaturas
-summary: Tablatura de Evocação No. 1 por Nelson Ferreira.
-listing_index: 139
-next_tab_url: /tablaturas/marchinhasdecarnaval/frevon1recife-antoniomaia/
+harmonic_key: D
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Evocação No. 1, canção de Nelson Ferreira.
+listing_index: 142
+next_tab_url: /musicas/marchinhasdecarnaval/frevon1recife-antoniomaia/
 next_tab_title: Frevo No. 1
 next_tab_artist: Antônio Maia
 

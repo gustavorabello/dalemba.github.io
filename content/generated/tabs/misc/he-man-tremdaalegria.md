@@ -1,14 +1,17 @@
 Title: He-Man
 Slug: trem-da-alegria-he-man-tremdaalegria
-Url: tablaturas/misc/he-man-tremdaalegria/
-Save_As: tablaturas/misc/he-man-tremdaalegria/index.html
+Url: musicas/misc/he-man-tremdaalegria/
+Save_As: musicas/misc/he-man-tremdaalegria/index.html
 page_type: tab
 artist: Trem da Alegria
 artist_url: https://www.cifraclub.com.br/trem-da-alegria/
-section_label: Tablaturas
-summary: Tablatura de He-Man por Trem da Alegria.
-listing_index: 181
-next_tab_url: /tablaturas/misc/layla-ericclapton/
+harmonic_key: E
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: He-Man, canção de Trem da Alegria.
+listing_index: 184
+next_tab_url: /musicas/misc/layla-ericclapton/
 next_tab_title: Layla
 next_tab_artist: Eric Clapton
 

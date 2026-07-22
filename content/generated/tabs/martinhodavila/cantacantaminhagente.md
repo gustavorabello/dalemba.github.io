@@ -1,14 +1,17 @@
 Title: Canta, Canta Minha Gente
 Slug: martinho-da-vila-cantacantaminhagente
-Url: tablaturas/martinhodavila/cantacantaminhagente/
-Save_As: tablaturas/martinhodavila/cantacantaminhagente/index.html
+Url: musicas/martinhodavila/cantacantaminhagente/
+Save_As: musicas/martinhodavila/cantacantaminhagente/index.html
 page_type: tab
 artist: Martinho da Vila
 artist_url: https://www.cifraclub.com.br/martinho-da-vila/
-section_label: Tablaturas
-summary: Tablatura de Canta, Canta Minha Gente por Martinho da Vila.
-listing_index: 157
-next_tab_url: /tablaturas/martinhodavila/cirandaderoda/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Canta, Canta Minha Gente, canção de Martinho da Vila.
+listing_index: 160
+next_tab_url: /musicas/martinhodavila/cirandaderoda/
 next_tab_title: Ciranda de Roda
 next_tab_artist: Martinho da Vila
 

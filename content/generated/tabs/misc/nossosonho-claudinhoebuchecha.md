@@ -1,14 +1,17 @@
 Title: Nosso Sonho
 Slug: claudinho-e-buchecha-nossosonho-claudinhoebuchecha
-Url: tablaturas/misc/nossosonho-claudinhoebuchecha/
-Save_As: tablaturas/misc/nossosonho-claudinhoebuchecha/index.html
+Url: musicas/misc/nossosonho-claudinhoebuchecha/
+Save_As: musicas/misc/nossosonho-claudinhoebuchecha/index.html
 page_type: tab
 artist: Claudinho e Buchecha
 artist_url: https://www.cifraclub.com.br/claudinho-e-buchecha/
-section_label: Tablaturas
-summary: Tablatura de Nosso Sonho por Claudinho e Buchecha.
-listing_index: 189
-next_tab_url: /tablaturas/misc/naoprecisa-paulafernandes/
+harmonic_key: E
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Nosso Sonho, canção de Claudinho e Buchecha.
+listing_index: 192
+next_tab_url: /musicas/misc/naoprecisa-paulafernandes/
 next_tab_title: Não Precisa
 next_tab_artist: Paula Fernandes
 

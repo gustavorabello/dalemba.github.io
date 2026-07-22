@@ -1,14 +1,17 @@
 Title: Ainda Bem
 Slug: marisa-monte-aindabem
-Url: tablaturas/marisamonte/aindabem/
-Save_As: tablaturas/marisamonte/aindabem/index.html
+Url: musicas/marisamonte/aindabem/
+Save_As: musicas/marisamonte/aindabem/index.html
 page_type: tab
 artist: Marisa Monte
 artist_url: https://www.cifraclub.com.br/marisa-monte/
-section_label: Tablaturas
-summary: Tablatura de Ainda Bem por Marisa Monte.
-listing_index: 152
-next_tab_url: /tablaturas/marisamonte/aindalembro/
+harmonic_key: D
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Ainda Bem, canção de Marisa Monte.
+listing_index: 155
+next_tab_url: /musicas/marisamonte/aindalembro/
 next_tab_title: Ainda Lembro
 next_tab_artist: Marisa Monte
 

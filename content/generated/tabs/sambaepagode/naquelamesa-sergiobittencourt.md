@@ -1,14 +1,17 @@
 Title: Naquela Mesa
 Slug: sergio-bittencourt-naquelamesa-sergiobittencourt
-Url: tablaturas/sambaepagode/naquelamesa-sergiobittencourt/
-Save_As: tablaturas/sambaepagode/naquelamesa-sergiobittencourt/index.html
+Url: musicas/sambaepagode/naquelamesa-sergiobittencourt/
+Save_As: musicas/sambaepagode/naquelamesa-sergiobittencourt/index.html
 page_type: tab
 artist: Sergio Bittencourt
 artist_url: https://www.cifraclub.com.br/sergio-bittencourt/
-section_label: Tablaturas
-summary: Tablatura de Naquela Mesa por Sergio Bittencourt.
-listing_index: 235
-next_tab_url: /tablaturas/sambaepagode/naodeixeosambamorrer-alcione/
+harmonic_key: E
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Naquela Mesa, canção de Sergio Bittencourt.
+listing_index: 238
+next_tab_url: /musicas/sambaepagode/naodeixeosambamorrer-alcione/
 next_tab_title: Não Deixe o Samba Morrer
 next_tab_artist: Alcione
 

@@ -1,14 +1,17 @@
 Title: Anunciacao
 Slug: alceu-valenca-anunciacao-alceuvalenca
-Url: tablaturas/forro/anunciacao-alceuvalenca/
-Save_As: tablaturas/forro/anunciacao-alceuvalenca/index.html
+Url: musicas/forro/anunciacao-alceuvalenca/
+Save_As: musicas/forro/anunciacao-alceuvalenca/index.html
 page_type: tab
 artist: Alceu Valenca
 artist_url: https://www.cifraclub.com.br/alceu-valenca/
-section_label: Tablaturas
-summary: Tablatura de Anunciacao por Alceu Valenca.
+harmonic_key: A
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Anunciacao, canção de Alceu Valenca.
 listing_index: 93
-next_tab_url: /tablaturas/forro/campinadomeucoracao-desconhecido/
+next_tab_url: /musicas/forro/campinadomeucoracao-desconhecido/
 next_tab_title: Campina do Meu Coracao
 next_tab_artist: Desconhecido
 

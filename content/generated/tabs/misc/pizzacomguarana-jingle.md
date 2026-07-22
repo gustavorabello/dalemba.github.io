@@ -1,14 +1,17 @@
 Title: Pizza com Guarana
 Slug: jingle-pizzacomguarana-jingle
-Url: tablaturas/misc/pizzacomguarana-jingle/
-Save_As: tablaturas/misc/pizzacomguarana-jingle/index.html
+Url: musicas/misc/pizzacomguarana-jingle/
+Save_As: musicas/misc/pizzacomguarana-jingle/index.html
 page_type: tab
 artist: Jingle
 artist_url: https://www.cifraclub.com.br/jingle/
-section_label: Tablaturas
-summary: Tablatura de Pizza com Guarana por Jingle.
-listing_index: 193
-next_tab_url: /tablaturas/misc/samarina-wilsonsimonal/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Pizza com Guarana, canção de Jingle.
+listing_index: 196
+next_tab_url: /musicas/misc/samarina-wilsonsimonal/
 next_tab_title: Sa Marina
 next_tab_artist: Wilson Simonal
 

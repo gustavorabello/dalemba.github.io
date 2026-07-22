@@ -1,14 +1,17 @@
 Title: O Que Sera Que Sera
 Slug: chico-buarque-oqueseraquesera
-Url: tablaturas/chicobuarque/oqueseraquesera/
-Save_As: tablaturas/chicobuarque/oqueseraquesera/index.html
+Url: musicas/chicobuarque/oqueseraquesera/
+Save_As: musicas/chicobuarque/oqueseraquesera/index.html
 page_type: tab
 artist: Chico Buarque
 artist_url: https://www.cifraclub.com.br/chico-buarque/
-section_label: Tablaturas
-summary: Tablatura de O Que Sera Que Sera por Chico Buarque.
-listing_index: 56
-next_tab_url: /tablaturas/chicobuarque/olhosnosolhos/
+harmonic_key: D
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: O Que Sera Que Sera, canção de Chico Buarque.
+listing_index: 57
+next_tab_url: /musicas/chicobuarque/olhosnosolhos/
 next_tab_title: Olhos Nos Olhos
 next_tab_artist: Chico Buarque
 

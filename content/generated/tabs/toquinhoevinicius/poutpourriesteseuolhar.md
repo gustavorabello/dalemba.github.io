@@ -1,14 +1,17 @@
 Title: Pout Pourri
 Slug: toquinho-vinicius-poutpourriesteseuolhar
-Url: tablaturas/toquinhoevinicius/poutpourriesteseuolhar/
-Save_As: tablaturas/toquinhoevinicius/poutpourriesteseuolhar/index.html
+Url: musicas/toquinhoevinicius/poutpourriesteseuolhar/
+Save_As: musicas/toquinhoevinicius/poutpourriesteseuolhar/index.html
 page_type: tab
 artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
-section_label: Tablaturas
-summary: Tablatura de Pout Pourri por Toquinho & Vinicius.
-listing_index: 288
-next_tab_url: /tablaturas/toquinhoevinicius/poutpourribahia/
+harmonic_key: A
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Pout Pourri, canção de Toquinho & Vinicius.
+listing_index: 292
+next_tab_url: /musicas/toquinhoevinicius/poutpourribahia/
 next_tab_title: Pout-Pourri No. 1
 next_tab_artist: A Benção Bahia, Tarde em Itapoã, Tatamirô,
 

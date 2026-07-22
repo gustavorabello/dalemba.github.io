@@ -1,14 +1,17 @@
 Title: Minha Namorada
 Slug: carlos-lyra-vinicius-minhanamorada
-Url: tablaturas/carloslyra/minhanamorada/
-Save_As: tablaturas/carloslyra/minhanamorada/index.html
+Url: musicas/carloslyra/minhanamorada/
+Save_As: musicas/carloslyra/minhanamorada/index.html
 page_type: tab
 artist: Carlos Lyra & Vinicius
 artist_url: https://www.cifraclub.com.br/carlos-lyra-vinicius/
-section_label: Tablaturas
-summary: Tablatura de Minha Namorada por Carlos Lyra & Vinicius.
-listing_index: 31
-next_tab_url: /tablaturas/cartola/alvorada/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Minha Namorada, canção de Carlos Lyra & Vinicius.
+listing_index: 32
+next_tab_url: /musicas/cartola/alvorada/
 next_tab_title: Alvorada
 next_tab_artist: Cartola
 

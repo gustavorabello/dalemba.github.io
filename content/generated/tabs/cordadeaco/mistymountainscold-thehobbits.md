@@ -1,14 +1,17 @@
 Title: Misty Mountains Cold
 Slug: the-hobbits-mistymountainscold-thehobbits
-Url: tablaturas/cordadeaco/mistymountainscold-thehobbits/
-Save_As: tablaturas/cordadeaco/mistymountainscold-thehobbits/index.html
+Url: musicas/cordadeaco/mistymountainscold-thehobbits/
+Save_As: musicas/cordadeaco/mistymountainscold-thehobbits/index.html
 page_type: tab
 artist: The Hobbits
 artist_url: https://www.cifraclub.com.br/the-hobbits/
-section_label: Tablaturas
-summary: Tablatura de Misty Mountains Cold por The Hobbits.
-listing_index: 72
-next_tab_url: /tablaturas/cordadeaco/mrjones-countingcrows/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Misty Mountains Cold, canção de The Hobbits.
+listing_index: 73
+next_tab_url: /musicas/cordadeaco/mrjones-countingcrows/
 next_tab_title: Mr. Jones
 next_tab_artist: Counting Crows
 

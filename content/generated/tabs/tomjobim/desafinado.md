@@ -1,14 +1,17 @@
 Title: Desafinado
 Slug: tom-jobim-desafinado
-Url: tablaturas/tomjobim/desafinado/
-Save_As: tablaturas/tomjobim/desafinado/index.html
+Url: musicas/tomjobim/desafinado/
+Save_As: musicas/tomjobim/desafinado/index.html
 page_type: tab
 artist: Tom Jobim
 artist_url: https://www.cifraclub.com.br/tom-jobim/
-section_label: Tablaturas
-summary: Tablatura de Desafinado por Tom Jobim.
-listing_index: 265
-next_tab_url: /tablaturas/tomjobim/falandodeamor/
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Desafinado, canção de Tom Jobim.
+listing_index: 269
+next_tab_url: /musicas/tomjobim/falandodeamor/
 next_tab_title: Falando de Amor
 next_tab_artist: Tom Jobim
 

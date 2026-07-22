@@ -1,14 +1,17 @@
 Title: Portela na Avenida
 Slug: clara-nunes-portelanaavenida-claranunes
-Url: tablaturas/sambaepagode/portelanaavenida-claranunes/
-Save_As: tablaturas/sambaepagode/portelanaavenida-claranunes/index.html
+Url: musicas/sambaepagode/portelanaavenida-claranunes/
+Save_As: musicas/sambaepagode/portelanaavenida-claranunes/index.html
 page_type: tab
 artist: Clara Nunes
 artist_url: https://www.cifraclub.com.br/clara-nunes/
-section_label: Tablaturas
-summary: Tablatura de Portela na Avenida por Clara Nunes.
-listing_index: 242
-next_tab_url: /tablaturas/sambaepagode/retalhosdecetim-benitodipaula/
+harmonic_key: A
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Portela na Avenida, canção de Clara Nunes.
+listing_index: 245
+next_tab_url: /musicas/sambaepagode/retalhosdecetim-benitodipaula/
 next_tab_title: Retalhos de Cetim
 next_tab_artist: Benito Di Paula
 

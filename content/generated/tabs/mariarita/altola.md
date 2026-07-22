@@ -1,14 +1,17 @@
 Title: Alto Lá
 Slug: zeca-pagodinho-altola
-Url: tablaturas/mariarita/altola/
-Save_As: tablaturas/mariarita/altola/index.html
+Url: musicas/mariarita/altola/
+Save_As: musicas/mariarita/altola/index.html
 page_type: tab
 artist: Zeca Pagodinho
 artist_url: https://www.cifraclub.com.br/zeca-pagodinho/
-section_label: Tablaturas
-summary: Tablatura de Alto Lá por Zeca Pagodinho.
-listing_index: 145
-next_tab_url: /tablaturas/mariarita/caravalente/
+harmonic_key: E
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Alto Lá, canção de Zeca Pagodinho.
+listing_index: 148
+next_tab_url: /musicas/mariarita/caravalente/
 next_tab_title: Cara Valente
 next_tab_artist: Maria Rita
 

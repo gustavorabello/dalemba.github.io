@@ -1,14 +1,17 @@
 Title: Taj Mahal
 Slug: jorge-benjor-tajmahal
-Url: tablaturas/jorgebenjor/tajmahal/
-Save_As: tablaturas/jorgebenjor/tajmahal/index.html
+Url: musicas/jorgebenjor/tajmahal/
+Save_As: musicas/jorgebenjor/tajmahal/index.html
 page_type: tab
 artist: Jorge Benjor
 artist_url: https://www.cifraclub.com.br/jorge-benjor/
-section_label: Tablaturas
-summary: Tablatura de Taj Mahal por Jorge Benjor.
-listing_index: 127
-next_tab_url: /tablaturas/jotaquest/facil/
+harmonic_key: F#
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Taj Mahal, canção de Jorge Benjor.
+listing_index: 130
+next_tab_url: /musicas/jotaquest/facil/
 next_tab_title: Facil
 next_tab_artist: Jota Quest
 

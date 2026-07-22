@@ -1,14 +1,17 @@
 Title: O Amanhã
 Slug: simone-oamanha-simone
-Url: tablaturas/sambaepagode/oamanha-simone/
-Save_As: tablaturas/sambaepagode/oamanha-simone/index.html
+Url: musicas/sambaepagode/oamanha-simone/
+Save_As: musicas/sambaepagode/oamanha-simone/index.html
 page_type: tab
 artist: Simone
 artist_url: https://www.cifraclub.com.br/simone/
-section_label: Tablaturas
-summary: Tablatura de O Amanhã por Simone.
-listing_index: 237
-next_tab_url: /tablaturas/sambaepagode/obebadoeoequilibrista-joaobosco/
+harmonic_key: D
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: O Amanhã, canção de Simone.
+listing_index: 240
+next_tab_url: /musicas/sambaepagode/obebadoeoequilibrista-joaobosco/
 next_tab_title: O Bebado e o Equilibrista
 next_tab_artist: Joao Bosco
 

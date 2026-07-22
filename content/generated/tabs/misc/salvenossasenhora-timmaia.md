@@ -1,14 +1,17 @@
 Title: Salve Nossa Senhora
 Slug: tim-maia-salvenossasenhora-timmaia
-Url: tablaturas/misc/salvenossasenhora-timmaia/
-Save_As: tablaturas/misc/salvenossasenhora-timmaia/index.html
+Url: musicas/misc/salvenossasenhora-timmaia/
+Save_As: musicas/misc/salvenossasenhora-timmaia/index.html
 page_type: tab
 artist: Tim Maia
 artist_url: https://www.cifraclub.com.br/tim-maia/
-section_label: Tablaturas
-summary: Tablatura de Salve Nossa Senhora por Tim Maia.
-listing_index: 195
-next_tab_url: /tablaturas/misc/sobradinho-saeguarabyra/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Salve Nossa Senhora, canção de Tim Maia.
+listing_index: 198
+next_tab_url: /musicas/misc/sobradinho-saeguarabyra/
 next_tab_title: Sobradinho
 next_tab_artist: Sa e Guarabira
 

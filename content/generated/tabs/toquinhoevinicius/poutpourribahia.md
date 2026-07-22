@@ -1,14 +1,17 @@
 Title: Pout-Pourri No. 1
 Slug: a-bencao-bahia-tarde-em-itapoa-tatamiro-poutpourribahia
-Url: tablaturas/toquinhoevinicius/poutpourribahia/
-Save_As: tablaturas/toquinhoevinicius/poutpourribahia/index.html
+Url: musicas/toquinhoevinicius/poutpourribahia/
+Save_As: musicas/toquinhoevinicius/poutpourribahia/index.html
 page_type: tab
 artist: A Benção Bahia, Tarde em Itapoã, Tatamirô,
 artist_url: https://www.cifraclub.com.br/a-bencao-bahia-tarde-em-itapoa-tatamiro/
-section_label: Tablaturas
-summary: Tablatura de Pout-Pourri No. 1 por A Benção Bahia, Tarde em Itapoã, Tatamirô,.
-listing_index: 289
-next_tab_url: /tablaturas/toquinhoevinicius/regratres/
+harmonic_key: D
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Pout-Pourri No. 1, canção de A Benção Bahia, Tarde em Itapoã, Tatamirô,.
+listing_index: 293
+next_tab_url: /musicas/toquinhoevinicius/regratres/
 next_tab_title: Regra Tres
 next_tab_artist: Toquinho & Vinicius
 

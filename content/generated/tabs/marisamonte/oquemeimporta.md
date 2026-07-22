@@ -1,14 +1,17 @@
 Title: O Que Me Importa
 Slug: marisa-monte-oquemeimporta
-Url: tablaturas/marisamonte/oquemeimporta/
-Save_As: tablaturas/marisamonte/oquemeimporta/index.html
+Url: musicas/marisamonte/oquemeimporta/
+Save_As: musicas/marisamonte/oquemeimporta/index.html
 page_type: tab
 artist: Marisa Monte
 artist_url: https://www.cifraclub.com.br/marisa-monte/
-section_label: Tablaturas
-summary: Tablatura de O Que Me Importa por Marisa Monte.
-listing_index: 155
-next_tab_url: /tablaturas/marisamonte/velhainfancia/
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: O Que Me Importa, canção de Marisa Monte.
+listing_index: 158
+next_tab_url: /musicas/marisamonte/velhainfancia/
 next_tab_title: Velha Infancia
 next_tab_artist: Marisa Monte
 

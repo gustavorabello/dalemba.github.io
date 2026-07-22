@@ -1,14 +1,17 @@
 Title: Feira de Mangaio
 Slug: sivuca-feirademangaio-sivuca
-Url: tablaturas/forro/feirademangaio-sivuca/
-Save_As: tablaturas/forro/feirademangaio-sivuca/index.html
+Url: musicas/forro/feirademangaio-sivuca/
+Save_As: musicas/forro/feirademangaio-sivuca/index.html
 page_type: tab
 artist: Sivuca
 artist_url: https://www.cifraclub.com.br/sivuca/
-section_label: Tablaturas
-summary: Tablatura de Feira de Mangaio por Sivuca.
+harmonic_key: B
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Feira de Mangaio, canção de Sivuca.
 listing_index: 97
-next_tab_url: /tablaturas/forro/festadointerior-galcosta/
+next_tab_url: /musicas/forro/festadointerior-galcosta/
 next_tab_title: Festa do Interior
 next_tab_artist: Gal Costa
 

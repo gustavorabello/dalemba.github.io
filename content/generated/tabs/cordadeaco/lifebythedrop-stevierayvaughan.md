@@ -1,14 +1,17 @@
 Title: Life by the Drop
 Slug: stevie-ray-vaughan-lifebythedrop-stevierayvaughan
-Url: tablaturas/cordadeaco/lifebythedrop-stevierayvaughan/
-Save_As: tablaturas/cordadeaco/lifebythedrop-stevierayvaughan/index.html
+Url: musicas/cordadeaco/lifebythedrop-stevierayvaughan/
+Save_As: musicas/cordadeaco/lifebythedrop-stevierayvaughan/index.html
 page_type: tab
 artist: Stevie Ray Vaughan
 artist_url: https://www.cifraclub.com.br/stevie-ray-vaughan/
-section_label: Tablaturas
-summary: Tablatura de Life by the Drop por Stevie Ray Vaughan.
-listing_index: 70
-next_tab_url: /tablaturas/cordadeaco/michelle-beatles/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Life by the Drop, canção de Stevie Ray Vaughan.
+listing_index: 71
+next_tab_url: /musicas/cordadeaco/michelle-beatles/
 next_tab_title: Michelle
 next_tab_artist: The Beatles
 

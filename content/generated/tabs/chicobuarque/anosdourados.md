@@ -1,14 +1,17 @@
 Title: Anos Dourados
 Slug: chico-buarque-anosdourados
-Url: tablaturas/chicobuarque/anosdourados/
-Save_As: tablaturas/chicobuarque/anosdourados/index.html
+Url: musicas/chicobuarque/anosdourados/
+Save_As: musicas/chicobuarque/anosdourados/index.html
 page_type: tab
 artist: Chico Buarque
 artist_url: https://www.cifraclub.com.br/chico-buarque/
-section_label: Tablaturas
-summary: Tablatura de Anos Dourados por Chico Buarque.
-listing_index: 47
-next_tab_url: /tablaturas/chicobuarque/apesardevoce/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Anos Dourados, canção de Chico Buarque.
+listing_index: 48
+next_tab_url: /musicas/chicobuarque/apesardevoce/
 next_tab_title: Apesar de Voce
 next_tab_artist: Chico Buarque
 

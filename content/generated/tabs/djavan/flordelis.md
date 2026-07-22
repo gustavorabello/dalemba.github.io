@@ -1,14 +1,17 @@
 Title: Flor de Lis
 Slug: djavan-flordelis
-Url: tablaturas/djavan/flordelis/
-Save_As: tablaturas/djavan/flordelis/index.html
+Url: musicas/djavan/flordelis/
+Save_As: musicas/djavan/flordelis/index.html
 page_type: tab
 artist: Djavan
 artist_url: https://www.cifraclub.com.br/djavan/
-section_label: Tablaturas
-summary: Tablatura de Flor de Lis por Djavan.
-listing_index: 83
-next_tab_url: /tablaturas/djavan/meubem-querer/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Flor de Lis, canção de Djavan.
+listing_index: 84
+next_tab_url: /musicas/djavan/meubem-querer/
 next_tab_title: Meu Bem-Querer
 next_tab_artist: Djavan
 

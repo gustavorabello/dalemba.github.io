@@ -1,14 +1,12 @@
-Title: Tresse au Berre
+Title: Tresse au Beurre
 Slug: tresseauberre
 Url: receitas/tresseauberre/
 Save_As: receitas/tresseauberre/index.html
 page_type: recipe
 section_label: Receitas
-subtitle: Receitas importadas do acervo Hyde com o conteúdo original preservado.
-summary: Temps de préparation: 10min | Temps de cuisson: 33 min | Portions:
-8pers. | Difficulté: Medium
-
-<p class="recipe-hero"><img src="/static/images/recipes/tresseAuBerre.png" alt="Tresse au Berre"></p>
+subtitle: Para fazer a casa cheirar a afeto.
+summary: Temps de préparation: 10min | Temps de cuisson: 33 min | Portions: 8pers.
+recipe_image: /static/images/recipes/tresseAuBerre.png
 
 Temps de préparation: 10min | Temps de cuisson: 33 min | Portions:
 8pers. | Difficulté: Medium

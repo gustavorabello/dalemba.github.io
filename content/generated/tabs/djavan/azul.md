@@ -1,14 +1,17 @@
 Title: Azul
 Slug: djavan-azul
-Url: tablaturas/djavan/azul/
-Save_As: tablaturas/djavan/azul/index.html
+Url: musicas/djavan/azul/
+Save_As: musicas/djavan/azul/index.html
 page_type: tab
 artist: Djavan
 artist_url: https://www.cifraclub.com.br/djavan/
-section_label: Tablaturas
-summary: Tablatura de Azul por Djavan.
-listing_index: 79
-next_tab_url: /tablaturas/djavan/cerrado/
+harmonic_key: D
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Azul, canção de Djavan.
+listing_index: 80
+next_tab_url: /musicas/djavan/cerrado/
 next_tab_title: Cerrado
 next_tab_artist: Djavan
 

@@ -1,14 +1,17 @@
 Title: Sa Marina
 Slug: wilson-simonal-samarina-wilsonsimonal
-Url: tablaturas/misc/samarina-wilsonsimonal/
-Save_As: tablaturas/misc/samarina-wilsonsimonal/index.html
+Url: musicas/misc/samarina-wilsonsimonal/
+Save_As: musicas/misc/samarina-wilsonsimonal/index.html
 page_type: tab
 artist: Wilson Simonal
 artist_url: https://www.cifraclub.com.br/wilson-simonal/
-section_label: Tablaturas
-summary: Tablatura de Sa Marina por Wilson Simonal.
-listing_index: 194
-next_tab_url: /tablaturas/misc/salvenossasenhora-timmaia/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Sa Marina, canção de Wilson Simonal.
+listing_index: 197
+next_tab_url: /musicas/misc/salvenossasenhora-timmaia/
 next_tab_title: Salve Nossa Senhora
 next_tab_artist: Tim Maia
 

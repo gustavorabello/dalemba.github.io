@@ -1,14 +1,17 @@
 Title: O Bebado e o Equilibrista
 Slug: joao-bosco-obebadoeoequilibrista-joaobosco
-Url: tablaturas/sambaepagode/obebadoeoequilibrista-joaobosco/
-Save_As: tablaturas/sambaepagode/obebadoeoequilibrista-joaobosco/index.html
+Url: musicas/sambaepagode/obebadoeoequilibrista-joaobosco/
+Save_As: musicas/sambaepagode/obebadoeoequilibrista-joaobosco/index.html
 page_type: tab
 artist: Joao Bosco
 artist_url: https://www.cifraclub.com.br/joao-bosco/
-section_label: Tablaturas
-summary: Tablatura de O Bebado e o Equilibrista por Joao Bosco.
-listing_index: 238
-next_tab_url: /tablaturas/sambaepagode/ocampeao-neguinhodabeijaflor/
+harmonic_key: B
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: O Bebado e o Equilibrista, canção de Joao Bosco.
+listing_index: 241
+next_tab_url: /musicas/sambaepagode/ocampeao-neguinhodabeijaflor/
 next_tab_title: O Campeão
 next_tab_artist: Neguinho da Beija-Flor
 

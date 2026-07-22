@@ -1,14 +1,17 @@
 Title: Samba Pra Vinicius
 Slug: toquinho-vinicius-sambapravinicius
-Url: tablaturas/toquinhoevinicius/sambapravinicius/
-Save_As: tablaturas/toquinhoevinicius/sambapravinicius/index.html
+Url: musicas/toquinhoevinicius/sambapravinicius/
+Save_As: musicas/toquinhoevinicius/sambapravinicius/index.html
 page_type: tab
 artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
-section_label: Tablaturas
-summary: Tablatura de Samba Pra Vinicius por Toquinho & Vinicius.
-listing_index: 292
-next_tab_url: /tablaturas/toquinhoevinicius/sambadavolta/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Samba Pra Vinicius, canção de Toquinho & Vinicius.
+listing_index: 296
+next_tab_url: /musicas/toquinhoevinicius/sambadavolta/
 next_tab_title: Samba da Volta
 next_tab_artist: Toquinho & Vinicius
 

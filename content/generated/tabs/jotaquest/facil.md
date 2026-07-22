@@ -1,22 +1,23 @@
 Title: Facil
 Slug: jota-quest-facil
-Url: tablaturas/jotaquest/facil/
-Save_As: tablaturas/jotaquest/facil/index.html
+Url: musicas/jotaquest/facil/
+Save_As: musicas/jotaquest/facil/index.html
 page_type: tab
 artist: Jota Quest
 artist_url: https://www.cifraclub.com.br/jota-quest/
-section_label: Tablaturas
-summary: Tablatura de Facil por Jota Quest.
-listing_index: 128
-next_tab_url: /tablaturas/jotaquest/sempreassim/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: declared
+section_label: Músicas
+summary: Facil, canção de Jota Quest.
+listing_index: 131
+next_tab_url: /musicas/jotaquest/sempreassim/
 next_tab_title: Sempre Assim
 next_tab_artist: Jota Quest
 
 <div class="tab-layout columns">
   <div class="tab-column">
-    <pre class="tab-sheet">Tom: G
-
-Introdução: ( <span class="chord">G</span> <span class="chord">D/F#</span> <span class="chord">F</span> <span class="chord">C</span> ) 4 vezes
+    <pre class="tab-sheet">Introdução: ( <span class="chord">G</span> <span class="chord">D/F#</span> <span class="chord">F</span> <span class="chord">C</span> ) 4 vezes
 
 <span class="chord">G</span>          <span class="chord">D/F#</span>
 Tudo é tão bom,
@@ -38,13 +39,12 @@ falar é complicado, quero uma canção.
 
 Refrão:
 <span class="chord">G</span>                      <span class="chord">D/F#</span> 
- Fácil, extremamente fácil, </pre>
+ Fácil, extremamente fácil, 
+         <span class="chord">F</span>              <span class="chord">C</span>                (2X)
+ pra você e eu e todo mundo, canta junto</pre>
   </div>
   <div class="tab-column">
-    <pre class="tab-sheet">         <span class="chord">F</span>              <span class="chord">C</span>                (2X)
- pra você e eu e todo mundo, canta junto
-
-  <span class="chord">G</span>             <span class="chord">D/F#</span>   <span class="chord">C</span>
+    <pre class="tab-sheet">  <span class="chord">G</span>             <span class="chord">D/F#</span>   <span class="chord">C</span>
 Tudo se torna claro,
                  <span class="chord">Bm</span>        
 Pateticamente pálido, 

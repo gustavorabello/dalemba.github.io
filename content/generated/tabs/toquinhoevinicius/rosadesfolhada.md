@@ -1,14 +1,17 @@
 Title: Rosa Desfolhada
 Slug: toquinho-vinicius-rosadesfolhada
-Url: tablaturas/toquinhoevinicius/rosadesfolhada/
-Save_As: tablaturas/toquinhoevinicius/rosadesfolhada/index.html
+Url: musicas/toquinhoevinicius/rosadesfolhada/
+Save_As: musicas/toquinhoevinicius/rosadesfolhada/index.html
 page_type: tab
 artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
-section_label: Tablaturas
-summary: Tablatura de Rosa Desfolhada por Toquinho & Vinicius.
-listing_index: 291
-next_tab_url: /tablaturas/toquinhoevinicius/sambapravinicius/
+harmonic_key: D
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Rosa Desfolhada, canção de Toquinho & Vinicius.
+listing_index: 295
+next_tab_url: /musicas/toquinhoevinicius/sambapravinicius/
 next_tab_title: Samba Pra Vinicius
 next_tab_artist: Toquinho & Vinicius
 

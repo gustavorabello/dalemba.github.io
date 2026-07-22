@@ -1,14 +1,17 @@
 Title: Desencontro
 Slug: chico-buarque-desencontro
-Url: tablaturas/chicobuarque/desencontro/
-Save_As: tablaturas/chicobuarque/desencontro/index.html
+Url: musicas/chicobuarque/desencontro/
+Save_As: musicas/chicobuarque/desencontro/index.html
 page_type: tab
 artist: Chico Buarque
 artist_url: https://www.cifraclub.com.br/chico-buarque/
-section_label: Tablaturas
-summary: Tablatura de Desencontro por Chico Buarque.
-listing_index: 50
-next_tab_url: /tablaturas/chicobuarque/essamocatadiferente/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Desencontro, canção de Chico Buarque.
+listing_index: 51
+next_tab_url: /musicas/chicobuarque/essamocatadiferente/
 next_tab_title: Essa Moca Ta Diferente
 next_tab_artist: Chico Buarque
 

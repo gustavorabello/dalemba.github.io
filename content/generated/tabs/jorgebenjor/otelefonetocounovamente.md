@@ -1,14 +1,17 @@
 Title: O Telefone Tocou Novamente
 Slug: jorge-benjor-otelefonetocounovamente
-Url: tablaturas/jorgebenjor/otelefonetocounovamente/
-Save_As: tablaturas/jorgebenjor/otelefonetocounovamente/index.html
+Url: musicas/jorgebenjor/otelefonetocounovamente/
+Save_As: musicas/jorgebenjor/otelefonetocounovamente/index.html
 page_type: tab
 artist: Jorge Benjor
 artist_url: https://www.cifraclub.com.br/jorge-benjor/
-section_label: Tablaturas
-summary: Tablatura de O Telefone Tocou Novamente por Jorge Benjor.
-listing_index: 125
-next_tab_url: /tablaturas/jorgebenjor/quemaravilha/
+harmonic_key: E
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: O Telefone Tocou Novamente, canção de Jorge Benjor.
+listing_index: 128
+next_tab_url: /musicas/jorgebenjor/quemaravilha/
 next_tab_title: Que Maravilha
 next_tab_artist: Jorge Benjor & Toquinho
 

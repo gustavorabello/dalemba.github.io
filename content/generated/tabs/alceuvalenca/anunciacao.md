@@ -1,14 +1,17 @@
 Title: Anunciacao
 Slug: alceu-valenca-anunciacao
-Url: tablaturas/alceuvalenca/anunciacao/
-Save_As: tablaturas/alceuvalenca/anunciacao/index.html
+Url: musicas/alceuvalenca/anunciacao/
+Save_As: musicas/alceuvalenca/anunciacao/index.html
 page_type: tab
 artist: Alceu Valenca
 artist_url: https://www.cifraclub.com.br/alceu-valenca/
-section_label: Tablaturas
-summary: Tablatura de Anunciacao por Alceu Valenca.
+harmonic_key: A
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Anunciacao, canção de Alceu Valenca.
 listing_index: 3
-next_tab_url: /tablaturas/alceuvalenca/morenatropicana/
+next_tab_url: /musicas/alceuvalenca/morenatropicana/
 next_tab_title: Morena Tropicana
 next_tab_artist: Alceu Valença
 

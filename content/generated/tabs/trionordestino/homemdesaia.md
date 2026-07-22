@@ -1,14 +1,17 @@
 Title: Homem de Saia
 Slug: trio-nordestino-homemdesaia
-Url: tablaturas/trionordestino/homemdesaia/
-Save_As: tablaturas/trionordestino/homemdesaia/index.html
+Url: musicas/trionordestino/homemdesaia/
+Save_As: musicas/trionordestino/homemdesaia/index.html
 page_type: tab
 artist: Trio Nordestino
 artist_url: https://www.cifraclub.com.br/trio-nordestino/
-section_label: Tablaturas
-summary: Tablatura de Homem de Saia por Trio Nordestino.
-listing_index: 301
-next_tab_url: /tablaturas/trionordestino/petrolinajuazeiro/
+harmonic_key: E
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Homem de Saia, canção de Trio Nordestino.
+listing_index: 305
+next_tab_url: /musicas/trionordestino/petrolinajuazeiro/
 next_tab_title: Petrolina Juazeiro
 next_tab_artist: Jorge de Altinho - versão Trio Nordestino
 

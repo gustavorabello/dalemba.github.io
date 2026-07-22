@@ -1,14 +1,17 @@
 Title: Retrato em Branco e Preto
 Slug: tom-jobim-retratoembrancoepreto
-Url: tablaturas/tomjobim/retratoembrancoepreto/
-Save_As: tablaturas/tomjobim/retratoembrancoepreto/index.html
+Url: musicas/tomjobim/retratoembrancoepreto/
+Save_As: musicas/tomjobim/retratoembrancoepreto/index.html
 page_type: tab
 artist: Tom Jobim
 artist_url: https://www.cifraclub.com.br/tom-jobim/
-section_label: Tablaturas
-summary: Tablatura de Retrato em Branco e Preto por Tom Jobim.
-listing_index: 271
-next_tab_url: /tablaturas/tomjobim/sambadoaviao/
+harmonic_key: G
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Retrato em Branco e Preto, canção de Tom Jobim.
+listing_index: 275
+next_tab_url: /musicas/tomjobim/sambadoaviao/
 next_tab_title: Samba do Avião
 next_tab_artist: Tom Jobim
 

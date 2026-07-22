@@ -1,14 +1,17 @@
 Title: Bete Balanco
 Slug: barao-vermelho-betebalanco
-Url: tablaturas/baraovermelho/betebalanco/
-Save_As: tablaturas/baraovermelho/betebalanco/index.html
+Url: musicas/baraovermelho/betebalanco/
+Save_As: musicas/baraovermelho/betebalanco/index.html
 page_type: tab
 artist: Barão Vermelho
 artist_url: https://www.cifraclub.com.br/barao-vermelho/
-section_label: Tablaturas
-summary: Tablatura de Bete Balanco por Barão Vermelho.
-listing_index: 14
-next_tab_url: /tablaturas/baraovermelho/maiorabandonado/
+harmonic_key: E
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Bete Balanco, canção de Barão Vermelho.
+listing_index: 15
+next_tab_url: /musicas/baraovermelho/maiorabandonado/
 next_tab_title: Maior Abandonado
 next_tab_artist: Barão Vermelhor
 

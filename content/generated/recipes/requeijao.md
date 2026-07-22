@@ -1,15 +1,12 @@
-Title: Requeijao
+Title: Requeijão
 Slug: requeijao
 Url: receitas/requeijao/
 Save_As: receitas/requeijao/index.html
 page_type: recipe
 section_label: Receitas
-subtitle: Receitas importadas do acervo Hyde com o conteúdo original preservado.
-summary: Em uma panela adicione o leite e leve ao fogo para ferver. Quando
-estiver fervendo adicione o vinagre e misture. Desligue o fogo e deixe
-descansar por 20 minutos. Apos este tempo, 
-
-<p class="recipe-hero"><img src="/static/images/recipes/requeijao.png" alt="Requeijao"></p>
+subtitle: Para fazer a casa cheirar a afeto.
+summary: Em uma panela adicione o leite e leve ao fogo para ferver. Quando estiver fervendo adicione o vinagre e misture. Desligue o fogo e deixe descansar por 20 minutos.
+recipe_image: /static/images/recipes/requeijao.png
 
 ## Ingredientes
 - 1 litro de leite integral
@@ -20,7 +17,7 @@ descansar por 20 minutos. Apos este tempo,
 ## Modo de preparo
 Em uma panela adicione o leite e leve ao fogo para ferver. Quando
 estiver fervendo adicione o vinagre e misture. Desligue o fogo e deixe
-descansar por 20 minutos. Apos este tempo, adicione o leite ja coalhado
+descansar por 20 minutos. Após este tempo, adicione o leite já coalhado
 em um voil e exprema todo soro ate que a coalhada fique bem sequinha.
 Coloque a coalhada no liquidificador e adicione a manteiga, o sal e o
 leite. Bata por 3 minutos na velocidade maxima. Transfira para um

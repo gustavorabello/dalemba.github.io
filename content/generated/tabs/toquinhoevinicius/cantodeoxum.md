@@ -1,14 +1,17 @@
 Title: Canto de Oxum
 Slug: toquinho-vinicius-cantodeoxum
-Url: tablaturas/toquinhoevinicius/cantodeoxum/
-Save_As: tablaturas/toquinhoevinicius/cantodeoxum/index.html
+Url: musicas/toquinhoevinicius/cantodeoxum/
+Save_As: musicas/toquinhoevinicius/cantodeoxum/index.html
 page_type: tab
 artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
-section_label: Tablaturas
-summary: Tablatura de Canto de Oxum por Toquinho & Vinicius.
-listing_index: 277
-next_tab_url: /tablaturas/toquinhoevinicius/cartaaotom74/
+harmonic_key: E
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Canto de Oxum, canção de Toquinho & Vinicius.
+listing_index: 281
+next_tab_url: /musicas/toquinhoevinicius/cartaaotom74/
 next_tab_title: Carta ao Tom 74
 next_tab_artist: Toquinho & Vinicius
 

@@ -1,14 +1,17 @@
 Title: Conselho
 Slug: almir-guineto-conselho-almirguineto
-Url: tablaturas/sambaepagode/conselho-almirguineto/
-Save_As: tablaturas/sambaepagode/conselho-almirguineto/index.html
+Url: musicas/sambaepagode/conselho-almirguineto/
+Save_As: musicas/sambaepagode/conselho-almirguineto/index.html
 page_type: tab
 artist: Almir Guineto
 artist_url: https://www.cifraclub.com.br/almir-guineto/
-section_label: Tablaturas
-summary: Tablatura de Conselho por Almir Guineto.
-listing_index: 226
-next_tab_url: /tablaturas/sambaepagode/contodeareia-claranunes/
+harmonic_key: F
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Conselho, canção de Almir Guineto.
+listing_index: 229
+next_tab_url: /musicas/sambaepagode/contodeareia-claranunes/
 next_tab_title: Conto de Areia
 next_tab_artist: Clara Nunes
 

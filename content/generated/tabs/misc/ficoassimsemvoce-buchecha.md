@@ -1,14 +1,17 @@
 Title: Fico Assim Sem Voce
 Slug: buchecha-ficoassimsemvoce-buchecha
-Url: tablaturas/misc/ficoassimsemvoce-buchecha/
-Save_As: tablaturas/misc/ficoassimsemvoce-buchecha/index.html
+Url: musicas/misc/ficoassimsemvoce-buchecha/
+Save_As: musicas/misc/ficoassimsemvoce-buchecha/index.html
 page_type: tab
 artist: Buchecha
 artist_url: https://www.cifraclub.com.br/buchecha/
-section_label: Tablaturas
-summary: Tablatura de Fico Assim Sem Voce por Buchecha.
-listing_index: 177
-next_tab_url: /tablaturas/misc/fogoepaixao-wando/
+harmonic_key: D
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Fico Assim Sem Voce, canção de Buchecha.
+listing_index: 180
+next_tab_url: /musicas/misc/fogoepaixao-wando/
 next_tab_title: Fogo e Paixao
 next_tab_artist: Wando
 

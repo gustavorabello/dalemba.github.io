@@ -1,22 +1,23 @@
 Title: Tomorrow
 Slug: silverchair-tomorrow-silverchair
-Url: tablaturas/cordadeaco/tomorrow-silverchair/
-Save_As: tablaturas/cordadeaco/tomorrow-silverchair/index.html
+Url: musicas/cordadeaco/tomorrow-silverchair/
+Save_As: musicas/cordadeaco/tomorrow-silverchair/index.html
 page_type: tab
 artist: Silverchair
 artist_url: https://www.cifraclub.com.br/silverchair/
-section_label: Tablaturas
-summary: Tablatura de Tomorrow por Silverchair.
-listing_index: 77
-next_tab_url: /tablaturas/djavan/apoteoseaosamba/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: declared
+section_label: Músicas
+summary: Tomorrow, canção de Silverchair.
+listing_index: 78
+next_tab_url: /musicas/djavan/apoteoseaosamba/
 next_tab_title: Apoteose ao Samba
 next_tab_artist: Djavan
 
 <div class="tab-layout columns">
   <div class="tab-column">
-    <pre class="tab-sheet">Tom: G
-
-intro. <span class="chord">A</span> <span class="chord">G</span> <span class="chord">C9</span> (<span class="chord">C9/B</span> <span class="chord">C9/G</span>) 
+    <pre class="tab-sheet">intro. <span class="chord">A</span> <span class="chord">G</span> <span class="chord">C9</span> (<span class="chord">C9/B</span> <span class="chord">C9/G</span>) 
 
 <span class="chord">A</span>                              <span class="chord">G</span>           <span class="chord">D4</span> (<span class="chord">C9</span> <span class="chord">C9/B</span> <span class="chord">C9/G</span>)
 It&#x27;s twelve o&#x27;clock, and it&#x27;s a wonderful day.

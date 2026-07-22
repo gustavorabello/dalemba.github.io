@@ -1,14 +1,17 @@
 Title: Manha de Carnaval
 Slug: luiz-bonfa-manhadecarnaval-luizbonfa
-Url: tablaturas/misc/manhadecarnaval-luizbonfa/
-Save_As: tablaturas/misc/manhadecarnaval-luizbonfa/index.html
+Url: musicas/misc/manhadecarnaval-luizbonfa/
+Save_As: musicas/misc/manhadecarnaval-luizbonfa/index.html
 page_type: tab
 artist: Luiz Bonfa
 artist_url: https://www.cifraclub.com.br/luiz-bonfa/
-section_label: Tablaturas
-summary: Tablatura de Manha de Carnaval por Luiz Bonfa.
-listing_index: 185
-next_tab_url: /tablaturas/misc/maniadevoce-ritalee/
+harmonic_key: G
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Manha de Carnaval, canção de Luiz Bonfa.
+listing_index: 188
+next_tab_url: /musicas/misc/maniadevoce-ritalee/
 next_tab_title: Mania de Você
 next_tab_artist: Rita Lee
 

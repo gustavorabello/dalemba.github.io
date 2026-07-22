@@ -1,14 +1,17 @@
 Title: Ex-Amor
 Slug: martinho-da-vila-ex-amor
-Url: tablaturas/martinhodavila/ex-amor/
-Save_As: tablaturas/martinhodavila/ex-amor/index.html
+Url: musicas/martinhodavila/ex-amor/
+Save_As: musicas/martinhodavila/ex-amor/index.html
 page_type: tab
 artist: Martinho da Vila
 artist_url: https://www.cifraclub.com.br/martinho-da-vila/
-section_label: Tablaturas
-summary: Tablatura de Ex-Amor por Martinho da Vila.
-listing_index: 160
-next_tab_url: /tablaturas/martinhodavila/mulheres/
+harmonic_key: E
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Ex-Amor, canção de Martinho da Vila.
+listing_index: 163
+next_tab_url: /musicas/martinhodavila/mulheres/
 next_tab_title: Mulheres
 next_tab_artist: Martinho da Vila
 

@@ -1,14 +1,17 @@
 Title: Garota De Ipanema
 Slug: tom-jobim-garotadeipanema
-Url: tablaturas/tomjobim/garotadeipanema/
-Save_As: tablaturas/tomjobim/garotadeipanema/index.html
+Url: musicas/tomjobim/garotadeipanema/
+Save_As: musicas/tomjobim/garotadeipanema/index.html
 page_type: tab
 artist: Tom Jobim
 artist_url: https://www.cifraclub.com.br/tom-jobim/
-section_label: Tablaturas
-summary: Tablatura de Garota De Ipanema por Tom Jobim.
-listing_index: 267
-next_tab_url: /tablaturas/tomjobim/insensatez/
+harmonic_key: F
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Garota De Ipanema, canção de Tom Jobim.
+listing_index: 271
+next_tab_url: /musicas/tomjobim/insensatez/
 next_tab_title: Insensatez
 next_tab_artist: Tom Jobim
 

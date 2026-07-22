@@ -1,14 +1,17 @@
 Title: Dont Look Back in Anger
 Slug: oasis-dontlookbackinanger-oasis
-Url: tablaturas/cordadeaco/dontlookbackinanger-oasis/
-Save_As: tablaturas/cordadeaco/dontlookbackinanger-oasis/index.html
+Url: musicas/cordadeaco/dontlookbackinanger-oasis/
+Save_As: musicas/cordadeaco/dontlookbackinanger-oasis/index.html
 page_type: tab
 artist: Oasis
 artist_url: https://www.cifraclub.com.br/oasis/
-section_label: Tablaturas
-summary: Tablatura de Dont Look Back in Anger por Oasis.
-listing_index: 67
-next_tab_url: /tablaturas/cordadeaco/frevomulher-zeramalho/
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Dont Look Back in Anger, canção de Oasis.
+listing_index: 68
+next_tab_url: /musicas/cordadeaco/frevomulher-zeramalho/
 next_tab_title: Frevo Mulher
 next_tab_artist: Zé Ramalho
 

@@ -1,21 +1,23 @@
 Title: Lamento Sertanejo
 Slug: dominguinhos-lamentosertanejo
-Url: tablaturas/dominguinhos/lamentosertanejo/
-Save_As: tablaturas/dominguinhos/lamentosertanejo/index.html
+Url: musicas/dominguinhos/lamentosertanejo/
+Save_As: musicas/dominguinhos/lamentosertanejo/index.html
 page_type: tab
 artist: Dominguinhos
 artist_url: https://www.cifraclub.com.br/dominguinhos/
-section_label: Tablaturas
-summary: Tablatura de Lamento Sertanejo por Dominguinhos.
-listing_index: 91
-next_tab_url: /tablaturas/forro/aiquesaudadedoce-geraldoazevedo/
+harmonic_key: G
+harmonic_mode: minor
+harmonic_key_source: declared
+section_label: Músicas
+summary: Lamento Sertanejo, canção de Dominguinhos.
+listing_index: 92
+next_tab_url: /musicas/geraldoazevedo/aiquesaudadedoce/
 next_tab_title: Ai Que saudade Docê
 next_tab_artist: Geraldo Azevedo
 
 <div class="tab-layout columns">
   <div class="tab-column">
-    <pre class="tab-sheet">Tom: Gm
-Intro: Gm
+    <pre class="tab-sheet">Intro: Gm
 
 <span class="chord">Gm/F</span>       <span class="chord">C/E</span>        <span class="chord">Eb7M</span>           <span class="chord">Gm</span>
 Por ser de lá  /  do Sertão, lá do Serrado

@@ -1,14 +1,17 @@
 Title: Cidade Maravilhosa
 Slug: artista-desconhecido-cidademaravilhosa-artistadesconhecido
-Url: tablaturas/marchinhasdecarnaval/cidademaravilhosa-artistadesconhecido/
-Save_As: tablaturas/marchinhasdecarnaval/cidademaravilhosa-artistadesconhecido/index.html
+Url: musicas/marchinhasdecarnaval/cidademaravilhosa-artistadesconhecido/
+Save_As: musicas/marchinhasdecarnaval/cidademaravilhosa-artistadesconhecido/index.html
 page_type: tab
 artist: Artista Desconhecido
 artist_url: https://www.cifraclub.com.br/artista-desconhecido/
-section_label: Tablaturas
-summary: Tablatura de Cidade Maravilhosa por Artista Desconhecido.
-listing_index: 138
-next_tab_url: /tablaturas/marchinhasdecarnaval/evocacaon1-nelsonferreira/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Cidade Maravilhosa, canção de Artista Desconhecido.
+listing_index: 141
+next_tab_url: /musicas/marchinhasdecarnaval/evocacaon1-nelsonferreira/
 next_tab_title: Evocação No. 1
 next_tab_artist: Nelson Ferreira
 

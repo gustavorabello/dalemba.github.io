@@ -5,7 +5,8 @@ from __future__ import annotations
 import html
 import json
 import subprocess
-from collections import Counter
+import sys
+from collections import Counter, defaultdict
 from pathlib import Path
 
 from site_sync_common import (
@@ -25,7 +26,7 @@ from site_sync_common import (
 def run_tabs_generator() -> list[dict[str, str]]:
     ensure_clean_dir(TABS_OUTPUT_DIR)
     command = [
-        "python3",
+        sys.executable,
         str(TABS_SCRIPT),
         "--input-dir",
         str(TABS_SOURCE_DIR),
@@ -34,10 +35,12 @@ def run_tabs_generator() -> list[dict[str, str]]:
         "--manifest",
         str(TABS_MANIFEST),
         "--section",
-        "tablaturas",
+        "musicas",
     ]
     subprocess.run(command, check=True)
     return json.loads(TABS_MANIFEST.read_text(encoding="utf-8"))
+
+
 def build_lookup_keys(tab: dict[str, str]) -> set[str]:
     source_path = Path(tab["source"])
     raw_keys = {
@@ -83,7 +86,7 @@ def order_tabs_for_listing(tabs: list[dict[str, str]]) -> list[dict[str, str]]:
 
 def resolve_explicit_next(
     tab: dict[str, str],
-    lookup: dict[str, dict[str, str]],
+    lookup: dict[str, list[dict[str, str]]],
 ) -> dict[str, str] | None:
     hint = tab.get("next_hint", "").strip()
     if not hint:
@@ -95,12 +98,28 @@ def resolve_explicit_next(
         hint.replace("\\", "/"),
         hint.replace(".txt", "").replace("\\", "/"),
     }
+    candidates: dict[str, dict[str, str]] = {}
     for variant in variants:
         for key in (slugify(variant), normalize_label(variant)):
-            candidate = lookup.get(key)
-            if candidate and candidate["url"] != tab["url"]:
-                return candidate
-    return None
+            for candidate in lookup.get(key, []):
+                if candidate["url"] != tab["url"]:
+                    candidates[candidate["url"]] = candidate
+
+    if len(candidates) == 1:
+        return next(iter(candidates.values()))
+
+    source = tab.get("source", tab["title"])
+    if not candidates:
+        raise ValueError(
+            f'Sugestão "{hint}" em "{source}" não corresponde a nenhuma música. '
+            'Use "Próxima: grupo/arquivo.txt".'
+        )
+
+    matches = ", ".join(sorted(candidate["source"] for candidate in candidates.values()))
+    raise ValueError(
+        f'Sugestão ambígua "{hint}" em "{source}"; correspondências: {matches}. '
+        'Use "Próxima: grupo/arquivo.txt".'
+    )
 
 
 def update_tab_page_metadata(tab: dict[str, str]) -> None:
@@ -126,10 +145,10 @@ def update_tab_page_metadata(tab: dict[str, str]) -> None:
 
 def apply_next_links(tabs: list[dict[str, str]]) -> list[dict[str, str]]:
     ordered_tabs = order_tabs_for_listing(tabs)
-    lookup: dict[str, dict[str, str]] = {}
+    lookup: dict[str, list[dict[str, str]]] = defaultdict(list)
     for tab in tabs:
         for key in build_lookup_keys(tab):
-            lookup.setdefault(key, tab)
+            lookup[key].append(tab)
 
     for index, tab in enumerate(ordered_tabs):
         default_next = ordered_tabs[index + 1] if index + 1 < len(ordered_tabs) else None
@@ -202,20 +221,23 @@ def render_tabs_listing(tabs: list[dict[str, str]]) -> None:
         item_index += len(songs)
 
     listing_page = f"""
-Title: Tablaturas
-Slug: tablaturas
-Url: tablaturas/
-Save_As: tablaturas/index.html
+Title: Músicas
+Slug: musicas
+Url: musicas/
+Save_As: musicas/index.html
 page_type: listing
 section_label: Acervo musical
-subtitle: Uma lista contínua e numerada para localizar rápido cada tablatura, com separação clara por artista.
+subtitle: Uma travessia de canções em ordem serena, para achar cada lembrança pelo nome.
 
-<p class="meta-note">{len(tabs)} tablaturas organizadas em {len(groups)} coleções.</p>
+<p class="meta-note">{len(tabs)} músicas espalhadas em {len(groups)} caminhos de escuta.</p>
 <div class="tab-directory-shell" data-default-list-columns="2" style="--list-columns: 2;">
   {''.join(sections)}
 </div>
 """
-    write_text(CONTENT_DIR / "pages" / "tablaturas.md", listing_page)
+    old_listing = CONTENT_DIR / "pages" / "tablaturas.md"
+    if old_listing.exists():
+        old_listing.unlink()
+    write_text(CONTENT_DIR / "pages" / "musicas.md", listing_page)
 
 
 def sync_tabs() -> list[dict[str, str]]:
@@ -227,7 +249,7 @@ def sync_tabs() -> list[dict[str, str]]:
 
 def main() -> None:
     tabs = sync_tabs()
-    print(f"Tablaturas sincronizadas: {len(tabs)}")
+    print(f"Músicas sincronizadas: {len(tabs)}")
 
 
 if __name__ == "__main__":

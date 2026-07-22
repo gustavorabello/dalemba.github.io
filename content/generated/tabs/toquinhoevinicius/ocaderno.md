@@ -1,14 +1,17 @@
 Title: O Caderno
 Slug: toquinho-vinicius-ocaderno
-Url: tablaturas/toquinhoevinicius/ocaderno/
-Save_As: tablaturas/toquinhoevinicius/ocaderno/index.html
+Url: musicas/toquinhoevinicius/ocaderno/
+Save_As: musicas/toquinhoevinicius/ocaderno/index.html
 page_type: tab
 artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
-section_label: Tablaturas
-summary: Tablatura de O Caderno por Toquinho & Vinicius.
-listing_index: 286
-next_tab_url: /tablaturas/toquinhoevinicius/ondeandavoce/
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: O Caderno, canção de Toquinho & Vinicius.
+listing_index: 290
+next_tab_url: /musicas/toquinhoevinicius/ondeandavoce/
 next_tab_title: Onde Anda Voce
 next_tab_artist: Toquinho & Vinicius
 

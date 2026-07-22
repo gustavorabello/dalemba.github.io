@@ -1,14 +1,17 @@
 Title: Homem de Saia
 Slug: trio-nordestino-homemdesaia-trionordestino
-Url: tablaturas/forro/homemdesaia-trionordestino/
-Save_As: tablaturas/forro/homemdesaia-trionordestino/index.html
+Url: musicas/forro/homemdesaia-trionordestino/
+Save_As: musicas/forro/homemdesaia-trionordestino/index.html
 page_type: tab
 artist: Trio Nordestino
 artist_url: https://www.cifraclub.com.br/trio-nordestino/
-section_label: Tablaturas
-summary: Tablatura de Homem de Saia por Trio Nordestino.
+harmonic_key: E
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Homem de Saia, canção de Trio Nordestino.
 listing_index: 101
-next_tab_url: /tablaturas/forro/lamentosertanejo-dominguinhos/
+next_tab_url: /musicas/forro/lamentosertanejo-dominguinhos/
 next_tab_title: Lamento Sertanejo
 next_tab_artist: Dominguinhos
 

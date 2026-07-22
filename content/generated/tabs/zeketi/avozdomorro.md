@@ -1,14 +1,17 @@
 Title: A Voz do Samba
 Slug: ze-keti-avozdomorro
-Url: tablaturas/zeketi/avozdomorro/
-Save_As: tablaturas/zeketi/avozdomorro/index.html
+Url: musicas/zeketi/avozdomorro/
+Save_As: musicas/zeketi/avozdomorro/index.html
 page_type: tab
 artist: Zé Keti
 artist_url: https://www.cifraclub.com.br/ze-keti/
-section_label: Tablaturas
-summary: Tablatura de A Voz do Samba por Zé Keti.
-listing_index: 306
-next_tab_url: /tablaturas/zeketi/dizquefuiporai/
+harmonic_key: F#
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: A Voz do Samba, canção de Zé Keti.
+listing_index: 310
+next_tab_url: /musicas/zeketi/dizquefuiporai/
 next_tab_title: Diz Que Fui Por Aí
 next_tab_artist: Zé Keti
 

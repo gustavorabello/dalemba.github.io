@@ -1,14 +1,17 @@
 Title: Papel de Pao
 Slug: jorge-aragao-papeldepao
-Url: tablaturas/jorgearagao/papeldepao/
-Save_As: tablaturas/jorgearagao/papeldepao/index.html
+Url: musicas/jorgearagao/papeldepao/
+Save_As: musicas/jorgearagao/papeldepao/index.html
 page_type: tab
 artist: Jorge Aragao
 artist_url: https://www.cifraclub.com.br/jorge-aragao/
-section_label: Tablaturas
-summary: Tablatura de Papel de Pao por Jorge Aragao.
-listing_index: 119
-next_tab_url: /tablaturas/jorgebenjor/chovechuva/
+harmonic_key: D
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Papel de Pao, canção de Jorge Aragao.
+listing_index: 122
+next_tab_url: /musicas/jorgebenjor/chovechuva/
 next_tab_title: Chove Chuva
 next_tab_artist: Jorge Benjor
 

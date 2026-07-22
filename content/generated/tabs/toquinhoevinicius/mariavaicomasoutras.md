@@ -1,14 +1,17 @@
 Title: Maria Vai Com As Outras
 Slug: toquinho-vinicius-mariavaicomasoutras
-Url: tablaturas/toquinhoevinicius/mariavaicomasoutras/
-Save_As: tablaturas/toquinhoevinicius/mariavaicomasoutras/index.html
+Url: musicas/toquinhoevinicius/mariavaicomasoutras/
+Save_As: musicas/toquinhoevinicius/mariavaicomasoutras/index.html
 page_type: tab
 artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
-section_label: Tablaturas
-summary: Tablatura de Maria Vai Com As Outras por Toquinho & Vinicius.
-listing_index: 284
-next_tab_url: /tablaturas/toquinhoevinicius/meupaioxala/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Maria Vai Com As Outras, canção de Toquinho & Vinicius.
+listing_index: 288
+next_tab_url: /musicas/toquinhoevinicius/meupaioxala/
 next_tab_title: Meu Pai Oxala
 next_tab_artist: Toquinho & Vinicius
 

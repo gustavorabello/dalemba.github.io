@@ -1,14 +1,17 @@
 Title: Trem das Onze
 Slug: adoniran-barbosa-tremdasonzes
-Url: tablaturas/adoniranbarbosa/tremdasonzes/
-Save_As: tablaturas/adoniranbarbosa/tremdasonzes/index.html
+Url: musicas/adoniranbarbosa/tremdasonzes/
+Save_As: musicas/adoniranbarbosa/tremdasonzes/index.html
 page_type: tab
 artist: Adoniran Barbosa
 artist_url: https://www.cifraclub.com.br/adoniran-barbosa/
-section_label: Tablaturas
-summary: Tablatura de Trem das Onze por Adoniran Barbosa.
+harmonic_key: D
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Trem das Onze, canção de Adoniran Barbosa.
 listing_index: 2
-next_tab_url: /tablaturas/alceuvalenca/anunciacao/
+next_tab_url: /musicas/alceuvalenca/anunciacao/
 next_tab_title: Anunciacao
 next_tab_artist: Alceu Valenca
 

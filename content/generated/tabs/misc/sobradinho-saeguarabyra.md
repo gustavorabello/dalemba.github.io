@@ -1,14 +1,17 @@
 Title: Sobradinho
 Slug: sa-e-guarabira-sobradinho-saeguarabyra
-Url: tablaturas/misc/sobradinho-saeguarabyra/
-Save_As: tablaturas/misc/sobradinho-saeguarabyra/index.html
+Url: musicas/misc/sobradinho-saeguarabyra/
+Save_As: musicas/misc/sobradinho-saeguarabyra/index.html
 page_type: tab
 artist: Sa e Guarabira
 artist_url: https://www.cifraclub.com.br/sa-e-guarabira/
-section_label: Tablaturas
-summary: Tablatura de Sobradinho por Sa e Guarabira.
-listing_index: 196
-next_tab_url: /tablaturas/misc/superfantastico-balaomagico/
+harmonic_key: C#
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Sobradinho, canção de Sa e Guarabira.
+listing_index: 199
+next_tab_url: /musicas/misc/superfantastico-balaomagico/
 next_tab_title: Superfantastico
 next_tab_artist: Balao Magico
 

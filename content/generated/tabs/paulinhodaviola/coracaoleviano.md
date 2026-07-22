@@ -1,14 +1,17 @@
 Title: Coração Leviano
 Slug: paulinho-da-viola-coracaoleviano
-Url: tablaturas/paulinhodaviola/coracaoleviano/
-Save_As: tablaturas/paulinhodaviola/coracaoleviano/index.html
+Url: musicas/paulinhodaviola/coracaoleviano/
+Save_As: musicas/paulinhodaviola/coracaoleviano/index.html
 page_type: tab
 artist: Paulinho da Viola
 artist_url: https://www.cifraclub.com.br/paulinho-da-viola/
-section_label: Tablaturas
-summary: Tablatura de Coração Leviano por Paulinho da Viola.
-listing_index: 207
-next_tab_url: /tablaturas/paulinhodaviola/dancadasolidao/
+harmonic_key: F
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Coração Leviano, canção de Paulinho da Viola.
+listing_index: 210
+next_tab_url: /musicas/paulinhodaviola/dancadasolidao/
 next_tab_title: Danca da Solidao
 next_tab_artist: Paulinho da Viola
 

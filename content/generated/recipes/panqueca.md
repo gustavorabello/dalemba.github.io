@@ -4,12 +4,9 @@ Url: receitas/panqueca/
 Save_As: receitas/panqueca/index.html
 page_type: recipe
 section_label: Receitas
-subtitle: Receitas importadas do acervo Hyde com o conteúdo original preservado.
-summary: Bata todos os ingredientes no liquidificador, unte uma frigideira
-quente, coloque uma concha de massa, espalhe na frigideira e frite; vire
-o outro lado e torne a fritar. Recheie co
-
-<p class="recipe-hero"><img src="/static/images/recipes/panqueca.png" alt="Panqueca"></p>
+subtitle: Para fazer a casa cheirar a afeto.
+summary: Bata todos os ingredientes no liquidificador, unte uma frigideira quente, coloque uma concha de massa, espalhe na frigideira e frite; vire o outro lado e torne a fritar.
+recipe_image: /static/images/recipes/panqueca.png
 
 ## Ingredientes
 - 1 1/2 copo de leite;
@@ -22,6 +19,6 @@ o outro lado e torne a fritar. Recheie co
 Bata todos os ingredientes no liquidificador, unte uma frigideira
 quente, coloque uma concha de massa, espalhe na frigideira e frite; vire
 o outro lado e torne a fritar. Recheie com carne moída (ou
-franco, ou camarões etc), enrole as panquecas. Ponha em um
+frango, ou camarões etc), enrole as panquecas. Ponha em um
 refratário e cubra com molho de tomate. Polvilhe queijo
 parmesão e coloque-as no forno.

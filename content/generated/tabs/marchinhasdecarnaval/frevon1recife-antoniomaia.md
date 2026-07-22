@@ -1,14 +1,17 @@
 Title: Frevo No. 1
 Slug: antonio-maia-frevon1recife-antoniomaia
-Url: tablaturas/marchinhasdecarnaval/frevon1recife-antoniomaia/
-Save_As: tablaturas/marchinhasdecarnaval/frevon1recife-antoniomaia/index.html
+Url: musicas/marchinhasdecarnaval/frevon1recife-antoniomaia/
+Save_As: musicas/marchinhasdecarnaval/frevon1recife-antoniomaia/index.html
 page_type: tab
 artist: Antônio Maia
 artist_url: https://www.cifraclub.com.br/antonio-maia/
-section_label: Tablaturas
-summary: Tablatura de Frevo No. 1 por Antônio Maia.
-listing_index: 140
-next_tab_url: /tablaturas/marchinhasdecarnaval/oabrealas-chiquinhagonzaga/
+harmonic_key: A
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Frevo No. 1, canção de Antônio Maia.
+listing_index: 143
+next_tab_url: /musicas/marchinhasdecarnaval/oabrealas-chiquinhagonzaga/
 next_tab_title: O Abre-Alas
 next_tab_artist: Chiquinha Gonzaga
 

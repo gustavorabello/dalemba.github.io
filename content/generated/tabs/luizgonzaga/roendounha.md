@@ -1,14 +1,17 @@
 Title: Roendo Unha
 Slug: luiz-gonzaga-roendounha
-Url: tablaturas/luizgonzaga/roendounha/
-Save_As: tablaturas/luizgonzaga/roendounha/index.html
+Url: musicas/luizgonzaga/roendounha/
+Save_As: musicas/luizgonzaga/roendounha/index.html
 page_type: tab
 artist: Luiz Gonzaga
 artist_url: https://www.cifraclub.com.br/luiz-gonzaga/
-section_label: Tablaturas
-summary: Tablatura de Roendo Unha por Luiz Gonzaga.
-listing_index: 134
-next_tab_url: /tablaturas/luizgonzaga/sanfonasentida/
+harmonic_key: F
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Roendo Unha, canção de Luiz Gonzaga.
+listing_index: 137
+next_tab_url: /musicas/luizgonzaga/sanfonasentida/
 next_tab_title: Sanfona Sentida
 next_tab_artist: Luiz Gonzaga
 

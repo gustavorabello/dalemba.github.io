@@ -1,14 +1,17 @@
 Title: O Campeão
 Slug: neguinho-da-beija-flor-ocampeao-neguinhodabeijaflor
-Url: tablaturas/sambaepagode/ocampeao-neguinhodabeijaflor/
-Save_As: tablaturas/sambaepagode/ocampeao-neguinhodabeijaflor/index.html
+Url: musicas/sambaepagode/ocampeao-neguinhodabeijaflor/
+Save_As: musicas/sambaepagode/ocampeao-neguinhodabeijaflor/index.html
 page_type: tab
 artist: Neguinho da Beija-Flor
 artist_url: https://www.cifraclub.com.br/neguinho-da-beija-flor/
-section_label: Tablaturas
-summary: Tablatura de O Campeão por Neguinho da Beija-Flor.
-listing_index: 239
-next_tab_url: /tablaturas/sambaepagode/opoderdacriacao-joaonogueira/
+harmonic_key: C
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: O Campeão, canção de Neguinho da Beija-Flor.
+listing_index: 242
+next_tab_url: /musicas/sambaepagode/opoderdacriacao-joaonogueira/
 next_tab_title: O Poder da Criação
 next_tab_artist: João Nogueira
 

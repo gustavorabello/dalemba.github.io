@@ -1,14 +1,17 @@
 Title: Boa Sorte/Good Luck
 Slug: vanessa-da-mata-boasorte
-Url: tablaturas/vanessadamata/boasorte/
-Save_As: tablaturas/vanessadamata/boasorte/index.html
+Url: musicas/vanessadamata/boasorte/
+Save_As: musicas/vanessadamata/boasorte/index.html
 page_type: tab
 artist: Vanessa da Mata
 artist_url: https://www.cifraclub.com.br/vanessa-da-mata/
-section_label: Tablaturas
-summary: Tablatura de Boa Sorte/Good Luck por Vanessa da Mata.
-listing_index: 304
-next_tab_url: /tablaturas/vanessadamata/naomedeixeso/
+harmonic_key: B
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Boa Sorte/Good Luck, canção de Vanessa da Mata.
+listing_index: 308
+next_tab_url: /musicas/vanessadamata/naomedeixeso/
 next_tab_title: Não Me Deixe Só
 next_tab_artist: Vanessa da Mata
 

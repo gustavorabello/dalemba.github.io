@@ -1,14 +1,17 @@
 Title: Parole, Parole
 Slug: dalida-alain-delon-paroleparole-dalida
-Url: tablaturas/misc/paroleparole-dalida/
-Save_As: tablaturas/misc/paroleparole-dalida/index.html
+Url: musicas/misc/paroleparole-dalida/
+Save_As: musicas/misc/paroleparole-dalida/index.html
 page_type: tab
 artist: Dalida & Alain Delon
 artist_url: https://www.cifraclub.com.br/dalida-alain-delon/
-section_label: Tablaturas
-summary: Tablatura de Parole, Parole por Dalida & Alain Delon.
-listing_index: 192
-next_tab_url: /tablaturas/misc/pizzacomguarana-jingle/
+harmonic_key: E
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Parole, Parole, canção de Dalida & Alain Delon.
+listing_index: 195
+next_tab_url: /musicas/misc/pizzacomguarana-jingle/
 next_tab_title: Pizza com Guarana
 next_tab_artist: Jingle
 

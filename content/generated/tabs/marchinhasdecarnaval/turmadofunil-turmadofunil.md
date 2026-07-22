@@ -1,14 +1,17 @@
 Title: Turma do Funil
 Slug: tom-jobim-turmadofunil-turmadofunil
-Url: tablaturas/marchinhasdecarnaval/turmadofunil-turmadofunil/
-Save_As: tablaturas/marchinhasdecarnaval/turmadofunil-turmadofunil/index.html
+Url: musicas/marchinhasdecarnaval/turmadofunil-turmadofunil/
+Save_As: musicas/marchinhasdecarnaval/turmadofunil-turmadofunil/index.html
 page_type: tab
 artist: Tom Jobim
 artist_url: https://www.cifraclub.com.br/tom-jobim/
-section_label: Tablaturas
-summary: Tablatura de Turma do Funil por Tom Jobim.
-listing_index: 143
-next_tab_url: /tablaturas/mariarita/afesta/
+harmonic_key: D
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Turma do Funil, canção de Tom Jobim.
+listing_index: 146
+next_tab_url: /musicas/mariarita/afesta/
 next_tab_title: A Festa
 next_tab_artist: Maria Rita
 

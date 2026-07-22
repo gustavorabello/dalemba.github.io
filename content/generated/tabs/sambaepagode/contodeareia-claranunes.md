@@ -1,14 +1,17 @@
 Title: Conto de Areia
 Slug: clara-nunes-contodeareia-claranunes
-Url: tablaturas/sambaepagode/contodeareia-claranunes/
-Save_As: tablaturas/sambaepagode/contodeareia-claranunes/index.html
+Url: musicas/sambaepagode/contodeareia-claranunes/
+Save_As: musicas/sambaepagode/contodeareia-claranunes/index.html
 page_type: tab
 artist: Clara Nunes
 artist_url: https://www.cifraclub.com.br/clara-nunes/
-section_label: Tablaturas
-summary: Tablatura de Conto de Areia por Clara Nunes.
-listing_index: 227
-next_tab_url: /tablaturas/sambaepagode/deixaeuteamar-agepe/
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Conto de Areia, canção de Clara Nunes.
+listing_index: 230
+next_tab_url: /musicas/sambaepagode/deixaeuteamar-agepe/
 next_tab_title: Deixa Eu Te Amar
 next_tab_artist: Agepê
 

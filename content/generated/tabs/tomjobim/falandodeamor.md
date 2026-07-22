@@ -1,14 +1,17 @@
 Title: Falando de Amor
 Slug: tom-jobim-falandodeamor
-Url: tablaturas/tomjobim/falandodeamor/
-Save_As: tablaturas/tomjobim/falandodeamor/index.html
+Url: musicas/tomjobim/falandodeamor/
+Save_As: musicas/tomjobim/falandodeamor/index.html
 page_type: tab
 artist: Tom Jobim
 artist_url: https://www.cifraclub.com.br/tom-jobim/
-section_label: Tablaturas
-summary: Tablatura de Falando de Amor por Tom Jobim.
-listing_index: 266
-next_tab_url: /tablaturas/tomjobim/garotadeipanema/
+harmonic_key: G
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Falando de Amor, canção de Tom Jobim.
+listing_index: 270
+next_tab_url: /musicas/tomjobim/garotadeipanema/
 next_tab_title: Garota De Ipanema
 next_tab_artist: Tom Jobim
 

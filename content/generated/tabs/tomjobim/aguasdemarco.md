@@ -1,14 +1,17 @@
 Title: Aguas de Marco
 Slug: tom-jobim-aguasdemarco
-Url: tablaturas/tomjobim/aguasdemarco/
-Save_As: tablaturas/tomjobim/aguasdemarco/index.html
+Url: musicas/tomjobim/aguasdemarco/
+Save_As: musicas/tomjobim/aguasdemarco/index.html
 page_type: tab
 artist: Tom Jobim
 artist_url: https://www.cifraclub.com.br/tom-jobim/
-section_label: Tablaturas
-summary: Tablatura de Aguas de Marco por Tom Jobim.
-listing_index: 263
-next_tab_url: /tablaturas/tomjobim/anosdourados/
+harmonic_key: Bb
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Aguas de Marco, canção de Tom Jobim.
+listing_index: 267
+next_tab_url: /musicas/tomjobim/anosdourados/
 next_tab_title: Anos Dourados
 next_tab_artist: Tom Jobim
 

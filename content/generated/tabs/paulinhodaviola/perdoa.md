@@ -1,14 +1,17 @@
 Title: Perdoa
 Slug: paulinho-da-viola-perdoa
-Url: tablaturas/paulinhodaviola/perdoa/
-Save_As: tablaturas/paulinhodaviola/perdoa/index.html
+Url: musicas/paulinhodaviola/perdoa/
+Save_As: musicas/paulinhodaviola/perdoa/index.html
 page_type: tab
 artist: Paulinho da Viola
 artist_url: https://www.cifraclub.com.br/paulinho-da-viola/
-section_label: Tablaturas
-summary: Tablatura de Perdoa por Paulinho da Viola.
-listing_index: 211
-next_tab_url: /tablaturas/paulinhodaviola/timoneiro/
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Perdoa, canção de Paulinho da Viola.
+listing_index: 214
+next_tab_url: /musicas/paulinhodaviola/timoneiro/
 next_tab_title: Timoneiro
 next_tab_artist: Paulinho da Viola
 

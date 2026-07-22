@@ -1,22 +1,23 @@
 Title: Assum Preto
 Slug: luiz-gonzaga-assumpreto
-Url: tablaturas/luizgonzaga/assumpreto/
-Save_As: tablaturas/luizgonzaga/assumpreto/index.html
+Url: musicas/luizgonzaga/assumpreto/
+Save_As: musicas/luizgonzaga/assumpreto/index.html
 page_type: tab
 artist: Luiz Gonzaga
 artist_url: https://www.cifraclub.com.br/luiz-gonzaga/
-section_label: Tablaturas
-summary: Tablatura de Assum Preto por Luiz Gonzaga.
-listing_index: 131
-next_tab_url: /tablaturas/luizgonzaga/noitesbrasileiras/
+harmonic_key: E
+harmonic_mode: minor
+harmonic_key_source: declared
+section_label: Músicas
+summary: Assum Preto, canção de Luiz Gonzaga.
+listing_index: 134
+next_tab_url: /musicas/luizgonzaga/noitesbrasileiras/
 next_tab_title: Noites Brasileiras
 next_tab_artist: Luiz Gonzaga
 
 <div class="tab-layout columns">
   <div class="tab-column">
-    <pre class="tab-sheet">Tom: Em
-
-        <span class="chord">Em</span> 
+    <pre class="tab-sheet">        <span class="chord">Em</span> 
 Tudo em vorta é só beleza 
          <span class="chord">E</span>             <span class="chord">Am</span> 
 Sol de Abril e a mata em frô 

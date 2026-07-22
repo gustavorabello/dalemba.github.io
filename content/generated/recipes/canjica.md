@@ -4,12 +4,9 @@ Url: receitas/canjica/
 Save_As: receitas/canjica/index.html
 page_type: recipe
 section_label: Receitas
-subtitle: Receitas importadas do acervo Hyde com o conteúdo original preservado.
-summary: Colocar a canjica com água para cozimento na pressão por +
-ou - 30min. Depois de cozida, misturar todos os ingredientes na canjica
-e levar ao fogo para ferver.
-
-<p class="recipe-hero"><img src="/static/images/recipes/canjica.png" alt="Canjica"></p>
+subtitle: Para fazer a casa cheirar a afeto.
+summary: Colocar a canjica com água para cozimento na pressão por + ou - 30min. Depois de cozida, misturar todos os ingredientes na canjica e levar ao fogo para ferver.
+recipe_image: /static/images/recipes/canjica.png
 
 ## Ingredientes
 - 500g de canjica branca;

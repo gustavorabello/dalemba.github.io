@@ -1,16 +1,19 @@
 Title: Disritmia
 Slug: martinho-da-vila-disritmia
-Url: tablaturas/martinhodavila/disritmia/
-Save_As: tablaturas/martinhodavila/disritmia/index.html
+Url: musicas/martinhodavila/disritmia/
+Save_As: musicas/martinhodavila/disritmia/index.html
 page_type: tab
 artist: Martinho da Vila
 artist_url: https://www.cifraclub.com.br/martinho-da-vila/
-section_label: Tablaturas
-summary: Tablatura de Disritmia por Martinho da Vila.
-listing_index: 159
-next_tab_url: /tablaturas/martinhodavila/ex-amor/
-next_tab_title: Ex-Amor
-next_tab_artist: Martinho da Vila
+harmonic_key: G
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Disritmia, canção de Martinho da Vila.
+listing_index: 162
+next_tab_url: /musicas/chicobuarque/abanda/
+next_tab_title: A Banda
+next_tab_artist: Chico Buarque
 
 <div class="tab-layout columns">
   <div class="tab-column">

@@ -4,12 +4,9 @@ Url: receitas/empadinha/
 Save_As: receitas/empadinha/index.html
 page_type: recipe
 section_label: Receitas
-subtitle: Receitas importadas do acervo Hyde com o conteúdo original preservado.
-summary: Coloque os ingredientes numa bacia. Trabalhe a massa com as mãos até
-ficar homogênea e soltando dos dedos. Distribua a massa nas formas e
-coloque o recheio, faça tampinhas e cubra 
-
-<p class="recipe-hero"><img src="/static/images/recipes/empadinha.png" alt="Empadinha"></p>
+subtitle: Para fazer a casa cheirar a afeto.
+summary: Coloque os ingredientes numa bacia. Trabalhe a massa com as mãos até ficar homogênea e soltando dos dedos.
+recipe_image: /static/images/recipes/empadinha.png
 
 ## Ingredientes
 - 250g de margarina

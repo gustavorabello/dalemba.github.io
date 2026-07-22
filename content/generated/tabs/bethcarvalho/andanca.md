@@ -1,14 +1,17 @@
 Title: Andança
 Slug: beth-carvalho-andanca
-Url: tablaturas/bethcarvalho/andanca/
-Save_As: tablaturas/bethcarvalho/andanca/index.html
+Url: musicas/bethcarvalho/andanca/
+Save_As: musicas/bethcarvalho/andanca/index.html
 page_type: tab
 artist: Beth Carvalho
 artist_url: https://www.cifraclub.com.br/beth-carvalho/
-section_label: Tablaturas
-summary: Tablatura de Andança por Beth Carvalho.
-listing_index: 21
-next_tab_url: /tablaturas/bethcarvalho/coisinhadopai/
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Andança, canção de Beth Carvalho.
+listing_index: 22
+next_tab_url: /musicas/bethcarvalho/coisinhadopai/
 next_tab_title: Coisinha do Pai
 next_tab_artist: Beth Carvalho
 

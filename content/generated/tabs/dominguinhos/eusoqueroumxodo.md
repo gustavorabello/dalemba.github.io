@@ -1,14 +1,17 @@
 Title: Eu Só Quero um Xodó
 Slug: anastacia-e-dominguinhos-eusoqueroumxodo
-Url: tablaturas/dominguinhos/eusoqueroumxodo/
-Save_As: tablaturas/dominguinhos/eusoqueroumxodo/index.html
+Url: musicas/dominguinhos/eusoqueroumxodo/
+Save_As: musicas/dominguinhos/eusoqueroumxodo/index.html
 page_type: tab
 artist: Anastacia e Dominguinhos
 artist_url: https://www.cifraclub.com.br/anastacia-e-dominguinhos/
-section_label: Tablaturas
-summary: Tablatura de Eu Só Quero um Xodó por Anastacia e Dominguinhos.
-listing_index: 89
-next_tab_url: /tablaturas/dominguinhos/gostosodemais/
+harmonic_key: E
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Eu Só Quero um Xodó, canção de Anastacia e Dominguinhos.
+listing_index: 90
+next_tab_url: /musicas/dominguinhos/gostosodemais/
 next_tab_title: Gostoso Demais
 next_tab_artist: Dominguinhos
 

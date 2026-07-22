@@ -1,14 +1,17 @@
 Title: Festa do Interior
 Slug: gal-costa-festadointerior-galcosta
-Url: tablaturas/forro/festadointerior-galcosta/
-Save_As: tablaturas/forro/festadointerior-galcosta/index.html
+Url: musicas/forro/festadointerior-galcosta/
+Save_As: musicas/forro/festadointerior-galcosta/index.html
 page_type: tab
 artist: Gal Costa
 artist_url: https://www.cifraclub.com.br/gal-costa/
-section_label: Tablaturas
-summary: Tablatura de Festa do Interior por Gal Costa.
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Festa do Interior, canção de Gal Costa.
 listing_index: 98
-next_tab_url: /tablaturas/forro/gostosodemais-dominguinhos/
+next_tab_url: /musicas/forro/gostosodemais-dominguinhos/
 next_tab_title: Gostoso Demais
 next_tab_artist: Dominguinhos
 

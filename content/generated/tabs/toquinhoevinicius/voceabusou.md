@@ -1,14 +1,17 @@
 Title: Você Abusou
 Slug: toquinho-vinicius-voceabusou
-Url: tablaturas/toquinhoevinicius/voceabusou/
-Save_As: tablaturas/toquinhoevinicius/voceabusou/index.html
+Url: musicas/toquinhoevinicius/voceabusou/
+Save_As: musicas/toquinhoevinicius/voceabusou/index.html
 page_type: tab
 artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
-section_label: Tablaturas
-summary: Tablatura de Você Abusou por Toquinho & Vinicius.
-listing_index: 298
-next_tab_url: /tablaturas/toquinhoevinicius/aguadebeber/
+harmonic_key: A
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Você Abusou, canção de Toquinho & Vinicius.
+listing_index: 302
+next_tab_url: /musicas/toquinhoevinicius/aguadebeber/
 next_tab_title: Água de Beber
 next_tab_artist: Toquinho & Vinicius
 

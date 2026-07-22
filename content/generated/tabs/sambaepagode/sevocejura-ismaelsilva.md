@@ -1,14 +1,17 @@
 Title: Se Voce Jurar
 Slug: ismael-silva-sevocejura-ismaelsilva
-Url: tablaturas/sambaepagode/sevocejura-ismaelsilva/
-Save_As: tablaturas/sambaepagode/sevocejura-ismaelsilva/index.html
+Url: musicas/sambaepagode/sevocejura-ismaelsilva/
+Save_As: musicas/sambaepagode/sevocejura-ismaelsilva/index.html
 page_type: tab
 artist: Ismael Silva
 artist_url: https://www.cifraclub.com.br/ismael-silva/
-section_label: Tablaturas
-summary: Tablatura de Se Voce Jurar por Ismael Silva.
-listing_index: 245
-next_tab_url: /tablaturas/sambaepagode/sufoco-alcione/
+harmonic_key: B
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Se Voce Jurar, canção de Ismael Silva.
+listing_index: 248
+next_tab_url: /musicas/sambaepagode/sufoco-alcione/
 next_tab_title: Sufoco
 next_tab_artist: Alcione
 

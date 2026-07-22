@@ -1,14 +1,17 @@
 Title: Tristeza
 Slug: haroldo-lobo-tristeza-haroldolobo
-Url: tablaturas/sambaepagode/tristeza-haroldolobo/
-Save_As: tablaturas/sambaepagode/tristeza-haroldolobo/index.html
+Url: musicas/sambaepagode/tristeza-haroldolobo/
+Save_As: musicas/sambaepagode/tristeza-haroldolobo/index.html
 page_type: tab
 artist: Haroldo Lobo
 artist_url: https://www.cifraclub.com.br/haroldo-lobo/
-section_label: Tablaturas
-summary: Tablatura de Tristeza por Haroldo Lobo.
-listing_index: 247
-next_tab_url: /tablaturas/sambaepagode/verdadechinesa-emiliosantiago/
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Tristeza, canção de Haroldo Lobo.
+listing_index: 250
+next_tab_url: /musicas/sambaepagode/verdadechinesa-emiliosantiago/
 next_tab_title: Verdade Chinesa
 next_tab_artist: Emilio Santiago
 

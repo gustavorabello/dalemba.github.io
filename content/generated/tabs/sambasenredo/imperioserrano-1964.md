@@ -1,14 +1,17 @@
 Title: Império Serrano (1986)
 Slug: sambas-enredo-imperioserrano-1964
-Url: tablaturas/sambasenredo/imperioserrano-1964/
-Save_As: tablaturas/sambasenredo/imperioserrano-1964/index.html
+Url: musicas/sambasenredo/imperioserrano-1964/
+Save_As: musicas/sambasenredo/imperioserrano-1964/index.html
 page_type: tab
 artist: Sambas Enredo
 artist_url: https://www.cifraclub.com.br/sambas-enredo/
-section_label: Tablaturas
-summary: Tablatura de Império Serrano (1986) por Sambas Enredo.
-listing_index: 251
-next_tab_url: /tablaturas/sambasenredo/mangueira-2007/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Império Serrano (1986), canção de Sambas Enredo.
+listing_index: 254
+next_tab_url: /musicas/sambasenredo/mangueira-2007/
 next_tab_title: Mangueira (2007)
 next_tab_artist: Sambas Enredo
 

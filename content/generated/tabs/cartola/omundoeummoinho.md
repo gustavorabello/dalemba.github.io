@@ -1,14 +1,17 @@
 Title: O Mundo E Um Moinho
 Slug: cartola-omundoeummoinho
-Url: tablaturas/cartola/omundoeummoinho/
-Save_As: tablaturas/cartola/omundoeummoinho/index.html
+Url: musicas/cartola/omundoeummoinho/
+Save_As: musicas/cartola/omundoeummoinho/index.html
 page_type: tab
 artist: Cartola
 artist_url: https://www.cifraclub.com.br/cartola/
-section_label: Tablaturas
-summary: Tablatura de O Mundo E Um Moinho por Cartola.
-listing_index: 33
-next_tab_url: /tablaturas/cartola/prantodopoeta/
+harmonic_key: E
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: O Mundo E Um Moinho, canção de Cartola.
+listing_index: 34
+next_tab_url: /musicas/cartola/prantodopoeta/
 next_tab_title: Pranto do Poeta
 next_tab_artist: Cartola
 

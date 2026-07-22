@@ -1,21 +1,23 @@
 Title: Mocidade (1996)
 Slug: sambas-enredo-mocidade-1996
-Url: tablaturas/sambasenredo/mocidade-1996/
-Save_As: tablaturas/sambasenredo/mocidade-1996/index.html
+Url: musicas/sambasenredo/mocidade-1996/
+Save_As: musicas/sambasenredo/mocidade-1996/index.html
 page_type: tab
 artist: Sambas Enredo
 artist_url: https://www.cifraclub.com.br/sambas-enredo/
-section_label: Tablaturas
-summary: Tablatura de Mocidade (1996) por Sambas Enredo.
-listing_index: 253
-next_tab_url: /tablaturas/sambasenredo/salgueiro-1993/
+harmonic_key: F
+harmonic_mode: major
+harmonic_key_source: declared
+section_label: Músicas
+summary: Mocidade (1996), canção de Sambas Enredo.
+listing_index: 256
+next_tab_url: /musicas/sambasenredo/salgueiro-1993/
 next_tab_title: Salgueiro (1993)
 next_tab_artist: Sambas Enredo
 
 <div class="tab-layout columns">
   <div class="tab-column">
     <pre class="tab-sheet">título: Criador e criatura
-tom: F
 
   <span class="chord">C7</span>           <span class="chord">F</span>           <span class="chord">Gm</span>      <span class="chord">C7</span>             <span class="chord">F</span> 
 A mão que faz a bomba faz o samba, Deus faz gente bamba 

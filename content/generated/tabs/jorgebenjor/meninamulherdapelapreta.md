@@ -1,14 +1,17 @@
 Title: Menina Mulher da Pele Preta
 Slug: jorge-benjor-meninamulherdapelapreta
-Url: tablaturas/jorgebenjor/meninamulherdapelapreta/
-Save_As: tablaturas/jorgebenjor/meninamulherdapelapreta/index.html
+Url: musicas/jorgebenjor/meninamulherdapelapreta/
+Save_As: musicas/jorgebenjor/meninamulherdapelapreta/index.html
 page_type: tab
 artist: Jorge Benjor
 artist_url: https://www.cifraclub.com.br/jorge-benjor/
-section_label: Tablaturas
-summary: Tablatura de Menina Mulher da Pele Preta por Jorge Benjor.
-listing_index: 124
-next_tab_url: /tablaturas/jorgebenjor/otelefonetocounovamente/
+harmonic_key: C#
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Menina Mulher da Pele Preta, canção de Jorge Benjor.
+listing_index: 127
+next_tab_url: /musicas/jorgebenjor/otelefonetocounovamente/
 next_tab_title: O Telefone Tocou Novamente
 next_tab_artist: Jorge Benjor
 

@@ -1,14 +1,17 @@
 Title: A Chuva Cai
 Slug: beth-carvalho-achuvacai
-Url: tablaturas/bethcarvalho/achuvacai/
-Save_As: tablaturas/bethcarvalho/achuvacai/index.html
+Url: musicas/bethcarvalho/achuvacai/
+Save_As: musicas/bethcarvalho/achuvacai/index.html
 page_type: tab
 artist: Beth Carvalho
 artist_url: https://www.cifraclub.com.br/beth-carvalho/
-section_label: Tablaturas
-summary: Tablatura de A Chuva Cai por Beth Carvalho.
-listing_index: 20
-next_tab_url: /tablaturas/bethcarvalho/andanca/
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: A Chuva Cai, canção de Beth Carvalho.
+listing_index: 21
+next_tab_url: /musicas/bethcarvalho/andanca/
 next_tab_title: Andança
 next_tab_artist: Beth Carvalho
 

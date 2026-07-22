@@ -1,14 +1,17 @@
 Title: Baianidade Nagô
 Slug: banda-beijo-baianidadenago-bandabeijo
-Url: tablaturas/misc/baianidadenago-bandabeijo/
-Save_As: tablaturas/misc/baianidadenago-bandabeijo/index.html
+Url: musicas/misc/baianidadenago-bandabeijo/
+Save_As: musicas/misc/baianidadenago-bandabeijo/index.html
 page_type: tab
 artist: Banda Beijo
 artist_url: https://www.cifraclub.com.br/banda-beijo/
-section_label: Tablaturas
-summary: Tablatura de Baianidade Nagô por Banda Beijo.
-listing_index: 171
-next_tab_url: /tablaturas/misc/cestmavie-adamo/
+harmonic_key: E
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Baianidade Nagô, canção de Banda Beijo.
+listing_index: 174
+next_tab_url: /musicas/misc/cestmavie-adamo/
 next_tab_title: C'est Ma Vie
 next_tab_artist: Adamo
 

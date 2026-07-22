@@ -1,14 +1,17 @@
 Title: Água de Beber
 Slug: toquinho-vinicius-aguadebeber
-Url: tablaturas/toquinhoevinicius/aguadebeber/
-Save_As: tablaturas/toquinhoevinicius/aguadebeber/index.html
+Url: musicas/toquinhoevinicius/aguadebeber/
+Save_As: musicas/toquinhoevinicius/aguadebeber/index.html
 page_type: tab
 artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
-section_label: Tablaturas
-summary: Tablatura de Água de Beber por Toquinho & Vinicius.
-listing_index: 299
-next_tab_url: /tablaturas/trionordestino/homemcomh/
+harmonic_key: B
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Água de Beber, canção de Toquinho & Vinicius.
+listing_index: 303
+next_tab_url: /musicas/trionordestino/homemcomh/
 next_tab_title: Homem com H
 next_tab_artist: Trio Nordestino
 

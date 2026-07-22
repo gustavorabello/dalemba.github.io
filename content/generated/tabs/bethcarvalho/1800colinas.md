@@ -1,14 +1,17 @@
 Title: 1800 Colinas
 Slug: beth-carvalho-1800colinas
-Url: tablaturas/bethcarvalho/1800colinas/
-Save_As: tablaturas/bethcarvalho/1800colinas/index.html
+Url: musicas/bethcarvalho/1800colinas/
+Save_As: musicas/bethcarvalho/1800colinas/index.html
 page_type: tab
 artist: Beth Carvalho
 artist_url: https://www.cifraclub.com.br/beth-carvalho/
-section_label: Tablaturas
-summary: Tablatura de 1800 Colinas por Beth Carvalho.
-listing_index: 19
-next_tab_url: /tablaturas/bethcarvalho/achuvacai/
+harmonic_key: D
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: 1800 Colinas, canção de Beth Carvalho.
+listing_index: 20
+next_tab_url: /musicas/bethcarvalho/achuvacai/
 next_tab_title: A Chuva Cai
 next_tab_artist: Beth Carvalho
 

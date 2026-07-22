@@ -1,14 +1,17 @@
 Title: Chega de Saudade
 Slug: tom-jobim-vinicius-chegadesaudade
-Url: tablaturas/toquinhoevinicius/chegadesaudade/
-Save_As: tablaturas/toquinhoevinicius/chegadesaudade/index.html
+Url: musicas/toquinhoevinicius/chegadesaudade/
+Save_As: musicas/toquinhoevinicius/chegadesaudade/index.html
 page_type: tab
 artist: Tom Jobim & Vinicius
 artist_url: https://www.cifraclub.com.br/tom-jobim-vinicius/
-section_label: Tablaturas
-summary: Tablatura de Chega de Saudade por Tom Jobim & Vinicius.
-listing_index: 279
-next_tab_url: /tablaturas/toquinhoevinicius/escravodaalegria/
+harmonic_key: D
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Chega de Saudade, canção de Tom Jobim & Vinicius.
+listing_index: 283
+next_tab_url: /musicas/toquinhoevinicius/escravodaalegria/
 next_tab_title: Escravo da Alegria
 next_tab_artist: Toquinho & Vinicius
 

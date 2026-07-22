@@ -1,14 +1,17 @@
 Title: Vamos Fugir
 Slug: gilberto-gil-vamosfugir
-Url: tablaturas/gilbertogil/vamosfugir/
-Save_As: tablaturas/gilbertogil/vamosfugir/index.html
+Url: musicas/gilbertogil/vamosfugir/
+Save_As: musicas/gilbertogil/vamosfugir/index.html
 page_type: tab
 artist: Gilberto Gil
 artist_url: https://www.cifraclub.com.br/gilberto-gil/
-section_label: Tablaturas
-summary: Tablatura de Vamos Fugir por Gilberto Gil.
-listing_index: 113
-next_tab_url: /tablaturas/jorgearagao/amorestousofrendo/
+harmonic_key: F#
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Vamos Fugir, canção de Gilberto Gil.
+listing_index: 116
+next_tab_url: /musicas/jorgearagao/amorestousofrendo/
 next_tab_title: Amor Estou Sofrendo
 next_tab_artist: Jorge Aragao
 

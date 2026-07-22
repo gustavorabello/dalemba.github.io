@@ -1,14 +1,17 @@
 Title: Apesar de Voce
 Slug: chico-buarque-apesardevoce
-Url: tablaturas/chicobuarque/apesardevoce/
-Save_As: tablaturas/chicobuarque/apesardevoce/index.html
+Url: musicas/chicobuarque/apesardevoce/
+Save_As: musicas/chicobuarque/apesardevoce/index.html
 page_type: tab
 artist: Chico Buarque
 artist_url: https://www.cifraclub.com.br/chico-buarque/
-section_label: Tablaturas
-summary: Tablatura de Apesar de Voce por Chico Buarque.
-listing_index: 48
-next_tab_url: /tablaturas/chicobuarque/capitaldosamba/
+harmonic_key: D
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Apesar de Voce, canção de Chico Buarque.
+listing_index: 49
+next_tab_url: /musicas/chicobuarque/capitaldosamba/
 next_tab_title: Capital do Samba
 next_tab_artist: Chico Buarque
 

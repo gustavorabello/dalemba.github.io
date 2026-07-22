@@ -1,14 +1,17 @@
 Title: Muito Estranho
 Slug: dalto-versao-nando-reis-muitoestranho
-Url: tablaturas/nandoreis/muitoestranho/
-Save_As: tablaturas/nandoreis/muitoestranho/index.html
+Url: musicas/nandoreis/muitoestranho/
+Save_As: musicas/nandoreis/muitoestranho/index.html
 page_type: tab
 artist: Dalto - versão Nando Reis
 artist_url: https://www.cifraclub.com.br/dalto---versao-nando-reis/
-section_label: Tablaturas
-summary: Tablatura de Muito Estranho por Dalto - versão Nando Reis.
-listing_index: 204
-next_tab_url: /tablaturas/nandoreis/oscegosdocastelo/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Muito Estranho, canção de Dalto - versão Nando Reis.
+listing_index: 207
+next_tab_url: /musicas/nandoreis/oscegosdocastelo/
 next_tab_title: Os Cegos do Castelo
 next_tab_artist: Nando Reis
 

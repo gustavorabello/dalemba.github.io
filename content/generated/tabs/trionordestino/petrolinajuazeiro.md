@@ -1,14 +1,17 @@
 Title: Petrolina Juazeiro
 Slug: jorge-de-altinho-versao-trio-nordestino-petrolinajuazeiro
-Url: tablaturas/trionordestino/petrolinajuazeiro/
-Save_As: tablaturas/trionordestino/petrolinajuazeiro/index.html
+Url: musicas/trionordestino/petrolinajuazeiro/
+Save_As: musicas/trionordestino/petrolinajuazeiro/index.html
 page_type: tab
 artist: Jorge de Altinho - versão Trio Nordestino
 artist_url: https://www.cifraclub.com.br/jorge-de-altinho---versao-trio-nordestino/
-section_label: Tablaturas
-summary: Tablatura de Petrolina Juazeiro por Jorge de Altinho - versão Trio Nordestino.
-listing_index: 302
-next_tab_url: /tablaturas/vanessadamata/aiaiai/
+harmonic_key: A
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Petrolina Juazeiro, canção de Jorge de Altinho - versão Trio Nordestino.
+listing_index: 306
+next_tab_url: /musicas/vanessadamata/aiaiai/
 next_tab_title: Ai, Ai, Ai...
 next_tab_artist: Vanessa da Mata
 

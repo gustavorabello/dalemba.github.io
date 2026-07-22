@@ -1,14 +1,17 @@
 Title: Ai, Ai, Ai...
 Slug: vanessa-da-mata-aiaiai
-Url: tablaturas/vanessadamata/aiaiai/
-Save_As: tablaturas/vanessadamata/aiaiai/index.html
+Url: musicas/vanessadamata/aiaiai/
+Save_As: musicas/vanessadamata/aiaiai/index.html
 page_type: tab
 artist: Vanessa da Mata
 artist_url: https://www.cifraclub.com.br/vanessa-da-mata/
-section_label: Tablaturas
-summary: Tablatura de Ai, Ai, Ai... por Vanessa da Mata.
-listing_index: 303
-next_tab_url: /tablaturas/vanessadamata/boasorte/
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Ai, Ai, Ai..., canção de Vanessa da Mata.
+listing_index: 307
+next_tab_url: /musicas/vanessadamata/boasorte/
 next_tab_title: Boa Sorte/Good Luck
 next_tab_artist: Vanessa da Mata
 

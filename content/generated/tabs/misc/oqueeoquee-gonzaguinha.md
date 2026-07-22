@@ -1,14 +1,17 @@
 Title: O Que é, o Que é
 Slug: gonzaguinha-oqueeoquee-gonzaguinha
-Url: tablaturas/misc/oqueeoquee-gonzaguinha/
-Save_As: tablaturas/misc/oqueeoquee-gonzaguinha/index.html
+Url: musicas/misc/oqueeoquee-gonzaguinha/
+Save_As: musicas/misc/oqueeoquee-gonzaguinha/index.html
 page_type: tab
 artist: Gonzaguinha
 artist_url: https://www.cifraclub.com.br/gonzaguinha/
-section_label: Tablaturas
-summary: Tablatura de O Que é, o Que é por Gonzaguinha.
-listing_index: 191
-next_tab_url: /tablaturas/misc/paroleparole-dalida/
+harmonic_key: D
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: O Que é, o Que é, canção de Gonzaguinha.
+listing_index: 194
+next_tab_url: /musicas/misc/paroleparole-dalida/
 next_tab_title: Parole, Parole
 next_tab_artist: Dalida & Alain Delon
 

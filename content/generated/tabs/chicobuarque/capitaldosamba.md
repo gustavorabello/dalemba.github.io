@@ -1,14 +1,17 @@
 Title: Capital do Samba
 Slug: chico-buarque-capitaldosamba
-Url: tablaturas/chicobuarque/capitaldosamba/
-Save_As: tablaturas/chicobuarque/capitaldosamba/index.html
+Url: musicas/chicobuarque/capitaldosamba/
+Save_As: musicas/chicobuarque/capitaldosamba/index.html
 page_type: tab
 artist: Chico Buarque
 artist_url: https://www.cifraclub.com.br/chico-buarque/
-section_label: Tablaturas
-summary: Tablatura de Capital do Samba por Chico Buarque.
-listing_index: 49
-next_tab_url: /tablaturas/chicobuarque/desencontro/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Capital do Samba, canção de Chico Buarque.
+listing_index: 50
+next_tab_url: /musicas/chicobuarque/desencontro/
 next_tab_title: Desencontro
 next_tab_artist: Chico Buarque
 

@@ -1,14 +1,17 @@
 Title: O Nosso Amor A Gente Inventa
 Slug: cazuza-onossoamoragenteinventa
-Url: tablaturas/cazuza/onossoamoragenteinventa/
-Save_As: tablaturas/cazuza/onossoamoragenteinventa/index.html
+Url: musicas/cazuza/onossoamoragenteinventa/
+Save_As: musicas/cazuza/onossoamoragenteinventa/index.html
 page_type: tab
 artist: Cazuza
 artist_url: https://www.cifraclub.com.br/cazuza/
-section_label: Tablaturas
-summary: Tablatura de O Nosso Amor A Gente Inventa por Cazuza.
-listing_index: 42
-next_tab_url: /tablaturas/cazuza/otemponaopara/
+harmonic_key: F#
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: O Nosso Amor A Gente Inventa, canção de Cazuza.
+listing_index: 43
+next_tab_url: /musicas/cazuza/otemponaopara/
 next_tab_title: O Tempo Não Para
 next_tab_artist: Cazuza
 

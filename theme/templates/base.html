@@ -7,18 +7,24 @@
   {% if page and page.summary %}
   <meta name="description" content="{{ page.summary|striptags }}">
   {% endif %}
-  <link rel="stylesheet" href="{{ SITEURL }}/static/css/main.css">
+  <link rel="stylesheet" href="{{ SITEURL }}/static/css/main.css?v=20260721-harmonic-map-4">
+  {% if page and page.page_type == 'financeiro' %}
+  <link rel="stylesheet" href="{{ SITEURL }}/static/css/financeiro.css?v=20260715-full-site">
+  {% endif %}
+  {% if page and page.page_type == 'academicdb' %}
+  <link rel="stylesheet" href="{{ SITEURL }}/static/css/academicdb.css">
+  {% endif %}
 </head>
 <body data-page-type="{{ page.page_type if page and page.page_type else 'default' }}" data-page-slug="{% if page %}{{ page.slug }}{% endif %}">
   <div class="site-bg"></div>
   <header class="site-header">
     <a class="brand" href="{{ SITEURL }}/">
-      <span class="brand-mark">misc-site</span>
+      <span class="brand-mark">{{ SITENAME }}</span>
       <span class="brand-tag">{{ SITESUBTITLE }}</span>
     </a>
     <nav class="site-nav" aria-label="Principal">
       {% for label, url in MENUITEMS %}
-      <a href="{{ url }}">{{ label }}</a>
+      <a href="{{ url }}"{% if url == '/financeiro/' %} class="nav-financeiro"{% elif url == '/academicdb/' %} class="nav-academicdb"{% endif %}>{% if url == '/financeiro/' %}<span class="nav-icon nav-icon-financeiro" aria-hidden="true">R$</span>{% elif url == '/academicdb/' %}<span class="nav-icon nav-icon-academicdb" aria-hidden="true">DB</span>{% endif %}<span>{{ label }}</span></a>
       {% endfor %}
     </nav>
   </header>
@@ -26,6 +32,6 @@
   <main class="site-main">
     {% block content %}{% endblock %}
   </main>
-  <script src="{{ SITEURL }}/static/js/site.js"></script>
+  <script src="{{ SITEURL }}/static/js/site.js?v=20260721-harmonic-map-4"></script>
 </body>
 </html>

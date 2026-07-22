@@ -1,14 +1,17 @@
 Title: Feitiço da Vila
 Slug: noel-rosa-feiticodavila-noelrosa
-Url: tablaturas/sambaepagode/feiticodavila-noelrosa/
-Save_As: tablaturas/sambaepagode/feiticodavila-noelrosa/index.html
+Url: musicas/sambaepagode/feiticodavila-noelrosa/
+Save_As: musicas/sambaepagode/feiticodavila-noelrosa/index.html
 page_type: tab
 artist: Noel Rosa
 artist_url: https://www.cifraclub.com.br/noel-rosa/
-section_label: Tablaturas
-summary: Tablatura de Feitiço da Vila por Noel Rosa.
-listing_index: 231
-next_tab_url: /tablaturas/sambaepagode/fogodesaudade-sombrinha/
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Feitiço da Vila, canção de Noel Rosa.
+listing_index: 234
+next_tab_url: /musicas/sambaepagode/fogodesaudade-sombrinha/
 next_tab_title: Fogo de Saudade
 next_tab_artist: Sombrinha
 

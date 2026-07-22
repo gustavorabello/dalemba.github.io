@@ -1,21 +1,23 @@
 Title: Coisinha do Pai
 Slug: beth-carvalho-coisinhadopai
-Url: tablaturas/bethcarvalho/coisinhadopai/
-Save_As: tablaturas/bethcarvalho/coisinhadopai/index.html
+Url: musicas/bethcarvalho/coisinhadopai/
+Save_As: musicas/bethcarvalho/coisinhadopai/index.html
 page_type: tab
 artist: Beth Carvalho
 artist_url: https://www.cifraclub.com.br/beth-carvalho/
-section_label: Tablaturas
-summary: Tablatura de Coisinha do Pai por Beth Carvalho.
-listing_index: 22
-next_tab_url: /tablaturas/bethcarvalho/folhassecas/
+harmonic_key: E
+harmonic_mode: minor
+harmonic_key_source: declared
+section_label: Músicas
+summary: Coisinha do Pai, canção de Beth Carvalho.
+listing_index: 23
+next_tab_url: /musicas/bethcarvalho/folhassecas/
 next_tab_title: Folhas Secas
 next_tab_artist: Beth Carvalho
 
 <div class="tab-layout columns">
   <div class="tab-column">
     <pre class="tab-sheet">título: Coisinha do pai
-tom: Em
 
 [intro]: <span class="chord">Bm</span> <span class="chord">B7</span>
 

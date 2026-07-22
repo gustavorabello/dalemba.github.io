@@ -1,14 +1,17 @@
 Title: Fullgás
 Slug: marina-lima-e-antonio-cicero-fullgas-marinalima
-Url: tablaturas/misc/fullgas-marinalima/
-Save_As: tablaturas/misc/fullgas-marinalima/index.html
+Url: musicas/misc/fullgas-marinalima/
+Save_As: musicas/misc/fullgas-marinalima/index.html
 page_type: tab
 artist: Marina Lima e Antônio Cícero
 artist_url: https://www.cifraclub.com.br/marina-lima-e-antonio-cicero/
-section_label: Tablaturas
-summary: Tablatura de Fullgás por Marina Lima e Antônio Cícero.
-listing_index: 179
-next_tab_url: /tablaturas/misc/garotosii-leoni/
+harmonic_key: D
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Fullgás, canção de Marina Lima e Antônio Cícero.
+listing_index: 182
+next_tab_url: /musicas/misc/garotosii-leoni/
 next_tab_title: Garotos II
 next_tab_artist: Leoni
 

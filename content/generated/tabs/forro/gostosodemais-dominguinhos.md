@@ -1,14 +1,17 @@
 Title: Gostoso Demais
 Slug: dominguinhos-gostosodemais-dominguinhos
-Url: tablaturas/forro/gostosodemais-dominguinhos/
-Save_As: tablaturas/forro/gostosodemais-dominguinhos/index.html
+Url: musicas/forro/gostosodemais-dominguinhos/
+Save_As: musicas/forro/gostosodemais-dominguinhos/index.html
 page_type: tab
 artist: Dominguinhos
 artist_url: https://www.cifraclub.com.br/dominguinhos/
-section_label: Tablaturas
-summary: Tablatura de Gostoso Demais por Dominguinhos.
+harmonic_key: F
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Gostoso Demais, canção de Dominguinhos.
 listing_index: 99
-next_tab_url: /tablaturas/forro/homemcomh-trionordestino/
+next_tab_url: /musicas/forro/homemcomh-trionordestino/
 next_tab_title: Homem com H
 next_tab_artist: Trio Nordestino
 

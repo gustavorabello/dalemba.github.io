@@ -1,14 +1,17 @@
 Title: Coração
 Slug: avioes-do-forro-coracao-avioesdoforro
-Url: tablaturas/forro/coracao-avioesdoforro/
-Save_As: tablaturas/forro/coracao-avioesdoforro/index.html
+Url: musicas/forro/coracao-avioesdoforro/
+Save_As: musicas/forro/coracao-avioesdoforro/index.html
 page_type: tab
 artist: Aviões do Forró
 artist_url: https://www.cifraclub.com.br/avioes-do-forro/
-section_label: Tablaturas
-summary: Tablatura de Coração por Aviões do Forró.
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Coração, canção de Aviões do Forró.
 listing_index: 95
-next_tab_url: /tablaturas/forro/espumasaovento-fagner/
+next_tab_url: /musicas/forro/espumasaovento-fagner/
 next_tab_title: Espumas ao Vento
 next_tab_artist: Fagner
 

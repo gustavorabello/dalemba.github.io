@@ -1,14 +1,17 @@
 Title: Cacador de Mim
 Slug: milton-nascimento-cacadordemim
-Url: tablaturas/miltonnascimento/cacadordemim/
-Save_As: tablaturas/miltonnascimento/cacadordemim/index.html
+Url: musicas/miltonnascimento/cacadordemim/
+Save_As: musicas/miltonnascimento/cacadordemim/index.html
 page_type: tab
 artist: Milton Nascimento
 artist_url: https://www.cifraclub.com.br/milton-nascimento/
-section_label: Tablaturas
-summary: Tablatura de Cacador de Mim por Milton Nascimento.
-listing_index: 162
-next_tab_url: /tablaturas/miltonnascimento/encontrosedespedidas/
+harmonic_key: Bb
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Cacador de Mim, canção de Milton Nascimento.
+listing_index: 165
+next_tab_url: /musicas/miltonnascimento/encontrosedespedidas/
 next_tab_title: Encontro e Despedidas
 next_tab_artist: Milton Nascimento
 

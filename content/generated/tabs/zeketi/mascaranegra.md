@@ -1,13 +1,16 @@
 Title: Máscara Negra
 Slug: ze-keti-mascaranegra
-Url: tablaturas/zeketi/mascaranegra/
-Save_As: tablaturas/zeketi/mascaranegra/index.html
+Url: musicas/zeketi/mascaranegra/
+Save_As: musicas/zeketi/mascaranegra/index.html
 page_type: tab
 artist: Zé Keti
 artist_url: https://www.cifraclub.com.br/ze-keti/
-section_label: Tablaturas
-summary: Tablatura de Máscara Negra por Zé Keti.
-listing_index: 308
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Máscara Negra, canção de Zé Keti.
+listing_index: 312
 
 <div class="tab-layout columns">
   <div class="tab-column">

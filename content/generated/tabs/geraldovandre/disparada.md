@@ -1,22 +1,23 @@
 Title: Disparada
 Slug: geraldo-vandre-disparada
-Url: tablaturas/geraldovandre/disparada/
-Save_As: tablaturas/geraldovandre/disparada/index.html
+Url: musicas/geraldovandre/disparada/
+Save_As: musicas/geraldovandre/disparada/index.html
 page_type: tab
 artist: Geraldo Vandre
 artist_url: https://www.cifraclub.com.br/geraldo-vandre/
-section_label: Tablaturas
-summary: Tablatura de Disparada por Geraldo Vandre.
-listing_index: 106
-next_tab_url: /tablaturas/gilbertogil/anovidade/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: declared
+section_label: Músicas
+summary: Disparada, canção de Geraldo Vandre.
+listing_index: 109
+next_tab_url: /musicas/gilbertogil/anovidade/
 next_tab_title: A Novidade
 next_tab_artist: Gilberto Gil
 
 <div class="tab-layout columns">
   <div class="tab-column">
-    <pre class="tab-sheet">Tom: G
-
-    <span class="chord">D</span>             <span class="chord">G</span>        <span class="chord">D</span>                  <span class="chord">G</span>
+    <pre class="tab-sheet">    <span class="chord">D</span>             <span class="chord">G</span>        <span class="chord">D</span>                  <span class="chord">G</span>
 Prepare o seu coração prás coisas que eu vou contar
     <span class="chord">C</span>            <span class="chord">Bm</span>     <span class="chord">C</span>    <span class="chord">Am</span>    <span class="chord">D</span>   <span class="chord">G</span>
 Eu venho lá do sertão, eu venho lá do sertão
@@ -49,12 +50,13 @@ Mas o mundo foi rodando nas patas do meu cavalo
        <span class="chord">C</span>              <span class="chord">Bm</span>     <span class="chord">C</span>    <span class="chord">Am</span>       <span class="chord">D</span>   <span class="chord">G</span>
 E nos sonhos que fui sonhando, as visões se clareando
       <span class="chord">B7</span>        <span class="chord">Em</span>      <span class="chord">C</span>        <span class="chord">Am</span>    <span class="chord">D</span>   <span class="chord">G</span>
-As visões se clareando, até que um dia acordei</pre>
+As visões se clareando, até que um dia acordei
+
+    <span class="chord">D</span>              <span class="chord">G</span>    <span class="chord">D</span>               <span class="chord">G</span>
+Então não pude seguir valente em lugar tenente</pre>
   </div>
   <div class="tab-column">
-    <pre class="tab-sheet">    <span class="chord">D</span>              <span class="chord">G</span>    <span class="chord">D</span>               <span class="chord">G</span>
-Então não pude seguir valente em lugar tenente
-   <span class="chord">C</span>             <span class="chord">Bm</span>   <span class="chord">C</span>       <span class="chord">Am</span>     <span class="chord">D</span>     <span class="chord">G</span>
+    <pre class="tab-sheet">   <span class="chord">C</span>             <span class="chord">Bm</span>   <span class="chord">C</span>       <span class="chord">Am</span>     <span class="chord">D</span>     <span class="chord">G</span>
 E dono de gado e gente, porque gado a gente marca
         <span class="chord">B7</span>            <span class="chord">Em</span>     <span class="chord">C</span>       <span class="chord">Am</span>     <span class="chord">D</span>   <span class="chord">G</span>
 Tange, ferra, engorda e mata, mas com gente é diferente

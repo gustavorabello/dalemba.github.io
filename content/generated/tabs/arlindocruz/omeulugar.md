@@ -1,14 +1,17 @@
 Title: O Meu Lugar
 Slug: arlindo-cruz-omeulugar
-Url: tablaturas/arlindocruz/omeulugar/
-Save_As: tablaturas/arlindocruz/omeulugar/index.html
+Url: musicas/arlindocruz/omeulugar/
+Save_As: musicas/arlindocruz/omeulugar/index.html
 page_type: tab
 artist: Arlindo Cruz
 artist_url: https://www.cifraclub.com.br/arlindo-cruz/
-section_label: Tablaturas
-summary: Tablatura de O Meu Lugar por Arlindo Cruz.
-listing_index: 6
-next_tab_url: /tablaturas/arlindocruz/oshowtemquecontinuar/
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: O Meu Lugar, canção de Arlindo Cruz.
+listing_index: 7
+next_tab_url: /musicas/arlindocruz/oshowtemquecontinuar/
 next_tab_title: O Show Tem Que Continuar
 next_tab_artist: Fundo de Quintal
 

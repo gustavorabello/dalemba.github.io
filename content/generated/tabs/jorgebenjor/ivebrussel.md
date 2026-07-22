@@ -1,14 +1,17 @@
 Title: Ive Brussel
 Slug: jorge-benjor-ivebrussel
-Url: tablaturas/jorgebenjor/ivebrussel/
-Save_As: tablaturas/jorgebenjor/ivebrussel/index.html
+Url: musicas/jorgebenjor/ivebrussel/
+Save_As: musicas/jorgebenjor/ivebrussel/index.html
 page_type: tab
 artist: Jorge Benjor
 artist_url: https://www.cifraclub.com.br/jorge-benjor/
-section_label: Tablaturas
-summary: Tablatura de Ive Brussel por Jorge Benjor.
-listing_index: 122
-next_tab_url: /tablaturas/jorgebenjor/masquenada/
+harmonic_key: F#
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Ive Brussel, canção de Jorge Benjor.
+listing_index: 125
+next_tab_url: /musicas/jorgebenjor/masquenada/
 next_tab_title: Mas Que Nada
 next_tab_artist: Jorge Benjor
 

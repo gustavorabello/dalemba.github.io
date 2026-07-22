@@ -1,14 +1,17 @@
 Title: Three Little Birds
 Slug: bob-marley-threelittlebirds
-Url: tablaturas/bobmarley/threelittlebirds/
-Save_As: tablaturas/bobmarley/threelittlebirds/index.html
+Url: musicas/bobmarley/threelittlebirds/
+Save_As: musicas/bobmarley/threelittlebirds/index.html
 page_type: tab
 artist: Bob Marley
 artist_url: https://www.cifraclub.com.br/bob-marley/
-section_label: Tablaturas
-summary: Tablatura de Three Little Birds por Bob Marley.
-listing_index: 26
-next_tab_url: /tablaturas/caetanoveloso/mimarvoce/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Three Little Birds, canção de Bob Marley.
+listing_index: 27
+next_tab_url: /musicas/caetanoveloso/mimarvoce/
 next_tab_title: Mimar Voce
 next_tab_artist: Caetano Veloso
 

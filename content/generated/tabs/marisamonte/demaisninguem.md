@@ -1,14 +1,17 @@
 Title: De Mais Ninguém
 Slug: marisa-monte-demaisninguem
-Url: tablaturas/marisamonte/demaisninguem/
-Save_As: tablaturas/marisamonte/demaisninguem/index.html
+Url: musicas/marisamonte/demaisninguem/
+Save_As: musicas/marisamonte/demaisninguem/index.html
 page_type: tab
 artist: Marisa Monte
 artist_url: https://www.cifraclub.com.br/marisa-monte/
-section_label: Tablaturas
-summary: Tablatura de De Mais Ninguém por Marisa Monte.
-listing_index: 154
-next_tab_url: /tablaturas/marisamonte/oquemeimporta/
+harmonic_key: A
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: De Mais Ninguém, canção de Marisa Monte.
+listing_index: 157
+next_tab_url: /musicas/marisamonte/oquemeimporta/
 next_tab_title: O Que Me Importa
 next_tab_artist: Marisa Monte
 

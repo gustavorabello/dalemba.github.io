@@ -33,11 +33,13 @@ def parse_metadata_block(raw_text: str) -> tuple[dict[str, str], str]:
         if ":" not in line:
             continue
         key, value = line.split(":", 1)
-        metadata[key.strip().lower()] = value.strip().strip("'").strip('"')
+        metadata[key.strip().lower()] = html.unescape(
+            value.strip().strip("'").strip('"')
+        )
     return metadata, parts[2].strip()
 
 
-def strip_hyde_markup(body: str, title: str, image_name: str | None) -> str:
+def strip_hyde_markup(body: str) -> str:
     content = body.replace("\u2028", "\n").replace("\u00a0", " ")
     content = re.sub(r"{%\s*mark\s+\w+\s*-?%}", "", content)
     content = re.sub(r"{%-?\s*endmark\s*%}", "", content)
@@ -49,36 +51,48 @@ def strip_hyde_markup(body: str, title: str, image_name: str | None) -> str:
     content = re.sub(r"^\s*INGREDIENTES:\s*$", "## Ingredientes", content, flags=re.MULTILINE)
     content = re.sub(r"^\s*MODO DE PREPARO:\s*$", "## Modo de preparo", content, flags=re.MULTILINE)
     content = re.sub(r"^\s*Modo de preparo:\s*$", "## Modo de preparo", content, flags=re.MULTILINE)
-    if image_name:
-        image_block = (
-            f'<p class="recipe-hero"><img src="/static/images/recipes/{image_name}" '
-            f'alt="{html.escape(title)}"></p>'
-        )
-        content = image_block + "\n\n" + content
     return content.strip()
+
+
+def summarize_text(value: str, limit: int = 180) -> str:
+    cleaned = html.unescape(value)
+    cleaned = re.sub(r"<[^>]+>", " ", cleaned)
+    cleaned = re.sub(r"^\s*#{1,6}\s+", "", cleaned, flags=re.MULTILINE)
+    cleaned = re.sub(r"^\s*(?:[-*+] |\d+\.\s+)", "", cleaned, flags=re.MULTILINE)
+    cleaned = re.sub(r"\s+", " ", cleaned).strip()
+    if not cleaned:
+        return ""
+
+    sentence_ends = [match.end() for match in re.finditer(r"[.!?](?:\s|$)", cleaned)]
+    useful_ends = [end for end in sentence_ends if 60 <= end <= limit]
+    if useful_ends:
+        return cleaned[: useful_ends[-1]].strip()
+    if len(cleaned) <= limit:
+        return cleaned
+
+    shortened = cleaned[: limit - 1].rsplit(" ", 1)[0].rstrip(" ,;:-")
+    return f"{shortened}…"
 
 
 def extract_summary(content: str) -> str:
     if "## Modo de preparo" in content:
         mode_text = content.split("## Modo de preparo", 1)[1].strip()
-        first_block = re.split(r"\n\s*\n", mode_text, maxsplit=1)[0]
-        cleaned = re.sub(r"<[^>]+>", "", first_block).strip()
-        if cleaned:
-            return cleaned[:180]
+        summary = summarize_text(mode_text)
+        if summary:
+            return summary
 
     for block in re.split(r"\n\s*\n", content):
-        cleaned = re.sub(r"<[^>]+>", "", block).strip()
-        cleaned = re.sub(r"^##\s+[^\n]+\n?", "", cleaned, flags=re.MULTILINE).strip()
-        if cleaned:
-            return cleaned[:180]
-    return "Receita importada do acervo Hyde."
+        summary = summarize_text(block)
+        if summary:
+            return summary
+    return "Receita guardada com carinho."
 
 
 def render_recipe_listing(recipes: list[dict[str, str]]) -> None:
     cards = []
     for recipe in recipes:
         image_block = (
-            f'<img src="{recipe["image"]}" alt="{html.escape(recipe["title"])}">'
+            f'<img src="{recipe["image"]}" alt="{html.escape(recipe["title"])}" loading="lazy">'
             if recipe["image"]
             else ""
         )
@@ -100,9 +114,9 @@ Url: receitas/
 Save_As: receitas/index.html
 page_type: listing
 section_label: Livro de receitas
-subtitle: Receitas antigas reorganizadas em um catálogo claro, simples e agradável de percorrer.
+subtitle: Sabores guardados com carinho, para voltar quando a fome pedir memória.
 
-<p class="meta-note">Todas as receitas foram importadas do projeto Hyde original e reorganizadas em Pelican.</p>
+<p class="meta-note">Receitas para dias lentos, mesas cheias e alguma saudade boa.</p>
 <div class="recipe-grid">
   {''.join(cards)}
 </div>
@@ -140,11 +154,13 @@ def sync_recipes() -> list[dict[str, str]]:
                 image_target.parent.mkdir(parents=True, exist_ok=True)
                 image_target.write_bytes(image_source.read_bytes())
 
-        content = strip_hyde_markup(body, title, image_name)
+        content = strip_hyde_markup(body)
         summary = extract_summary(content)
         slug = slugify(source_path.stem)
         page_path = RECIPES_OUTPUT_DIR / f"{slug}.md"
         url = f"receitas/{slug}/"
+        recipe_image = f"/static/images/recipes/{image_name}" if image_name else ""
+        image_metadata = f"recipe_image: {recipe_image}" if recipe_image else ""
 
         page = f"""
 Title: {title}
@@ -153,8 +169,9 @@ Url: {url}
 Save_As: {url}index.html
 page_type: recipe
 section_label: Receitas
-subtitle: Receitas importadas do acervo Hyde com o conteúdo original preservado.
+subtitle: Para fazer a casa cheirar a afeto.
 summary: {summary}
+{image_metadata}
 
 {content}
 """
@@ -165,7 +182,7 @@ summary: {summary}
                 "slug": slug,
                 "url": f"/{url}",
                 "summary": summary,
-                "image": f"/static/images/recipes/{image_name}" if image_name else "",
+                "image": recipe_image,
             }
         )
 

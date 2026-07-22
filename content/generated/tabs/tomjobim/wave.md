@@ -1,14 +1,17 @@
 Title: Wave
 Slug: tom-jobim-wave
-Url: tablaturas/tomjobim/wave/
-Save_As: tablaturas/tomjobim/wave/index.html
+Url: musicas/tomjobim/wave/
+Save_As: musicas/tomjobim/wave/index.html
 page_type: tab
 artist: Tom Jobim
 artist_url: https://www.cifraclub.com.br/tom-jobim/
-section_label: Tablaturas
-summary: Tablatura de Wave por Tom Jobim.
-listing_index: 274
-next_tab_url: /tablaturas/toquinhoevinicius/adeus/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Wave, canção de Tom Jobim.
+listing_index: 278
+next_tab_url: /musicas/toquinhoevinicius/adeus/
 next_tab_title: Adeus
 next_tab_artist: Toquinho & Vinicius
 

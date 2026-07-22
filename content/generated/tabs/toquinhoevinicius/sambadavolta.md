@@ -1,14 +1,17 @@
 Title: Samba da Volta
 Slug: toquinho-vinicius-sambadavolta
-Url: tablaturas/toquinhoevinicius/sambadavolta/
-Save_As: tablaturas/toquinhoevinicius/sambadavolta/index.html
+Url: musicas/toquinhoevinicius/sambadavolta/
+Save_As: musicas/toquinhoevinicius/sambadavolta/index.html
 page_type: tab
 artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
-section_label: Tablaturas
-summary: Tablatura de Samba da Volta por Toquinho & Vinicius.
-listing_index: 293
-next_tab_url: /tablaturas/toquinhoevinicius/saodemaisosperigosdessavida/
+harmonic_key: A
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Samba da Volta, canção de Toquinho & Vinicius.
+listing_index: 297
+next_tab_url: /musicas/toquinhoevinicius/saodemaisosperigosdessavida/
 next_tab_title: São Demais os Perigos Desta Vida
 next_tab_artist: Toquinho & Vinicius
 

@@ -1,14 +1,17 @@
 Title: Amor Perfeito
 Slug: roberto-carlos-amorperfeito
-Url: tablaturas/robertoeerasmoscarlos/amorperfeito/
-Save_As: tablaturas/robertoeerasmoscarlos/amorperfeito/index.html
+Url: musicas/robertoeerasmoscarlos/amorperfeito/
+Save_As: musicas/robertoeerasmoscarlos/amorperfeito/index.html
 page_type: tab
 artist: Roberto Carlos
 artist_url: https://www.cifraclub.com.br/roberto-carlos/
-section_label: Tablaturas
-summary: Tablatura de Amor Perfeito por Roberto Carlos.
-listing_index: 218
-next_tab_url: /tablaturas/robertoeerasmoscarlos/eprecisosaberviver/
+harmonic_key: E
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Amor Perfeito, canção de Roberto Carlos.
+listing_index: 221
+next_tab_url: /musicas/robertoeerasmoscarlos/eprecisosaberviver/
 next_tab_title: E Preciso Saber Viver
 next_tab_artist: Roberto Carlos
 

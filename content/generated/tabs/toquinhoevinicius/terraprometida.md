@@ -1,14 +1,17 @@
 Title: Terra Prometida
 Slug: toquinho-vinicius-terraprometida
-Url: tablaturas/toquinhoevinicius/terraprometida/
-Save_As: tablaturas/toquinhoevinicius/terraprometida/index.html
+Url: musicas/toquinhoevinicius/terraprometida/
+Save_As: musicas/toquinhoevinicius/terraprometida/index.html
 page_type: tab
 artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
-section_label: Tablaturas
-summary: Tablatura de Terra Prometida por Toquinho & Vinicius.
-listing_index: 295
-next_tab_url: /tablaturas/toquinhoevinicius/tomara/
+harmonic_key: B
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Terra Prometida, canção de Toquinho & Vinicius.
+listing_index: 299
+next_tab_url: /musicas/toquinhoevinicius/tomara/
 next_tab_title: Tomara
 next_tab_artist: Toquinho & Vinicius
 

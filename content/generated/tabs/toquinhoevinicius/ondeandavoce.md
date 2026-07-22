@@ -1,14 +1,17 @@
 Title: Onde Anda Voce
 Slug: toquinho-vinicius-ondeandavoce
-Url: tablaturas/toquinhoevinicius/ondeandavoce/
-Save_As: tablaturas/toquinhoevinicius/ondeandavoce/index.html
+Url: musicas/toquinhoevinicius/ondeandavoce/
+Save_As: musicas/toquinhoevinicius/ondeandavoce/index.html
 page_type: tab
 artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
-section_label: Tablaturas
-summary: Tablatura de Onde Anda Voce por Toquinho & Vinicius.
-listing_index: 287
-next_tab_url: /tablaturas/toquinhoevinicius/poutpourriesteseuolhar/
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Onde Anda Voce, canção de Toquinho & Vinicius.
+listing_index: 291
+next_tab_url: /musicas/toquinhoevinicius/poutpourriesteseuolhar/
 next_tab_title: Pout Pourri
 next_tab_artist: Toquinho & Vinicius
 

@@ -1,14 +1,17 @@
 Title: Coisa Mais Linda
 Slug: carlos-lyra-vinicius-coisamaislinda
-Url: tablaturas/carloslyra/coisamaislinda/
-Save_As: tablaturas/carloslyra/coisamaislinda/index.html
+Url: musicas/carloslyra/coisamaislinda/
+Save_As: musicas/carloslyra/coisamaislinda/index.html
 page_type: tab
 artist: Carlos Lyra & Vinicius
 artist_url: https://www.cifraclub.com.br/carlos-lyra-vinicius/
-section_label: Tablaturas
-summary: Tablatura de Coisa Mais Linda por Carlos Lyra & Vinicius.
-listing_index: 30
-next_tab_url: /tablaturas/carloslyra/minhanamorada/
+harmonic_key: E
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Coisa Mais Linda, canção de Carlos Lyra & Vinicius.
+listing_index: 31
+next_tab_url: /musicas/carloslyra/minhanamorada/
 next_tab_title: Minha Namorada
 next_tab_artist: Carlos Lyra & Vinicius
 

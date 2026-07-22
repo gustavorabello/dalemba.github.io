@@ -1,21 +1,23 @@
 Title: Salgueiro (1993)
 Slug: sambas-enredo-salgueiro-1993
-Url: tablaturas/sambasenredo/salgueiro-1993/
-Save_As: tablaturas/sambasenredo/salgueiro-1993/index.html
+Url: musicas/sambasenredo/salgueiro-1993/
+Save_As: musicas/sambasenredo/salgueiro-1993/index.html
 page_type: tab
 artist: Sambas Enredo
 artist_url: https://www.cifraclub.com.br/sambas-enredo/
-section_label: Tablaturas
-summary: Tablatura de Salgueiro (1993) por Sambas Enredo.
-listing_index: 254
-next_tab_url: /tablaturas/sambasenredo/uniaodailha-1991/
+harmonic_key: D
+harmonic_mode: major
+harmonic_key_source: declared
+section_label: Músicas
+summary: Salgueiro (1993), canção de Sambas Enredo.
+listing_index: 257
+next_tab_url: /musicas/sambasenredo/uniaodailha-1991/
 next_tab_title: Uniao da Ilha (1991)
 next_tab_artist: Sambas Enredo
 
 <div class="tab-layout columns">
   <div class="tab-column">
     <pre class="tab-sheet">título: Peguei um ita no norte
-tom: D
 
 [Intro]: <span class="chord">Em7</span>  <span class="chord">F°</span>  <span class="chord">D</span>  <span class="chord">Bm</span>  <span class="chord">E7</span>  <span class="chord">A7</span>  <span class="chord">D</span>  <span class="chord">A7</span> 
 

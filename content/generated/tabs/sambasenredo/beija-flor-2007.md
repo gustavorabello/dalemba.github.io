@@ -1,21 +1,23 @@
 Title: Beija-Flor (2007)
 Slug: sambas-enredo-beija-flor-2007
-Url: tablaturas/sambasenredo/beija-flor-2007/
-Save_As: tablaturas/sambasenredo/beija-flor-2007/index.html
+Url: musicas/sambasenredo/beija-flor-2007/
+Save_As: musicas/sambasenredo/beija-flor-2007/index.html
 page_type: tab
 artist: Sambas Enredo
 artist_url: https://www.cifraclub.com.br/sambas-enredo/
-section_label: Tablaturas
-summary: Tablatura de Beija-Flor (2007) por Sambas Enredo.
-listing_index: 249
-next_tab_url: /tablaturas/sambasenredo/granderio-2007/
+harmonic_key: Bb
+harmonic_mode: major
+harmonic_key_source: declared
+section_label: Músicas
+summary: Beija-Flor (2007), canção de Sambas Enredo.
+listing_index: 252
+next_tab_url: /musicas/sambasenredo/granderio-2007/
 next_tab_title: Grande Rio (2007)
 next_tab_artist: Sambas Enredo
 
 <div class="tab-layout columns">
   <div class="tab-column">
     <pre class="tab-sheet">título: Africa, do berco real a corte brasiliana
-tom: Bb
 
 [intro]:<span class="chord">Bb</span> <span class="chord">F7</span> 
 

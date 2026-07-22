@@ -1,14 +1,17 @@
 Title: Xote das Meninas
 Slug: luiz-gonzaga-xotedasmeninas
-Url: tablaturas/luizgonzaga/xotedasmeninas/
-Save_As: tablaturas/luizgonzaga/xotedasmeninas/index.html
+Url: musicas/luizgonzaga/xotedasmeninas/
+Save_As: musicas/luizgonzaga/xotedasmeninas/index.html
 page_type: tab
 artist: Luiz Gonzaga
 artist_url: https://www.cifraclub.com.br/luiz-gonzaga/
-section_label: Tablaturas
-summary: Tablatura de Xote das Meninas por Luiz Gonzaga.
-listing_index: 136
-next_tab_url: /tablaturas/marchinhasdecarnaval/balance-galcosta/
+harmonic_key: E
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Xote das Meninas, canção de Luiz Gonzaga.
+listing_index: 139
+next_tab_url: /musicas/marchinhasdecarnaval/balance-galcosta/
 next_tab_title: Balancê
 next_tab_artist: Gal Costa
 

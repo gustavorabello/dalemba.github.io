@@ -1,14 +1,17 @@
 Title: Homenagem ao Malandro
 Slug: chico-buarque-homenagemaomalandro
-Url: tablaturas/chicobuarque/homenagemaomalandro/
-Save_As: tablaturas/chicobuarque/homenagemaomalandro/index.html
+Url: musicas/chicobuarque/homenagemaomalandro/
+Save_As: musicas/chicobuarque/homenagemaomalandro/index.html
 page_type: tab
 artist: Chico Buarque
 artist_url: https://www.cifraclub.com.br/chico-buarque/
-section_label: Tablaturas
-summary: Tablatura de Homenagem ao Malandro por Chico Buarque.
-listing_index: 53
-next_tab_url: /tablaturas/chicobuarque/medodeamar/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Homenagem ao Malandro, canção de Chico Buarque.
+listing_index: 54
+next_tab_url: /musicas/chicobuarque/medodeamar/
 next_tab_title: Medo de Amar
 next_tab_artist: Chico Buarque
 

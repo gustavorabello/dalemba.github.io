@@ -1,14 +1,17 @@
 Title: Pro Dia Nascer Feliz
 Slug: barao-vermelho-prodianascerfeliz
-Url: tablaturas/baraovermelho/prodianascerfeliz/
-Save_As: tablaturas/baraovermelho/prodianascerfeliz/index.html
+Url: musicas/baraovermelho/prodianascerfeliz/
+Save_As: musicas/baraovermelho/prodianascerfeliz/index.html
 page_type: tab
 artist: Bãrao Vermelho
 artist_url: https://www.cifraclub.com.br/barao-vermelho/
-section_label: Tablaturas
-summary: Tablatura de Pro Dia Nascer Feliz por Bãrao Vermelho.
-listing_index: 18
-next_tab_url: /tablaturas/bethcarvalho/1800colinas/
+harmonic_key: D
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Pro Dia Nascer Feliz, canção de Bãrao Vermelho.
+listing_index: 19
+next_tab_url: /musicas/bethcarvalho/1800colinas/
 next_tab_title: 1800 Colinas
 next_tab_artist: Beth Carvalho
 

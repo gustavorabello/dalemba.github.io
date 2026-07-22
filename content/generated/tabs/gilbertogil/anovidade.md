@@ -1,14 +1,17 @@
 Title: A Novidade
 Slug: gilberto-gil-anovidade
-Url: tablaturas/gilbertogil/anovidade/
-Save_As: tablaturas/gilbertogil/anovidade/index.html
+Url: musicas/gilbertogil/anovidade/
+Save_As: musicas/gilbertogil/anovidade/index.html
 page_type: tab
 artist: Gilberto Gil
 artist_url: https://www.cifraclub.com.br/gilberto-gil/
-section_label: Tablaturas
-summary: Tablatura de A Novidade por Gilberto Gil.
-listing_index: 107
-next_tab_url: /tablaturas/gilbertogil/apaz/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: A Novidade, canção de Gilberto Gil.
+listing_index: 110
+next_tab_url: /musicas/gilbertogil/apaz/
 next_tab_title: A Paz
 next_tab_artist: Gilberto Gil
 

@@ -1,21 +1,23 @@
 Title: Vila Isabel (1986)
 Slug: sambas-enredo-vilaisabel-1988
-Url: tablaturas/sambasenredo/vilaisabel-1988/
-Save_As: tablaturas/sambasenredo/vilaisabel-1988/index.html
+Url: musicas/sambasenredo/vilaisabel-1988/
+Save_As: musicas/sambasenredo/vilaisabel-1988/index.html
 page_type: tab
 artist: Sambas Enredo
 artist_url: https://www.cifraclub.com.br/sambas-enredo/
-section_label: Tablaturas
-summary: Tablatura de Vila Isabel (1986) por Sambas Enredo.
-listing_index: 256
-next_tab_url: /tablaturas/sandyejunior/asquatroestacoes/
+harmonic_key: G
+harmonic_mode: minor
+harmonic_key_source: declared
+section_label: Músicas
+summary: Vila Isabel (1986), canção de Sambas Enredo.
+listing_index: 259
+next_tab_url: /musicas/sandyejunior/asquatroestacoes/
 next_tab_title: As Quatro Estações
 next_tab_artist: Sandy & Júnior
 
 <div class="tab-layout columns">
   <div class="tab-column">
     <pre class="tab-sheet">título: Kizomba, a festa da raça
-tom: Gm
 
    <span class="chord">Gm</span>   
 Valeu, Zumbi, o grito forte dos Palmares 

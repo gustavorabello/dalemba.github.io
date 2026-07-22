@@ -1,14 +1,17 @@
 Title: Samba em Preludio
 Slug: baden-powell-sambaempreludio
-Url: tablaturas/badenpowell/sambaempreludio/
-Save_As: tablaturas/badenpowell/sambaempreludio/index.html
+Url: musicas/badenpowell/sambaempreludio/
+Save_As: musicas/badenpowell/sambaempreludio/index.html
 page_type: tab
 artist: Baden Powell
 artist_url: https://www.cifraclub.com.br/baden-powell/
-section_label: Tablaturas
-summary: Tablatura de Samba em Preludio por Baden Powell.
-listing_index: 13
-next_tab_url: /tablaturas/baraovermelho/betebalanco/
+harmonic_key: A
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Samba em Preludio, canção de Baden Powell.
+listing_index: 14
+next_tab_url: /musicas/baraovermelho/betebalanco/
 next_tab_title: Bete Balanco
 next_tab_artist: Barão Vermelho
 

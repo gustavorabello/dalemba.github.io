@@ -1,14 +1,17 @@
 Title: Homem com H
 Slug: trio-nordestino-homemcomh-trionordestino
-Url: tablaturas/forro/homemcomh-trionordestino/
-Save_As: tablaturas/forro/homemcomh-trionordestino/index.html
+Url: musicas/forro/homemcomh-trionordestino/
+Save_As: musicas/forro/homemcomh-trionordestino/index.html
 page_type: tab
 artist: Trio Nordestino
 artist_url: https://www.cifraclub.com.br/trio-nordestino/
-section_label: Tablaturas
-summary: Tablatura de Homem com H por Trio Nordestino.
+harmonic_key: B
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Homem com H, canção de Trio Nordestino.
 listing_index: 100
-next_tab_url: /tablaturas/forro/homemdesaia-trionordestino/
+next_tab_url: /musicas/forro/homemdesaia-trionordestino/
 next_tab_title: Homem de Saia
 next_tab_artist: Trio Nordestino
 

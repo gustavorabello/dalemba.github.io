@@ -1,14 +1,17 @@
 Title: Os Cegos do Castelo
 Slug: nando-reis-oscegosdocastelo
-Url: tablaturas/nandoreis/oscegosdocastelo/
-Save_As: tablaturas/nandoreis/oscegosdocastelo/index.html
+Url: musicas/nandoreis/oscegosdocastelo/
+Save_As: musicas/nandoreis/oscegosdocastelo/index.html
 page_type: tab
 artist: Nando Reis
 artist_url: https://www.cifraclub.com.br/nando-reis/
-section_label: Tablaturas
-summary: Tablatura de Os Cegos do Castelo por Nando Reis.
-listing_index: 205
-next_tab_url: /tablaturas/paulinhodaviola/argumento/
+harmonic_key: F
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Os Cegos do Castelo, canção de Nando Reis.
+listing_index: 208
+next_tab_url: /musicas/paulinhodaviola/argumento/
 next_tab_title: Argumento
 next_tab_artist: Paulinho da Viola
 

@@ -1,14 +1,17 @@
 Title: Pout-Pourri Carnaval
 Slug: mamae-eu-quero-cabeleira-do-zeze-cachaca-me-da-um-dinheiro-ai-allah-la-o-pout-pourri-variosartistas
-Url: tablaturas/marchinhasdecarnaval/pout-pourri-variosartistas/
-Save_As: tablaturas/marchinhasdecarnaval/pout-pourri-variosartistas/index.html
+Url: musicas/marchinhasdecarnaval/pout-pourri-variosartistas/
+Save_As: musicas/marchinhasdecarnaval/pout-pourri-variosartistas/index.html
 page_type: tab
 artist: Mamãe Eu Quero, Cabeleira do Zezé, Cachaça, Me Dá um Dinheiro aí, Allah-la-ô
 artist_url: https://www.cifraclub.com.br/mamae-eu-quero-cabeleira-do-zeze-cachaca-me-da-um-dinheiro-ai-allah-la-o/
-section_label: Tablaturas
-summary: Tablatura de Pout-Pourri Carnaval por Mamãe Eu Quero, Cabeleira do Zezé, Cachaça, Me Dá um Dinheiro aí, Allah-la-ô.
-listing_index: 142
-next_tab_url: /tablaturas/marchinhasdecarnaval/turmadofunil-turmadofunil/
+harmonic_key: D
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Pout-Pourri Carnaval, canção de Mamãe Eu Quero, Cabeleira do Zezé, Cachaça, Me Dá um Dinheiro aí, Allah-la-ô.
+listing_index: 145
+next_tab_url: /musicas/marchinhasdecarnaval/turmadofunil-turmadofunil/
 next_tab_title: Turma do Funil
 next_tab_artist: Tom Jobim
 

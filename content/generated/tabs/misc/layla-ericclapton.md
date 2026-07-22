@@ -1,22 +1,23 @@
 Title: Layla
 Slug: eric-clapton-layla-ericclapton
-Url: tablaturas/misc/layla-ericclapton/
-Save_As: tablaturas/misc/layla-ericclapton/index.html
+Url: musicas/misc/layla-ericclapton/
+Save_As: musicas/misc/layla-ericclapton/index.html
 page_type: tab
 artist: Eric Clapton
 artist_url: https://www.cifraclub.com.br/eric-clapton/
-section_label: Tablaturas
-summary: Tablatura de Layla por Eric Clapton.
-listing_index: 182
-next_tab_url: /tablaturas/misc/lindobalaoazul-guilhermearantes/
+harmonic_key: D
+harmonic_mode: minor
+harmonic_key_source: declared
+section_label: Músicas
+summary: Layla, canção de Eric Clapton.
+listing_index: 185
+next_tab_url: /musicas/misc/lindobalaoazul-guilhermearantes/
 next_tab_title: Lindo Balão Azul
 next_tab_artist: Guilherme Arantes
 
 <div class="tab-layout columns">
   <div class="tab-column">
-    <pre class="tab-sheet">Tom: Dm
-
-[Intro]
+    <pre class="tab-sheet">[Intro]
 <span class="chord">Dm</span>   <span class="chord">Bb</span>   <span class="chord">C</span>   <span class="chord">Dm</span>  (guitar)
 <span class="chord">Dm</span>   <span class="chord">Bb</span>   <span class="chord">C</span>   <span class="chord">Dm</span>  (guitar)
 <span class="chord">Dm</span>   <span class="chord">Bb</span>   <span class="chord">C</span>   <span class="chord">Dm</span>  (+drums, piano, bass)
@@ -112,12 +113,12 @@ Solo1 (Intro)
 
 [Chorus2] (Riff1)
 <span class="chord">Dm</span>       <span class="chord">Bb</span>          <span class="chord">C</span>                <span class="chord">Dm</span>
-                     Got_ me_ on_ my_ knees__ Lay__la_</pre>
+                     Got_ me_ on_ my_ knees__ Lay__la_
+<span class="chord">Dm</span>       <span class="chord">Bb</span>          <span class="chord">C</span>                   <span class="chord">Dm</span>
+                     Beg_ging_ dar_lin&#x27;_ please__, Layla</pre>
   </div>
   <div class="tab-column">
     <pre class="tab-sheet"><span class="chord">Dm</span>       <span class="chord">Bb</span>          <span class="chord">C</span>                   <span class="chord">Dm</span>
-                     Beg_ging_ dar_lin&#x27;_ please__, Layla
-<span class="chord">Dm</span>       <span class="chord">Bb</span>          <span class="chord">C</span>                   <span class="chord">Dm</span>
                      Dar_lin&#x27;_ won&#x27;t you ease_ my_ wor_ried_ mind__
 <span class="chord">Dm</span>       <span class="chord">Bb</span>          <span class="chord">C</span>                <span class="chord">Dm</span>
                                               Lay__la_

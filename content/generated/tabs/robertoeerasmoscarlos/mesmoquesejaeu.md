@@ -1,14 +1,17 @@
 Title: Mesmo Que Seja Eu
 Slug: erasmo-carlos-mesmoquesejaeu
-Url: tablaturas/robertoeerasmoscarlos/mesmoquesejaeu/
-Save_As: tablaturas/robertoeerasmoscarlos/mesmoquesejaeu/index.html
+Url: musicas/robertoeerasmoscarlos/mesmoquesejaeu/
+Save_As: musicas/robertoeerasmoscarlos/mesmoquesejaeu/index.html
 page_type: tab
 artist: Erasmo Carlos
 artist_url: https://www.cifraclub.com.br/erasmo-carlos/
-section_label: Tablaturas
-summary: Tablatura de Mesmo Que Seja Eu por Erasmo Carlos.
-listing_index: 222
-next_tab_url: /tablaturas/robertoeerasmoscarlos/namoradinhadeumamigomeu/
+harmonic_key: C
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Mesmo Que Seja Eu, canção de Erasmo Carlos.
+listing_index: 225
+next_tab_url: /musicas/robertoeerasmoscarlos/namoradinhadeumamigomeu/
 next_tab_title: Namoradinha de um Amigo Meu
 next_tab_artist: Roberto Carlos
 

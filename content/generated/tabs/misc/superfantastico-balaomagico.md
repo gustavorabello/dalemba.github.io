@@ -1,14 +1,17 @@
 Title: Superfantastico
 Slug: balao-magico-superfantastico-balaomagico
-Url: tablaturas/misc/superfantastico-balaomagico/
-Save_As: tablaturas/misc/superfantastico-balaomagico/index.html
+Url: musicas/misc/superfantastico-balaomagico/
+Save_As: musicas/misc/superfantastico-balaomagico/index.html
 page_type: tab
 artist: Balao Magico
 artist_url: https://www.cifraclub.com.br/balao-magico/
-section_label: Tablaturas
-summary: Tablatura de Superfantastico por Balao Magico.
-listing_index: 197
-next_tab_url: /tablaturas/misc/talisma-leandroeleonardo/
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Superfantastico, canção de Balao Magico.
+listing_index: 200
+next_tab_url: /musicas/misc/talisma-leandroeleonardo/
 next_tab_title: Talisma
 next_tab_artist: Leandro e Leonardo
 

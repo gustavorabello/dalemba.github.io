@@ -1,22 +1,23 @@
 Title: Velha Infancia
 Slug: marisa-monte-velhainfancia
-Url: tablaturas/marisamonte/velhainfancia/
-Save_As: tablaturas/marisamonte/velhainfancia/index.html
+Url: musicas/marisamonte/velhainfancia/
+Save_As: musicas/marisamonte/velhainfancia/index.html
 page_type: tab
 artist: Marisa Monte
 artist_url: https://www.cifraclub.com.br/marisa-monte/
-section_label: Tablaturas
-summary: Tablatura de Velha Infancia por Marisa Monte.
-listing_index: 156
-next_tab_url: /tablaturas/martinhodavila/cantacantaminhagente/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: declared
+section_label: Músicas
+summary: Velha Infancia, canção de Marisa Monte.
+listing_index: 159
+next_tab_url: /musicas/martinhodavila/cantacantaminhagente/
 next_tab_title: Canta, Canta Minha Gente
 next_tab_artist: Martinho da Vila
 
 <div class="tab-layout columns">
   <div class="tab-column">
-    <pre class="tab-sheet">Tom: A
-
-INTRO 2x ( <span class="chord">F#m</span> <span class="chord">Bm</span> <span class="chord">E</span> )
+    <pre class="tab-sheet">INTRO 2x ( <span class="chord">F#m</span> <span class="chord">Bm</span> <span class="chord">E</span> )
 
 <span class="chord">F#m</span>          <span class="chord">Bm</span>
 Você é assim,
@@ -62,13 +63,12 @@ me guiam dentro da escuridão
             <span class="chord">Bm</span>               <span class="chord">E</span>
 seus pés me abrem o caminho
           <span class="chord">F#m</span>
-eu sigo e nunca me sinto só</pre>
+eu sigo e nunca me sinto só
+             <span class="chord">Bm</span>
+Você é assim, </pre>
   </div>
   <div class="tab-column">
-    <pre class="tab-sheet">             <span class="chord">Bm</span>
-Você é assim, 
-
-               <span class="chord">E</span>
+    <pre class="tab-sheet">               <span class="chord">E</span>
 um sonho pra mim
                     <span class="chord">F#m</span>
 quero te encher de beijos

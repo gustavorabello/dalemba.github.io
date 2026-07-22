@@ -1,14 +1,17 @@
 Title: Roda Viva
 Slug: chico-buarque-rodaviva
-Url: tablaturas/chicobuarque/rodaviva/
-Save_As: tablaturas/chicobuarque/rodaviva/index.html
+Url: musicas/chicobuarque/rodaviva/
+Save_As: musicas/chicobuarque/rodaviva/index.html
 page_type: tab
 artist: Chico Buarque
 artist_url: https://www.cifraclub.com.br/chico-buarque/
-section_label: Tablaturas
-summary: Tablatura de Roda Viva por Chico Buarque.
-listing_index: 59
-next_tab_url: /tablaturas/chicobuarque/sabia/
+harmonic_key: Bb
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Roda Viva, canção de Chico Buarque.
+listing_index: 60
+next_tab_url: /musicas/chicobuarque/sabia/
 next_tab_title: Sabiá
 next_tab_artist: Tom Jobim e Chico Buarque
 

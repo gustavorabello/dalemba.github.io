@@ -1,14 +1,17 @@
 Title: Minha Felicidade
 Slug: roberta-campos-minhafelicidade-robertacampos
-Url: tablaturas/misc/minhafelicidade-robertacampos/
-Save_As: tablaturas/misc/minhafelicidade-robertacampos/index.html
+Url: musicas/misc/minhafelicidade-robertacampos/
+Save_As: musicas/misc/minhafelicidade-robertacampos/index.html
 page_type: tab
 artist: Roberta Campos
 artist_url: https://www.cifraclub.com.br/roberta-campos/
-section_label: Tablaturas
-summary: Tablatura de Minha Felicidade por Roberta Campos.
-listing_index: 188
-next_tab_url: /tablaturas/misc/nossosonho-claudinhoebuchecha/
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Minha Felicidade, canção de Roberta Campos.
+listing_index: 191
+next_tab_url: /musicas/misc/nossosonho-claudinhoebuchecha/
 next_tab_title: Nosso Sonho
 next_tab_artist: Claudinho e Buchecha
 

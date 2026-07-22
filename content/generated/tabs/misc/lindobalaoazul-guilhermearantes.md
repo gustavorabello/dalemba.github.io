@@ -1,14 +1,17 @@
 Title: Lindo Balão Azul
 Slug: guilherme-arantes-lindobalaoazul-guilhermearantes
-Url: tablaturas/misc/lindobalaoazul-guilhermearantes/
-Save_As: tablaturas/misc/lindobalaoazul-guilhermearantes/index.html
+Url: musicas/misc/lindobalaoazul-guilhermearantes/
+Save_As: musicas/misc/lindobalaoazul-guilhermearantes/index.html
 page_type: tab
 artist: Guilherme Arantes
 artist_url: https://www.cifraclub.com.br/guilherme-arantes/
-section_label: Tablaturas
-summary: Tablatura de Lindo Balão Azul por Guilherme Arantes.
-listing_index: 183
-next_tab_url: /tablaturas/misc/malacostumado-araketu/
+harmonic_key: F#
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Lindo Balão Azul, canção de Guilherme Arantes.
+listing_index: 186
+next_tab_url: /musicas/misc/malacostumado-araketu/
 next_tab_title: Mal Acostuamdo
 next_tab_artist: Araketu
 

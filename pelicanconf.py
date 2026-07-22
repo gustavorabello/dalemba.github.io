@@ -4,8 +4,8 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent
 
 AUTHOR = "Gustavo R. Anjos"
-SITENAME = "Misc Site"
-SITESUBTITLE = "Tablaturas e receitas em um canto só."
+SITENAME = "Dalembinha's Site"
+SITESUBTITLE = "Canções à mesa, receitas no coração."
 SITEURL = ""
 
 PATH = str(BASE_DIR / "content")
@@ -37,11 +37,13 @@ TRANSLATION_FEED_ATOM = None
 TRANSLATION_FEED_RSS = None
 
 USE_FOLDER_AS_CATEGORY = False
-DELETE_OUTPUT_DIRECTORY = True
+DELETE_OUTPUT_DIRECTORY = False
 SLUGIFY_SOURCE = "basename"
 
 MENUITEMS = [
     ("Home", "/"),
-    ("Tablaturas", "/tablaturas/"),
+    ("Músicas", "/musicas/"),
     ("Receitas", "/receitas/"),
+    ("Financeiro", "/financeiro/"),
+    ("AcademicDB", "/academicdb/"),
 ]

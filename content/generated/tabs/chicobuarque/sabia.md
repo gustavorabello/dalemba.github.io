@@ -1,14 +1,17 @@
 Title: Sabiá
 Slug: tom-jobim-e-chico-buarque-sabia
-Url: tablaturas/chicobuarque/sabia/
-Save_As: tablaturas/chicobuarque/sabia/index.html
+Url: musicas/chicobuarque/sabia/
+Save_As: musicas/chicobuarque/sabia/index.html
 page_type: tab
 artist: Tom Jobim e Chico Buarque
 artist_url: https://www.cifraclub.com.br/tom-jobim-e-chico-buarque/
-section_label: Tablaturas
-summary: Tablatura de Sabiá por Tom Jobim e Chico Buarque.
-listing_index: 60
-next_tab_url: /tablaturas/chicobuarque/sambadograndeamor/
+harmonic_key: Eb
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Sabiá, canção de Tom Jobim e Chico Buarque.
+listing_index: 61
+next_tab_url: /musicas/chicobuarque/sambadograndeamor/
 next_tab_title: Samba do Grande Amor
 next_tab_artist: Chico Buarque
 

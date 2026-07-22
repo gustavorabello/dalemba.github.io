@@ -1,14 +1,17 @@
 Title: Garotos II
 Slug: leoni-garotosii-leoni
-Url: tablaturas/misc/garotosii-leoni/
-Save_As: tablaturas/misc/garotosii-leoni/index.html
+Url: musicas/misc/garotosii-leoni/
+Save_As: musicas/misc/garotosii-leoni/index.html
 page_type: tab
 artist: Leoni
 artist_url: https://www.cifraclub.com.br/leoni/
-section_label: Tablaturas
-summary: Tablatura de Garotos II por Leoni.
-listing_index: 180
-next_tab_url: /tablaturas/misc/he-man-tremdaalegria/
+harmonic_key: D
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Garotos II, canção de Leoni.
+listing_index: 183
+next_tab_url: /musicas/misc/he-man-tremdaalegria/
 next_tab_title: He-Man
 next_tab_artist: Trem da Alegria
 

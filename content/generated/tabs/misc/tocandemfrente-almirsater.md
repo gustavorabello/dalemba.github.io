@@ -1,14 +1,17 @@
 Title: Tocando em Frente
 Slug: almir-sater-tocandemfrente-almirsater
-Url: tablaturas/misc/tocandemfrente-almirsater/
-Save_As: tablaturas/misc/tocandemfrente-almirsater/index.html
+Url: musicas/misc/tocandemfrente-almirsater/
+Save_As: musicas/misc/tocandemfrente-almirsater/index.html
 page_type: tab
 artist: Almir Sater
 artist_url: https://www.cifraclub.com.br/almir-sater/
-section_label: Tablaturas
-summary: Tablatura de Tocando em Frente por Almir Sater.
-listing_index: 201
-next_tab_url: /tablaturas/misc/vemmeuamor-olodum/
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Tocando em Frente, canção de Almir Sater.
+listing_index: 204
+next_tab_url: /musicas/misc/vemmeuamor-olodum/
 next_tab_title: Vem Meu Amor
 next_tab_artist: Olodum
 

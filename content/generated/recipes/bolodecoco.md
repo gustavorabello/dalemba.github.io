@@ -4,16 +4,13 @@ Url: receitas/bolodecoco/
 Save_As: receitas/bolodecoco/index.html
 page_type: recipe
 section_label: Receitas
-subtitle: Receitas importadas do acervo Hyde com o conteúdo original preservado.
-summary: Bater a margarina/manteiga e o açucar na batedeira até ficar
-esbranquiçado (potência máxima). Adicionar as gemas e bater novamente
-até ficar esbranquiçado novamente (potência máxim
-
-<p class="recipe-hero"><img src="/static/images/recipes/coco.png" alt="Bolo de Coco"></p>
+subtitle: Para fazer a casa cheirar a afeto.
+summary: Bater a margarina/manteiga e o açúcar na batedeira até ficar esbranquiçado (potência máxima).
+recipe_image: /static/images/recipes/coco.png
 
 ## Ingredientes
 - 200g de margarina ou manteiga
-- 3 xícaras de açucar
+- 3 xícaras de açúcar
 - 3 ovos
 - 3 1/2 xícaro de farinha de trigo
 - 1 1/2 xícaras de coco seco ralado
@@ -21,7 +18,7 @@ até ficar esbranquiçado novamente (potência máxim
 - 1/2 xícara de leite integral
 - 2 colheres de sopa de fermento químico
 ## Modo de preparo
-Bater a margarina/manteiga e o açucar na batedeira até ficar
+Bater a margarina/manteiga e o açúcar na batedeira até ficar
 esbranquiçado (potência máxima). Adicionar as gemas e bater novamente
 até ficar esbranquiçado novamente (potência máxima). Adicionar a farinha
 de trigo, o coco ralado e 2 xícaras de leite de coco e bater novamente

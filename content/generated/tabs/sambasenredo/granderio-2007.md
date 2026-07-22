@@ -1,21 +1,23 @@
 Title: Grande Rio (2007)
 Slug: sambas-enredo-granderio-2007
-Url: tablaturas/sambasenredo/granderio-2007/
-Save_As: tablaturas/sambasenredo/granderio-2007/index.html
+Url: musicas/sambasenredo/granderio-2007/
+Save_As: musicas/sambasenredo/granderio-2007/index.html
 page_type: tab
 artist: Sambas Enredo
 artist_url: https://www.cifraclub.com.br/sambas-enredo/
-section_label: Tablaturas
-summary: Tablatura de Grande Rio (2007) por Sambas Enredo.
-listing_index: 250
-next_tab_url: /tablaturas/sambasenredo/imperioserrano-1964/
+harmonic_key: G
+harmonic_mode: minor
+harmonic_key_source: declared
+section_label: Músicas
+summary: Grande Rio (2007), canção de Sambas Enredo.
+listing_index: 253
+next_tab_url: /musicas/sambasenredo/imperioserrano-1964/
 next_tab_title: Império Serrano (1986)
 next_tab_artist: Sambas Enredo
 
 <div class="tab-layout columns">
   <div class="tab-column">
     <pre class="tab-sheet">título: Bom de bola, bom de samba
-tom: Gm
 
  <span class="chord">Gm</span>            <span class="chord">Cm</span>        <span class="chord">F7/4</span>  
 Vou falar da minha terra ô ô ô  

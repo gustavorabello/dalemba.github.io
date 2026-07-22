@@ -1,14 +1,17 @@
 Title: Talisma
 Slug: leandro-e-leonardo-talisma-leandroeleonardo
-Url: tablaturas/misc/talisma-leandroeleonardo/
-Save_As: tablaturas/misc/talisma-leandroeleonardo/index.html
+Url: musicas/misc/talisma-leandroeleonardo/
+Save_As: musicas/misc/talisma-leandroeleonardo/index.html
 page_type: tab
 artist: Leandro e Leonardo
 artist_url: https://www.cifraclub.com.br/leandro-e-leonardo/
-section_label: Tablaturas
-summary: Tablatura de Talisma por Leandro e Leonardo.
-listing_index: 198
-next_tab_url: /tablaturas/misc/thundercats-tremdaalegria/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Talisma, canção de Leandro e Leonardo.
+listing_index: 201
+next_tab_url: /musicas/misc/thundercats-tremdaalegria/
 next_tab_title: Thundercats
 next_tab_artist: Trem da Alegria
 

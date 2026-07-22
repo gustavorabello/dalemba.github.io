@@ -1,14 +1,17 @@
 Title: Faz Parte do Meu Show
 Slug: cazuza-fazpartedomeushow
-Url: tablaturas/cazuza/fazpartedomeushow/
-Save_As: tablaturas/cazuza/fazpartedomeushow/index.html
+Url: musicas/cazuza/fazpartedomeushow/
+Save_As: musicas/cazuza/fazpartedomeushow/index.html
 page_type: tab
 artist: Cazuza
 artist_url: https://www.cifraclub.com.br/cazuza/
-section_label: Tablaturas
-summary: Tablatura de Faz Parte do Meu Show por Cazuza.
-listing_index: 41
-next_tab_url: /tablaturas/cazuza/onossoamoragenteinventa/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Faz Parte do Meu Show, canção de Cazuza.
+listing_index: 42
+next_tab_url: /musicas/cazuza/onossoamoragenteinventa/
 next_tab_title: O Nosso Amor A Gente Inventa
 next_tab_artist: Cazuza
 

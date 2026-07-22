@@ -1,16 +1,19 @@
 Title: Vou Deixar
 Slug: skank-voudeixar
-Url: tablaturas/skank/voudeixar/
-Save_As: tablaturas/skank/voudeixar/index.html
+Url: musicas/skank/voudeixar/
+Save_As: musicas/skank/voudeixar/index.html
 page_type: tab
 artist: Skank
 artist_url: https://www.cifraclub.com.br/skank/
-section_label: Tablaturas
-summary: Tablatura de Vou Deixar por Skank.
-listing_index: 262
-next_tab_url: /tablaturas/tomjobim/aguasdemarco/
-next_tab_title: Aguas de Marco
-next_tab_artist: Tom Jobim
+harmonic_key: D
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Vou Deixar, canção de Skank.
+listing_index: 265
+next_tab_url: /musicas/tabs/notes/
+next_tab_title: Para escolher a sugestão, use no TXT:
+next_tab_artist: 
 
 <div class="tab-layout columns">
   <div class="tab-column">

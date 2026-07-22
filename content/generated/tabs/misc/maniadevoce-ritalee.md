@@ -1,14 +1,17 @@
 Title: Mania de Você
 Slug: rita-lee-maniadevoce-ritalee
-Url: tablaturas/misc/maniadevoce-ritalee/
-Save_As: tablaturas/misc/maniadevoce-ritalee/index.html
+Url: musicas/misc/maniadevoce-ritalee/
+Save_As: musicas/misc/maniadevoce-ritalee/index.html
 page_type: tab
 artist: Rita Lee
 artist_url: https://www.cifraclub.com.br/rita-lee/
-section_label: Tablaturas
-summary: Tablatura de Mania de Você por Rita Lee.
-listing_index: 186
-next_tab_url: /tablaturas/misc/menina-paulinhonogueira/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Mania de Você, canção de Rita Lee.
+listing_index: 189
+next_tab_url: /musicas/misc/menina-paulinhonogueira/
 next_tab_title: Menina
 next_tab_artist: Paulinho Nogueira
 

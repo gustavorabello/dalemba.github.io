@@ -1,14 +1,17 @@
 Title: Ainda É Tempo de Viver Feliz
 Slug: arlindo-cruz-aindaetempodeviverfeliz
-Url: tablaturas/arlindocruz/aindaetempodeviverfeliz/
-Save_As: tablaturas/arlindocruz/aindaetempodeviverfeliz/index.html
+Url: musicas/arlindocruz/aindaetempodeviverfeliz/
+Save_As: musicas/arlindocruz/aindaetempodeviverfeliz/index.html
 page_type: tab
 artist: Arlindo Cruz
 artist_url: https://www.cifraclub.com.br/arlindo-cruz/
-section_label: Tablaturas
-summary: Tablatura de Ainda É Tempo de Viver Feliz por Arlindo Cruz.
-listing_index: 5
-next_tab_url: /tablaturas/arlindocruz/omeulugar/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Ainda É Tempo de Viver Feliz, canção de Arlindo Cruz.
+listing_index: 6
+next_tab_url: /musicas/arlindocruz/omeulugar/
 next_tab_title: O Meu Lugar
 next_tab_artist: Arlindo Cruz
 

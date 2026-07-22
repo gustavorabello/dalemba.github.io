@@ -1,14 +1,17 @@
 Title: Samba de Verão
 Slug: marcos-valle-sambadeverao-marcosvalle
-Url: tablaturas/sambaepagode/sambadeverao-marcosvalle/
-Save_As: tablaturas/sambaepagode/sambadeverao-marcosvalle/index.html
+Url: musicas/sambaepagode/sambadeverao-marcosvalle/
+Save_As: musicas/sambaepagode/sambadeverao-marcosvalle/index.html
 page_type: tab
 artist: Marcos Valle
 artist_url: https://www.cifraclub.com.br/marcos-valle/
-section_label: Tablaturas
-summary: Tablatura de Samba de Verão por Marcos Valle.
-listing_index: 244
-next_tab_url: /tablaturas/sambaepagode/sevocejura-ismaelsilva/
+harmonic_key: F
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Samba de Verão, canção de Marcos Valle.
+listing_index: 247
+next_tab_url: /musicas/sambaepagode/sevocejura-ismaelsilva/
 next_tab_title: Se Voce Jurar
 next_tab_artist: Ismael Silva
 

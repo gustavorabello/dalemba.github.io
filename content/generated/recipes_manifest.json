@@ -1,170 +1,177 @@
 [
   {
-    "title": "Beringela",
+    "title": "Berinjela",
     "slug": "berinjela",
     "url": "/receitas/berinjela/",
-    "summary": "Corte a beringela em pedaços pequenos, esfregue com sal e deixe\ndescansar por 15 minutos. Aqueça o azeite e refogue bem o alho, a\ncebola e o pimentão. Escorra a beringela, acrescen",
+    "summary": "Corte a beringela em pedaços pequenos, esfregue com sal e deixe descansar por 15 minutos. Aqueça o azeite e refogue bem o alho, a cebola e o pimentão.",
     "image": "/static/images/recipes/beringela.png"
   },
   {
     "title": "Bolo Brownie",
     "slug": "bolobrownie",
     "url": "/receitas/bolobrownie/",
-    "summary": "Misturar tudo e entragar para Deus!",
+    "summary": "Misturar tudo e entregar para Deus!",
     "image": "/static/images/recipes/brownie.png"
   },
   {
     "title": "Bolo de Coco",
     "slug": "bolodecoco",
     "url": "/receitas/bolodecoco/",
-    "summary": "Bater a margarina/manteiga e o açucar na batedeira até ficar\nesbranquiçado (potência máxima). Adicionar as gemas e bater novamente\naté ficar esbranquiçado novamente (potência máxim",
+    "summary": "Bater a margarina/manteiga e o açúcar na batedeira até ficar esbranquiçado (potência máxima).",
     "image": "/static/images/recipes/coco.png"
   },
   {
-    "title": "Bolo Fuba da Dona Dondoca",
+    "title": "Bolo de Fubá da Dona Dondoca",
     "slug": "bolodefuba",
     "url": "/receitas/bolodefuba/",
-    "summary": "Bater a margarina/manteiga e o açucar na batedeira até ficar\nesbranquiçado (potência máxima). Adicionar as gemas e bater novamente\naté ficar esbranquiçado novamente (potência máxim",
+    "summary": "Bater a margarina/manteiga e o açúcar na batedeira até ficar esbranquiçado (potência máxima).",
     "image": "/static/images/recipes/fuba.png"
   },
   {
     "title": "Canjica",
     "slug": "canjica",
     "url": "/receitas/canjica/",
-    "summary": "Colocar a canjica com água para cozimento na pressão por +\nou - 30min. Depois de cozida, misturar todos os ingredientes na canjica\ne levar ao fogo para ferver.",
+    "summary": "Colocar a canjica com água para cozimento na pressão por + ou - 30min. Depois de cozida, misturar todos os ingredientes na canjica e levar ao fogo para ferver.",
     "image": "/static/images/recipes/canjica.png"
   },
   {
     "title": "Carne Assada",
     "slug": "carneassada",
     "url": "/receitas/carneassada/",
-    "summary": "Retire a gordura do lagarto e tempere-o com sal e pimenta. em uma panela\nde pressão, em fogo alto, aqueça o óleo e frite a\ncarne. Retire e reserve. na mesma panela, frite o bacon. ",
+    "summary": "Retire a gordura do lagarto e tempere-o com sal e pimenta. Em uma panela de pressão, em fogo alto, aqueça o óleo e frite a carne. Retire e reserve. Na mesma panela, frite o bacon.",
     "image": "/static/images/recipes/carneAssada.png"
   },
   {
     "title": "Cocada",
     "slug": "cocada",
     "url": "/receitas/cocada/",
-    "summary": "Misturar tudo e entragar para Deus!\nTempo de preparo: 1h30min",
+    "summary": "Misturar tudo e entregar para Deus! Tempo de preparo: 1h30min",
     "image": "/static/images/recipes/cocada.png"
   },
   {
     "title": "Coxinha de Galinha",
     "slug": "coxinha",
     "url": "/receitas/coxinha/",
-    "summary": "Colocar em uma panela o leite, os tabletes de caldo, a margarina e o\nsal. Levar ao forno e esperar até ferver, misturando. Diminuir o\nfogo. Acrescentar a farinha de uma só vez. Mex",
+    "summary": "Colocar em uma panela o leite, os tabletes de caldo, a margarina e o sal. Levar ao forno e esperar até ferver, misturando. Diminuir o fogo. Acrescentar a farinha de uma só vez.",
     "image": "/static/images/recipes/coxinha.png"
   },
   {
-    "title": "Doce de Abobora",
+    "title": "Doce de Abóbora",
     "slug": "docedeabobora",
     "url": "/receitas/docedeabobora/",
-    "summary": "Em uma panela, misturar todos os ingredientes menos o côco ralado e\nlevar para cozinhar em fogo baixo em uma panela semi-tampada. Mexer\nsempre para não colar no fundo da panela e a",
+    "summary": "Em uma panela, misturar todos os ingredientes menos o coco ralado e levar para cozinhar em fogo baixo em uma panela semi-tampada.",
     "image": "/static/images/recipes/doceDeAbobora.png"
   },
   {
     "title": "Empadinha",
     "slug": "empadinha",
     "url": "/receitas/empadinha/",
-    "summary": "Coloque os ingredientes numa bacia. Trabalhe a massa com as mãos até\nficar homogênea e soltando dos dedos. Distribua a massa nas formas e\ncoloque o recheio, faça tampinhas e cubra ",
+    "summary": "Coloque os ingredientes numa bacia. Trabalhe a massa com as mãos até ficar homogênea e soltando dos dedos.",
     "image": "/static/images/recipes/empadinha.png"
   },
   {
-    "title": "Hamburger",
+    "title": "Hambúrguer",
     "slug": "hamburger",
     "url": "/receitas/hamburger/",
-    "summary": "Misturar com as mões a carne moída, o ovo e o creme de\ncebola até ficar uma massa homogêna. Com as mãos,\nfazer uma bola de carne com a quantidade desejada e jogar de uma\nmão para a",
+    "summary": "Misturar com as mãos a carne moída, o ovo e o creme de cebola até ficar uma massa homogênea.",
     "image": "/static/images/recipes/burger.png"
   },
   {
-    "title": "Massa B&aacute;sica de Torta",
+    "title": "Lasanha da Tata",
+    "slug": "lasanhadatata",
+    "url": "/receitas/lasanhadatata/",
+    "summary": "Prepare a carne e o molho, monte três camadas e finalize gratinando no forno. Prepare a carne moída com o bacon, a cebola, a azeitona, o alho, o coentro, o molho de tomate e sal.",
+    "image": "/static/images/recipes/lasanha.png"
+  },
+  {
+    "title": "Massa Básica de Torta",
     "slug": "massabasicadetorta",
     "url": "/receitas/massabasicadetorta/",
-    "summary": "Misturar a margarina, o ovo, o leite, o sal e a farinha de trigo até dar\nponto. Deixar descansar por 15 minutos. Levar a massa para o forno (180\ngraus) e assar até dourar.",
+    "summary": "Misturar a margarina, o ovo, o leite, o sal e a farinha de trigo até dar ponto. Deixar descansar por 15 minutos. Levar a massa para o forno (180 graus) e assar até dourar.",
     "image": "/static/images/recipes/massaBasicaDeTorta.png"
   },
   {
-    "title": "Pa&ccedil;oca",
+    "title": "Paçoca",
     "slug": "pacoca",
     "url": "/receitas/pacoca/",
-    "summary": "Torrar o amendoim. Usar um moedor de carnes para moer o amendoim\ntorrado. Depois de triturado, misturar a farinha de mandioca crua com\naçucar e sal e passar no moedor. Para finaliz",
+    "summary": "Torrar o amendoim. Usar um moedor de carnes para moer o amendoim torrado. Depois de triturado, misturar a farinha de mandioca crua com açúcar e sal e passar no moedor.",
     "image": "/static/images/recipes/pacoca.png"
   },
   {
     "title": "Panqueca",
     "slug": "panqueca",
     "url": "/receitas/panqueca/",
-    "summary": "Bata todos os ingredientes no liquidificador, unte uma frigideira\nquente, coloque uma concha de massa, espalhe na frigideira e frite; vire\no outro lado e torne a fritar. Recheie co",
+    "summary": "Bata todos os ingredientes no liquidificador, unte uma frigideira quente, coloque uma concha de massa, espalhe na frigideira e frite; vire o outro lado e torne a fritar.",
     "image": "/static/images/recipes/panqueca.png"
   },
   {
-    "title": "P&atilde;o dos 9 peda&ccedil;os",
+    "title": "Pão dos 9 pedaços",
     "slug": "paolaca",
     "url": "/receitas/paolaca/",
-    "summary": "Misturar fermento, leite, açúcar, sal, óleo,\nágua e ovo. Juntar farinha até soltar da vasilha. Colocar\na massa na bancada para amassar. Quando agarrar na mão, junte\nmais farinha pa",
+    "summary": "Misturar fermento, leite, açúcar, sal, óleo, água e ovo. Juntar farinha até soltar da vasilha. Colocar a massa na bancada para amassar.",
     "image": "/static/images/recipes/paoLaca.png"
   },
   {
-    "title": "P&eacute;-de-Moleque",
+    "title": "Pé-de-moleque",
     "slug": "pedemoleque",
     "url": "/receitas/pedemoleque/",
-    "summary": "Não deixe o amendoim torrar muito para não ficar\namargando. Coloque tudo em uma panela e leve ao fogo mexendo sempre\naté soltar da panela. Ao mexer vc verá q ele começa\na não gruda",
+    "summary": "Não deixe o amendoim torrar muito para não ficar amargando. Coloque tudo em uma panela e leve ao fogo mexendo sempre até soltar da panela.",
     "image": "/static/images/recipes/peDeMoleque.png"
   },
   {
     "title": "Pesto",
     "slug": "pesto",
     "url": "/receitas/pesto/",
-    "summary": "No liquidificador, misturar o pinolli, alho, manjericão, azeite,\nsal e pimenta do reino e bater um pouco. Uma vez misturados os\ningredientes, acrescentar o queijo e adicionar azeit",
+    "summary": "No liquidificador, misturar o pinoli, alho, manjericão, azeite, sal e pimenta do reino e bater um pouco.",
     "image": "/static/images/recipes/pesto.png"
   },
   {
-    "title": "Requeijao",
+    "title": "Requeijão",
     "slug": "requeijao",
     "url": "/receitas/requeijao/",
-    "summary": "Em uma panela adicione o leite e leve ao fogo para ferver. Quando\nestiver fervendo adicione o vinagre e misture. Desligue o fogo e deixe\ndescansar por 20 minutos. Apos este tempo, ",
+    "summary": "Em uma panela adicione o leite e leve ao fogo para ferver. Quando estiver fervendo adicione o vinagre e misture. Desligue o fogo e deixe descansar por 20 minutos.",
     "image": "/static/images/recipes/requeijao.png"
   },
   {
     "title": "Risoto ao Funghi",
     "slug": "risotofunghi",
     "url": "/receitas/risotofunghi/",
-    "summary": "Coloque o funghi em uma tigela e cubra com água quente. Deixe\nhidratar por 30min. Escorra o funghi, coe a água e reserve os\ndois separadamente. Aqueça metade da manteiga e refogue ",
+    "summary": "Coloque o funghi em uma tigela e cubra com água quente. Deixe hidratar por 30min. Escorra o funghi, coe a água e reserve os dois separadamente.",
     "image": "/static/images/recipes/risotoFunghi.png"
   },
   {
-    "title": "Sopa de batata baroa",
+    "title": "Sopa de Batata-baroa",
     "slug": "sopadebatatabaroa",
     "url": "/receitas/sopadebatatabaroa/",
-    "summary": "Refogar a cebola e o alho-poró no azeite, acrescentando em\nseguida sal, pimenta do reino e noz moscada. Depois da cebola murchar,\nacrescentar a batata baroa e refogar mais um pouco",
+    "summary": "Refogar a cebola e o alho-poró no azeite, acrescentando em seguida sal, pimenta do reino e noz moscada.",
     "image": "/static/images/recipes/sopaDeBatataBaroa.png"
   },
   {
     "title": "Strogonoff",
     "slug": "strogonoff",
     "url": "/receitas/strogonoff/",
-    "summary": "Aqueça a manteiga e doure nela a cebola. Junte o frango e mexa\nbem. Tempera com sal e pimenta. Aqueça o conhaque em uma conhca\naté pegar fogo e despeje-o sobre o frango, flambando-",
+    "summary": "Aqueça a manteiga e doure nela a cebola. Junte o frango e mexa bem. Tempere com sal e pimenta.",
     "image": "/static/images/recipes/strogonoff.png"
   },
   {
     "title": "Szechuan Sauce",
     "slug": "szechuansauce",
     "url": "/receitas/szechuansauce/",
-    "summary": "Juntar gengibre, alho, pimenta vermelha, molho shoyo, molho de\npimenta-alho e acucar numa frigideira ate comecar a ferver. Em uma\ntigela separada, mixturar o caldo de galinha e dis",
+    "summary": "Juntar gengibre, alho, pimenta vermelha, molho shoyu, molho de pimenta-alho e açúcar numa frigideira até começar a ferver.",
     "image": "/static/images/recipes/szechuanSauce.png"
   },
   {
-    "title": "Torta Alem&atilde;",
+    "title": "Torta Alemã",
     "slug": "tortaalema",
     "url": "/receitas/tortaalema/",
-    "summary": "Na batedeira, junte a mateiga e o açucar, batendo até\nformar uma mistura homogênea. Suavemente adicione o creme de leite\nsem soro e deixe bater até misturar completamente. No pirex",
+    "summary": "Na batedeira, junte a manteiga e o açúcar, batendo até formar uma mistura homogênea. Suavemente adicione o creme de leite sem soro e deixe bater até misturar completamente.",
     "image": "/static/images/recipes/tortaAlema.png"
   },
   {
-    "title": "Tresse au Berre",
+    "title": "Tresse au Beurre",
     "slug": "tresseauberre",
     "url": "/receitas/tresseauberre/",
-    "summary": "Temps de préparation: 10min | Temps de cuisson: 33 min | Portions:\n8pers. | Difficulté: Medium",
+    "summary": "Temps de préparation: 10min | Temps de cuisson: 33 min | Portions: 8pers.",
     "image": "/static/images/recipes/tresseAuBerre.png"
   }
 ]

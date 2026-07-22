@@ -1,14 +1,17 @@
 Title: Sempre Assim
 Slug: jota-quest-sempreassim
-Url: tablaturas/jotaquest/sempreassim/
-Save_As: tablaturas/jotaquest/sempreassim/index.html
+Url: musicas/jotaquest/sempreassim/
+Save_As: musicas/jotaquest/sempreassim/index.html
 page_type: tab
 artist: Jota Quest
 artist_url: https://www.cifraclub.com.br/jota-quest/
-section_label: Tablaturas
-summary: Tablatura de Sempre Assim por Jota Quest.
-listing_index: 129
-next_tab_url: /tablaturas/luizgonzaga/avoltadaasabranca/
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Sempre Assim, canção de Jota Quest.
+listing_index: 132
+next_tab_url: /musicas/luizgonzaga/avoltadaasabranca/
 next_tab_title: A Volta da Asa Branca
 next_tab_artist: Luiz Gonzaga
 

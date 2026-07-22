@@ -1,14 +1,17 @@
 Title: Mulheres
 Slug: martinho-da-vila-mulheres
-Url: tablaturas/martinhodavila/mulheres/
-Save_As: tablaturas/martinhodavila/mulheres/index.html
+Url: musicas/martinhodavila/mulheres/
+Save_As: musicas/martinhodavila/mulheres/index.html
 page_type: tab
 artist: Martinho da Vila
 artist_url: https://www.cifraclub.com.br/martinho-da-vila/
-section_label: Tablaturas
-summary: Tablatura de Mulheres por Martinho da Vila.
-listing_index: 161
-next_tab_url: /tablaturas/miltonnascimento/cacadordemim/
+harmonic_key: A
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Mulheres, canção de Martinho da Vila.
+listing_index: 164
+next_tab_url: /musicas/miltonnascimento/cacadordemim/
 next_tab_title: Cacador de Mim
 next_tab_artist: Milton Nascimento
 

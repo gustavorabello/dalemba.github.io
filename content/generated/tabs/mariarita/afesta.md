@@ -1,14 +1,17 @@
 Title: A Festa
 Slug: maria-rita-afesta
-Url: tablaturas/mariarita/afesta/
-Save_As: tablaturas/mariarita/afesta/index.html
+Url: musicas/mariarita/afesta/
+Save_As: musicas/mariarita/afesta/index.html
 page_type: tab
 artist: Maria Rita
 artist_url: https://www.cifraclub.com.br/maria-rita/
-section_label: Tablaturas
-summary: Tablatura de A Festa por Maria Rita.
-listing_index: 144
-next_tab_url: /tablaturas/mariarita/altola/
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: A Festa, canção de Maria Rita.
+listing_index: 147
+next_tab_url: /musicas/mariarita/altola/
 next_tab_title: Alto Lá
 next_tab_artist: Zeca Pagodinho
 

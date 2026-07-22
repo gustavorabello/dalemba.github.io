@@ -1,14 +1,17 @@
 Title: Quase um Segundo
 Slug: cazuza-quaseumsegundo
-Url: tablaturas/cazuza/quaseumsegundo/
-Save_As: tablaturas/cazuza/quaseumsegundo/index.html
+Url: musicas/cazuza/quaseumsegundo/
+Save_As: musicas/cazuza/quaseumsegundo/index.html
 page_type: tab
 artist: Cazuza
 artist_url: https://www.cifraclub.com.br/cazuza/
-section_label: Tablaturas
-summary: Tablatura de Quase um Segundo por Cazuza.
-listing_index: 45
-next_tab_url: /tablaturas/chicobuarque/abanda/
+harmonic_key: B
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Quase um Segundo, canção de Cazuza.
+listing_index: 46
+next_tab_url: /musicas/chicobuarque/abanda/
 next_tab_title: A Banda
 next_tab_artist: Chico Buarque
 

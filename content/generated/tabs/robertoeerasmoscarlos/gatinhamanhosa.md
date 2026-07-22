@@ -1,14 +1,17 @@
 Title: Gatinha Manhosa
 Slug: erasmo-carlos-gatinhamanhosa
-Url: tablaturas/robertoeerasmoscarlos/gatinhamanhosa/
-Save_As: tablaturas/robertoeerasmoscarlos/gatinhamanhosa/index.html
+Url: musicas/robertoeerasmoscarlos/gatinhamanhosa/
+Save_As: musicas/robertoeerasmoscarlos/gatinhamanhosa/index.html
 page_type: tab
 artist: Erasmo Carlos
 artist_url: https://www.cifraclub.com.br/erasmo-carlos/
-section_label: Tablaturas
-summary: Tablatura de Gatinha Manhosa por Erasmo Carlos.
-listing_index: 221
-next_tab_url: /tablaturas/robertoeerasmoscarlos/mesmoquesejaeu/
+harmonic_key: E
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Gatinha Manhosa, canção de Erasmo Carlos.
+listing_index: 224
+next_tab_url: /musicas/robertoeerasmoscarlos/mesmoquesejaeu/
 next_tab_title: Mesmo Que Seja Eu
 next_tab_artist: Erasmo Carlos
 

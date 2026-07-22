@@ -1,14 +1,17 @@
 Title: Cerrado
 Slug: djavan-cerrado
-Url: tablaturas/djavan/cerrado/
-Save_As: tablaturas/djavan/cerrado/index.html
+Url: musicas/djavan/cerrado/
+Save_As: musicas/djavan/cerrado/index.html
 page_type: tab
 artist: Djavan
 artist_url: https://www.cifraclub.com.br/djavan/
-section_label: Tablaturas
-summary: Tablatura de Cerrado por Djavan.
-listing_index: 80
-next_tab_url: /tablaturas/djavan/eutedevoro/
+harmonic_key: D
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Cerrado, canção de Djavan.
+listing_index: 81
+next_tab_url: /musicas/djavan/eutedevoro/
 next_tab_title: Eu Te Devoro
 next_tab_artist: Djavan
 

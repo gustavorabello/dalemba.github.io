@@ -1,14 +1,17 @@
 Title: Brasil
 Slug: cazuza-brasil
-Url: tablaturas/cazuza/brasil/
-Save_As: tablaturas/cazuza/brasil/index.html
+Url: musicas/cazuza/brasil/
+Save_As: musicas/cazuza/brasil/index.html
 page_type: tab
 artist: Cazuza
 artist_url: https://www.cifraclub.com.br/cazuza/
-section_label: Tablaturas
-summary: Tablatura de Brasil por Cazuza.
-listing_index: 38
-next_tab_url: /tablaturas/cazuza/codinomebeijaflor/
+harmonic_key: E
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Brasil, canção de Cazuza.
+listing_index: 39
+next_tab_url: /musicas/cazuza/codinomebeijaflor/
 next_tab_title: Codinome Beija-Flor
 next_tab_artist: Cazuza
 

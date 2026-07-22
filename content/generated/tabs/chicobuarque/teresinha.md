@@ -1,14 +1,17 @@
 Title: Teresinha
 Slug: chico-buarque-teresinha
-Url: tablaturas/chicobuarque/teresinha/
-Save_As: tablaturas/chicobuarque/teresinha/index.html
+Url: musicas/chicobuarque/teresinha/
+Save_As: musicas/chicobuarque/teresinha/index.html
 page_type: tab
 artist: Chico Buarque
 artist_url: https://www.cifraclub.com.br/chico-buarque/
-section_label: Tablaturas
-summary: Tablatura de Teresinha por Chico Buarque.
-listing_index: 62
-next_tab_url: /tablaturas/chicobuarque/vaipassar/
+harmonic_key: B
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Teresinha, canção de Chico Buarque.
+listing_index: 63
+next_tab_url: /musicas/chicobuarque/vaipassar/
 next_tab_title: Vai Passar
 next_tab_artist: Chico Buarque
 

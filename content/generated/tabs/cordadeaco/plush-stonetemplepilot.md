@@ -1,14 +1,17 @@
 Title: Plush
 Slug: stone-temple-pilot-plush-stonetemplepilot
-Url: tablaturas/cordadeaco/plush-stonetemplepilot/
-Save_As: tablaturas/cordadeaco/plush-stonetemplepilot/index.html
+Url: musicas/cordadeaco/plush-stonetemplepilot/
+Save_As: musicas/cordadeaco/plush-stonetemplepilot/index.html
 page_type: tab
 artist: Stone Temple Pilot
 artist_url: https://www.cifraclub.com.br/stone-temple-pilot/
-section_label: Tablaturas
-summary: Tablatura de Plush por Stone Temple Pilot.
-listing_index: 75
-next_tab_url: /tablaturas/cordadeaco/themanwhosoldtheworld-nirvana/
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Plush, canção de Stone Temple Pilot.
+listing_index: 76
+next_tab_url: /musicas/cordadeaco/themanwhosoldtheworld-nirvana/
 next_tab_title: The Man Who Sold the World
 next_tab_artist: Nirvana
 

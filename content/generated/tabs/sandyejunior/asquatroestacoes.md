@@ -1,14 +1,17 @@
 Title: As Quatro Estações
 Slug: sandy-junior-asquatroestacoes
-Url: tablaturas/sandyejunior/asquatroestacoes/
-Save_As: tablaturas/sandyejunior/asquatroestacoes/index.html
+Url: musicas/sandyejunior/asquatroestacoes/
+Save_As: musicas/sandyejunior/asquatroestacoes/index.html
 page_type: tab
 artist: Sandy & Júnior
 artist_url: https://www.cifraclub.com.br/sandy-junior/
-section_label: Tablaturas
-summary: Tablatura de As Quatro Estações por Sandy & Júnior.
-listing_index: 257
-next_tab_url: /tablaturas/sandyejunior/nofundodocoracao/
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: As Quatro Estações, canção de Sandy & Júnior.
+listing_index: 260
+next_tab_url: /musicas/sandyejunior/nofundodocoracao/
 next_tab_title: No Fundo do Coração
 next_tab_artist: Sandy & Júnior
 

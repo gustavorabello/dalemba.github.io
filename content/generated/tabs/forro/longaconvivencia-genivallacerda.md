@@ -1,14 +1,17 @@
 Title: Longa Convivencia
 Slug: genival-lacerda-longaconvivencia-genivallacerda
-Url: tablaturas/forro/longaconvivencia-genivallacerda/
-Save_As: tablaturas/forro/longaconvivencia-genivallacerda/index.html
+Url: musicas/forro/longaconvivencia-genivallacerda/
+Save_As: musicas/forro/longaconvivencia-genivallacerda/index.html
 page_type: tab
 artist: Genival Lacerda
 artist_url: https://www.cifraclub.com.br/genival-lacerda/
-section_label: Tablaturas
-summary: Tablatura de Longa Convivencia por Genival Lacerda.
+harmonic_key: F
+harmonic_mode: minor
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Longa Convivencia, canção de Genival Lacerda.
 listing_index: 103
-next_tab_url: /tablaturas/forro/medizamor-flaviojose/
+next_tab_url: /musicas/forro/medizamor-flaviojose/
 next_tab_title: Me Diz Amor
 next_tab_artist: Flávio José
 

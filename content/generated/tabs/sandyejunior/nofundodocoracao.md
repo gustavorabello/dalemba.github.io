@@ -1,14 +1,17 @@
 Title: No Fundo do Coração
 Slug: sandy-junior-nofundodocoracao
-Url: tablaturas/sandyejunior/nofundodocoracao/
-Save_As: tablaturas/sandyejunior/nofundodocoracao/index.html
+Url: musicas/sandyejunior/nofundodocoracao/
+Save_As: musicas/sandyejunior/nofundodocoracao/index.html
 page_type: tab
 artist: Sandy & Júnior
 artist_url: https://www.cifraclub.com.br/sandy-junior/
-section_label: Tablaturas
-summary: Tablatura de No Fundo do Coração por Sandy & Júnior.
-listing_index: 258
-next_tab_url: /tablaturas/sandyejunior/olhaoqueoamormefaz/
+harmonic_key: D
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: No Fundo do Coração, canção de Sandy & Júnior.
+listing_index: 261
+next_tab_url: /musicas/sandyejunior/olhaoqueoamormefaz/
 next_tab_title: Olha O Que O Amor Me Faz
 next_tab_artist: Sandy & Júnior
 

@@ -1,14 +1,17 @@
 Title: Que Maravilha
 Slug: jorge-benjor-toquinho-quemaravilha
-Url: tablaturas/jorgebenjor/quemaravilha/
-Save_As: tablaturas/jorgebenjor/quemaravilha/index.html
+Url: musicas/jorgebenjor/quemaravilha/
+Save_As: musicas/jorgebenjor/quemaravilha/index.html
 page_type: tab
 artist: Jorge Benjor & Toquinho
 artist_url: https://www.cifraclub.com.br/jorge-benjor-toquinho/
-section_label: Tablaturas
-summary: Tablatura de Que Maravilha por Jorge Benjor & Toquinho.
-listing_index: 126
-next_tab_url: /tablaturas/jorgebenjor/tajmahal/
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: inferred
+section_label: Músicas
+summary: Que Maravilha, canção de Jorge Benjor & Toquinho.
+listing_index: 129
+next_tab_url: /musicas/jorgebenjor/tajmahal/
 next_tab_title: Taj Mahal
 next_tab_artist: Jorge Benjor
 

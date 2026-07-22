@@ -4,12 +4,9 @@ Url: receitas/coxinha/
 Save_As: receitas/coxinha/index.html
 page_type: recipe
 section_label: Receitas
-subtitle: Receitas importadas do acervo Hyde com o conteúdo original preservado.
-summary: Colocar em uma panela o leite, os tabletes de caldo, a margarina e o
-sal. Levar ao forno e esperar até ferver, misturando. Diminuir o
-fogo. Acrescentar a farinha de uma só vez. Mex
-
-<p class="recipe-hero"><img src="/static/images/recipes/coxinha.png" alt="Coxinha de Galinha"></p>
+subtitle: Para fazer a casa cheirar a afeto.
+summary: Colocar em uma panela o leite, os tabletes de caldo, a margarina e o sal. Levar ao forno e esperar até ferver, misturando. Diminuir o fogo. Acrescentar a farinha de uma só vez.
+recipe_image: /static/images/recipes/coxinha.png
 
 ## Ingredientes
 - 5 copos de farinha de trigo; 
