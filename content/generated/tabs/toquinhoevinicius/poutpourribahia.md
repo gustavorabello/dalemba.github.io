@@ -10,7 +10,7 @@ harmonic_mode: major
 harmonic_key_source: inferred
 section_label: Músicas
 summary: Pout-Pourri No. 1, canção de A Benção Bahia, Tarde em Itapoã, Tatamirô,.
-listing_index: 293
+listing_index: 294
 next_tab_url: /musicas/toquinhoevinicius/regratres/
 next_tab_title: Regra Tres
 next_tab_artist: Toquinho & Vinicius
@@ -19,6 +19,8 @@ next_tab_artist: Toquinho & Vinicius
   <div class="tab-column">
     <pre class="tab-sheet">Meu Pai Oxalá, Canto de Oxum e Maria Vai com as Outras.
 (Toquinho &amp; Vinicius)
+
+Tons: <span class="chord">D</span> / <span class="chord">G</span> / <span class="chord">Am</span> / <span class="chord">A</span>
 
 <span class="chord">B7</span>  <span class="chord">E7</span> <span class="chord">A</span> <span class="chord">D7</span>
 Olorô, Bahia

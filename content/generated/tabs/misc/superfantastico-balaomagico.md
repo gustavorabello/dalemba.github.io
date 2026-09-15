@@ -7,13 +7,13 @@ artist: Balao Magico
 artist_url: https://www.cifraclub.com.br/balao-magico/
 harmonic_key: C
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Superfantastico, canção de Balao Magico.
 listing_index: 200
-next_tab_url: /musicas/misc/talisma-leandroeleonardo/
-next_tab_title: Talisma
-next_tab_artist: Leandro e Leonardo
+next_tab_url: /musicas/misc/sopromeuprazer-leoni/
+next_tab_title: Só Pro Meu Prazer
+next_tab_artist: Leoni
 
 <div class="tab-layout columns">
   <div class="tab-column">

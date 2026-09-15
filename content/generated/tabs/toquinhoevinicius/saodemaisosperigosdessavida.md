@@ -7,10 +7,10 @@ artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
 harmonic_key: E
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: São Demais os Perigos Desta Vida, canção de Toquinho & Vinicius.
-listing_index: 298
+listing_index: 299
 next_tab_url: /musicas/toquinhoevinicius/terraprometida/
 next_tab_title: Terra Prometida
 next_tab_artist: Toquinho & Vinicius

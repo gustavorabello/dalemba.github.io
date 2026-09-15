@@ -7,7 +7,7 @@ artist: Chiquinha Gonzaga
 artist_url: https://www.cifraclub.com.br/chiquinha-gonzaga/
 harmonic_key: A
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: O Abre-Alas, canção de Chiquinha Gonzaga.
 listing_index: 144

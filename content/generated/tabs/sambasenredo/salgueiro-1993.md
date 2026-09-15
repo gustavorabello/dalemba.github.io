@@ -10,7 +10,7 @@ harmonic_mode: major
 harmonic_key_source: declared
 section_label: Músicas
 summary: Salgueiro (1993), canção de Sambas Enredo.
-listing_index: 257
+listing_index: 258
 next_tab_url: /musicas/sambasenredo/uniaodailha-1991/
 next_tab_title: Uniao da Ilha (1991)
 next_tab_artist: Sambas Enredo

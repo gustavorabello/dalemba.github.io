@@ -7,7 +7,7 @@ artist: Martinho da Vila
 artist_url: https://www.cifraclub.com.br/martinho-da-vila/
 harmonic_key: E
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Ex-Amor, canção de Martinho da Vila.
 listing_index: 163

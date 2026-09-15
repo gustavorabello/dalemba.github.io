@@ -5,9 +5,9 @@ Save_As: musicas/gilbertogil/drao/index.html
 page_type: tab
 artist: Gilberto Gil
 artist_url: https://www.cifraclub.com.br/gilberto-gil/
-harmonic_key: F
+harmonic_key: C
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Drao, canção de Gilberto Gil.
 listing_index: 113

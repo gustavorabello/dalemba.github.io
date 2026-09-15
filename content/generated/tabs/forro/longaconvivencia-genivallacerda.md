@@ -7,7 +7,7 @@ artist: Genival Lacerda
 artist_url: https://www.cifraclub.com.br/genival-lacerda/
 harmonic_key: F
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Longa Convivencia, canção de Genival Lacerda.
 listing_index: 103

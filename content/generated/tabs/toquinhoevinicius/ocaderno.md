@@ -7,10 +7,10 @@ artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
 harmonic_key: C
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: O Caderno, canção de Toquinho & Vinicius.
-listing_index: 290
+listing_index: 291
 next_tab_url: /musicas/toquinhoevinicius/ondeandavoce/
 next_tab_title: Onde Anda Voce
 next_tab_artist: Toquinho & Vinicius

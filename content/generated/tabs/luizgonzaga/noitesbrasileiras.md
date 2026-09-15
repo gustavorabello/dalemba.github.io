@@ -5,9 +5,9 @@ Save_As: musicas/luizgonzaga/noitesbrasileiras/index.html
 page_type: tab
 artist: Luiz Gonzaga
 artist_url: https://www.cifraclub.com.br/luiz-gonzaga/
-harmonic_key: A
-harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: declared
 section_label: Músicas
 summary: Noites Brasileiras, canção de Luiz Gonzaga.
 listing_index: 135

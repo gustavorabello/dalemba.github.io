@@ -7,10 +7,10 @@ artist: Clara Nunes
 artist_url: https://www.cifraclub.com.br/clara-nunes/
 harmonic_key: C
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Conto de Areia, canção de Clara Nunes.
-listing_index: 230
+listing_index: 231
 next_tab_url: /musicas/sambaepagode/deixaeuteamar-agepe/
 next_tab_title: Deixa Eu Te Amar
 next_tab_artist: Agepê

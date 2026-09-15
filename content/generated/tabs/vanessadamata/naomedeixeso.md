@@ -5,12 +5,12 @@ Save_As: musicas/vanessadamata/naomedeixeso/index.html
 page_type: tab
 artist: Vanessa da Mata
 artist_url: https://www.cifraclub.com.br/vanessa-da-mata/
-harmonic_key: B
-harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: declared
 section_label: Músicas
 summary: Não Me Deixe Só, canção de Vanessa da Mata.
-listing_index: 309
+listing_index: 310
 next_tab_url: /musicas/zeketi/avozdomorro/
 next_tab_title: A Voz do Samba
 next_tab_artist: Zé Keti

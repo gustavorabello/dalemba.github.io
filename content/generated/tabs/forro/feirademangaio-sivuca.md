@@ -7,7 +7,7 @@ artist: Sivuca
 artist_url: https://www.cifraclub.com.br/sivuca/
 harmonic_key: B
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Feira de Mangaio, canção de Sivuca.
 listing_index: 97

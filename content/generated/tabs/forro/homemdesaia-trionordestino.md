@@ -7,7 +7,7 @@ artist: Trio Nordestino
 artist_url: https://www.cifraclub.com.br/trio-nordestino/
 harmonic_key: E
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Homem de Saia, canção de Trio Nordestino.
 listing_index: 101

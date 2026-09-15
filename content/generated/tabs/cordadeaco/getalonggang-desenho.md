@@ -7,7 +7,7 @@ artist: Desenho
 artist_url: https://www.cifraclub.com.br/desenho/
 harmonic_key: A
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Get Along Gang, canção de Desenho.
 listing_index: 70

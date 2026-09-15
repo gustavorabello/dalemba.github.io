@@ -7,7 +7,7 @@ artist: Cartola
 artist_url: https://www.cifraclub.com.br/cartola/
 harmonic_key: D
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Preciso Me Encontrar, canção de Cartola.
 listing_index: 36

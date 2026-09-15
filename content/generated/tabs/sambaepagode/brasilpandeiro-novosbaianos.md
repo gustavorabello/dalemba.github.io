@@ -7,10 +7,10 @@ artist: Novos Baianos
 artist_url: https://www.cifraclub.com.br/novos-baianos/
 harmonic_key: B
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Brasil Pandeiro, canção de Novos Baianos.
-listing_index: 227
+listing_index: 228
 next_tab_url: /musicas/sambaepagode/carinhoso-pixinguinha/
 next_tab_title: Carinhoso
 next_tab_artist: Pixinguinha

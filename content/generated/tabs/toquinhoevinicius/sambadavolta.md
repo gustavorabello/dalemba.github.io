@@ -7,10 +7,10 @@ artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
 harmonic_key: A
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Samba da Volta, canção de Toquinho & Vinicius.
-listing_index: 297
+listing_index: 298
 next_tab_url: /musicas/toquinhoevinicius/saodemaisosperigosdessavida/
 next_tab_title: São Demais os Perigos Desta Vida
 next_tab_artist: Toquinho & Vinicius

@@ -7,7 +7,7 @@ artist: Luiz Gonzaga
 artist_url: https://www.cifraclub.com.br/luiz-gonzaga/
 harmonic_key: D
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Sanfona Sentida, canção de Luiz Gonzaga.
 listing_index: 138

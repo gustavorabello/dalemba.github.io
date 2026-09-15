@@ -5,9 +5,9 @@ Save_As: musicas/caetanoveloso/voceelinda/index.html
 page_type: tab
 artist: Caetano Veloso
 artist_url: https://www.cifraclub.com.br/caetano-veloso/
-harmonic_key: F#
-harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: declared
 section_label: Músicas
 summary: Voce E Linda, canção de Caetano Veloso.
 listing_index: 30

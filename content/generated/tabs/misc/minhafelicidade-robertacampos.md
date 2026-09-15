@@ -7,7 +7,7 @@ artist: Roberta Campos
 artist_url: https://www.cifraclub.com.br/roberta-campos/
 harmonic_key: C
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Minha Felicidade, canção de Roberta Campos.
 listing_index: 191

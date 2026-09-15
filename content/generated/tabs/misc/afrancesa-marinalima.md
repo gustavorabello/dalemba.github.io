@@ -5,8 +5,8 @@ Save_As: musicas/misc/afrancesa-marinalima/index.html
 page_type: tab
 artist: Antônio Cícero versão Marina Lima
 artist_url: https://www.cifraclub.com.br/antonio-cicero-versao-marina-lima/
-harmonic_key: C
-harmonic_mode: major
+harmonic_key: A
+harmonic_mode: minor
 harmonic_key_source: declared
 section_label: Músicas
 summary: A francesa, canção de Antônio Cícero versão Marina Lima.

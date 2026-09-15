@@ -6,11 +6,11 @@ page_type: tab
 artist: Sambas Enredo
 artist_url: https://www.cifraclub.com.br/sambas-enredo/
 harmonic_key: G
-harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_mode: minor
+harmonic_key_source: declared
 section_label: Músicas
 summary: Império Serrano (1986), canção de Sambas Enredo.
-listing_index: 254
+listing_index: 255
 next_tab_url: /musicas/sambasenredo/mangueira-2007/
 next_tab_title: Mangueira (2007)
 next_tab_artist: Sambas Enredo

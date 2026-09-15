@@ -7,7 +7,7 @@ artist: Adoniran Barbosa
 artist_url: https://www.cifraclub.com.br/adoniran-barbosa/
 harmonic_key: D
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Trem das Onze, canção de Adoniran Barbosa.
 listing_index: 2

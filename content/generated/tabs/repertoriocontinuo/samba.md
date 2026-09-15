@@ -10,14 +10,16 @@ harmonic_mode: minor
 harmonic_key_source: inferred
 section_label: Músicas
 summary: O Show Tem Que Continuar, canção de Fundo de Quintal.
-listing_index: 220
+listing_index: 221
 next_tab_url: /musicas/robertoeerasmoscarlos/amorperfeito/
 next_tab_title: Amor Perfeito
 next_tab_artist: Roberto Carlos
 
 <div class="tab-layout columns">
   <div class="tab-column">
-    <pre class="tab-sheet"> <span class="chord">C7</span>             <span class="chord">F#m7/5</span>-
+    <pre class="tab-sheet">Tons: <span class="chord">C</span> / <span class="chord">Am</span> / <span class="chord">G</span> / <span class="chord">F</span> / <span class="chord">Em</span>
+
+ <span class="chord">C7</span>             <span class="chord">F#m7/5</span>-
    Lalaia lalaia laia
 <span class="chord">Fm6</span>          <span class="chord">Em7</span>
 Lalaia lalaia laia
@@ -201,12 +203,12 @@ Eu te conheci
      <span class="chord">Am7</span>    <span class="chord">F7</span>  <span class="chord">E7</span>
 Oh, Flor!
 <span class="chord">Am</span>               <span class="chord">Am5+</span>
-Vinhas tão desiludida
-        <span class="chord">Am6</span>
-Mal sucedida</pre>
+Vinhas tão desiludida</pre>
   </div>
   <div class="tab-column">
-    <pre class="tab-sheet">               <span class="chord">G</span>  <span class="chord">G5+</span>  <span class="chord">G6</span> <span class="chord">D7</span>
+    <pre class="tab-sheet">        <span class="chord">Am6</span>
+Mal sucedida
+               <span class="chord">G</span>  <span class="chord">G5+</span>  <span class="chord">G6</span> <span class="chord">D7</span>
 Por um falso amor
 
 <span class="chord">G</span>         <span class="chord">G5+</span>  <span class="chord">G6</span>    <span class="chord">G5+</span>

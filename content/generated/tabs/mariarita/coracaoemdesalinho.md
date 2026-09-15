@@ -7,7 +7,7 @@ artist: Maria Rita
 artist_url: https://www.cifraclub.com.br/maria-rita/
 harmonic_key: G
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Coração em Desalinho, canção de Maria Rita.
 listing_index: 150

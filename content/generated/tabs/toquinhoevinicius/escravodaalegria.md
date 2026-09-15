@@ -7,10 +7,10 @@ artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
 harmonic_key: E
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Escravo da Alegria, canção de Toquinho & Vinicius.
-listing_index: 284
+listing_index: 285
 next_tab_url: /musicas/toquinhoevinicius/garotadeipanema/
 next_tab_title: Garota De Ipanema
 next_tab_artist: Toquinho EVinicius

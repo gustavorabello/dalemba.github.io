@@ -5,9 +5,9 @@ Save_As: musicas/cazuza/fazpartedomeushow/index.html
 page_type: tab
 artist: Cazuza
 artist_url: https://www.cifraclub.com.br/cazuza/
-harmonic_key: G
+harmonic_key: B
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Faz Parte do Meu Show, canção de Cazuza.
 listing_index: 42

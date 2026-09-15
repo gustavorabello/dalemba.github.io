@@ -5,12 +5,12 @@ Save_As: musicas/toquinhoevinicius/cantodeoxum/index.html
 page_type: tab
 artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
-harmonic_key: E
-harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key: B
+harmonic_mode: minor
+harmonic_key_source: declared
 section_label: Músicas
 summary: Canto de Oxum, canção de Toquinho & Vinicius.
-listing_index: 281
+listing_index: 282
 next_tab_url: /musicas/toquinhoevinicius/cartaaotom74/
 next_tab_title: Carta ao Tom 74
 next_tab_artist: Toquinho & Vinicius

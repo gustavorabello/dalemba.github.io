@@ -7,7 +7,7 @@ artist: Chico Buarque
 artist_url: https://www.cifraclub.com.br/chico-buarque/
 harmonic_key: C
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Medo de Amar, canção de Chico Buarque.
 listing_index: 55

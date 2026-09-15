@@ -10,14 +10,16 @@ harmonic_mode: minor
 harmonic_key_source: inferred
 section_label: Músicas
 summary: Conselho, canção de Almir Guineto.
-listing_index: 216
+listing_index: 217
 next_tab_url: /musicas/repertoriocontinuo/carnaval-versaocontinua/
 next_tab_title: Foi Um Rio Que Passou Em Minha Vida
 next_tab_artist: Paulinho da Viola
 
 <div class="tab-layout columns">
   <div class="tab-column">
-    <pre class="tab-sheet">         <span class="chord">F</span>
+    <pre class="tab-sheet">Tons: <span class="chord">F</span> / <span class="chord">F#</span> / <span class="chord">Bm</span> / <span class="chord">D</span> / <span class="chord">Dm</span> / <span class="chord">Am</span> / <span class="chord">C</span> / <span class="chord">D</span>
+
+         <span class="chord">F</span>
 Deixe de lado esse baixo astral
          <span class="chord">Am7</span>
 Erga a cabeça enfrente o mal
@@ -673,12 +675,12 @@ Será talvez,  que minha ilusão
          <span class="chord">C7(9)</span>   <span class="chord">F#m7(b5)</span>
 Pra essa moça me fazer feliz
 <span class="chord">B7(b9)</span>      <span class="chord">Bb7M</span>
-    E o destino não quis
-<span class="chord">A7(b13)</span>   <span class="chord">F#m7(b5)</span>
-   Me ver como raiz</pre>
+    E o destino não quis</pre>
   </div>
   <div class="tab-column">
-    <pre class="tab-sheet"><span class="chord">B7(b9)</span>    <span class="chord">C/E</span>      
+    <pre class="tab-sheet"><span class="chord">A7(b13)</span>   <span class="chord">F#m7(b5)</span>
+   Me ver como raiz
+<span class="chord">B7(b9)</span>    <span class="chord">C/E</span>      
    De uma flor de lis
 
 <span class="chord">Am7</span>                  <span class="chord">F#m7(b5)</span>

@@ -7,7 +7,7 @@ artist: Geraldo Azevedo
 artist_url: https://www.cifraclub.com.br/geraldo-azevedo/
 harmonic_key: B
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Táxi Lunar, canção de Geraldo Azevedo.
 listing_index: 108

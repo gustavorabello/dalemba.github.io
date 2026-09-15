@@ -5,12 +5,12 @@ Save_As: musicas/tomjobim/luiza/index.html
 page_type: tab
 artist: Tom Jobim
 artist_url: https://www.cifraclub.com.br/tom-jobim/
-harmonic_key: F
+harmonic_key: C
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Luiza, canção de Tom Jobim.
-listing_index: 273
+listing_index: 274
 next_tab_url: /musicas/tomjobim/pelaluzdosolhosteus/
 next_tab_title: Pela Luz dos Olhos Teus
 next_tab_artist: Tom Jobim

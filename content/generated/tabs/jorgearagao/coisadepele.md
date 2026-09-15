@@ -7,7 +7,7 @@ artist: Jorge Aragao
 artist_url: https://www.cifraclub.com.br/jorge-aragao/
 harmonic_key: F
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Coisa de Pele, canção de Jorge Aragao.
 listing_index: 118

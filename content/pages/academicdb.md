@@ -4,7 +4,7 @@ page_type: academicdb
 subtitle: Catalogo academico protegido, gerado a partir dos sources em YAML.
 
 
-<div id="academicdb-app" class="academicdb-app" data-vault-url="../static/academicdb/vault.json?v=20260721-1147">
+<div id="academicdb-app" class="academicdb-app" data-vault-url="../static/academicdb/vault.json?v=20260915-2010">
   <section class="academicdb-lock" data-lock-screen>
     <div>
       <p class="academicdb-eyebrow">Area protegida</p>
@@ -33,4 +33,4 @@ subtitle: Catalogo academico protegido, gerado a partir dos sources em YAML.
   </section>
 </div>
 
-<script src="../static/js/academicdb.js?v=20260721-1147" defer></script>
+<script src="../static/js/academicdb.js?v=20260915-2010" defer></script>

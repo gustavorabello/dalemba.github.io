@@ -7,10 +7,10 @@ artist: Sandy & Júnior
 artist_url: https://www.cifraclub.com.br/sandy-junior/
 harmonic_key: D
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: No Fundo do Coração, canção de Sandy & Júnior.
-listing_index: 261
+listing_index: 262
 next_tab_url: /musicas/sandyejunior/olhaoqueoamormefaz/
 next_tab_title: Olha O Que O Amor Me Faz
 next_tab_artist: Sandy & Júnior

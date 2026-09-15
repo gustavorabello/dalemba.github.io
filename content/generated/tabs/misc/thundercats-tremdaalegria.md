@@ -7,10 +7,10 @@ artist: Trem da Alegria
 artist_url: https://www.cifraclub.com.br/trem-da-alegria/
 harmonic_key: E
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Thundercats, canção de Trem da Alegria.
-listing_index: 202
+listing_index: 203
 next_tab_url: /musicas/misc/toada-bocalivre/
 next_tab_title: Toada
 next_tab_artist: Boca Livre

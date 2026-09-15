@@ -7,10 +7,10 @@ artist: Jorge de Altinho - versão Trio Nordestino
 artist_url: https://www.cifraclub.com.br/jorge-de-altinho---versao-trio-nordestino/
 harmonic_key: A
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Petrolina Juazeiro, canção de Jorge de Altinho - versão Trio Nordestino.
-listing_index: 306
+listing_index: 307
 next_tab_url: /musicas/vanessadamata/aiaiai/
 next_tab_title: Ai, Ai, Ai...
 next_tab_artist: Vanessa da Mata

@@ -7,10 +7,10 @@ artist: Erasmo Carlos
 artist_url: https://www.cifraclub.com.br/erasmo-carlos/
 harmonic_key: E
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Gatinha Manhosa, canção de Erasmo Carlos.
-listing_index: 224
+listing_index: 225
 next_tab_url: /musicas/robertoeerasmoscarlos/mesmoquesejaeu/
 next_tab_title: Mesmo Que Seja Eu
 next_tab_artist: Erasmo Carlos

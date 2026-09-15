@@ -7,10 +7,10 @@ artist: Marcos Valle
 artist_url: https://www.cifraclub.com.br/marcos-valle/
 harmonic_key: F
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Samba de Verão, canção de Marcos Valle.
-listing_index: 247
+listing_index: 248
 next_tab_url: /musicas/sambaepagode/sevocejura-ismaelsilva/
 next_tab_title: Se Voce Jurar
 next_tab_artist: Ismael Silva

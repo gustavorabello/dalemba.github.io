@@ -7,7 +7,7 @@ artist: Kid Abelha
 artist_url: https://www.cifraclub.com.br/kid-abelha/
 harmonic_key: C
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Como Eu Quero, canção de Kid Abelha.
 listing_index: 67

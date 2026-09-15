@@ -5,9 +5,9 @@ Save_As: musicas/cartola/omundoeummoinho/index.html
 page_type: tab
 artist: Cartola
 artist_url: https://www.cifraclub.com.br/cartola/
-harmonic_key: E
+harmonic_key: A
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: O Mundo E Um Moinho, canção de Cartola.
 listing_index: 34

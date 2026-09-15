@@ -7,7 +7,7 @@ artist: The Beatles
 artist_url: https://www.cifraclub.com.br/the-beatles/
 harmonic_key: F
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Michelle, canção de The Beatles.
 listing_index: 72

@@ -10,7 +10,7 @@ harmonic_mode: major
 harmonic_key_source: declared
 section_label: Músicas
 summary: Beija-Flor (2007), canção de Sambas Enredo.
-listing_index: 252
+listing_index: 253
 next_tab_url: /musicas/sambasenredo/granderio-2007/
 next_tab_title: Grande Rio (2007)
 next_tab_artist: Sambas Enredo

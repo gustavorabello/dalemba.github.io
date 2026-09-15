@@ -7,10 +7,10 @@ artist: Paulinho da Viola
 artist_url: https://www.cifraclub.com.br/paulinho-da-viola/
 harmonic_key: C
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Perdoa, canção de Paulinho da Viola.
-listing_index: 214
+listing_index: 215
 next_tab_url: /musicas/paulinhodaviola/timoneiro/
 next_tab_title: Timoneiro
 next_tab_artist: Paulinho da Viola

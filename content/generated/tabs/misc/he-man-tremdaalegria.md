@@ -7,7 +7,7 @@ artist: Trem da Alegria
 artist_url: https://www.cifraclub.com.br/trem-da-alegria/
 harmonic_key: E
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: He-Man, canção de Trem da Alegria.
 listing_index: 184

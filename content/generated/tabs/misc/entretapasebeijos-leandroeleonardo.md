@@ -7,7 +7,7 @@ artist: Leandro e Leonardo
 artist_url: https://www.cifraclub.com.br/leandro-e-leonardo/
 harmonic_key: A
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Entre Tapas e Beijos, canção de Leandro e Leonardo.
 listing_index: 178

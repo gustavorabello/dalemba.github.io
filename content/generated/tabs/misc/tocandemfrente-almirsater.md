@@ -7,10 +7,10 @@ artist: Almir Sater
 artist_url: https://www.cifraclub.com.br/almir-sater/
 harmonic_key: C
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Tocando em Frente, canção de Almir Sater.
-listing_index: 204
+listing_index: 205
 next_tab_url: /musicas/misc/vemmeuamor-olodum/
 next_tab_title: Vem Meu Amor
 next_tab_artist: Olodum

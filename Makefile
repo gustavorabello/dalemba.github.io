@@ -40,7 +40,7 @@ sync-academicdb:
 
 sanitize-content:
 	$(call announce,Sanitize content tree)
-	@$(PYTHON) scripts/cleanup_icloud_duplicates.py --target "content"
+	@$(PYTHON) scripts/cleanup_icloud_duplicates.py --target "content" --apply
 
 prepare-output:
 	$(call announce,Prepare output directory)

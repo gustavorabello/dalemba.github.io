@@ -7,10 +7,10 @@ artist: Trio Nordestino
 artist_url: https://www.cifraclub.com.br/trio-nordestino/
 harmonic_key: B
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Homem com H, canção de Trio Nordestino.
-listing_index: 304
+listing_index: 305
 next_tab_url: /musicas/trionordestino/homemdesaia/
 next_tab_title: Homem de Saia
 next_tab_artist: Trio Nordestino

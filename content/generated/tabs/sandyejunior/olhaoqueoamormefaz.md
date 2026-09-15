@@ -5,12 +5,12 @@ Save_As: musicas/sandyejunior/olhaoqueoamormefaz/index.html
 page_type: tab
 artist: Sandy & Júnior
 artist_url: https://www.cifraclub.com.br/sandy-junior/
-harmonic_key: A
-harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key: F#
+harmonic_mode: minor
+harmonic_key_source: declared
 section_label: Músicas
 summary: Olha O Que O Amor Me Faz, canção de Sandy & Júnior.
-listing_index: 262
+listing_index: 263
 next_tab_url: /musicas/sandyejunior/quandovocepassa/
 next_tab_title: Quando Você Passa (Turu Turu)
 next_tab_artist: Sandy & Júnior

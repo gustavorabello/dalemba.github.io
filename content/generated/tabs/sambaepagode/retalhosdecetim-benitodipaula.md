@@ -10,14 +10,16 @@ harmonic_mode: major
 harmonic_key_source: inferred
 section_label: Músicas
 summary: Retalhos de Cetim, canção de Benito Di Paula.
-listing_index: 246
+listing_index: 247
 next_tab_url: /musicas/sambaepagode/sambadeverao-marcosvalle/
 next_tab_title: Samba de Verão
 next_tab_artist: Marcos Valle
 
 <div class="tab-layout columns">
   <div class="tab-column">
-    <pre class="tab-sheet"><span class="chord">Am7</span>                     <span class="chord">Em</span>
+    <pre class="tab-sheet">Tons: <span class="chord">Am</span> / <span class="chord">A</span>
+
+<span class="chord">Am7</span>                     <span class="chord">Em</span>
     Ensaiei meu samba o ano inteiro
 <span class="chord">Am</span>                       <span class="chord">Em</span>
    Comprei surdo e tamborim

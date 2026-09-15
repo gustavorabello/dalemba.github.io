@@ -5,9 +5,9 @@ Save_As: musicas/cazuza/onossoamoragenteinventa/index.html
 page_type: tab
 artist: Cazuza
 artist_url: https://www.cifraclub.com.br/cazuza/
-harmonic_key: F#
-harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: declared
 section_label: Músicas
 summary: O Nosso Amor A Gente Inventa, canção de Cazuza.
 listing_index: 43

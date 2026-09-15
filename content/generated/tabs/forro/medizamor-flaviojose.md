@@ -7,7 +7,7 @@ artist: Flávio José
 artist_url: https://www.cifraclub.com.br/flavio-jose/
 harmonic_key: D
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Me Diz Amor, canção de Flávio José.
 listing_index: 104

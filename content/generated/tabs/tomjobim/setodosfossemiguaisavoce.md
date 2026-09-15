@@ -10,13 +10,15 @@ harmonic_mode: major
 harmonic_key_source: inferred
 section_label: Músicas
 summary: Se Todos Fossem Iguais a Você, canção de Tom Jobim e Vinícius de Moraes.
-listing_index: 277
+listing_index: 278
 next_tab_url: /musicas/tomjobim/wave/
 next_tab_title: Wave
 next_tab_artist: Tom Jobim
 
 <div class="tab-layout singlecol">
-  <pre class="tab-sheet"> <span class="chord">D7M</span>                            <span class="chord">E/D</span>
+  <pre class="tab-sheet">Tons: <span class="chord">D</span> / <span class="chord">G</span>
+
+ <span class="chord">D7M</span>                            <span class="chord">E/D</span>
 Vai tua vida, teu caminho é de paz e amor
 <span class="chord">D7M</span>                        <span class="chord">G7M</span>
 A tua vida é uma linda canção de amor

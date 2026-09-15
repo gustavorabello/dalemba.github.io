@@ -5,12 +5,12 @@ Save_As: musicas/tomjobim/sambadoaviao/index.html
 page_type: tab
 artist: Tom Jobim
 artist_url: https://www.cifraclub.com.br/tom-jobim/
-harmonic_key: A
-harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key: G
+harmonic_mode: major
+harmonic_key_source: declared
 section_label: Músicas
 summary: Samba do Avião, canção de Tom Jobim.
-listing_index: 276
+listing_index: 277
 next_tab_url: /musicas/tomjobim/setodosfossemiguaisavoce/
 next_tab_title: Se Todos Fossem Iguais a Você
 next_tab_artist: Tom Jobim e Vinícius de Moraes

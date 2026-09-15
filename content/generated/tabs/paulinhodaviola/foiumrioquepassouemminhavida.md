@@ -7,10 +7,10 @@ artist: Paulinho da Viola
 artist_url: https://www.cifraclub.com.br/paulinho-da-viola/
 harmonic_key: A
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Foi Um Rio Que Passou Em Minha Vida, canção de Paulinho da Viola.
-listing_index: 212
+listing_index: 213
 next_tab_url: /musicas/paulinhodaviola/pecadocapital/
 next_tab_title: Pecado Capital
 next_tab_artist: Paulinho da Viola

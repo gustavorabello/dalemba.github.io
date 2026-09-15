@@ -7,7 +7,7 @@ artist: Beth Carvalho
 artist_url: https://www.cifraclub.com.br/beth-carvalho/
 harmonic_key: E
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Vou Festejar, canção de Beth Carvalho.
 listing_index: 25

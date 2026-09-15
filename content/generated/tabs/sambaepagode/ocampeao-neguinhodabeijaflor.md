@@ -7,10 +7,10 @@ artist: Neguinho da Beija-Flor
 artist_url: https://www.cifraclub.com.br/neguinho-da-beija-flor/
 harmonic_key: C
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: O Campeão, canção de Neguinho da Beija-Flor.
-listing_index: 242
+listing_index: 243
 next_tab_url: /musicas/sambaepagode/opoderdacriacao-joaonogueira/
 next_tab_title: O Poder da Criação
 next_tab_artist: João Nogueira

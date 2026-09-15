@@ -5,9 +5,9 @@ Save_As: musicas/chicobuarque/noitedosmascarados/index.html
 page_type: tab
 artist: Chico Buarque
 artist_url: https://www.cifraclub.com.br/chico-buarque/
-harmonic_key: G
-harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key: Bb
+harmonic_mode: major
+harmonic_key_source: declared
 section_label: Músicas
 summary: Noite dos Mascarados, canção de Chico Buarque.
 listing_index: 56

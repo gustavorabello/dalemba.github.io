@@ -7,10 +7,10 @@ artist: Roberto Carlos
 artist_url: https://www.cifraclub.com.br/roberto-carlos/
 harmonic_key: B
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Namoradinha de um Amigo Meu, canção de Roberto Carlos.
-listing_index: 226
+listing_index: 227
 next_tab_url: /musicas/sambaepagode/brasilpandeiro-novosbaianos/
 next_tab_title: Brasil Pandeiro
 next_tab_artist: Novos Baianos

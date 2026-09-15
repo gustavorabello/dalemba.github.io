@@ -7,7 +7,7 @@ artist: Banda Beijo
 artist_url: https://www.cifraclub.com.br/banda-beijo/
 harmonic_key: E
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Baianidade Nagô, canção de Banda Beijo.
 listing_index: 174

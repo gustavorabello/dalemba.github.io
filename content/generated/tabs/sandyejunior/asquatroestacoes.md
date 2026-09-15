@@ -7,10 +7,10 @@ artist: Sandy & Júnior
 artist_url: https://www.cifraclub.com.br/sandy-junior/
 harmonic_key: C
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: As Quatro Estações, canção de Sandy & Júnior.
-listing_index: 260
+listing_index: 261
 next_tab_url: /musicas/sandyejunior/nofundodocoracao/
 next_tab_title: No Fundo do Coração
 next_tab_artist: Sandy & Júnior

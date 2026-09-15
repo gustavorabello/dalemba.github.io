@@ -6,11 +6,11 @@ page_type: tab
 artist: Paulinho da Viola
 artist_url: https://www.cifraclub.com.br/paulinho-da-viola/
 harmonic_key: B
-harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_mode: minor
+harmonic_key_source: declared
 section_label: Músicas
 summary: Pecado Capital, canção de Paulinho da Viola.
-listing_index: 213
+listing_index: 214
 next_tab_url: /musicas/paulinhodaviola/perdoa/
 next_tab_title: Perdoa
 next_tab_artist: Paulinho da Viola

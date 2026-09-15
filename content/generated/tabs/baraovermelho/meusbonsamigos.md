@@ -5,9 +5,9 @@ Save_As: musicas/baraovermelho/meusbonsamigos/index.html
 page_type: tab
 artist: Bãrao Vermelho
 artist_url: https://www.cifraclub.com.br/barao-vermelho/
-harmonic_key: G
+harmonic_key: D
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Meus Bons Amigos, canção de Bãrao Vermelho.
 listing_index: 17

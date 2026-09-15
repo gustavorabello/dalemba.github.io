@@ -5,9 +5,9 @@ Save_As: musicas/cazuza/bluesdapiedade/index.html
 page_type: tab
 artist: Cazuza
 artist_url: https://www.cifraclub.com.br/cazuza/
-harmonic_key: A
+harmonic_key: E
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Blues da Piedade, canção de Cazuza.
 listing_index: 38

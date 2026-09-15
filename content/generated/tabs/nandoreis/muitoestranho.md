@@ -7,10 +7,10 @@ artist: Dalto - versão Nando Reis
 artist_url: https://www.cifraclub.com.br/dalto---versao-nando-reis/
 harmonic_key: G
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Muito Estranho, canção de Dalto - versão Nando Reis.
-listing_index: 207
+listing_index: 208
 next_tab_url: /musicas/nandoreis/oscegosdocastelo/
 next_tab_title: Os Cegos do Castelo
 next_tab_artist: Nando Reis

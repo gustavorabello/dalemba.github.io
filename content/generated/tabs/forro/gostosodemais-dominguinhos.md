@@ -7,7 +7,7 @@ artist: Dominguinhos
 artist_url: https://www.cifraclub.com.br/dominguinhos/
 harmonic_key: F
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Gostoso Demais, canção de Dominguinhos.
 listing_index: 99

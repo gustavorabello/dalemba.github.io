@@ -5,12 +5,12 @@ Save_As: musicas/toquinhoevinicius/meupaioxala/index.html
 page_type: tab
 artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
-harmonic_key: E
-harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key: A
+harmonic_mode: minor
+harmonic_key_source: declared
 section_label: Músicas
 summary: Meu Pai Oxala, canção de Toquinho & Vinicius.
-listing_index: 289
+listing_index: 290
 next_tab_url: /musicas/toquinhoevinicius/ocaderno/
 next_tab_title: O Caderno
 next_tab_artist: Toquinho & Vinicius

@@ -7,7 +7,7 @@ artist: Jorge Benjor & Toquinho
 artist_url: https://www.cifraclub.com.br/jorge-benjor-toquinho/
 harmonic_key: C
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Que Maravilha, canção de Jorge Benjor & Toquinho.
 listing_index: 129

@@ -5,9 +5,9 @@ Save_As: musicas/misc/cestmavie-adamo/index.html
 page_type: tab
 artist: Adamo
 artist_url: https://www.cifraclub.com.br/adamo/
-harmonic_key: B
-harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: declared
 section_label: Músicas
 summary: C'est Ma Vie, canção de Adamo.
 listing_index: 175

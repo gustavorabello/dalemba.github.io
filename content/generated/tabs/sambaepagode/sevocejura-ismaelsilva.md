@@ -7,10 +7,10 @@ artist: Ismael Silva
 artist_url: https://www.cifraclub.com.br/ismael-silva/
 harmonic_key: B
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Se Voce Jurar, canção de Ismael Silva.
-listing_index: 248
+listing_index: 249
 next_tab_url: /musicas/sambaepagode/sufoco-alcione/
 next_tab_title: Sufoco
 next_tab_artist: Alcione

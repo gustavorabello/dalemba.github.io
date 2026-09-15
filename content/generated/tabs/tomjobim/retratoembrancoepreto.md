@@ -7,10 +7,10 @@ artist: Tom Jobim
 artist_url: https://www.cifraclub.com.br/tom-jobim/
 harmonic_key: G
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Retrato em Branco e Preto, canção de Tom Jobim.
-listing_index: 275
+listing_index: 276
 next_tab_url: /musicas/tomjobim/sambadoaviao/
 next_tab_title: Samba do Avião
 next_tab_artist: Tom Jobim

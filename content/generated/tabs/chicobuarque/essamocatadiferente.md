@@ -7,7 +7,7 @@ artist: Chico Buarque
 artist_url: https://www.cifraclub.com.br/chico-buarque/
 harmonic_key: B
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Essa Moca Ta Diferente, canção de Chico Buarque.
 listing_index: 52

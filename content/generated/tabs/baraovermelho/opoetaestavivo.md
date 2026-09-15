@@ -5,9 +5,9 @@ Save_As: musicas/baraovermelho/opoetaestavivo/index.html
 page_type: tab
 artist: Barão Vermelho
 artist_url: https://www.cifraclub.com.br/barao-vermelho/
-harmonic_key: G
+harmonic_key: D
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: O Poeta Está Vivo, canção de Barão Vermelho.
 listing_index: 18

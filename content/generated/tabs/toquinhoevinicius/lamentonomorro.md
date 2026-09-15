@@ -7,10 +7,10 @@ artist: Tom Jobim & Vinicius
 artist_url: https://www.cifraclub.com.br/tom-jobim-vinicius/
 harmonic_key: A
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Lamento no Morro, canção de Tom Jobim & Vinicius.
-listing_index: 286
+listing_index: 287
 next_tab_url: /musicas/toquinhoevinicius/maisumadeus/
 next_tab_title: Mais um Adeus
 next_tab_artist: Toquinho & Vinicius

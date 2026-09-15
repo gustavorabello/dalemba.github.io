@@ -7,7 +7,7 @@ artist: Geraldo Azevedo
 artist_url: https://www.cifraclub.com.br/geraldo-azevedo/
 harmonic_key: D
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Dia Branco, canção de Geraldo Azevedo.
 listing_index: 107

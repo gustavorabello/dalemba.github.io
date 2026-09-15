@@ -7,10 +7,10 @@ artist: Zé Keti
 artist_url: https://www.cifraclub.com.br/ze-keti/
 harmonic_key: A
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Diz Que Fui Por Aí, canção de Zé Keti.
-listing_index: 311
+listing_index: 312
 next_tab_url: /musicas/zeketi/mascaranegra/
 next_tab_title: Máscara Negra
 next_tab_artist: Zé Keti

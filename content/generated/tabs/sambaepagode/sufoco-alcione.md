@@ -10,14 +10,16 @@ harmonic_mode: major
 harmonic_key_source: inferred
 section_label: Músicas
 summary: Sufoco, canção de Alcione.
-listing_index: 249
+listing_index: 250
 next_tab_url: /musicas/sambaepagode/tristeza-haroldolobo/
 next_tab_title: Tristeza
 next_tab_artist: Haroldo Lobo
 
 <div class="tab-layout columns">
   <div class="tab-column">
-    <pre class="tab-sheet"><span class="chord">Am7/9</span>                <span class="chord">Bm5</span>-/7
+    <pre class="tab-sheet">Tons: <span class="chord">Am</span> / <span class="chord">A</span>
+
+<span class="chord">Am7/9</span>                <span class="chord">Bm5</span>-/7
   Não sei se vou aturar
 <span class="chord">E7/9</span>-/11+      <span class="chord">Am</span>
   Esses seus abusos
@@ -65,12 +67,12 @@ Até para deixar de lhe amar
  <span class="chord">A</span>                <span class="chord">C#m7</span>
 Não, mas eu não quero
         <span class="chord">Cº</span>      <span class="chord">Bm7</span>
-Agir assim meu louco amor
-    <span class="chord">E7</span>                 <span class="chord">Am</span>
-Eu tenho mil razões para lhe perdoar</pre>
+Agir assim meu louco amor</pre>
   </div>
   <div class="tab-column">
-    <pre class="tab-sheet"><span class="chord">Am7/9</span>                <span class="chord">Bm5</span>-/7
+    <pre class="tab-sheet">    <span class="chord">E7</span>                 <span class="chord">Am</span>
+Eu tenho mil razões para lhe perdoar
+<span class="chord">Am7/9</span>                <span class="chord">Bm5</span>-/7
   Não sei se vou aturar
 <span class="chord">E7/9</span>-/11+      <span class="chord">Am</span>
   Esses seus abusos

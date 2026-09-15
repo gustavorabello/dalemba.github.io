@@ -7,7 +7,7 @@ artist: Desconhecido
 artist_url: https://www.cifraclub.com.br/desconhecido/
 harmonic_key: D
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Campina do Meu Coracao, canção de Desconhecido.
 listing_index: 94

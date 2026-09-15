@@ -7,10 +7,10 @@ artist: Haroldo Lobo
 artist_url: https://www.cifraclub.com.br/haroldo-lobo/
 harmonic_key: C
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Tristeza, canção de Haroldo Lobo.
-listing_index: 250
+listing_index: 251
 next_tab_url: /musicas/sambaepagode/verdadechinesa-emiliosantiago/
 next_tab_title: Verdade Chinesa
 next_tab_artist: Emilio Santiago

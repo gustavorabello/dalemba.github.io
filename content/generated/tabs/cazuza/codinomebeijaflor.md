@@ -7,7 +7,7 @@ artist: Cazuza
 artist_url: https://www.cifraclub.com.br/cazuza/
 harmonic_key: A
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Codinome Beija-Flor, canção de Cazuza.
 listing_index: 40

@@ -7,10 +7,10 @@ artist: Roberto Carlos
 artist_url: https://www.cifraclub.com.br/roberto-carlos/
 harmonic_key: D
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: E Preciso Saber Viver, canção de Roberto Carlos.
-listing_index: 222
+listing_index: 223
 next_tab_url: /musicas/robertoeerasmoscarlos/esqueca/
 next_tab_title: Esqueca
 next_tab_artist: Roberto Carlos

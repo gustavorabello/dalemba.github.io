@@ -10,7 +10,7 @@ harmonic_mode: major
 harmonic_key_source: declared
 section_label: Músicas
 summary: Uniao da Ilha (1991), canção de Sambas Enredo.
-listing_index: 258
+listing_index: 259
 next_tab_url: /musicas/sambasenredo/vilaisabel-1988/
 next_tab_title: Vila Isabel (1986)
 next_tab_artist: Sambas Enredo

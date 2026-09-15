@@ -7,7 +7,7 @@ artist: Gonzaguinha
 artist_url: https://www.cifraclub.com.br/gonzaguinha/
 harmonic_key: D
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: O Que é, o Que é, canção de Gonzaguinha.
 listing_index: 194

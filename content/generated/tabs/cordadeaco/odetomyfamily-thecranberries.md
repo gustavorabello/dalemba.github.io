@@ -7,7 +7,7 @@ artist: The Cranberries
 artist_url: https://www.cifraclub.com.br/the-cranberries/
 harmonic_key: D
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Ode to My Family, canção de The Cranberries.
 listing_index: 75

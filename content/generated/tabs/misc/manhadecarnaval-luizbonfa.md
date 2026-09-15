@@ -7,7 +7,7 @@ artist: Luiz Bonfa
 artist_url: https://www.cifraclub.com.br/luiz-bonfa/
 harmonic_key: G
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Manha de Carnaval, canção de Luiz Bonfa.
 listing_index: 188

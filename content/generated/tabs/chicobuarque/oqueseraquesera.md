@@ -7,7 +7,7 @@ artist: Chico Buarque
 artist_url: https://www.cifraclub.com.br/chico-buarque/
 harmonic_key: D
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: O Que Sera Que Sera, canção de Chico Buarque.
 listing_index: 57

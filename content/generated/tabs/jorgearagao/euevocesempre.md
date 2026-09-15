@@ -5,9 +5,9 @@ Save_As: musicas/jorgearagao/euevocesempre/index.html
 page_type: tab
 artist: Jorge Aragao
 artist_url: https://www.cifraclub.com.br/jorge-aragao/
-harmonic_key: A
+harmonic_key: E
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Eu e Voce Sempre, canção de Jorge Aragao.
 listing_index: 120

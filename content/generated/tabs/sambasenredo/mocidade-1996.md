@@ -10,7 +10,7 @@ harmonic_mode: major
 harmonic_key_source: declared
 section_label: Músicas
 summary: Mocidade (1996), canção de Sambas Enredo.
-listing_index: 256
+listing_index: 257
 next_tab_url: /musicas/sambasenredo/salgueiro-1993/
 next_tab_title: Salgueiro (1993)
 next_tab_artist: Sambas Enredo

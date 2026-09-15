@@ -7,7 +7,7 @@ artist: Barão Vermelho
 artist_url: https://www.cifraclub.com.br/barao-vermelho/
 harmonic_key: E
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Bete Balanco, canção de Barão Vermelho.
 listing_index: 15

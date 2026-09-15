@@ -5,9 +5,9 @@ Save_As: musicas/marisamonte/aindalembro/index.html
 page_type: tab
 artist: Marisa Monte
 artist_url: https://www.cifraclub.com.br/marisa-monte/
-harmonic_key: E
+harmonic_key: A
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Ainda Lembro, canção de Marisa Monte.
 listing_index: 156

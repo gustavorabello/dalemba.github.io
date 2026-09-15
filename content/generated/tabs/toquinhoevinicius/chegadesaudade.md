@@ -10,14 +10,16 @@ harmonic_mode: major
 harmonic_key_source: inferred
 section_label: Músicas
 summary: Chega de Saudade, canção de Tom Jobim & Vinicius.
-listing_index: 283
+listing_index: 284
 next_tab_url: /musicas/toquinhoevinicius/escravodaalegria/
 next_tab_title: Escravo da Alegria
 next_tab_artist: Toquinho & Vinicius
 
 <div class="tab-layout columns">
   <div class="tab-column">
-    <pre class="tab-sheet"> <span class="chord">Dm7</span>  <span class="chord">Dm/C</span>      <span class="chord">E7/B</span>      <span class="chord">Bbm6</span>   <span class="chord">A7</span>    <span class="chord">Dm7</span>
+    <pre class="tab-sheet">Tons: <span class="chord">Dm</span> / <span class="chord">D</span>
+
+ <span class="chord">Dm7</span>  <span class="chord">Dm/C</span>      <span class="chord">E7/B</span>      <span class="chord">Bbm6</span>   <span class="chord">A7</span>    <span class="chord">Dm7</span>
 Vai  minha tristeza e diz a el que sem ela
           <span class="chord">A5+/7</span>   <span class="chord">Dm7</span>     <span class="chord">E7</span>    <span class="chord">Am7</span>
 Não pode ser,    diz-lhe numa prece
@@ -35,12 +37,13 @@ Que não sai de mim, não sai de mim, não sai
  <span class="chord">D7M</span>   <span class="chord">B7/5</span>+   <span class="chord">E7/9</span>
 Mas se ela voltar, se ela voltar,
            <span class="chord">G/A</span>     <span class="chord">A7/9b</span>    <span class="chord">D7M</span>
-Que coisa linda, que coisa louca
-      <span class="chord">D/F#</span>        <span class="chord">F°</span>         <span class="chord">Em7</span>
-Pois há menos peixinhos a nadar no mar</pre>
+Que coisa linda, que coisa louca</pre>
   </div>
   <div class="tab-column">
-    <pre class="tab-sheet">              <span class="chord">Bm6</span>
+    <pre class="tab-sheet">      <span class="chord">D/F#</span>        <span class="chord">F°</span>         <span class="chord">Em7</span>
+Pois há menos peixinhos a nadar no mar
+
+              <span class="chord">Bm6</span>
 Do que os beijinhos que eu darei
         <span class="chord">Em5</span>-/7  <span class="chord">A7/5</span>+  <span class="chord">D7M</span>    <span class="chord">Bm7</span>       <span class="chord">E7/9</span>
 Na sua bo......ca,    dentro dos meus braços

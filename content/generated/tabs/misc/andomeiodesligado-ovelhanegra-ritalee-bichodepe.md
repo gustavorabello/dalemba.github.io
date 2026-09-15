@@ -17,7 +17,9 @@ next_tab_artist: Araketu
 
 <div class="tab-layout columns">
   <div class="tab-column">
-    <pre class="tab-sheet"><span class="chord">Am</span>          <span class="chord">C</span>
+    <pre class="tab-sheet">Tons: <span class="chord">Am</span> / <span class="chord">A</span>
+
+<span class="chord">Am</span>          <span class="chord">C</span>
 Ando meio desligado
          <span class="chord">G</span>                          <span class="chord">Am</span>   <span class="chord">E</span>
 Eu nem sinto os meus pés no chão

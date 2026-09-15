@@ -7,7 +7,7 @@ artist: Maria Rita
 artist_url: https://www.cifraclub.com.br/maria-rita/
 harmonic_key: A
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: O Que É O Amor, canção de Maria Rita.
 listing_index: 153

@@ -10,14 +10,16 @@ harmonic_mode: major
 harmonic_key_source: inferred
 section_label: Músicas
 summary: Pela Luz dos Olhos Teus, canção de Tom Jobim.
-listing_index: 274
+listing_index: 275
 next_tab_url: /musicas/tomjobim/retratoembrancoepreto/
 next_tab_title: Retrato em Branco e Preto
 next_tab_artist: Tom Jobim
 
 <div class="tab-layout columns">
   <div class="tab-column">
-    <pre class="tab-sheet"> <span class="chord">D7+</span>                                    <span class="chord">Bm7</span>  
+    <pre class="tab-sheet">Tons: <span class="chord">D</span> / <span class="chord">F</span>
+
+ <span class="chord">D7+</span>                                    <span class="chord">Bm7</span>  
  Quando a luz dos olhos meus      
                                 <span class="chord">Em7</span>  
 E a luz dos olhos teus      
@@ -34,13 +36,12 @@ Que frio que me dá o encontro desse olhar
                                   <span class="chord">G7+</span>  
 Resiste aos olhos meus      
                         <span class="chord">C7/9</span>  
-Só pra me provocar      
-
- <span class="chord">D7+</span>                          <span class="chord">A7</span>  
- Meu amor juro por Deus      </pre>
+Só pra me provocar      </pre>
   </div>
   <div class="tab-column">
-    <pre class="tab-sheet">                           <span class="chord">D</span>      <span class="chord">C7</span>  
+    <pre class="tab-sheet"> <span class="chord">D7+</span>                          <span class="chord">A7</span>  
+ Meu amor juro por Deus      
+                           <span class="chord">D</span>      <span class="chord">C7</span>  
 Me sinto incendiar       
  <span class="chord">F7+</span>                         <span class="chord">Dm7</span>  
  Meu amor juro por Deus      

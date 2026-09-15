@@ -7,7 +7,7 @@ artist: Leoni
 artist_url: https://www.cifraclub.com.br/leoni/
 harmonic_key: D
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Garotos II, canção de Leoni.
 listing_index: 183

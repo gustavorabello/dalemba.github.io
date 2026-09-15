@@ -7,7 +7,7 @@ artist: Caetano Veloso
 artist_url: https://www.cifraclub.com.br/caetano-veloso/
 harmonic_key: D
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Mimar Voce, canção de Caetano Veloso.
 listing_index: 28

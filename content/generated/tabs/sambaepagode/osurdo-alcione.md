@@ -7,10 +7,10 @@ artist: Alcione
 artist_url: https://www.cifraclub.com.br/alcione/
 harmonic_key: F
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: O Surdo, canção de Alcione.
-listing_index: 244
+listing_index: 245
 next_tab_url: /musicas/sambaepagode/portelanaavenida-claranunes/
 next_tab_title: Portela na Avenida
 next_tab_artist: Clara Nunes

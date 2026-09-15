@@ -7,10 +7,10 @@ artist: Tom Jobim
 artist_url: https://www.cifraclub.com.br/tom-jobim/
 harmonic_key: B
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Insensatez, canção de Tom Jobim.
-listing_index: 272
+listing_index: 273
 next_tab_url: /musicas/tomjobim/luiza/
 next_tab_title: Luiza
 next_tab_artist: Tom Jobim

@@ -7,10 +7,10 @@ artist: Olodum
 artist_url: https://www.cifraclub.com.br/olodum/
 harmonic_key: G
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Vem Meu Amor, canção de Olodum.
-listing_index: 205
+listing_index: 206
 next_tab_url: /musicas/misc/wishyouwerehere-pinkfloyd/
 next_tab_title: Wish You Here
 next_tab_artist: Pink Floyd

@@ -7,7 +7,7 @@ artist: Paulinho Nogueira
 artist_url: https://www.cifraclub.com.br/paulinho-nogueira/
 harmonic_key: A
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Menina, canção de Paulinho Nogueira.
 listing_index: 190

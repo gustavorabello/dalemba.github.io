@@ -7,7 +7,7 @@ artist: Antônio Maia
 artist_url: https://www.cifraclub.com.br/antonio-maia/
 harmonic_key: A
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Frevo No. 1, canção de Antônio Maia.
 listing_index: 143

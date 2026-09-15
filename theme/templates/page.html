@@ -31,21 +31,38 @@
     <header class="hero hero-tab">
       <p class="eyebrow">Música {% if page.listing_index %}{{ page.listing_index }}{% endif %}</p>
       <div class="hero-tab-head">
-        <h1>{{ page.title }}</h1>
-        {% if page.next_tab_url and page.next_tab_title and page.next_tab_artist %}
-        <a
-          class="ghost-link tab-suggest-link"
-          href="{{ SITEURL }}{{ page.next_tab_url }}"
-        >Sugestão: {{ page.next_tab_title }} — {{ page.next_tab_artist }}</a>
-        {% endif %}
+        <div class="hero-tab-title">
+          <h1>{{ page.title }}</h1>
+          <p class="hero-meta">
+            {% if page.artist_url %}
+            <a href="{{ page.artist_url }}" target="_blank" rel="noopener">{{ page.artist }}</a>
+            {% else %}
+            <span>{{ page.artist }}</span>
+            {% endif %}
+          </p>
+        </div>
+        <div class="hero-tab-aside">
+          {% if page.next_tab_url and page.next_tab_title and page.next_tab_artist %}
+          <a
+            class="ghost-link tab-suggest-link"
+            href="{{ SITEURL }}{{ page.next_tab_url }}"
+          >Sugestão: {{ page.next_tab_title }} — {{ page.next_tab_artist }}</a>
+          {% endif %}
+          <div class="harmonic-key-notation hero-key-notation">
+            <div class="direct-key-notation">
+              <span>Tom</span>
+              <strong data-direct-key>—</strong>
+            </div>
+            <div class="staff-key-notation" data-key-signature role="img" aria-label="Armadura de clave">
+              <span class="treble-clef" aria-hidden="true">𝄞</span>
+              <div class="music-staff" aria-hidden="true">
+                <i></i><i></i><i></i><i></i><i></i>
+              </div>
+              <div class="key-signature-accidentals" data-key-signature-accidentals aria-hidden="true"></div>
+            </div>
+          </div>
+        </div>
       </div>
-      <p class="hero-meta">
-        {% if page.artist_url %}
-        <a href="{{ page.artist_url }}" target="_blank" rel="noopener">{{ page.artist }}</a>
-        {% else %}
-        <span>{{ page.artist }}</span>
-        {% endif %}
-      </p>
     </header>
 
     <section class="tab-card prose">
@@ -84,6 +101,17 @@
       </div>
       <p class="harmonic-footnote">V7, SUBV7, II–V7, II–SUBV7 e diminuto são calculados como caminhos de resolução para cada nota da escala.</p>
       <p class="harmonic-footnote">Os graus em algarismos romanos aparecem junto de cada cifra enquanto a análise estiver aberta.</p>
+      <section class="chord-diagrams" aria-labelledby="chord-diagrams-title">
+        <div class="chord-diagrams-head">
+          <div>
+            <p class="eyebrow">Braço do instrumento</p>
+            <h3 id="chord-diagrams-title">Desenhos dos acordes</h3>
+          </div>
+          <p>Violão · afinação padrão E A D G B E</p>
+        </div>
+        <div class="chord-diagram-grid" data-chord-diagrams></div>
+        <p class="harmonic-footnote">Cada cifra aparece uma única vez, na ordem da música. As posições são sugestões automáticas de execução.</p>
+      </section>
     </section>
 
   </section>

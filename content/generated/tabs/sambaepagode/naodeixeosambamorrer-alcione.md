@@ -7,10 +7,10 @@ artist: Alcione
 artist_url: https://www.cifraclub.com.br/alcione/
 harmonic_key: B
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Não Deixe o Samba Morrer, canção de Alcione.
-listing_index: 239
+listing_index: 240
 next_tab_url: /musicas/sambaepagode/oamanha-simone/
 next_tab_title: O Amanhã
 next_tab_artist: Simone

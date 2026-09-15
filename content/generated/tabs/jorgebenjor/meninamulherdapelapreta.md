@@ -7,7 +7,7 @@ artist: Jorge Benjor
 artist_url: https://www.cifraclub.com.br/jorge-benjor/
 harmonic_key: C#
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Menina Mulher da Pele Preta, canção de Jorge Benjor.
 listing_index: 127

@@ -7,7 +7,7 @@ artist: Guilherme Arantes
 artist_url: https://www.cifraclub.com.br/guilherme-arantes/
 harmonic_key: F#
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Lindo Balão Azul, canção de Guilherme Arantes.
 listing_index: 186

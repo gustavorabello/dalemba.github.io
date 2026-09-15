@@ -7,10 +7,10 @@ artist: Tom Jobim
 artist_url: https://www.cifraclub.com.br/tom-jobim/
 harmonic_key: G
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Falando de Amor, canção de Tom Jobim.
-listing_index: 270
+listing_index: 271
 next_tab_url: /musicas/tomjobim/garotadeipanema/
 next_tab_title: Garota De Ipanema
 next_tab_artist: Tom Jobim

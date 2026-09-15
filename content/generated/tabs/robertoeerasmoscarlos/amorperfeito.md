@@ -5,12 +5,12 @@ Save_As: musicas/robertoeerasmoscarlos/amorperfeito/index.html
 page_type: tab
 artist: Roberto Carlos
 artist_url: https://www.cifraclub.com.br/roberto-carlos/
-harmonic_key: E
+harmonic_key: A
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Amor Perfeito, canção de Roberto Carlos.
-listing_index: 221
+listing_index: 222
 next_tab_url: /musicas/robertoeerasmoscarlos/eprecisosaberviver/
 next_tab_title: E Preciso Saber Viver
 next_tab_artist: Roberto Carlos

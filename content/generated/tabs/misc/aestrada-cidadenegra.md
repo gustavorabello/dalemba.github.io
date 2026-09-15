@@ -5,9 +5,9 @@ Save_As: musicas/misc/aestrada-cidadenegra/index.html
 page_type: tab
 artist: Cidade Negra
 artist_url: https://www.cifraclub.com.br/cidade-negra/
-harmonic_key: D
+harmonic_key: A
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: A Estrada, canção de Cidade Negra.
 listing_index: 169

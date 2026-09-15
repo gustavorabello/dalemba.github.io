@@ -10,7 +10,7 @@ harmonic_mode: minor
 harmonic_key_source: declared
 section_label: Músicas
 summary: Vila Isabel (1986), canção de Sambas Enredo.
-listing_index: 259
+listing_index: 260
 next_tab_url: /musicas/sandyejunior/asquatroestacoes/
 next_tab_title: As Quatro Estações
 next_tab_artist: Sandy & Júnior

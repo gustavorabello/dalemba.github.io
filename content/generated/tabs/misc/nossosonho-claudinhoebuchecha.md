@@ -7,7 +7,7 @@ artist: Claudinho e Buchecha
 artist_url: https://www.cifraclub.com.br/claudinho-e-buchecha/
 harmonic_key: E
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Nosso Sonho, canção de Claudinho e Buchecha.
 listing_index: 192

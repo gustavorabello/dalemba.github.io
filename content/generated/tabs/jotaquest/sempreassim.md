@@ -7,7 +7,7 @@ artist: Jota Quest
 artist_url: https://www.cifraclub.com.br/jota-quest/
 harmonic_key: G
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Sempre Assim, canção de Jota Quest.
 listing_index: 132

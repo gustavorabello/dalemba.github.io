@@ -7,10 +7,10 @@ artist: Simone
 artist_url: https://www.cifraclub.com.br/simone/
 harmonic_key: D
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: O Amanhã, canção de Simone.
-listing_index: 240
+listing_index: 241
 next_tab_url: /musicas/sambaepagode/obebadoeoequilibrista-joaobosco/
 next_tab_title: O Bebado e o Equilibrista
 next_tab_artist: Joao Bosco

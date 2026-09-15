@@ -7,7 +7,7 @@ artist: Milton Nascimento
 artist_url: https://www.cifraclub.com.br/milton-nascimento/
 harmonic_key: Bb
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Cacador de Mim, canção de Milton Nascimento.
 listing_index: 165

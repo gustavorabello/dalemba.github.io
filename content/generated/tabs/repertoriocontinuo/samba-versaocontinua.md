@@ -10,14 +10,16 @@ harmonic_mode: minor
 harmonic_key_source: inferred
 section_label: Músicas
 summary: O Show Tem Que Continuar, canção de Fundo de Quintal.
-listing_index: 219
+listing_index: 220
 next_tab_url: /musicas/repertoriocontinuo/samba/
 next_tab_title: O Show Tem Que Continuar
 next_tab_artist: Fundo de Quintal
 
 <div class="tab-layout columns">
   <div class="tab-column">
-    <pre class="tab-sheet"> <span class="chord">C7</span>             <span class="chord">F#m7/5</span>-
+    <pre class="tab-sheet">Tons: <span class="chord">C</span> / <span class="chord">Am</span> / <span class="chord">G</span> / <span class="chord">F</span> / <span class="chord">Em</span>
+
+ <span class="chord">C7</span>             <span class="chord">F#m7/5</span>-
    Lalaia lalaia laia
 <span class="chord">Fm6</span>          <span class="chord">Em7</span>
 Lalaia lalaia laia

@@ -7,10 +7,10 @@ artist: Zé Keti
 artist_url: https://www.cifraclub.com.br/ze-keti/
 harmonic_key: F#
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: A Voz do Samba, canção de Zé Keti.
-listing_index: 310
+listing_index: 311
 next_tab_url: /musicas/zeketi/dizquefuiporai/
 next_tab_title: Diz Que Fui Por Aí
 next_tab_artist: Zé Keti

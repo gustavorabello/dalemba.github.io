@@ -7,10 +7,10 @@ artist: Zé Keti
 artist_url: https://www.cifraclub.com.br/ze-keti/
 harmonic_key: G
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Máscara Negra, canção de Zé Keti.
-listing_index: 312
+listing_index: 313
 
 <div class="tab-layout columns">
   <div class="tab-column">

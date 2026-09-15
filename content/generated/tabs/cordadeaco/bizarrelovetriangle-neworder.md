@@ -7,7 +7,7 @@ artist: New Order
 artist_url: https://www.cifraclub.com.br/new-order/
 harmonic_key: C
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Bizarre Love Triangle, canção de New Order.
 listing_index: 66

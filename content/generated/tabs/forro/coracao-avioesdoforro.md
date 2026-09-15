@@ -7,7 +7,7 @@ artist: Aviões do Forró
 artist_url: https://www.cifraclub.com.br/avioes-do-forro/
 harmonic_key: A
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Coração, canção de Aviões do Forró.
 listing_index: 95

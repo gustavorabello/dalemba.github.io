@@ -7,10 +7,10 @@ artist: Agepê
 artist_url: https://www.cifraclub.com.br/agepe/
 harmonic_key: A
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Deixa Eu Te Amar, canção de Agepê.
-listing_index: 231
+listing_index: 232
 next_tab_url: /musicas/sambaepagode/domingodesol-dicro/
 next_tab_title: Domingo de Sol
 next_tab_artist: Dicro

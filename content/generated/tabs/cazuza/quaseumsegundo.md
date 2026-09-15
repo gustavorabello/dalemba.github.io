@@ -7,7 +7,7 @@ artist: Cazuza
 artist_url: https://www.cifraclub.com.br/cazuza/
 harmonic_key: B
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Quase um Segundo, canção de Cazuza.
 listing_index: 46

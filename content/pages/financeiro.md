@@ -4,7 +4,7 @@ page_type: financeiro
 subtitle: O site completo do financeiroDB, atualizado e protegido por senha.
 
 
-<div id="financeiro-app" class="financeiro-app" data-vault-url="https://dalembinha.github.io/static/financeiro/vault.json?v=20260721-1147">
+<div id="financeiro-app" class="financeiro-app" data-vault-url="https://dalembinha.github.io/static/financeiro/vault.json?v=20260915-2010">
   <section class="financeiro-lock" data-lock-screen>
     <div>
       <p class="financeiro-eyebrow">Área protegida</p>
@@ -33,4 +33,4 @@ subtitle: O site completo do financeiroDB, atualizado e protegido por senha.
   </section>
 </div>
 
-<script src="../static/js/financeiro.js?v=20260721-1147" defer></script>
+<script src="../static/js/financeiro.js?v=20260915-2010" defer></script>

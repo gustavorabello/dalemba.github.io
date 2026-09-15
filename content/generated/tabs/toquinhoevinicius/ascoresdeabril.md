@@ -7,10 +7,10 @@ artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
 harmonic_key: A
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: As Cores de Abril, canção de Toquinho & Vinicius.
-listing_index: 280
+listing_index: 281
 next_tab_url: /musicas/toquinhoevinicius/cantodeoxum/
 next_tab_title: Canto de Oxum
 next_tab_artist: Toquinho & Vinicius

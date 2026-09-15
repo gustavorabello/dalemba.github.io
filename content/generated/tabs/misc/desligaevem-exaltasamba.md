@@ -7,7 +7,7 @@ artist: Exaltasamba
 artist_url: https://www.cifraclub.com.br/exaltasamba/
 harmonic_key: G
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Desliga e Vem, canção de Exaltasamba.
 listing_index: 177

@@ -7,7 +7,7 @@ artist: Bob Marley
 artist_url: https://www.cifraclub.com.br/bob-marley/
 harmonic_key: A
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Three Little Birds, canção de Bob Marley.
 listing_index: 27

@@ -7,7 +7,7 @@ artist: Marisa Monte
 artist_url: https://www.cifraclub.com.br/marisa-monte/
 harmonic_key: C
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: O Que Me Importa, canção de Marisa Monte.
 listing_index: 158

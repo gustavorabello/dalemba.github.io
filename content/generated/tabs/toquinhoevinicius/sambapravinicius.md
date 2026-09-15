@@ -5,12 +5,12 @@ Save_As: musicas/toquinhoevinicius/sambapravinicius/index.html
 page_type: tab
 artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
-harmonic_key: A
+harmonic_key: D
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Samba Pra Vinicius, canção de Toquinho & Vinicius.
-listing_index: 296
+listing_index: 297
 next_tab_url: /musicas/toquinhoevinicius/sambadavolta/
 next_tab_title: Samba da Volta
 next_tab_artist: Toquinho & Vinicius

@@ -10,7 +10,7 @@ harmonic_mode: minor
 harmonic_key_source: declared
 section_label: Músicas
 summary: Grande Rio (2007), canção de Sambas Enredo.
-listing_index: 253
+listing_index: 254
 next_tab_url: /musicas/sambasenredo/imperioserrano-1964/
 next_tab_title: Império Serrano (1986)
 next_tab_artist: Sambas Enredo

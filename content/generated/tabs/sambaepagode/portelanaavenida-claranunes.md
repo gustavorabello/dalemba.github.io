@@ -7,10 +7,10 @@ artist: Clara Nunes
 artist_url: https://www.cifraclub.com.br/clara-nunes/
 harmonic_key: A
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Portela na Avenida, canção de Clara Nunes.
-listing_index: 245
+listing_index: 246
 next_tab_url: /musicas/sambaepagode/retalhosdecetim-benitodipaula/
 next_tab_title: Retalhos de Cetim
 next_tab_artist: Benito Di Paula

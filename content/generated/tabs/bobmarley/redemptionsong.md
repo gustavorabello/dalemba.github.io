@@ -7,7 +7,7 @@ artist: Bob Marley
 artist_url: https://www.cifraclub.com.br/bob-marley/
 harmonic_key: G
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Redemption Song, canção de Bob Marley.
 listing_index: 26

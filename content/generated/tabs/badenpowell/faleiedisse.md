@@ -7,7 +7,7 @@ artist: Baden Powell
 artist_url: https://www.cifraclub.com.br/baden-powell/
 harmonic_key: Bb
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Falei e Disse, canção de Baden Powell.
 listing_index: 12

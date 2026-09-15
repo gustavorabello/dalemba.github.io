@@ -5,9 +5,9 @@ Save_As: musicas/chicobuarque/homenagemaomalandro/index.html
 page_type: tab
 artist: Chico Buarque
 artist_url: https://www.cifraclub.com.br/chico-buarque/
-harmonic_key: G
+harmonic_key: C
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Homenagem ao Malandro, canção de Chico Buarque.
 listing_index: 54

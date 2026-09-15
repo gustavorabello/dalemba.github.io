@@ -10,7 +10,7 @@ harmonic_mode: major
 harmonic_key_source: declared
 section_label: Músicas
 summary: Mangueira (2007), canção de Sambas Enredo.
-listing_index: 255
+listing_index: 256
 next_tab_url: /musicas/sambasenredo/mocidade-1996/
 next_tab_title: Mocidade (1996)
 next_tab_artist: Sambas Enredo

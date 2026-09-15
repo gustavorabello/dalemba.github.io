@@ -5,9 +5,9 @@ Save_As: musicas/cartola/prantodopoeta/index.html
 page_type: tab
 artist: Cartola
 artist_url: https://www.cifraclub.com.br/cartola/
-harmonic_key: D
+harmonic_key: G
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Pranto do Poeta, canção de Cartola.
 listing_index: 35

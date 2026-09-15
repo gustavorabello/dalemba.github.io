@@ -6,8 +6,8 @@ page_type: tab
 artist: Tom Jobim e Chico Buarque
 artist_url: https://www.cifraclub.com.br/tom-jobim-e-chico-buarque/
 harmonic_key: Eb
-harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_mode: major
+harmonic_key_source: declared
 section_label: Músicas
 summary: Sabiá, canção de Tom Jobim e Chico Buarque.
 listing_index: 61

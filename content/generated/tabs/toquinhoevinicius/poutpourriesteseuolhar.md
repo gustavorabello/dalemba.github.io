@@ -10,14 +10,16 @@ harmonic_mode: minor
 harmonic_key_source: inferred
 section_label: Músicas
 summary: Pout Pourri, canção de Toquinho & Vinicius.
-listing_index: 292
+listing_index: 293
 next_tab_url: /musicas/toquinhoevinicius/poutpourribahia/
 next_tab_title: Pout-Pourri No. 1
 next_tab_artist: A Benção Bahia, Tarde em Itapoã, Tatamirô,
 
 <div class="tab-layout columns">
   <div class="tab-column">
-    <pre class="tab-sheet">[Intro:] <span class="chord">A9</span> <span class="chord">Am7</span> <span class="chord">E/G#</span> <span class="chord">C#m7</span> <span class="chord">F#m7(9)</span> <span class="chord">B7(13)</span> <span class="chord">E</span> <span class="chord">B7(9)</span>
+    <pre class="tab-sheet">Tons: <span class="chord">E</span> / <span class="chord">Am</span> / <span class="chord">G</span>
+
+[Intro:] <span class="chord">A9</span> <span class="chord">Am7</span> <span class="chord">E/G#</span> <span class="chord">C#m7</span> <span class="chord">F#m7(9)</span> <span class="chord">B7(13)</span> <span class="chord">E</span> <span class="chord">B7(9)</span>
 
 <span class="chord">E7M</span>         <span class="chord">Fº</span> <span class="chord">F#m7</span>               <span class="chord">Gº</span> <span class="chord">E/G#</span>
 Este seu olhar quando encontra o meu

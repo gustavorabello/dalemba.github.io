@@ -7,7 +7,7 @@ artist: Chico Buarque
 artist_url: https://www.cifraclub.com.br/chico-buarque/
 harmonic_key: D
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Apesar de Voce, canção de Chico Buarque.
 listing_index: 49

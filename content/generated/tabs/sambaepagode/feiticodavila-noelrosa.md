@@ -7,10 +7,10 @@ artist: Noel Rosa
 artist_url: https://www.cifraclub.com.br/noel-rosa/
 harmonic_key: C
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Feitiço da Vila, canção de Noel Rosa.
-listing_index: 234
+listing_index: 235
 next_tab_url: /musicas/sambaepagode/fogodesaudade-sombrinha/
 next_tab_title: Fogo de Saudade
 next_tab_artist: Sombrinha

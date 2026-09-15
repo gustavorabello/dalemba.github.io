@@ -7,10 +7,10 @@ artist: Paulinho da Viola
 artist_url: https://www.cifraclub.com.br/paulinho-da-viola/
 harmonic_key: A
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Danca da Solidao, canção de Paulinho da Viola.
-listing_index: 211
+listing_index: 212
 next_tab_url: /musicas/paulinhodaviola/foiumrioquepassouemminhavida/
 next_tab_title: Foi Um Rio Que Passou Em Minha Vida
 next_tab_artist: Paulinho da Viola

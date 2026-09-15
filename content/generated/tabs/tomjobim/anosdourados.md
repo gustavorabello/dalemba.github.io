@@ -10,7 +10,7 @@ harmonic_mode: major
 harmonic_key_source: declared
 section_label: Músicas
 summary: Anos Dourados, canção de Tom Jobim.
-listing_index: 268
+listing_index: 269
 next_tab_url: /musicas/tomjobim/desafinado/
 next_tab_title: Desafinado
 next_tab_artist: Tom Jobim

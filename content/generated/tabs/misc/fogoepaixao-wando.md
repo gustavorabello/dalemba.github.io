@@ -5,9 +5,9 @@ Save_As: musicas/misc/fogoepaixao-wando/index.html
 page_type: tab
 artist: Wando
 artist_url: https://www.cifraclub.com.br/wando/
-harmonic_key: G
+harmonic_key: C
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Fogo e Paixao, canção de Wando.
 listing_index: 181

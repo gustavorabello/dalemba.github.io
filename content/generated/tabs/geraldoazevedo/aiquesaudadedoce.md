@@ -7,7 +7,7 @@ artist: Geraldo Azevedo
 artist_url: https://www.cifraclub.com.br/geraldo-azevedo/
 harmonic_key: D
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Ai Que saudade Docê, canção de Geraldo Azevedo.
 listing_index: 106

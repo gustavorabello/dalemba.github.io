@@ -5,9 +5,9 @@ Save_As: musicas/mariarita/novoamor/index.html
 page_type: tab
 artist: Maria Rita
 artist_url: https://www.cifraclub.com.br/maria-rita/
-harmonic_key: G
+harmonic_key: D
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Novo Amor, canção de Maria Rita.
 listing_index: 152

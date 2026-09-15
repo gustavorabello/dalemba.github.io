@@ -5,9 +5,9 @@ Save_As: musicas/chicobuarque/sambadograndeamor/index.html
 page_type: tab
 artist: Chico Buarque
 artist_url: https://www.cifraclub.com.br/chico-buarque/
-harmonic_key: D
-harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key: C
+harmonic_mode: major
+harmonic_key_source: declared
 section_label: Músicas
 summary: Samba do Grande Amor, canção de Chico Buarque.
 listing_index: 62

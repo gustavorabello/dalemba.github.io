@@ -5,12 +5,12 @@ Save_As: musicas/tomjobim/desafinado/index.html
 page_type: tab
 artist: Tom Jobim
 artist_url: https://www.cifraclub.com.br/tom-jobim/
-harmonic_key: C
+harmonic_key: F
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Desafinado, canção de Tom Jobim.
-listing_index: 269
+listing_index: 270
 next_tab_url: /musicas/tomjobim/falandodeamor/
 next_tab_title: Falando de Amor
 next_tab_artist: Tom Jobim

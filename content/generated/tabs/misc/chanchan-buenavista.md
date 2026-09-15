@@ -7,7 +7,7 @@ artist: Buena Vista
 artist_url: https://www.cifraclub.com.br/buena-vista/
 harmonic_key: D
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Chan Chan, canção de Buena Vista.
 listing_index: 176

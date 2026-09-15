@@ -7,7 +7,7 @@ artist: Jingle
 artist_url: https://www.cifraclub.com.br/jingle/
 harmonic_key: A
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Pizza com Guarana, canção de Jingle.
 listing_index: 196

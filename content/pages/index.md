@@ -7,7 +7,7 @@ subtitle: Um canto de canções, panelas e pequenas memórias felizes.
 
 <div class="section-grid">
   <section class="section-card">
-    <span class="count-pill">312 músicas</span>
+    <span class="count-pill">313 músicas</span>
     <h2>Lista de músicas</h2>
     <p>43 trilhas para abrir a janela, afinar a tarde e deixar a casa cantar.</p>
     <a class="card-link" href="/musicas/">Entrar nas músicas</a>

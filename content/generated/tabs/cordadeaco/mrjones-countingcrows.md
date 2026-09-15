@@ -7,7 +7,7 @@ artist: Counting Crows
 artist_url: https://www.cifraclub.com.br/counting-crows/
 harmonic_key: C
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Mr. Jones, canção de Counting Crows.
 listing_index: 74

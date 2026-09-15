@@ -7,7 +7,7 @@ artist: Stevie Ray Vaughan
 artist_url: https://www.cifraclub.com.br/stevie-ray-vaughan/
 harmonic_key: A
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Life by the Drop, canção de Stevie Ray Vaughan.
 listing_index: 71

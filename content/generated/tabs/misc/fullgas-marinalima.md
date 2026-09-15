@@ -7,7 +7,7 @@ artist: Marina Lima e Antônio Cícero
 artist_url: https://www.cifraclub.com.br/marina-lima-e-antonio-cicero/
 harmonic_key: D
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Fullgás, canção de Marina Lima e Antônio Cícero.
 listing_index: 182

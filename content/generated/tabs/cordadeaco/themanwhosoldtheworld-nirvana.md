@@ -5,9 +5,9 @@ Save_As: musicas/cordadeaco/themanwhosoldtheworld-nirvana/index.html
 page_type: tab
 artist: Nirvana
 artist_url: https://www.cifraclub.com.br/nirvana/
-harmonic_key: F
-harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key: D
+harmonic_mode: minor
+harmonic_key_source: declared
 section_label: Músicas
 summary: The Man Who Sold the World, canção de Nirvana.
 listing_index: 77

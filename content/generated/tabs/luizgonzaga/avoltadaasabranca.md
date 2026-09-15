@@ -5,9 +5,9 @@ Save_As: musicas/luizgonzaga/avoltadaasabranca/index.html
 page_type: tab
 artist: Luiz Gonzaga
 artist_url: https://www.cifraclub.com.br/luiz-gonzaga/
-harmonic_key: C
+harmonic_key: G
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: A Volta da Asa Branca, canção de Luiz Gonzaga.
 listing_index: 133

@@ -7,7 +7,7 @@ artist: Baden Powell
 artist_url: https://www.cifraclub.com.br/baden-powell/
 harmonic_key: A
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Samba em Preludio, canção de Baden Powell.
 listing_index: 14

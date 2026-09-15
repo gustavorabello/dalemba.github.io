@@ -7,7 +7,7 @@ artist: Anastacia e Dominguinhos
 artist_url: https://www.cifraclub.com.br/anastacia-e-dominguinhos/
 harmonic_key: E
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Eu Só Quero um Xodó, canção de Anastacia e Dominguinhos.
 listing_index: 90

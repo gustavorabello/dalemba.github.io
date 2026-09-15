@@ -10,14 +10,16 @@ harmonic_mode: major
 harmonic_key_source: inferred
 section_label: Músicas
 summary: Foi Um Rio Que Passou Em Minha Vida, canção de Paulinho da Viola.
-listing_index: 217
+listing_index: 218
 next_tab_url: /musicas/repertoriocontinuo/carnaval/
 next_tab_title: Foi Um Rio Que Passou Em Minha Vida
 next_tab_artist: Paulinho da Viola
 
 <div class="tab-layout columns">
   <div class="tab-column">
-    <pre class="tab-sheet">Intro: A
+    <pre class="tab-sheet">Tons: <span class="chord">A</span> / <span class="chord">Gm</span> / <span class="chord">Bb</span> / <span class="chord">G</span> / <span class="chord">Em</span>
+
+Intro: A
 
 <span class="chord">A</span>
 Se um dia
@@ -237,12 +239,12 @@ no meio da multidão
 <span class="chord">G7+</span>         <span class="chord">E7</span>        <span class="chord">Am7</span>
 Foi bom te ver outra vez
                <span class="chord">D7</span>
-Tá fazendo um ano
-            <span class="chord">G7+</span>         <span class="chord">Am7</span>
-Foi no carnaval que passou</pre>
+Tá fazendo um ano</pre>
   </div>
   <div class="tab-column">
-    <pre class="tab-sheet"><span class="chord">Bm7</span>        <span class="chord">A#</span>      <span class="chord">Am7</span>
+    <pre class="tab-sheet">            <span class="chord">G7+</span>         <span class="chord">Am7</span>
+Foi no carnaval que passou
+<span class="chord">Bm7</span>        <span class="chord">A#</span>      <span class="chord">Am7</span>
 Eu sou aquele Pierrô
             <span class="chord">D7</span>
 Que te abraçou

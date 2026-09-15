@@ -5,12 +5,12 @@ Save_As: musicas/nandoreis/oscegosdocastelo/index.html
 page_type: tab
 artist: Nando Reis
 artist_url: https://www.cifraclub.com.br/nando-reis/
-harmonic_key: F
+harmonic_key: C
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Os Cegos do Castelo, canção de Nando Reis.
-listing_index: 208
+listing_index: 209
 next_tab_url: /musicas/paulinhodaviola/argumento/
 next_tab_title: Argumento
 next_tab_artist: Paulinho da Viola

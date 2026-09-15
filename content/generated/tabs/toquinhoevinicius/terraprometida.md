@@ -7,10 +7,10 @@ artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
 harmonic_key: B
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Terra Prometida, canção de Toquinho & Vinicius.
-listing_index: 299
+listing_index: 300
 next_tab_url: /musicas/toquinhoevinicius/tomara/
 next_tab_title: Tomara
 next_tab_artist: Toquinho & Vinicius

@@ -7,7 +7,7 @@ artist: Jorge Aragao
 artist_url: https://www.cifraclub.com.br/jorge-aragao/
 harmonic_key: D
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Amor Estou Sofrendo, canção de Jorge Aragao.
 listing_index: 117

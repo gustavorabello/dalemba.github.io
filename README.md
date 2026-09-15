@@ -74,6 +74,8 @@ Recursos embutidos nas páginas:
 - análise harmônica expansível, com escala e caminhos de resolução
 - cores distintas para acordes diatônicos e acordes fora da escala
 - graus em algarismos romanos exibidos junto às cifras durante a análise
+- desenhos únicos dos acordes no braço do violão, preservando a ordem da música
+- tom em notação direta e armadura de clave de sol com sustenidos ou bemóis
 - ajuste de fonte
 
 O gerador estima automaticamente a tonalidade pelas cifras. Para informar o tom

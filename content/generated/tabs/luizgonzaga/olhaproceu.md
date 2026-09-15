@@ -7,7 +7,7 @@ artist: Luiz Gonzaga
 artist_url: https://www.cifraclub.com.br/luiz-gonzaga/
 harmonic_key: D
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Olha Pro Ceu, canção de Luiz Gonzaga.
 listing_index: 136

@@ -7,7 +7,7 @@ artist: Cartola
 artist_url: https://www.cifraclub.com.br/cartola/
 harmonic_key: Eb
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Alvorada, canção de Cartola.
 listing_index: 33

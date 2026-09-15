@@ -7,10 +7,10 @@ artist: Almir Guineto
 artist_url: https://www.cifraclub.com.br/almir-guineto/
 harmonic_key: F
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Conselho, canção de Almir Guineto.
-listing_index: 229
+listing_index: 230
 next_tab_url: /musicas/sambaepagode/contodeareia-claranunes/
 next_tab_title: Conto de Areia
 next_tab_artist: Clara Nunes

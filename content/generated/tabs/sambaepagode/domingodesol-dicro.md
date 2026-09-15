@@ -7,10 +7,10 @@ artist: Dicro
 artist_url: https://www.cifraclub.com.br/dicro/
 harmonic_key: G
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Domingo de Sol, canção de Dicro.
-listing_index: 232
+listing_index: 233
 next_tab_url: /musicas/sambaepagode/eumenti-razao-brasileira/
 next_tab_title: Eu Menti
 next_tab_artist: Razao Brasileira

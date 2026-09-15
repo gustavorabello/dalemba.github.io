@@ -5,12 +5,12 @@ Save_As: musicas/vanessadamata/boasorte/index.html
 page_type: tab
 artist: Vanessa da Mata
 artist_url: https://www.cifraclub.com.br/vanessa-da-mata/
-harmonic_key: B
-harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key: C#
+harmonic_mode: minor
+harmonic_key_source: declared
 section_label: Músicas
 summary: Boa Sorte/Good Luck, canção de Vanessa da Mata.
-listing_index: 308
+listing_index: 309
 next_tab_url: /musicas/vanessadamata/naomedeixeso/
 next_tab_title: Não Me Deixe Só
 next_tab_artist: Vanessa da Mata

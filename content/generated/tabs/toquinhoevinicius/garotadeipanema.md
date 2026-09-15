@@ -7,10 +7,10 @@ artist: Toquinho EVinicius
 artist_url: https://www.cifraclub.com.br/toquinho-evinicius/
 harmonic_key: F
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Garota De Ipanema, canção de Toquinho EVinicius.
-listing_index: 285
+listing_index: 286
 next_tab_url: /musicas/toquinhoevinicius/lamentonomorro/
 next_tab_title: Lamento no Morro
 next_tab_artist: Tom Jobim & Vinicius

@@ -7,10 +7,10 @@ artist: Os Morenos
 artist_url: https://www.cifraclub.com.br/os-morenos/
 harmonic_key: G
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Mina de Fé, canção de Os Morenos.
-listing_index: 237
+listing_index: 238
 next_tab_url: /musicas/sambaepagode/naquelamesa-sergiobittencourt/
 next_tab_title: Naquela Mesa
 next_tab_artist: Sergio Bittencourt

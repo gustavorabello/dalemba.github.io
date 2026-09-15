@@ -7,10 +7,10 @@ artist: Skank
 artist_url: https://www.cifraclub.com.br/skank/
 harmonic_key: D
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Vou Deixar, canção de Skank.
-listing_index: 265
+listing_index: 266
 next_tab_url: /musicas/tabs/notes/
 next_tab_title: Para escolher a sugestão, use no TXT:
 next_tab_artist: 

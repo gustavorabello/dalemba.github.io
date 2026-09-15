@@ -7,7 +7,7 @@ artist: Chico Buarque
 artist_url: https://www.cifraclub.com.br/chico-buarque/
 harmonic_key: Bb
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Roda Viva, canção de Chico Buarque.
 listing_index: 60

@@ -7,10 +7,10 @@ artist: Tom Jobim
 artist_url: https://www.cifraclub.com.br/tom-jobim/
 harmonic_key: Bb
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Aguas de Marco, canção de Tom Jobim.
-listing_index: 267
+listing_index: 268
 next_tab_url: /musicas/tomjobim/anosdourados/
 next_tab_title: Anos Dourados
 next_tab_artist: Tom Jobim

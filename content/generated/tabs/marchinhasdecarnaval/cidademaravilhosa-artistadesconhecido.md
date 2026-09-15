@@ -7,7 +7,7 @@ artist: Artista Desconhecido
 artist_url: https://www.cifraclub.com.br/artista-desconhecido/
 harmonic_key: A
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Cidade Maravilhosa, canção de Artista Desconhecido.
 listing_index: 141

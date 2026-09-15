@@ -5,12 +5,12 @@ Save_As: musicas/sambaepagode/obebadoeoequilibrista-joaobosco/index.html
 page_type: tab
 artist: Joao Bosco
 artist_url: https://www.cifraclub.com.br/joao-bosco/
-harmonic_key: B
-harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key: A
+harmonic_mode: major
+harmonic_key_source: declared
 section_label: Músicas
 summary: O Bebado e o Equilibrista, canção de Joao Bosco.
-listing_index: 241
+listing_index: 242
 next_tab_url: /musicas/sambaepagode/ocampeao-neguinhodabeijaflor/
 next_tab_title: O Campeão
 next_tab_artist: Neguinho da Beija-Flor

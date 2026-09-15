@@ -7,7 +7,7 @@ artist: Alceu Valenca
 artist_url: https://www.cifraclub.com.br/alceu-valenca/
 harmonic_key: A
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Anunciacao, canção de Alceu Valenca.
 listing_index: 3

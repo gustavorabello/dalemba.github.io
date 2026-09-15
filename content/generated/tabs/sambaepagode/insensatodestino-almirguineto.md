@@ -7,10 +7,10 @@ artist: Almir Guineto
 artist_url: https://www.cifraclub.com.br/almir-guineto/
 harmonic_key: G
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Insensato Destino, canção de Almir Guineto.
-listing_index: 236
+listing_index: 237
 next_tab_url: /musicas/sambaepagode/minadefe-osmorenos/
 next_tab_title: Mina de Fé
 next_tab_artist: Os Morenos

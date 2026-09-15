@@ -7,10 +7,10 @@ artist: João Nogueira
 artist_url: https://www.cifraclub.com.br/joao-nogueira/
 harmonic_key: A
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: O Poder da Criação, canção de João Nogueira.
-listing_index: 243
+listing_index: 244
 next_tab_url: /musicas/sambaepagode/osurdo-alcione/
 next_tab_title: O Surdo
 next_tab_artist: Alcione

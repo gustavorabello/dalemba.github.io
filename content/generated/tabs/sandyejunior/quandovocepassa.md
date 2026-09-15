@@ -10,14 +10,16 @@ harmonic_mode: minor
 harmonic_key_source: inferred
 section_label: Músicas
 summary: Quando Você Passa (Turu Turu), canção de Sandy & Júnior.
-listing_index: 263
+listing_index: 264
 next_tab_url: /musicas/skank/resposta/
 next_tab_title: Resposta
 next_tab_artist: Skank
 
 <div class="tab-layout columns">
   <div class="tab-column">
-    <pre class="tab-sheet">[Intro] C
+    <pre class="tab-sheet">Tons: <span class="chord">C</span> / <span class="chord">D</span>
+
+[Intro] C
 
 [Primeira Parte]
 

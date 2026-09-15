@@ -5,9 +5,9 @@ Save_As: musicas/misc/maniadevoce-ritalee/index.html
 page_type: tab
 artist: Rita Lee
 artist_url: https://www.cifraclub.com.br/rita-lee/
-harmonic_key: G
-harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key: A
+harmonic_mode: minor
+harmonic_key_source: declared
 section_label: Músicas
 summary: Mania de Você, canção de Rita Lee.
 listing_index: 189

@@ -7,7 +7,7 @@ artist: Adoniran Barbosa
 artist_url: https://www.cifraclub.com.br/adoniran-barbosa/
 harmonic_key: F
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Tiro ao Alvaro, canção de Adoniran Barbosa.
 listing_index: 1

@@ -6,11 +6,11 @@ page_type: tab
 artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
 harmonic_key: A
-harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_mode: minor
+harmonic_key_source: declared
 section_label: Músicas
 summary: Maria Vai Com As Outras, canção de Toquinho & Vinicius.
-listing_index: 288
+listing_index: 289
 next_tab_url: /musicas/toquinhoevinicius/meupaioxala/
 next_tab_title: Meu Pai Oxala
 next_tab_artist: Toquinho & Vinicius

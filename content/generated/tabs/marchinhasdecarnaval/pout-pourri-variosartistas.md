@@ -7,7 +7,7 @@ artist: Mamãe Eu Quero, Cabeleira do Zezé, Cachaça, Me Dá um Dinheiro aí, A
 artist_url: https://www.cifraclub.com.br/mamae-eu-quero-cabeleira-do-zeze-cachaca-me-da-um-dinheiro-ai-allah-la-o/
 harmonic_key: D
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Pout-Pourri Carnaval, canção de Mamãe Eu Quero, Cabeleira do Zezé, Cachaça, Me Dá um Dinheiro aí, Allah-la-ô.
 listing_index: 145

@@ -7,7 +7,7 @@ artist: Marisa Monte
 artist_url: https://www.cifraclub.com.br/marisa-monte/
 harmonic_key: D
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Ainda Bem, canção de Marisa Monte.
 listing_index: 155

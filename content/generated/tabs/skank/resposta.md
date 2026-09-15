@@ -5,12 +5,12 @@ Save_As: musicas/skank/resposta/index.html
 page_type: tab
 artist: Skank
 artist_url: https://www.cifraclub.com.br/skank/
-harmonic_key: D
+harmonic_key: A
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Resposta, canção de Skank.
-listing_index: 264
+listing_index: 265
 next_tab_url: /musicas/skank/voudeixar/
 next_tab_title: Vou Deixar
 next_tab_artist: Skank

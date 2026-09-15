@@ -7,7 +7,7 @@ artist: Martinho da Vila
 artist_url: https://www.cifraclub.com.br/martinho-da-vila/
 harmonic_key: A
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Ciranda de Roda, canção de Martinho da Vila.
 listing_index: 161

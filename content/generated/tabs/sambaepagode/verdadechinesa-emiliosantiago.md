@@ -7,10 +7,10 @@ artist: Emilio Santiago
 artist_url: https://www.cifraclub.com.br/emilio-santiago/
 harmonic_key: B
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Verdade Chinesa, canção de Emilio Santiago.
-listing_index: 251
+listing_index: 252
 next_tab_url: /musicas/sambasenredo/beija-flor-2007/
 next_tab_title: Beija-Flor (2007)
 next_tab_artist: Sambas Enredo

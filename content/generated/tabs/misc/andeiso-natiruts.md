@@ -5,9 +5,9 @@ Save_As: musicas/misc/andeiso-natiruts/index.html
 page_type: tab
 artist: Natirutis
 artist_url: https://www.cifraclub.com.br/natirutis/
-harmonic_key: B
-harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key: C#
+harmonic_mode: minor
+harmonic_key_source: declared
 section_label: Músicas
 summary: Andei Só, canção de Natirutis.
 listing_index: 171

@@ -7,7 +7,7 @@ artist: Wilson Simonal
 artist_url: https://www.cifraclub.com.br/wilson-simonal/
 harmonic_key: A
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Sa Marina, canção de Wilson Simonal.
 listing_index: 197

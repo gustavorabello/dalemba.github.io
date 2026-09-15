@@ -7,10 +7,10 @@ artist: Razao Brasileira
 artist_url: https://www.cifraclub.com.br/razao-brasileira/
 harmonic_key: A
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Eu Menti, canção de Razao Brasileira.
-listing_index: 233
+listing_index: 234
 next_tab_url: /musicas/sambaepagode/feiticodavila-noelrosa/
 next_tab_title: Feitiço da Vila
 next_tab_artist: Noel Rosa

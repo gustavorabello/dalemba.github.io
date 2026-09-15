@@ -7,10 +7,10 @@ artist: Leandro e Leonardo
 artist_url: https://www.cifraclub.com.br/leandro-e-leonardo/
 harmonic_key: A
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Talisma, canção de Leandro e Leonardo.
-listing_index: 201
+listing_index: 202
 next_tab_url: /musicas/misc/thundercats-tremdaalegria/
 next_tab_title: Thundercats
 next_tab_artist: Trem da Alegria

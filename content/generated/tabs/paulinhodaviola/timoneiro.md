@@ -7,10 +7,10 @@ artist: Paulinho da Viola
 artist_url: https://www.cifraclub.com.br/paulinho-da-viola/
 harmonic_key: A
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Timoneiro, canção de Paulinho da Viola.
-listing_index: 215
+listing_index: 216
 next_tab_url: /musicas/repertoriocontinuo/sambinha/
 next_tab_title: Conselho
 next_tab_artist: Almir Guineto

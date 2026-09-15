@@ -7,10 +7,10 @@ artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
 harmonic_key: E
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Tomara, canção de Toquinho & Vinicius.
-listing_index: 300
+listing_index: 301
 next_tab_url: /musicas/toquinhoevinicius/turbilhao/
 next_tab_title: Turbilhao
 next_tab_artist: Toquinho & Vinicius

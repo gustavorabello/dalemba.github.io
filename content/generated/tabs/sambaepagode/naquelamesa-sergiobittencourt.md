@@ -7,10 +7,10 @@ artist: Sergio Bittencourt
 artist_url: https://www.cifraclub.com.br/sergio-bittencourt/
 harmonic_key: E
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Naquela Mesa, canção de Sergio Bittencourt.
-listing_index: 238
+listing_index: 239
 next_tab_url: /musicas/sambaepagode/naodeixeosambamorrer-alcione/
 next_tab_title: Não Deixe o Samba Morrer
 next_tab_artist: Alcione

@@ -5,9 +5,9 @@ Save_As: musicas/dominguinhos/devoltapromeuaconchego/index.html
 page_type: tab
 artist: Dominguinhos e Nando Cordel
 artist_url: https://www.cifraclub.com.br/dominguinhos-e-nando-cordel/
-harmonic_key: G
+harmonic_key: D
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: De Volta Pro Meu Aconchego, canção de Dominguinhos e Nando Cordel.
 listing_index: 89

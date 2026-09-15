@@ -7,10 +7,10 @@ artist: Sombrinha
 artist_url: https://www.cifraclub.com.br/sombrinha/
 harmonic_key: C
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Fogo de Saudade, canção de Sombrinha.
-listing_index: 235
+listing_index: 236
 next_tab_url: /musicas/sambaepagode/insensatodestino-almirguineto/
 next_tab_title: Insensato Destino
 next_tab_artist: Almir Guineto

@@ -7,7 +7,7 @@ artist: Arlindo Cruz
 artist_url: https://www.cifraclub.com.br/arlindo-cruz/
 harmonic_key: G
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Samba de Arerê, canção de Arlindo Cruz.
 listing_index: 9

@@ -7,10 +7,10 @@ artist: Pixinguinha
 artist_url: https://www.cifraclub.com.br/pixinguinha/
 harmonic_key: G
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Carinhoso, canção de Pixinguinha.
-listing_index: 228
+listing_index: 229
 next_tab_url: /musicas/sambaepagode/conselho-almirguineto/
 next_tab_title: Conselho
 next_tab_artist: Almir Guineto

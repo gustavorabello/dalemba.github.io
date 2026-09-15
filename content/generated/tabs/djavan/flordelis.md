@@ -5,9 +5,9 @@ Save_As: musicas/djavan/flordelis/index.html
 page_type: tab
 artist: Djavan
 artist_url: https://www.cifraclub.com.br/djavan/
-harmonic_key: G
+harmonic_key: C
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Flor de Lis, canção de Djavan.
 listing_index: 84

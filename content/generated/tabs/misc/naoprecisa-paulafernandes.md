@@ -7,7 +7,7 @@ artist: Paula Fernandes
 artist_url: https://www.cifraclub.com.br/paula-fernandes/
 harmonic_key: G
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Não Precisa, canção de Paula Fernandes.
 listing_index: 193

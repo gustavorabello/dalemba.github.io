@@ -7,7 +7,7 @@ artist: Sergio Sampaio
 artist_url: https://www.cifraclub.com.br/sergio-sampaio/
 harmonic_key: E
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Eu Quero E Botar Meu Bloco Na Rua, canção de Sergio Sampaio.
 listing_index: 179

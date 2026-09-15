@@ -7,10 +7,10 @@ artist: Erasmo Carlos
 artist_url: https://www.cifraclub.com.br/erasmo-carlos/
 harmonic_key: C
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Mesmo Que Seja Eu, canção de Erasmo Carlos.
-listing_index: 225
+listing_index: 226
 next_tab_url: /musicas/robertoeerasmoscarlos/namoradinhadeumamigomeu/
 next_tab_title: Namoradinha de um Amigo Meu
 next_tab_artist: Roberto Carlos

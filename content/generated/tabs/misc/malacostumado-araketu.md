@@ -7,7 +7,7 @@ artist: Araketu
 artist_url: https://www.cifraclub.com.br/araketu/
 harmonic_key: C
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Mal Acostuamdo, canção de Araketu.
 listing_index: 187

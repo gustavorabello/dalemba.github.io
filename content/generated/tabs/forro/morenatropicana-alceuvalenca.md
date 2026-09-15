@@ -7,7 +7,7 @@ artist: Alceu Valença
 artist_url: https://www.cifraclub.com.br/alceu-valenca/
 harmonic_key: B
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Morena Tropicana, canção de Alceu Valença.
 listing_index: 105

@@ -7,10 +7,10 @@ artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
 harmonic_key: C
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Carta ao Tom 74, canção de Toquinho & Vinicius.
-listing_index: 282
+listing_index: 283
 next_tab_url: /musicas/toquinhoevinicius/chegadesaudade/
 next_tab_title: Chega de Saudade
 next_tab_artist: Tom Jobim & Vinicius

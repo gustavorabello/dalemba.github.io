@@ -10,7 +10,7 @@ harmonic_mode: major
 harmonic_key_source: inferred
 section_label: Músicas
 summary: Para escolher a sugestão, use no TXT:, canção de .
-listing_index: 266
+listing_index: 267
 next_tab_url: /musicas/chicobuarque/abanda/
 next_tab_title: A Banda
 next_tab_artist: Chico Buarque

@@ -7,10 +7,10 @@ artist: Roberto Carlos
 artist_url: https://www.cifraclub.com.br/roberto-carlos/
 harmonic_key: D
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Esqueca, canção de Roberto Carlos.
-listing_index: 223
+listing_index: 224
 next_tab_url: /musicas/robertoeerasmoscarlos/gatinhamanhosa/
 next_tab_title: Gatinha Manhosa
 next_tab_artist: Erasmo Carlos

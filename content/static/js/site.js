@@ -47,7 +47,10 @@
     C: 0, "C#": 1, Db: 1, D: 2, "D#": 3, Eb: 3, E: 4, F: 5,
     "F#": 6, Gb: 6, G: 7, "G#": 8, Ab: 8, A: 9, "A#": 10, Bb: 10, B: 11
   };
-  const flatKeyPitches = new Set([1, 3, 5, 8, 10]);
+  const flatKeyPitches = {
+    major: new Set([1, 3, 5, 8, 10]),
+    minor: new Set([0, 2, 3, 5, 7, 8, 10])
+  };
   const scaleIntervals = {
     major: [0, 2, 4, 5, 7, 9, 11],
     minor: [0, 2, 3, 5, 7, 8, 10]
@@ -73,11 +76,21 @@
   const analysisSummary = document.querySelector("[data-harmonic-summary]");
   const scaleNotesContainer = document.querySelector("[data-scale-notes]");
   const harmonicTableBody = document.querySelector("[data-harmonic-table]");
+  const chordDiagramsContainer = document.querySelector("[data-chord-diagrams]");
+  const directKeyLabel = document.querySelector("[data-direct-key]");
+  const keySignature = document.querySelector("[data-key-signature]");
+  const keySignatureAccidentals = document.querySelector("[data-key-signature-accidentals]");
+  const guitarTuning = [4, 9, 2, 7, 11, 4];
+  const guitarStringNames = ["E grave", "A", "D", "G", "B", "E agudo"];
 
   const declaredKey = tabPage?.dataset.harmonicKey || originalChords[0]?.match(baseChordRegex)?.[1] || "C";
   let analysisRoot = notePitch[declaredKey] ?? 0;
   let analysisMode = tabPage?.dataset.harmonicMode === "minor" ? "minor" : "major";
-  let preferFlats = declaredKey.includes("b") || flatKeyPitches.has(analysisRoot);
+  function shouldPreferFlats(pitch, mode) {
+    return flatKeyPitches[mode].has((pitch + 12) % 12);
+  }
+  let preferFlats = declaredKey.includes("b") ||
+    (!declaredKey.includes("#") && shouldPreferFlats(analysisRoot, analysisMode));
 
   function pitchName(pitch) {
     const names = preferFlats ? flatNotes : sharpNotes;
@@ -116,8 +129,44 @@
   }
 
   function updateToneLabel() {
+    const directKey = pitchName(analysisRoot) + (analysisMode === "minor" ? "m" : "");
     if (keyLabel) {
-      keyLabel.textContent = pitchName(analysisRoot);
+      keyLabel.textContent = directKey;
+    }
+    if (directKeyLabel) directKeyLabel.textContent = directKey;
+  }
+
+  function keySignatureCount() {
+    const keyName = pitchName(analysisRoot);
+    const signatures = analysisMode === "minor"
+      ? { A: 0, E: 1, B: 2, "F#": 3, "C#": 4, "G#": 5, "D#": 6, "A#": 7,
+        D: -1, G: -2, C: -3, F: -4, Bb: -5, Eb: -6, Ab: -7 }
+      : { C: 0, G: 1, D: 2, A: 3, E: 4, B: 5, "F#": 6, "C#": 7,
+        F: -1, Bb: -2, Eb: -3, Ab: -4, Db: -5, Gb: -6, Cb: -7 };
+    return signatures[keyName] ?? 0;
+  }
+
+  function renderKeySignature() {
+    const directKey = pitchName(analysisRoot) + (analysisMode === "minor" ? "m" : "");
+    const count = keySignatureCount();
+    const symbol = count >= 0 ? "♯" : "♭";
+    const positions = count >= 0
+      ? [16, 34, 10, 28, 46, 22, 40]
+      : [40, 22, 46, 28, 52, 34, 58];
+    if (keySignatureAccidentals) {
+      keySignatureAccidentals.innerHTML = positions.slice(0, Math.abs(count)).map(function (top, index) {
+        return '<span class="key-signature-accidental" style="--accidental-index:' + index +
+          ";--accidental-top:" + top + 'px">' + symbol + "</span>";
+      }).join("");
+    }
+    if (keySignature) {
+      const accidentalDescription = count === 0
+        ? "sem acidentes"
+        : Math.abs(count) + (count > 0 ? " sustenido" : " bemol") + (Math.abs(count) > 1 ? "s" : "");
+      keySignature.setAttribute(
+        "aria-label",
+        "Tom " + directKey + " em clave de sol, " + accidentalDescription
+      );
     }
   }
 
@@ -187,6 +236,170 @@
       intervals.push((notePitch[slashMatch[1]] - root + 12) % 12);
     }
     return Array.from(new Set(intervals.map((interval) => (root + interval) % 12)));
+  }
+
+  function chordBassPitch(chordText) {
+    const slashBass = chordText.match(/\/([A-G](?:#|b)?)(?:$|(?=\/))/);
+    if (slashBass && notePitch[slashBass[1]] !== undefined) {
+      return notePitch[slashBass[1]];
+    }
+    const root = chordText.match(baseChordRegex);
+    return root ? notePitch[root[1]] : null;
+  }
+
+  function evaluateGuitarVoicing(frets, targetPitches, rootPitch, bassPitch) {
+    const played = frets
+      .map(function (fret, stringIndex) {
+        return fret < 0 ? null : {
+          fret: fret,
+          stringIndex: stringIndex,
+          pitch: (guitarTuning[stringIndex] + fret) % 12
+        };
+      })
+      .filter(Boolean);
+    if (played.length < 3) {
+      return null;
+    }
+
+    const fretted = played.filter(function (item) { return item.fret > 0; });
+    const positiveFrets = fretted.map(function (item) { return item.fret; });
+    const minFret = positiveFrets.length ? Math.min.apply(null, positiveFrets) : 0;
+    const maxFret = positiveFrets.length ? Math.max.apply(null, positiveFrets) : 0;
+    if (maxFret - minFret > 3) {
+      return null;
+    }
+    if (played.some(function (item) { return item.fret === 0; }) && maxFret > 4) {
+      return null;
+    }
+
+    const covered = new Set(played.map(function (item) { return item.pitch; }));
+    const firstPlayed = played[0];
+    const firstString = firstPlayed.stringIndex;
+    const lastString = played[played.length - 1].stringIndex;
+    const interiorMutes = frets.slice(firstString, lastString + 1).filter(function (fret) {
+      return fret < 0;
+    }).length;
+    let score = covered.size * 26 + played.length * 4;
+    score -= (targetPitches.length - covered.size) * 18;
+    score += covered.has(rootPitch) ? 14 : -20;
+    score += firstPlayed.pitch === bassPitch ? 38 : -14;
+    score -= frets.filter(function (fret) { return fret < 0; }).length * 2;
+    score -= interiorMutes * 9;
+    score -= minFret * 0.7;
+    score -= positiveFrets.reduce(function (total, fret) { return total + fret; }, 0) * 0.08;
+    if (covered.size === targetPitches.length) score += 24;
+    if (played.some(function (item) { return item.fret === 0; })) score += 5;
+    return score;
+  }
+
+  function generateGuitarVoicing(chordText) {
+    const targetPitches = chordPitchClasses(chordText);
+    const rootMatch = chordText.match(baseChordRegex);
+    if (!targetPitches.length || !rootMatch) {
+      return [-1, -1, -1, -1, -1, -1];
+    }
+    const targetSet = new Set(targetPitches);
+    const rootPitch = notePitch[rootMatch[1]];
+    const bassPitch = chordBassPitch(chordText) ?? rootPitch;
+    let best = null;
+    const seen = new Set();
+
+    for (let baseFret = 1; baseFret <= 12; baseFret += 1) {
+      const optionsByString = guitarTuning.map(function (openPitch) {
+        const options = [-1];
+        if (targetSet.has(openPitch)) options.push(0);
+        for (let fret = baseFret; fret < baseFret + 4; fret += 1) {
+          if (targetSet.has((openPitch + fret) % 12)) options.push(fret);
+        }
+        return Array.from(new Set(options));
+      });
+      const frets = new Array(6).fill(-1);
+
+      function searchString(stringIndex) {
+        if (stringIndex === 6) {
+          const key = frets.join(",");
+          if (seen.has(key)) return;
+          seen.add(key);
+          const score = evaluateGuitarVoicing(frets, targetPitches, rootPitch, bassPitch);
+          if (score !== null && (!best || score > best.score)) {
+            best = { score: score, frets: frets.slice() };
+          }
+          return;
+        }
+        optionsByString[stringIndex].forEach(function (fret) {
+          frets[stringIndex] = fret;
+          searchString(stringIndex + 1);
+        });
+      }
+
+      searchString(0);
+    }
+    return best ? best.frets : [-1, -1, -1, -1, -1, -1];
+  }
+
+  function escapeMarkup(value) {
+    return String(value)
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/\"/g, "&quot;");
+  }
+
+  function guitarDiagramMarkup(chordText) {
+    const frets = generateGuitarVoicing(chordText);
+    const positiveFrets = frets.filter(function (fret) { return fret > 0; });
+    const minFret = positiveFrets.length ? Math.min.apply(null, positiveFrets) : 1;
+    const hasOpenString = frets.some(function (fret) { return fret === 0; });
+    const baseFret = hasOpenString || minFret <= 1 ? 1 : minFret;
+    const colorClass = isChordDiatonic(chordText) ? "is-diatonic" : "is-outside";
+    const escapedChord = escapeMarkup(chordText);
+    const openMarkers = frets.map(function (fret) {
+      return '<span aria-hidden="true">' + (fret < 0 ? "×" : fret === 0 ? "○" : "") + "</span>";
+    }).join("");
+    const strings = guitarTuning.map(function (_, index) {
+      return '<i class="guitar-string" style="--string-index:' + index + '" aria-hidden="true"></i>';
+    }).join("");
+    const fretLines = [0, 1, 2, 3, 4].map(function (index) {
+      return '<i class="guitar-fret' + (index === 0 ? " is-nut" : "") +
+        '" style="--fret-index:' + index + '" aria-hidden="true"></i>';
+    }).join("");
+    const dots = frets.map(function (fret, stringIndex) {
+      if (fret <= 0) return "";
+      const relativeFret = fret - baseFret + 1;
+      return '<i class="guitar-dot" style="--string-index:' + stringIndex +
+        ";--fret-index:" + relativeFret + '" aria-hidden="true"></i>';
+    }).join("");
+    const positionLabel = baseFret > 1
+      ? '<span class="guitar-position">' + baseFret + "ª</span>"
+      : "";
+    const description = frets.map(function (fret, index) {
+      const state = fret < 0 ? "não tocar" : fret === 0 ? "solta" : "casa " + fret;
+      return guitarStringNames[index] + ": " + state;
+    }).join("; ");
+
+    return '<figure class="guitar-chord-card" data-chord-name="' + escapedChord +
+      '" data-frets="' + frets.join(",") + '">' +
+      '<figcaption><span class="diagram-chord-name ' + colorClass + '">' + escapedChord + "</span>" +
+      '<span class="diagram-degree">' + escapeMarkup(chordDegree(chordText)) + "</span></figcaption>" +
+      '<div class="guitar-diagram" role="img" aria-label="' + escapedChord + ". " + escapeMarkup(description) + '">' +
+      '<div class="guitar-open-markers">' + openMarkers + "</div>" +
+      '<div class="guitar-neck' + (baseFret === 1 ? " is-first-position" : "") + '">' +
+      positionLabel + strings + fretLines + dots +
+      "</div></div></figure>";
+  }
+
+  function renderChordDiagrams() {
+    if (!chordDiagramsContainer) return;
+    const uniqueChords = [];
+    const seen = new Set();
+    chords.forEach(function (chord) {
+      const chordText = chord.textContent.trim();
+      if (chordText && !seen.has(chordText)) {
+        seen.add(chordText);
+        uniqueChords.push(chordText);
+      }
+    });
+    chordDiagramsContainer.innerHTML = uniqueChords.map(guitarDiagramMarkup).join("");
   }
 
   function currentScale() {
@@ -358,7 +571,11 @@
     if (analysisKeySelect) analysisKeySelect.value = String(analysisRoot);
     if (analysisModeSelect) analysisModeSelect.value = analysisMode;
     updateToneLabel();
+    renderKeySignature();
     classifyChords();
+    if (tabPage?.classList.contains("is-analysis-visible")) {
+      renderChordDiagrams();
+    }
     scheduleDegreeSpacing();
   }
 
@@ -375,13 +592,14 @@
   analysisKeySelect?.addEventListener("change", function () {
     analysisRoot = Number(analysisKeySelect.value);
     toneOffset = analysisRoot - (notePitch[declaredKey] ?? 0);
-    preferFlats = flatKeyPitches.has(analysisRoot);
+    preferFlats = shouldPreferFlats(analysisRoot, analysisMode);
     updateChords();
     renderAnalysis();
   });
 
   analysisModeSelect?.addEventListener("change", function () {
     analysisMode = analysisModeSelect.value === "minor" ? "minor" : "major";
+    preferFlats = shouldPreferFlats(analysisRoot, analysisMode);
     renderAnalysis();
   });
 
@@ -389,7 +607,7 @@
     button.addEventListener("click", function () {
       toneOffset += Number(button.dataset.toneStep);
       analysisRoot = (analysisRoot + Number(button.dataset.toneStep) + 12) % 12;
-      preferFlats = flatKeyPitches.has(analysisRoot);
+      preferFlats = shouldPreferFlats(analysisRoot, analysisMode);
       updateChords();
       updateToneLabel();
       renderAnalysis();

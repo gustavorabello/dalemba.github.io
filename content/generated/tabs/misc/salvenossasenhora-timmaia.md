@@ -5,9 +5,9 @@ Save_As: musicas/misc/salvenossasenhora-timmaia/index.html
 page_type: tab
 artist: Tim Maia
 artist_url: https://www.cifraclub.com.br/tim-maia/
-harmonic_key: A
+harmonic_key: E
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Salve Nossa Senhora, canção de Tim Maia.
 listing_index: 198

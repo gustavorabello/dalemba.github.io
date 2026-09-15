@@ -7,10 +7,10 @@ artist: Toquinho & Vinicius
 artist_url: https://www.cifraclub.com.br/toquinho-vinicius/
 harmonic_key: B
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Água de Beber, canção de Toquinho & Vinicius.
-listing_index: 303
+listing_index: 304
 next_tab_url: /musicas/trionordestino/homemcomh/
 next_tab_title: Homem com H
 next_tab_artist: Trio Nordestino

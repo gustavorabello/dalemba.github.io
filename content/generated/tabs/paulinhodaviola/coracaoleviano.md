@@ -7,10 +7,10 @@ artist: Paulinho da Viola
 artist_url: https://www.cifraclub.com.br/paulinho-da-viola/
 harmonic_key: F
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Coração Leviano, canção de Paulinho da Viola.
-listing_index: 210
+listing_index: 211
 next_tab_url: /musicas/paulinhodaviola/dancadasolidao/
 next_tab_title: Danca da Solidao
 next_tab_artist: Paulinho da Viola

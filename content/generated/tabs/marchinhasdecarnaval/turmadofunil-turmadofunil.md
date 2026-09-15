@@ -7,7 +7,7 @@ artist: Tom Jobim
 artist_url: https://www.cifraclub.com.br/tom-jobim/
 harmonic_key: D
 harmonic_mode: minor
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Turma do Funil, canção de Tom Jobim.
 listing_index: 146

@@ -5,12 +5,12 @@ Save_As: musicas/vanessadamata/aiaiai/index.html
 page_type: tab
 artist: Vanessa da Mata
 artist_url: https://www.cifraclub.com.br/vanessa-da-mata/
-harmonic_key: C
-harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key: G
+harmonic_mode: minor
+harmonic_key_source: declared
 section_label: Músicas
 summary: Ai, Ai, Ai..., canção de Vanessa da Mata.
-listing_index: 307
+listing_index: 308
 next_tab_url: /musicas/vanessadamata/boasorte/
 next_tab_title: Boa Sorte/Good Luck
 next_tab_artist: Vanessa da Mata

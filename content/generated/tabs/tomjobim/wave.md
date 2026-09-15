@@ -5,12 +5,12 @@ Save_As: musicas/tomjobim/wave/index.html
 page_type: tab
 artist: Tom Jobim
 artist_url: https://www.cifraclub.com.br/tom-jobim/
-harmonic_key: G
+harmonic_key: D
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Wave, canção de Tom Jobim.
-listing_index: 278
+listing_index: 279
 next_tab_url: /musicas/toquinhoevinicius/adeus/
 next_tab_title: Adeus
 next_tab_artist: Toquinho & Vinicius

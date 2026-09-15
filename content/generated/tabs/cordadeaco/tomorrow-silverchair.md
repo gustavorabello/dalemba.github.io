@@ -5,7 +5,7 @@ Save_As: musicas/cordadeaco/tomorrow-silverchair/index.html
 page_type: tab
 artist: Silverchair
 artist_url: https://www.cifraclub.com.br/silverchair/
-harmonic_key: G
+harmonic_key: A
 harmonic_mode: major
 harmonic_key_source: declared
 section_label: Músicas

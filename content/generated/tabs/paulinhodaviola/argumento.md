@@ -7,10 +7,10 @@ artist: Paulinho da Viola
 artist_url: https://www.cifraclub.com.br/paulinho-da-viola/
 harmonic_key: D
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Argumento, canção de Paulinho da Viola.
-listing_index: 209
+listing_index: 210
 next_tab_url: /musicas/paulinhodaviola/coracaoleviano/
 next_tab_title: Coração Leviano
 next_tab_artist: Paulinho da Viola

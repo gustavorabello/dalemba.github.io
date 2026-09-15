@@ -7,10 +7,10 @@ artist: Pink Floyd
 artist_url: https://www.cifraclub.com.br/pink-floyd/
 harmonic_key: G
 harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key_source: declared
 section_label: Músicas
 summary: Wish You Here, canção de Pink Floyd.
-listing_index: 206
+listing_index: 207
 next_tab_url: /musicas/nandoreis/muitoestranho/
 next_tab_title: Muito Estranho
 next_tab_artist: Dalto - versão Nando Reis

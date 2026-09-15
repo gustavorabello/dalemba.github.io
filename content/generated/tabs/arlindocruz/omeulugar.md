@@ -5,9 +5,9 @@ Save_As: musicas/arlindocruz/omeulugar/index.html
 page_type: tab
 artist: Arlindo Cruz
 artist_url: https://www.cifraclub.com.br/arlindo-cruz/
-harmonic_key: C
-harmonic_mode: major
-harmonic_key_source: inferred
+harmonic_key: A
+harmonic_mode: minor
+harmonic_key_source: declared
 section_label: Músicas
 summary: O Meu Lugar, canção de Arlindo Cruz.
 listing_index: 7
